@@ -12,7 +12,7 @@ Elsewhere two names cover the same ground. [Cynefin's](frameworks/1999-cynefin.m
 
 ## What this project does
 
-This project pulls those attempts together into one consistent vocabulary. The [frameworks folder](frameworks/README.md) collects more than sixty of them, from Frank Knight's split of risk and uncertainty in 1921 to John Kay and Mervyn King's radical uncertainty in 2020. The [axes](axis.md) pull out the traits underneath. Each axis is a scale with two ends, such as whether you can undo a mistake or whether feedback comes quickly and honestly. Each one lists the frameworks it came from and how it links to the other axes.
+This project pulls those attempts together into one consistent vocabulary. The [frameworks folder](frameworks/README.md) collects more than eighty of them, from Frank Knight's split of risk and uncertainty in 1921 to John Kay and Mervyn King's radical uncertainty in 2020. The [axes](axis.md) pull out the traits underneath. Each axis is a scale with two ends, such as whether you can undo a mistake or whether feedback comes quickly and honestly. Each one lists the frameworks it came from and how it links to the other axes.
 
 The starting point was Stuart Russell and Peter Norvig's list of task environment properties in [*Artificial Intelligence: A Modern Approach*](https://aima.cs.berkeley.edu/). Every trait on it is plain and testable, which is why it works so well. But it was built to design agents, not to judge when to trust one, so the axes add the traits the other frameworks keep coming back to.
 
@@ -30,7 +30,7 @@ That is a single, crude axis, and it already predicts how well a model will do. 
 
 This is an open source project and we'd love your help. It is not a finished analysis and never will be. People will keep finding new axes, and there are surely frameworks we have missed. If you spot a gap, a wrong link or a better example, please open a pull request.
 
-A new framework goes in `frameworks/` as a file named by year and title, like `1973-tame-vs-wicked-problems.md`, with the same front matter as the others. Add a row for it to the [frameworks list](frameworks/README.md). A new axis goes in [axis.md](axis.md), with its sources and how it links to the existing axes.
+A new framework goes in `frameworks/` as a file named by year and title, like `1973-tame-vs-wicked-problems.md`, with the same front matter as the others. Add a row for it to the [frameworks list](frameworks/README.md). A new axis goes in [axis.md](axis.md) as its own section with the same fields as the others. Add a row for it to the list at the top, and link it to the existing axes it moves with.
 
 ## Why does treating one problem as another matter?
 
@@ -73,5 +73,7 @@ Ever since Adam Smith described his pin factory in 1776, specialisation has slow
 It's easy to forgive any one expert for leaning on their training. The problem is we've built around that expertise, rewarding that habit because we picture expertise as a single ladder you climb.
 
 There is a proof that no single hammer can win. In 1997 David Wolpert and William Macready showed that, averaged over every possible problem, all search methods do exactly as well as each other. This is called the [no free lunch](frameworks/1997-no-free-lunch.md) theorem. A method only beats the rest by fitting the shape of the problem in front of it. So the first job is to work out what shape the problem has, and only then pick the tool.
+
+The same point turns up in control theory and in the study of organisations. In 1956 Ross Ashby showed that a controller needs at least as many responses as there are disturbances to handle. He called this the [law of requisite variety](frameworks/1956-law-of-requisite-variety.md), and it means one hammer can only ever cover a narrow range of problems. In 1972 Michael Cohen, James March and Johan Olsen found that organisations often work backwards. Their [garbage can model](frameworks/1972-garbage-can-model.md) shows solutions going looking for problems they can be the answer to, which is the law of the instrument at the scale of a whole firm.
 
 AI models seem more subtle and nuanced in their thinking, but they are still expert systems. So a lot of what we know about human experts carries over, and we can use it to work out when to trust these systems at scale.

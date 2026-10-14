@@ -10,10 +10,15 @@ Each framework has its own file with a fuller write up and examples. Where a dat
 | [Multi-armed bandit](1933-multi-armed-bandit.md) | 1933 (1952) | William R. Thompson, Herbert Robbins |
 | [Keynesian beauty contest](1936-keynesian-beauty-contest.md) | 1936 | John Maynard Keynes |
 | [Zero-sum vs non-zero-sum games](1944-zero-sum-vs-non-zero-sum-games.md) | 1944 | John von Neumann, Oskar Morgenstern |
+| [Use of knowledge in society](1945-use-of-knowledge-in-society.md) | 1945 | Friedrich Hayek |
 | [Simplicity, disorganised complexity and organised complexity](1948-simplicity-disorganised-and-organised-complexity.md) | 1948 | Warren Weaver |
 | [Self-fulfilling prophecy](1948-self-fulfilling-prophecy.md) | 1948 | Robert K. Merton |
 | [Clinical vs statistical prediction](1954-clinical-vs-statistical-prediction.md) | 1954 | Paul Meehl |
+| [Signal detection theory](1954-signal-detection-theory.md) | 1954 | Wilson Tanner, John Swets |
+| [Small and large worlds](1954-small-and-large-worlds.md) | 1954 | Leonard Savage |
 | [Johari window](1955-johari-window.md) | 1955 | Joseph Luft, Harrington Ingham |
+| [Convergent vs divergent thinking](1956-convergent-vs-divergent-thinking.md) | 1956 (1967) | J. P. Guilford |
+| [Law of requisite variety](1956-law-of-requisite-variety.md) | 1956 | W. Ross Ashby |
 | [Satisficing](1956-satisficing.md) | 1956 | Herbert Simon |
 | [Decision strategies matrix](1959-decision-strategies-matrix.md) | 1959 | James D. Thompson, Arthur Tuden |
 | [Programmed vs non-programmed decisions](1960-programmed-vs-non-programmed-decisions.md) | 1960 | Herbert Simon |
@@ -25,10 +30,12 @@ Each framework has its own file with a fuller write up and examples. Where a dat
 | [Routine vs non-routine technology](1967-routine-vs-non-routine-technology.md) | 1967 | Charles Perrow |
 | [Convex vs non-convex optimisation](1970-convex-vs-non-convex-optimisation.md) | 1970 (2004) | R. Tyrrell Rockafellar, then Stephen Boyd and Lieven Vandenberghe |
 | [NP problems](1971-np-problems.md) | 1971 | Stephen Cook, Richard Karp, Leonid Levin |
+| [Garbage can model](1972-garbage-can-model.md) | 1972 | Michael Cohen, James March, Johan Olsen |
 | [Flat maximum](1973-flat-maximum.md) | 1973 (1982) | Detlof von Winterfeldt, Ward Edwards |
 | [Tame vs wicked problems](1973-tame-vs-wicked-problems.md) | 1973 | Horst Rittel, Melvin Webber |
 | [Messes](1974-messes.md) | 1974 | Russell Ackoff |
 | [Goodhart's law](1975-goodharts-law.md) | 1975 | Charles Goodhart |
+| [Agency costs](1976-agency-costs.md) | 1976 | Michael Jensen, William Meckling |
 | [Campbell's law](1976-campbells-law.md) | 1976 | Donald T. Campbell |
 | [Decisions with multiple objectives](1976-decisions-with-multiple-objectives.md) | 1976 | Ralph Keeney, Howard Raiffa |
 | [Loosely coupled systems](1976-loosely-coupled-systems.md) | 1976 | Karl Weick |
@@ -44,10 +51,13 @@ Each framework has its own file with a fuller write up and examples. Where a dat
 | [VUCA](1987-vuca.md) | 1987 | US Army War College, from the work of Warren Bennis and Burt Nanus |
 | [Reflexivity](1987-reflexivity.md) | 1987 | George Soros |
 | [Rugged fitness landscapes](1987-rugged-fitness-landscapes.md) | 1987 (1993) | Stuart Kauffman, Simon Levin |
+| [Moravec's paradox](1988-moravecs-paradox.md) | 1988 | Hans Moravec, with Marvin Minsky and Rodney Brooks |
 | [Complex problem solving](1989-complex-problem-solving.md) | 1989 | Dietrich Dörner |
 | [Detail vs dynamic complexity](1990-detail-vs-dynamic-complexity.md) | 1990 | Peter Senge, from the work of Jay Forrester |
+| [Individual vs group decisions](1990-individual-vs-group-decisions.md) | 1990 | Donald Redelmeier, Amos Tversky |
 | [Exploration vs exploitation](1991-exploration-vs-exploitation.md) | 1991 | James G. March |
 | [Task characteristics of expertise](1992-task-characteristics-of-expertise.md) | 1992 | James Shanteau |
+| [Value-focused thinking](1992-value-focused-thinking.md) | 1992 | Ralph Keeney |
 | [Post-normal science](1993-post-normal-science.md) | 1993 | Silvio Funtowicz, Jerome Ravetz |
 | [Inside vs outside view](1993-inside-vs-outside-view.md) | 1993 | Daniel Kahneman, Dan Lovallo |
 | [Technical vs adaptive challenges](1994-technical-vs-adaptive-challenges.md) | 1994 | Ronald Heifetz |
@@ -55,6 +65,7 @@ Each framework has its own file with a fuller write up and examples. Where a dat
 | [Stacey matrix](1996-stacey-matrix.md) | 1996 | Ralph Stacey |
 | [Four levels of uncertainty](1997-four-levels-of-uncertainty.md) | 1997 | Hugh Courtney, Jane Kirkland, Patrick Viguerie |
 | [No free lunch](1997-no-free-lunch.md) | 1997 | David Wolpert, William Macready |
+| [Taboo trade-offs](1997-taboo-trade-offs.md) | 1997 (2000) | Alan Fiske, Philip Tetlock |
 | [Accountability](1999-accountability.md) | 1999 | Jennifer Lerner, Philip Tetlock |
 | [Cynefin](1999-cynefin.md) | 1999 (2003) | Dave Snowden, Cynthia Kurtz |
 | [Ecological rationality](1999-ecological-rationality.md) | 1999 | Gerd Gigerenzer, Peter Todd, ABC Research Group |
