@@ -3,6 +3,7 @@ type: Axis
 title: Complete vs incomplete goal
 description: "Complete: the thing you measure captures everything you want (e.g. sorting letters by postcode). Incomplete: some goals are left out because they are hard to write down (e.g. fairness in hiring)."
 group: decision
+subgroup: goal
 easy_end: Complete
 hard_end: Incomplete
 sources:

@@ -3,6 +3,7 @@ type: Axis
 title: Stationary vs drifting
 description: "Stationary: the patterns in past data still hold today (e.g. gravity). Drifting: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang)."
 group: world
+subgroup: change
 easy_end: Stationary
 hard_end: Drifting
 sources:

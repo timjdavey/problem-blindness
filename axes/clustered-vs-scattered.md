@@ -3,6 +3,7 @@ type: Axis
 title: Clustered vs scattered
 description: "Clustered: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars). Scattered: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks)."
 group: world
+subgroup: randomness
 easy_end: Clustered
 hard_end: Scattered
 sources:

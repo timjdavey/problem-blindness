@@ -3,6 +3,7 @@ type: Axis
 title: Tractable vs intractable search
 description: "Tractable: you know every option and there are few enough to check them all (e.g. noughts and crosses). Intractable: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions)."
 group: world
+subgroup: structure
 easy_end: Tractable
 hard_end: Intractable
 sources:

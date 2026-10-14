@@ -3,6 +3,7 @@ type: Axis
 title: Convergent vs divergent
 description: "Convergent: there is one right answer that everyone would agree on (e.g. a sum). Divergent: there are many good answers that differ in kind (e.g. a wedding speech)."
 group: decision
+subgroup: goal
 easy_end: Convergent
 hard_end: Divergent
 sources:

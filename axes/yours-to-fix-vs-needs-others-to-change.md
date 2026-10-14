@@ -3,6 +3,7 @@ type: Axis
 title: Yours to fix vs needs others to change
 description: "Yours to fix: you hold the levers yourself (e.g. a surgeon unblocking an artery). Needs others: the fix depends on other people changing what they do (e.g. a patient giving up smoking)."
 group: decision
+subgroup: options
 easy_end: Yours to fix
 hard_end: Needs others
 sources:

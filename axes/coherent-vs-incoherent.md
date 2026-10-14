@@ -3,6 +3,7 @@ type: Axis
 title: Coherent vs incoherent
 description: "Coherent: the average of all outcomes represents the typical outcome (e.g. the mean height of a population closely matches the median and mode). Incoherent: each instance of a system looks very different and never like the average (e.g. climate tipping points)."
 group: world
+subgroup: randomness
 easy_end: Coherent
 hard_end: Incoherent
 sources:

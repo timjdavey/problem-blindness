@@ -3,6 +3,7 @@ type: Axis
 title: Private vs accountable
 description: "Private: the choice is yours alone (e.g. picking a film). Accountable: you must explain and defend the choice to others (e.g. a bank refusing a loan)."
 group: decision
+subgroup: people
 easy_end: Private
 hard_end: Accountable
 sources:

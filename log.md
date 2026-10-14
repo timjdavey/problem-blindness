@@ -2,6 +2,7 @@
 
 ## 2026-10-14
 
+* **Update**: Split each of the three axis groups into smaller subgroups. The world now has Randomness, Change, Response and Structure. The knower has Uncertainty, Evidence and Know-how. The decision has Goal, Options, Stakes and People. Every axis has a `subgroup` field, and the [axes index](/axes/index.md) and [Reading the axes](/axes/reading-the-axes.md) list them.
 * **Creation**: Added the [Spread vs single bet](/axes/spread-vs-single-bet.md) axis, which asks whether you can split your stake across several options at once or must take one course of action. It differs from [Reversible vs irreversible](/axes/reversible-vs-irreversible.md), which spreads your tries across time rather than across options.
 * **Creation**: Added the [Portfolio selection](/frameworks/1952-portfolio-selection.md) framework, from Harry Markowitz's 1952 paper in the Journal of Finance.
 * **Update**: Added a barbell example to [Fragile, robust and antifragile](/frameworks/2012-fragile-robust-and-antifragile.md).

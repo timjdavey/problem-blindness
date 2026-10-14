@@ -3,6 +3,7 @@ type: Axis
 title: Single vs multiple objectives
 description: "Single: there is one thing to get right (e.g. the fastest route home). Multiple: several goals pull against each other, so a gain on one costs you on another (e.g. price against safety in a new car)."
 group: decision
+subgroup: goal
 easy_end: Single
 hard_end: Multiple
 sources:

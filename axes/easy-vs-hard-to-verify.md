@@ -3,6 +3,7 @@ type: Axis
 title: Easy vs hard to verify
 description: "Easy: you can check an answer quickly and cheaply (e.g. a solved sudoku). Hard: it might take years to know if an answer was right (e.g. a business strategy)."
 group: decision
+subgroup: goal
 easy_end: Easy
 hard_end: Hard
 sources:

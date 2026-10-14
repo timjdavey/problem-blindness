@@ -3,6 +3,7 @@ type: Axis
 title: Reducible vs irreducible uncertainty
 description: "Reducible: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test). Irreducible: no amount of fact finding would settle it (e.g. whether a rival cuts prices next year)."
 group: knower
+subgroup: uncertainty
 easy_end: Reducible
 hard_end: Irreducible
 sources:

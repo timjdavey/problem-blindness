@@ -3,6 +3,7 @@ type: Axis
 title: Plentiful vs scarce data
 description: "Plentiful: there are many past cases like this one to learn from (e.g. card fraud). Scarce: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident)."
 group: knower
+subgroup: evidence
 easy_end: Plentiful
 hard_end: Scarce
 sources:

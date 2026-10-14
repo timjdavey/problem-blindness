@@ -3,6 +3,7 @@ type: Axis
 title: Decomposable vs holistic
 description: "Decomposable: you can solve each part on its own and put them back together (e.g. a car engine). Holistic: each part only makes sense in light of the others (e.g. a company culture)."
 group: world
+subgroup: structure
 easy_end: Decomposable
 hard_end: Holistic
 sources:

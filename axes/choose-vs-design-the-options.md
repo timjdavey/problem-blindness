@@ -3,6 +3,7 @@ type: Axis
 title: Choose vs design the options
 description: "Choose: the options are handed to you to pick from (e.g. a mortgage from a bank's list). Design: you have to invent the options first (e.g. saving a dying high street)."
 group: decision
+subgroup: options
 easy_end: Choose
 hard_end: Design
 sources:

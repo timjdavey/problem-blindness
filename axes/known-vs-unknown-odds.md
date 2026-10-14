@@ -3,6 +3,7 @@ type: Axis
 title: Known vs unknown odds
 description: "Known: you can put a number you trust on each outcome (e.g. a dice roll). Unknown: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off)."
 group: knower
+subgroup: uncertainty
 easy_end: Known
 hard_end: Unknown
 sources:

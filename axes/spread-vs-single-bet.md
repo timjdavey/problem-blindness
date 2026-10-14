@@ -3,6 +3,7 @@ type: Axis
 title: Spread vs single bet
 description: "Spread: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares). Single bet: you can only take one course of action, so everything rides on it (e.g. which job offer to accept)."
 group: decision
+subgroup: stakes
 easy_end: Spread
 hard_end: Single bet
 sources:

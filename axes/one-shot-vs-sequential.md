@@ -3,6 +3,7 @@ type: Axis
 title: One-shot vs sequential
 description: "One-shot: it is a single choice (e.g. a paint colour). Sequential: each choice shapes the next, so it is hard to tell which one caused the result (e.g. treating a long illness)."
 group: decision
+subgroup: options
 easy_end: One-shot
 hard_end: Sequential
 sources:

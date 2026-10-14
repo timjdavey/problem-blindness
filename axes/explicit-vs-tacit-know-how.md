@@ -3,6 +3,7 @@ type: Axis
 title: Explicit vs tacit know-how
 description: "Explicit: the know-how can be written down as rules (e.g. a tax rule). Tacit: the know-how lives in experts' hands and gut feel, so it can only be learnt from examples (e.g. a nurse sensing a patient is about to crash)."
 group: knower
+subgroup: know-how
 easy_end: Explicit
 hard_end: Tacit
 sources:

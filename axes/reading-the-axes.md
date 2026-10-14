@@ -5,7 +5,7 @@ description: How the axes are grouped, what the correlation labels mean and what
 ---
 # Reading the axes
 
-Each axis is a scale with two ends, and any problem sits somewhere along it. They fall into three groups. The first is about the world you act on. The second is about what you can know about it. The third is about the decision itself, what it needs and what it costs to get wrong.
+Each axis is a scale with two ends, and any problem sits somewhere along it. They fall into three groups. The first is about the world you act on. The second is about what you can know about it. The third is about the decision itself, what it needs and what it costs to get wrong. Each group splits into a few smaller sets of axes that ask about the same thing.
 
 The Correlated with list under each axis names the other axes it tends to move with. On every axis the first end is the easy one and the second is the hard one. So "correlated" means a problem near the hard end of one axis tends to sit near the hard end of the other. A few entries say "opposite" when the hard end of one goes with the easy end of the other. "Tension" marks two hard ends that clash when they meet, and "independent" marks two axes that look linked but aren't.
 
@@ -16,8 +16,19 @@ Under each axis, the actions say what to do differently at each end, with the ea
 ## The three groups
 
 - [The world](index.md#the-world). These describe the system, whoever is looking at it.
+  - [Randomness](index.md#randomness): what the spread of outcomes looks like.
+  - [Change](index.md#change): how the result moves when the inputs or the times move.
+  - [Response](index.md#response): whether the world reacts to what you do.
+  - [Structure](index.md#structure): how the parts fit together.
 - [The knower](index.md#the-knower). These describe what you can find out. The same problem can sit at different points for different people.
+  - [Uncertainty](index.md#uncertainty): what kind of doubt you face.
+  - [Evidence](index.md#evidence): how you can learn what is going on.
+  - [Know-how](index.md#know-how): where the skill and the facts live.
 - [The decision](index.md#the-decision). These describe what you are trying to achieve and what happens if you get it wrong.
+  - [Goal](index.md#goal): what a good answer looks like and how you can tell.
+  - [Options](index.md#options): what you can do and when.
+  - [Stakes](index.md#stakes): what it costs to be wrong.
+  - [People](index.md#people): who decides, who judges and who pays.
 
 ## What changes at the hard end
 

@@ -3,6 +3,7 @@ type: Axis
 title: Transparent vs opaque causes
 description: "Transparent: you can follow how one thing leads to another and predict what a change will do (e.g. a lever). Opaque: you can see every part but can't follow the whole chain (e.g. a large codebase)."
 group: knower
+subgroup: evidence
 easy_end: Transparent
 hard_end: Opaque
 sources:

@@ -3,6 +3,7 @@ type: Axis
 title: Deterministic vs statistical
 description: "Deterministic: the same inputs always give exactly the same output (e.g. a sum). Statistical: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter)."
 group: world
+subgroup: randomness
 easy_end: Deterministic
 hard_end: Statistical
 sources:

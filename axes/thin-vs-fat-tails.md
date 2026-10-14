@@ -3,6 +3,7 @@ type: Axis
 title: Thin vs fat tails
 description: "Thin: results stay close to the average, so the average tells you a lot (e.g. people's heights). Fat: one extreme case can outweigh all the rest put together (e.g. floods or startup returns)."
 group: world
+subgroup: randomness
 easy_end: Thin
 hard_end: Fat
 sources:

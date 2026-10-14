@@ -3,6 +3,7 @@ type: Axis
 title: Kind vs wicked feedback
 description: "Kind: you find out soon and clearly whether you were right (e.g. a game of chess). Wicked: feedback is slow, noisy or missing, so experience can teach the wrong lesson (e.g. a fund manager's results)."
 group: knower
+subgroup: evidence
 easy_end: Kind
 hard_end: Wicked
 sources:

@@ -3,6 +3,7 @@ type: Axis
 title: Reversible vs irreversible
 description: "Reversible: if it goes wrong you can undo it cheaply and try again (e.g. a new recipe). Irreversible: once it is done you are stuck with it (e.g. selling the family home)."
 group: decision
+subgroup: stakes
 easy_end: Reversible
 hard_end: Irreversible
 sources:

@@ -3,6 +3,7 @@ type: Axis
 title: Well-posed vs ill-posed
 description: "Well-posed: the problem is clearly stated with a known goal and a clear end (e.g. a maths exam question). Ill-posed: working out what the problem is becomes part of the job (e.g. \"fix homelessness\")."
 group: decision
+subgroup: goal
 easy_end: Well-posed
 hard_end: Ill-posed
 sources:

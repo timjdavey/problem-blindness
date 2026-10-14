@@ -4,6 +4,8 @@
 
 # The world
 
+## Randomness
+
 * [Deterministic vs statistical](deterministic-vs-statistical.md)
   * **Deterministic**: the same inputs always give exactly the same output (e.g. a sum).
   * **Statistical**: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter).
@@ -16,6 +18,9 @@
 * [Thin vs fat tails](thin-vs-fat-tails.md)
   * **Thin**: results stay close to the average, so the average tells you a lot (e.g. people's heights).
   * **Fat**: one extreme case can outweigh all the rest put together (e.g. floods or startup returns).
+
+## Change
+
 * [Smooth vs rugged](smooth-vs-rugged.md)
   * **Smooth**: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup).
   * **Rugged**: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code).
@@ -25,12 +30,18 @@
 * [Stationary vs drifting](stationary-vs-drifting.md)
   * **Stationary**: the patterns in past data still hold today (e.g. gravity).
   * **Drifting**: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang).
+
+## Response
+
 * [Inert vs reflexive](inert-vs-reflexive.md)
   * **Inert**: the system behaves the same whether or not you measure or forecast it (e.g. a rock).
   * **Reflexive**: your forecast changes what people do and so changes the outcome (e.g. a forecast that a bank will fail sets off a run on it).
 * [Neutral vs adversarial](neutral-vs-adversarial.md)
   * **Neutral**: the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella).
   * **Adversarial**: someone studies your methods and changes their play to beat them (e.g. fraudsters).
+
+## Structure
+
 * [Decomposable vs holistic](decomposable-vs-holistic.md)
   * **Decomposable**: you can solve each part on its own and put them back together (e.g. a car engine).
   * **Holistic**: each part only makes sense in light of the others (e.g. a company culture).
@@ -43,6 +54,8 @@
 
 # The knower
 
+## Uncertainty
+
 * [Known vs unknown odds](known-vs-unknown-odds.md)
   * **Known**: you can put a number you trust on each outcome (e.g. a dice roll).
   * **Unknown**: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off).
@@ -52,6 +65,9 @@
 * [Small vs large world](small-vs-large-world.md)
   * **Small**: a fixed procedure generates every way things might turn out, so you can compute or sample the outcomes before you choose, even when there are too many to list (e.g. a lottery ticket).
   * **Large**: no procedure generates the outcomes, so you can't sample them and the result could be something nobody thought to list (e.g. a new product hit by a change in the law).
+
+## Evidence
+
 * [Transparent vs opaque causes](transparent-vs-opaque-causes.md)
   * **Transparent**: you can follow how one thing leads to another and predict what a change will do (e.g. a lever).
   * **Opaque**: you can see every part but can't follow the whole chain (e.g. a large codebase).
@@ -64,6 +80,9 @@
 * [Plentiful vs scarce data](plentiful-vs-scarce-data.md)
   * **Plentiful**: there are many past cases like this one to learn from (e.g. card fraud).
   * **Scarce**: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident).
+
+## Know-how
+
 * [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md)
   * **Explicit**: the know-how can be written down as rules (e.g. a tax rule).
   * **Tacit**: the know-how lives in experts' hands and gut feel, so it can only be learnt from examples (e.g. a nurse sensing a patient is about to crash).
@@ -76,24 +95,17 @@
 
 # The decision
 
+## Goal
+
 * [Well-posed vs ill-posed](well-posed-vs-ill-posed.md)
   * **Well-posed**: the problem is clearly stated with a known goal and a clear end (e.g. a maths exam question).
   * **Ill-posed**: working out what the problem is becomes part of the job (e.g. "fix homelessness").
-* [Choose vs design the options](choose-vs-design-the-options.md)
-  * **Choose**: the options are handed to you to pick from (e.g. a mortgage from a bank's list).
-  * **Design**: you have to invent the options first (e.g. saving a dying high street).
 * [Convergent vs divergent](convergent-vs-divergent.md)
   * **Convergent**: there is one right answer that everyone would agree on (e.g. a sum).
   * **Divergent**: there are many good answers that differ in kind (e.g. a wedding speech).
 * [Single vs multiple objectives](single-vs-multiple-objectives.md)
   * **Single**: there is one thing to get right (e.g. the fastest route home).
   * **Multiple**: several goals pull against each other, so a gain on one costs you on another (e.g. price against safety in a new car).
-* [Shared vs contested values](shared-vs-contested-values.md)
-  * **Shared**: everyone affected agrees on what a good result looks like (e.g. a bridge should stay up).
-  * **Contested**: people want different things from the result (e.g. where to build the bridge).
-* [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md)
-  * **Yours to fix**: you hold the levers yourself (e.g. a surgeon unblocking an artery).
-  * **Needs others**: the fix depends on other people changing what they do (e.g. a patient giving up smoking).
 * [Satisficing vs optimising](satisficing-vs-optimising.md)
   * **Satisficing**: any answer that clears the bar will do (e.g. a lunch spot).
   * **Optimising**: each extra bit of quality still pays off, so you need the best you can find (e.g. the dose of a strong drug).
@@ -103,9 +115,24 @@
 * [Complete vs incomplete goal](complete-vs-incomplete-goal.md)
   * **Complete**: the thing you measure captures everything you want (e.g. sorting letters by postcode).
   * **Incomplete**: some goals are left out because they are hard to write down (e.g. fairness in hiring).
+
+## Options
+
+* [Choose vs design the options](choose-vs-design-the-options.md)
+  * **Choose**: the options are handed to you to pick from (e.g. a mortgage from a bank's list).
+  * **Design**: you have to invent the options first (e.g. saving a dying high street).
+* [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md)
+  * **Yours to fix**: you hold the levers yourself (e.g. a surgeon unblocking an artery).
+  * **Needs others**: the fix depends on other people changing what they do (e.g. a patient giving up smoking).
 * [One-shot vs sequential](one-shot-vs-sequential.md)
   * **One-shot**: it is a single choice (e.g. a paint colour).
   * **Sequential**: each choice shapes the next, so it is hard to tell which one caused the result (e.g. treating a long illness).
+* [Slack vs time pressure](slack-vs-time-pressure.md)
+  * **Slack**: you have time to gather facts and think before things change (e.g. a pension plan).
+  * **Time pressure**: you must act in seconds or minutes (e.g. a pilot with a failed engine).
+
+## Stakes
+
 * [Reversible vs irreversible](reversible-vs-irreversible.md)
   * **Reversible**: if it goes wrong you can undo it cheaply and try again (e.g. a new recipe).
   * **Irreversible**: once it is done you are stuck with it (e.g. selling the family home).
@@ -121,9 +148,12 @@
 * [Even vs lopsided errors](even-vs-lopsided-errors.md)
   * **Even**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
   * **Lopsided**: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire).
-* [Slack vs time pressure](slack-vs-time-pressure.md)
-  * **Slack**: you have time to gather facts and think before things change (e.g. a pension plan).
-  * **Time pressure**: you must act in seconds or minutes (e.g. a pilot with a failed engine).
+
+## People
+
+* [Shared vs contested values](shared-vs-contested-values.md)
+  * **Shared**: everyone affected agrees on what a good result looks like (e.g. a bridge should stay up).
+  * **Contested**: people want different things from the result (e.g. where to build the bridge).
 * [Private vs accountable](private-vs-accountable.md)
   * **Private**: the choice is yours alone (e.g. picking a film).
   * **Accountable**: you must explain and defend the choice to others (e.g. a bank refusing a loan).

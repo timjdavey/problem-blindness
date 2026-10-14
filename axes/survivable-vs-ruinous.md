@@ -3,6 +3,7 @@ type: Axis
 title: Survivable vs ruinous
 description: "Survivable: no single loss can knock you out, so good odds pay off over many tries (e.g. a casino taking many small bets). Ruinous: one bad outcome can take you out of the game for good (e.g. Russian roulette)."
 group: decision
+subgroup: stakes
 easy_end: Survivable
 hard_end: Ruinous
 sources:

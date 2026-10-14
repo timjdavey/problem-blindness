@@ -3,6 +3,7 @@ type: Axis
 title: Long vs short predictability horizon
 description: "Long: small errors in what you know today stay small, so you can forecast far ahead (e.g. the tides). Short: tiny errors grow fast, so a forecast soon becomes useless (e.g. the weather two weeks out)."
 group: world
+subgroup: change
 easy_end: Long
 hard_end: Short
 sources:

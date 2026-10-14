@@ -3,6 +3,7 @@ type: Axis
 title: Satisficing vs optimising
 description: "Satisficing: any answer that clears the bar will do (e.g. a lunch spot). Optimising: each extra bit of quality still pays off, so you need the best you can find (e.g. the dose of a strong drug)."
 group: decision
+subgroup: goal
 easy_end: Satisficing
 hard_end: Optimising
 sources:

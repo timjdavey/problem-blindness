@@ -3,6 +3,7 @@ type: Axis
 title: Slack vs time pressure
 description: "Slack: you have time to gather facts and think before things change (e.g. a pension plan). Time pressure: you must act in seconds or minutes (e.g. a pilot with a failed engine)."
 group: decision
+subgroup: options
 easy_end: Slack
 hard_end: Time pressure
 sources:

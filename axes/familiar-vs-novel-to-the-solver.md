@@ -3,6 +3,7 @@ type: Axis
 title: Familiar vs novel to the solver
 description: "Familiar: the solver has met this kind of problem many times before (e.g. a doctor seeing a common cold). Novel: the problem is new to the solver, even if others have solved it (e.g. a question outside a model's training data)."
 group: knower
+subgroup: know-how
 easy_end: Familiar
 hard_end: Novel
 sources:

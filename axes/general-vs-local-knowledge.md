@@ -3,6 +3,7 @@ type: Axis
 title: General vs local knowledge
 description: "General: the answer rests on facts anyone could look up (e.g. how insulin works). Local: the answer rests on facts that only people close to it know (e.g. whether this patient takes their insulin)."
 group: knower
+subgroup: know-how
 easy_end: General
 hard_end: Local
 sources:

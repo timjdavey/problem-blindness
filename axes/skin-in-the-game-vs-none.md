@@ -3,6 +3,7 @@ type: Axis
 title: Skin in the game vs none
 description: "Skin in the game: whoever makes the call bears the cost if it goes wrong (e.g. a shopkeeper pricing their own stock). None: the cost lands on someone else (e.g. a broker paid for each loan whether or not it is repaid)."
 group: decision
+subgroup: people
 easy_end: Skin in the game
 hard_end: None
 sources:

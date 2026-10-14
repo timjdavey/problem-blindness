@@ -3,6 +3,7 @@ type: Axis
 title: Even vs lopsided errors
 description: "Even: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella). Lopsided: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire)."
 group: decision
+subgroup: stakes
 easy_end: Even
 hard_end: Lopsided
 sources:

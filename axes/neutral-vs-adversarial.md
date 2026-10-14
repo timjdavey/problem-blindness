@@ -3,6 +3,7 @@ type: Axis
 title: Neutral vs adversarial
 description: "Neutral: the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella). Adversarial: someone studies your methods and changes their play to beat them (e.g. fraudsters)."
 group: world
+subgroup: response
 easy_end: Neutral
 hard_end: Adversarial
 sources:

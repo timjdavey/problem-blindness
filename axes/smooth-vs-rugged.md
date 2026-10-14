@@ -3,6 +3,7 @@ type: Axis
 title: Smooth vs rugged
 description: "Smooth: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup). Rugged: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code)."
 group: world
+subgroup: change
 easy_end: Smooth
 hard_end: Rugged
 sources:
