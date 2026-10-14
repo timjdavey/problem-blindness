@@ -17,7 +17,7 @@ Elsewhere two names cover the same ground. [Cynefin's](frameworks/1999-cynefin.m
 
 ## What this project does
 
-This project pulls those attempts together into one consistent vocabulary. The [frameworks folder](frameworks/index.md) collects more than eighty of them, from Frank Knight's split of risk and uncertainty in 1921 to John Kay and Mervyn King's radical uncertainty in 2020. The [axes](axes/index.md) pull out the traits underneath. Each axis is a scale with two ends, such as whether you can undo a mistake or whether feedback comes quickly and honestly. Each one lists the frameworks it came from and how it links to the other axes.
+This project pulls those attempts together into one consistent vocabulary. The [frameworks folder](frameworks/index.md) collects more than eighty of them, from Frank Knight's split of risk and uncertainty in 1921 to Tim Davey's measure of incoherence in 2024. The [axes](axes/index.md) pull out the traits underneath. Each axis is a scale with two ends, such as whether you can undo a mistake or whether feedback comes quickly and honestly. Each one lists the frameworks it came from and how it links to the other axes.
 
 The starting point was Stuart Russell and Peter Norvig's list of task environment properties in [*Artificial Intelligence: A Modern Approach*](https://aima.cs.berkeley.edu/). Every trait on it is plain and testable, which is why it works so well. But it was built to design agents, not to judge when to trust one, so the axes add the traits the other frameworks keep coming back to.
 

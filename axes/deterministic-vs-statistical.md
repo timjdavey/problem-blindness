@@ -38,6 +38,7 @@ Do the same inputs always give the same result, or only the same spread of resul
 - [Full vs partial observability](full-vs-partial-observability.md) (logic). Russell and Norvig note that a deterministic world you can only half see looks random to you ([Task environment properties](../frameworks/1995-task-environment-properties.md)).
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (logic). Pure chance is one kind of doubt that no new data can shrink.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (by definition). The tails axis only applies once a problem is statistical. A deterministic problem has no spread of results, so it has no tails to speak of.
+- [Coherent vs incoherent](coherent-vs-incoherent.md) (by definition). A deterministic problem gives the same result every run, so it is always coherent. But a statistical one can be coherent too, like a die, where every roll draws from the same spread.
 
 ## Citations
 

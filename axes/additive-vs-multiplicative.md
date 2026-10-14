@@ -32,6 +32,7 @@ Do gains and losses add up, so the average outcome is what you can expect, or do
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (by definition). Ruin is the extreme case, since a ruined player gets nothing over time whatever the crowd's average says. But the gap can open without ruin, and the coin game never wipes anyone out.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). Compounding piles the gains on a lucky few. In the coin game the crowd's average keeps rising only because a handful of players get vastly rich.
 - [One-shot vs sequential](one-shot-vs-sequential.md) (by definition). The gap only opens over repeated plays. For a single toss the crowd's average is a fair guide, and the harm builds up toss by toss.
+- [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). Compounding splits players' paths apart, so the crowd's average describes almost nobody. That is incoherence across players over time.
 
 ## Citations
 

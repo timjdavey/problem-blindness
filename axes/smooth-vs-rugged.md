@@ -35,6 +35,7 @@ Will small improvements keep carrying you to the best answer, or will they stall
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (study). Stepping downhill on rugged land stops at a false bottom ([Convex vs non-convex optimisation](../frameworks/1970-convex-vs-non-convex-optimisation.md)). Edward Weinberger proved in 1996 that finding the top of a general NK landscape is NP-complete.
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). Needing the best answer on rugged land is the worst case, because small steps stop on the nearest peak.
 - [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) (independent). They sound alike but ask different things. Rugged is about many peaks among the possible answers. The horizon is about small errors growing over time. A rugged design problem can give each design a fixed score that never drifts.
+- [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). Each search from a different start stalls on whichever peak is nearest, so the runs settle in different places.
 
 ## Citations
 

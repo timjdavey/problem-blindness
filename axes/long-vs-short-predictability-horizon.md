@@ -35,6 +35,7 @@ How far ahead can you forecast before tiny errors in what you know today grow to
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (logic). Past the horizon more data barely moves the forecast, so forecasters report a spread instead ([Sensitive dependence](../frameworks/1963-sensitive-dependence-chaos.md)).
 - [Kind vs wicked feedback](kind-vs-wicked-feedback.md) (study). Weather forecasters work inside the horizon and are well calibrated ([Task characteristics of expertise](../frameworks/1992-task-characteristics-of-expertise.md)). Tetlock's pundits made long range calls and did little better than chance ([Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)).
 - [Smooth vs rugged](smooth-vs-rugged.md) (independent). They sound alike. The horizon is about small errors growing over time, while rugged is about many local peaks among the possible answers.
+- [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). Chaos pulls runs that start almost alike far apart, so past the horizon the runs disagree and their average describes none of them.
 
 ## Citations
 

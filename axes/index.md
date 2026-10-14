@@ -5,6 +5,7 @@
 # The world
 
 * [Deterministic vs statistical](deterministic-vs-statistical.md) - Do the same inputs always give the same result, or only the same spread of results, so you can predict the rate but not the single case?
+* [Coherent vs incoherent](coherent-vs-incoherent.md) - If you run the same thing again, do the runs land on the same spread of results, so the average stands for a typical run, or does each run settle somewhere different, so the average describes none of them?
 * [Thin vs fat tails](thin-vs-fat-tails.md) - When results vary, do they stay close to the average, or can one extreme case outweigh all the rest put together?
 * [Smooth vs rugged](smooth-vs-rugged.md) - Will small improvements keep carrying you to the best answer, or will they stall on an answer that is good but not the best, where every small change makes it worse?
 * [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) - How far ahead can you forecast before tiny errors in what you know today grow too large for the forecast to be any use?
