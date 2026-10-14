@@ -12,7 +12,7 @@ Elsewhere two names cover the same ground. [Cynefin's](frameworks/1999-cynefin.m
 
 ## What this project does
 
-This project pulls those attempts together into one consistent vocabulary. The [frameworks folder](frameworks/README.md) collects more than eighty of them, from Frank Knight's split of risk and uncertainty in 1921 to John Kay and Mervyn King's radical uncertainty in 2020. The [axes](axis.md) pull out the traits underneath. Each axis is a scale with two ends, such as whether you can undo a mistake or whether feedback comes quickly and honestly. Each one lists the frameworks it came from and how it links to the other axes.
+This project pulls those attempts together into one consistent vocabulary. The [frameworks folder](frameworks/README.md) collects more than eighty of them, from Frank Knight's split of risk and uncertainty in 1921 to John Kay and Mervyn King's radical uncertainty in 2020. The [axes](axes/README.md) pull out the traits underneath. Each axis is a scale with two ends, such as whether you can undo a mistake or whether feedback comes quickly and honestly. Each one lists the frameworks it came from and how it links to the other axes.
 
 The starting point was Stuart Russell and Peter Norvig's list of task environment properties in [*Artificial Intelligence: A Modern Approach*](https://aima.cs.berkeley.edu/). Every trait on it is plain and testable, which is why it works so well. But it was built to design agents, not to judge when to trust one, so the axes add the traits the other frameworks keep coming back to.
 
@@ -30,7 +30,7 @@ That is a single, crude axis, and it already predicts how well a model will do. 
 
 This is an open source project and we'd love your help. It is not a finished analysis and never will be. People will keep finding new axes, and there are surely frameworks we have missed. If you spot a gap, a wrong link or a better example, please open a pull request.
 
-A new framework goes in `frameworks/` as a file named by year and title, like `1973-tame-vs-wicked-problems.md`, with the same front matter as the others. Add a row for it to the [frameworks list](frameworks/README.md). A new axis goes in [axis.md](axis.md) as its own section with the same fields as the others. Add a row for it to the list at the top, and link it to the existing axes it moves with.
+A new framework goes in `frameworks/` as a file named by year and title, like `1973-tame-vs-wicked-problems.md`, with the same front matter as the others. Add a row for it to the [frameworks list](frameworks/README.md). A new axis goes in `axes/` as its own file, named like `thin-vs-fat-tails.md`, with the same fields as the others. Add a row for it to the [axes list](axes/README.md) under its group, and link it to the existing axes it moves with.
 
 ## Why does treating one problem as another matter?
 

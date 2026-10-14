@@ -1,0 +1,26 @@
+# Slack vs time pressure
+
+An axis in the [decision](README.md#the-decision) group.
+
+How long do you have to decide, compared to how fast things change? A pension plan gives you months. A pilot with a failed engine has seconds.
+
+**Slack**: Take your time.
+- Use a bigger model and more reasoning steps. The extra seconds cost nothing here.
+- Get a second opinion or human review. There is time for someone to catch a mistake.
+
+**Time pressure**: Decide the playbook in advance.
+- Work out answers and fallbacks ahead of time. In the moment the model should pick from a plan, not write one.
+- Use small fast models with a strict time limit. A slow good answer is useless after the deadline.
+- Take the first good enough action. Klein found that expert fire commanders do this rather than compare options.
+- Check the deadline is real. A false crisis is a common excuse to skip review.
+
+**Sources.** [Post-normal science](../frameworks/1993-post-normal-science.md), [Cynefin](../frameworks/1999-cynefin.md), [Tame, wicked and critical](../frameworks/2005-tame-wicked-and-critical.md), [Super wicked problems](../frameworks/2007-super-wicked-problems.md)
+
+**Correlated with**
+
+- [Loose vs tight coupling](loose-vs-tight-coupling.md) (by definition). Perrow defines tight coupling as having no slack, so when a tight system fails it hands you a decision with no time ([Normal accidents](../frameworks/1984-normal-accidents.md)).
+- [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md) (study). Hammond's [cognitive continuum](../frameworks/1987-cognitive-continuum.md) puts tasks with little time at the intuitive end, and Klein's fire lieutenant got out on a gut call ([Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)).
+- [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). With no time to search, you have to settle for good enough. Klein's fire commanders took the first plan that would work rather than compare options ([Satisficing](../frameworks/1956-satisficing.md)).
+- [Tractable vs intractable search](tractable-vs-intractable-search.md) (tension). A search too big to finish, done against the clock, is the worst case.
+- [Shared vs contested values](shared-vs-contested-values.md) (bundled). [Post-normal science](../frameworks/1993-post-normal-science.md) and [super wicked problems](../frameworks/2007-super-wicked-problems.md) both join a clock to a fight over values. Grint warns that leaders sometimes call a problem a crisis to justify giving orders ([Tame, wicked and critical](../frameworks/2005-tame-wicked-and-critical.md)), so check that the deadline is real.
+- [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (bundled). [Super wicked problems](../frameworks/2007-super-wicked-problems.md) join a clock to a world with nobody in charge, so each actor has a reason to wait while time runs out.

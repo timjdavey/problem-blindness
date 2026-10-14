@@ -1,0 +1,28 @@
+# Reversible vs irreversible
+
+An axis in the [decision](README.md#the-decision) group.
+
+Can you undo it if it goes wrong? Trying a new recipe is a two way door. Selling the family home or cutting off a leg is a one way door.
+
+**Reversible**: Move fast and let the model act.
+- Ship small changes often and learn from what breaks. You can roll back.
+- Let agents act without sign off. A mistake costs an undo, not a disaster.
+
+**Irreversible**: Slow down and put a person at the door.
+- Require human sign off for actions that can't be undone. Deleting data, sending money and emailing customers are the usual ones.
+- Give agents a dry run mode. They show what they would do, and a person approves it.
+- Turn one way doors into two way ones where you can. Staging, soft deletes and a delay before a send all buy you an undo.
+- Gate only the actions that are hard to undo. Gating everything trains people to click approve without reading.
+
+**Sources.** [Tame vs wicked problems](../frameworks/1973-tame-vs-wicked-problems.md), [One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)
+
+**Correlated with**
+
+- [Survivable vs ruinous](survivable-vs-ruinous.md) (by definition). All ruin is irreversible, but not every irreversible choice ruins you.
+- [Loose vs tight coupling](loose-vs-tight-coupling.md) (study). In [Normal accidents](../frameworks/1984-normal-accidents.md) faults cascade into damage that can't be undone before anyone can step in.
+- [Kind vs wicked feedback](kind-vs-wicked-feedback.md) (bundled). [Rittel and Webber](../frameworks/1973-tame-vs-wicked-problems.md) note you can't learn by trial and error when each try leaves a mark.
+- [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md) (bundled). Simon's [non-programmed decisions](../frameworks/1960-programmed-vs-non-programmed-decisions.md) are new and carry high stakes.
+- [One-shot vs sequential](one-shot-vs-sequential.md) (opposite). A chain of moves usually gives you a chance to correct course. Rittel and Webber's "one-shot operation" means a choice that can't be undone, so it belongs here rather than on that axis.
+- [Private vs accountable](private-vs-accountable.md) (logic). Bezos argues one-way doors deserve a slow process with many views ([One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)), and that brings scrutiny.
+- [Test vs watch](test-vs-watch.md) (logic). You can't run a fair test of a one way door, because there is no going back to try the other side.
+- [Convex vs concave payoff](convex-vs-concave-payoff.md) (logic). Cheap two way doors make tinkering convex, because you keep what works and walk back from what fails.
