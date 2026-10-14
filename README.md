@@ -1,7 +1,40 @@
 # Problem Blindness
 
+Treating every problem the same way leads to mistakes. People have noticed this again and again over the last hundred years, in economics, town planning, psychology, physics, management and computer science. Each of them came at it from their own field and their own experience, so each gave the idea their own names. The result is a vocabulary that grew up on its own, with dozens of overlapping terms and no map between them.
 
-## Motivation
+Because the terms are fuzzy, they also drift. A word gets a precise meaning in one field, then someone borrows it for another and stretches it until it means something else.
+
+"Wicked" is the clearest case. In 1973 Horst Rittel and Melvin Webber, two planners at Berkeley, called a problem [wicked](frameworks/1973-tame-vs-wicked-problems.md) when people can't agree what the problem even is. In 2001 the psychologist Robin Hogarth called a learning environment [wicked](frameworks/2001-kind-vs-wicked-learning-environments.md) when feedback is missing or misleading, so experience teaches you the wrong lesson. The word is the same but the traits are different.
+
+Ergodicity has drifted even further. The word comes from 19th century physics, where a system is ergodic if its average over time matches its average across many copies at one moment. In 2016 Ole Peters and Murray Gell-Mann brought the idea into [economics](frameworks/2016-ergodicity.md) to show why a bet that looks good on average can still make most players poorer. Since then popular writing has stretched "non-ergodic" to mean any risk of ruin. But Peters' own coin game never ruins anyone. It just makes the typical player a little poorer each round.
+
+Elsewhere two names cover the same ground. [Cynefin's](frameworks/1999-cynefin.md) "complex" domain overlaps much of [deep uncertainty](frameworks/2003-deep-uncertainty.md), yet neither mentions the other.
+
+## What this project does
+
+This project pulls those attempts together into one consistent vocabulary. The [frameworks folder](frameworks/README.md) collects more than sixty of them, from Frank Knight's split of risk and uncertainty in 1921 to John Kay and Mervyn King's radical uncertainty in 2020. The [axes](axis.md) pull out the traits underneath. Each axis is a scale with two ends, such as whether you can undo a mistake or whether feedback comes quickly and honestly. Each one lists the frameworks it came from and how it links to the other axes.
+
+The starting point was Stuart Russell and Peter Norvig's list of task environment properties in [*Artificial Intelligence: A Modern Approach*](https://aima.cs.berkeley.edu/). Every trait on it is plain and testable, which is why it works so well. But it was built to design agents, not to judge when to trust one, so the axes add the traits the other frameworks keep coming back to.
+
+The first use is for people. A precise, shared vocabulary gives you something to reason with, and it shows you when two people mean different things by the same word.
+
+The bigger use is for LLMs. A person can read around a clash in meaning. A model mostly can't, and it will happily treat Rittel's wicked and Hogarth's wicked as one idea. Give it a consistent set of axes, with clear conditions for when two labels match, and it has a second brain to reason with. It can place a problem on every axis in far more detail than a person has patience for, then work out which tools fit.
+
+## Why it has to be practical
+
+A neat scheme nobody uses is useless. There is already proof that tagging tasks this way pays off. In 2025 [METR](https://arxiv.org/abs/2503.14499) scored its tasks for "messiness", meaning how far they sit from a clean test and how close to real work. Even after allowing for how long a task took, a one-point increase in messiness on their scale cut mean success rates by about 8.1%.
+
+That is a single, crude axis, and it already predicts how well a model will do. A richer set of axes, checked against real results, could do far more. We want the same thing when building expert systems. Before you hand a task to a model or a person, you should be able to say what shape it is, what kind of expert it needs and how far to trust the answer. The aim is for this project to work as a skill an AI agent can load, or at least as a reference guide.
+
+## How to contribute
+
+This is an open source project and we'd love your help. It is not a finished analysis and never will be. People will keep finding new axes, and there are surely frameworks we have missed. If you spot a gap, a wrong link or a better example, please open a pull request.
+
+A new framework goes in `frameworks/` as a file named by year and title, like `1973-tame-vs-wicked-problems.md`, with the same front matter as the others. Add a row for it to the [frameworks list](frameworks/README.md). A new axis goes in [axis.md](axis.md), with its sources and how it links to the existing axes.
+
+## Why does treating one problem as another matter?
+
+The two stories below show the same mistake. In each, someone used a tool that suited one kind of problem on a problem of a different kind.
 
 ### Example 1: Using fast thinking on slow tasks
 
@@ -25,7 +58,7 @@ Now look wider. In July a worldwide supply chain problem hit every firm in the i
 
 Every lesson was wrong. You treated one year of one firm as the whole story, and your gut filled in the causes. A business is tangled and hard to read, so this type of problem needs a long history and a look at everyone else before you learn anything from it.
 
-## The goal of this project
+### Why it keeps happening
 
 > "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail." Abraham Maslow, 1966
 
@@ -39,30 +72,6 @@ Ever since Adam Smith described his pin factory in 1776, specialisation has slow
 
 It's easy to forgive any one expert for leaning on their training. The problem is we've built around that expertise, rewarding that habit because we picture expertise as a single ladder you climb.
 
+There is a proof that no single hammer can win. In 1997 David Wolpert and William Macready showed that, averaged over every possible problem, all search methods do exactly as well as each other. This is called the [no free lunch](frameworks/1997-no-free-lunch.md) theorem. A method only beats the rest by fitting the shape of the problem in front of it. So the first job is to work out what shape the problem has, and only then pick the tool.
+
 AI models seem more subtle and nuanced in their thinking, but they are still expert systems. So a lot of what we know about human experts carries over, and we can use it to work out when to trust these systems at scale.
-
-## What already exists
-
-People have been sorting problems for over a century. The [frameworks folder](frameworks/README.md) lists more than sixty attempts, from Frank Knight's split of risk and uncertainty in 1921 to John Kay and Mervyn King's radical uncertainty in 2020. Each one sees part of the picture, and none sees all of it.
-
-Worse, they use overlapping definitions that don't fit together. "Wicked" means two different things. For [Rittel and Webber](frameworks/1973-tame-vs-wicked-problems.md) a wicked problem is one where people can't agree what the problem even is. For [Hogarth](frameworks/2001-kind-vs-wicked-learning-environments.md) a wicked environment is one where feedback is missing or misleading, so experience teaches you the wrong lesson. [Cynefin's](frameworks/1999-cynefin.md) "complex" domain covers much of the same ground as [deep uncertainty](frameworks/2003-deep-uncertainty.md), yet neither acknowledges the other.
-
-A person can read around these clashes. An LLM or a benchmark can't. If you want either to use these ideas consistently, someone has to write the crosswalk. That is a map between the frameworks which says, with explicit conditions, when one label means the same as another and when it doesn't.
-
-The best place to start is Stuart Russell and Peter Norvig's list of task environment properties in [*Artificial Intelligence: A Modern Approach*](https://aima.cs.berkeley.edu/). It sorts any task on a handful of plain traits. Can you see everything you need? Does the same action always give the same result? Does each choice shape the next one? Each trait is clear and testable, which is why it works so well.
-
-But it was built to design agents, not to judge when to trust one. So it misses four traits that the rest of the frameworks keep coming back to.
-
-- **Sensitivity.** Does a small change at the start lead to a big change at the end? See [sensitive dependence](frameworks/1963-sensitive-dependence-chaos.md) and [Mediocristan vs Extremistan](frameworks/2007-mediocristan-vs-extremistan.md).
-- **Feedback.** Do you find out quickly and honestly whether you were right? See [kind vs wicked learning environments](frameworks/2001-kind-vs-wicked-learning-environments.md) and [conditions for intuitive expertise](frameworks/2009-conditions-for-intuitive-expertise.md).
-- **Stakes.** Can you undo a mistake, and could one mistake ruin you? See [one-way vs two-way doors](frameworks/2015-one-way-vs-two-way-doors.md) and [fragile, robust and antifragile](frameworks/2012-fragile-robust-and-antifragile.md).
-- **Goal clarity.** Do you know what done looks like, and does everyone agree? See [tame vs wicked problems](frameworks/1973-tame-vs-wicked-problems.md) and [well vs ill-structured problems](frameworks/1964-well-vs-ill-structured-problems.md).
-
-## Why it has to be practical
-
-A neat scheme nobody uses is useless. There is already a precedent that tagging tasks this way pays off. In 2025 [METR](https://arxiv.org/abs/2503.14499) scored its tasks for "messiness", meaning how far they sit from a clean test and how close to real work. Even after allowing for how long a task took, a one-point increase in messiness on their scale cut mean success rates by about 8.1%.
-
-That is a single, crude axis, and it already predicts how well a model will do. A richer tagging scheme, checked against real results, could do far more.
-
-This project is designed to rationalise what we know about problems, so that it can be used as a SKILL or at least a reference guide.
-

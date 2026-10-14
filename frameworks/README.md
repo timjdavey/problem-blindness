@@ -14,6 +14,7 @@ Each framework has its own file with a fuller write up and examples. Where a dat
 | [Self-fulfilling prophecy](1948-self-fulfilling-prophecy.md) | 1948 | Robert K. Merton |
 | [Clinical vs statistical prediction](1954-clinical-vs-statistical-prediction.md) | 1954 | Paul Meehl |
 | [Johari window](1955-johari-window.md) | 1955 | Joseph Luft, Harrington Ingham |
+| [Satisficing](1956-satisficing.md) | 1956 | Herbert Simon |
 | [Decision strategies matrix](1959-decision-strategies-matrix.md) | 1959 | James D. Thompson, Arthur Tuden |
 | [Programmed vs non-programmed decisions](1960-programmed-vs-non-programmed-decisions.md) | 1960 | Herbert Simon |
 | [Ambiguity aversion](1961-ambiguity-aversion.md) | 1961 | Daniel Ellsberg |
@@ -24,10 +25,13 @@ Each framework has its own file with a fuller write up and examples. Where a dat
 | [Routine vs non-routine technology](1967-routine-vs-non-routine-technology.md) | 1967 | Charles Perrow |
 | [Convex vs non-convex optimisation](1970-convex-vs-non-convex-optimisation.md) | 1970 (2004) | R. Tyrrell Rockafellar, then Stephen Boyd and Lieven Vandenberghe |
 | [NP problems](1971-np-problems.md) | 1971 | Stephen Cook, Richard Karp, Leonid Levin |
+| [Flat maximum](1973-flat-maximum.md) | 1973 (1982) | Detlof von Winterfeldt, Ward Edwards |
 | [Tame vs wicked problems](1973-tame-vs-wicked-problems.md) | 1973 | Horst Rittel, Melvin Webber |
 | [Messes](1974-messes.md) | 1974 | Russell Ackoff |
 | [Goodhart's law](1975-goodharts-law.md) | 1975 | Charles Goodhart |
 | [Campbell's law](1976-campbells-law.md) | 1976 | Donald T. Campbell |
+| [Decisions with multiple objectives](1976-decisions-with-multiple-objectives.md) | 1976 | Ralph Keeney, Howard Raiffa |
+| [Loosely coupled systems](1976-loosely-coupled-systems.md) | 1976 | Karl Weick |
 | [Lucas critique](1976-lucas-critique.md) | 1976 | Robert Lucas |
 | [Presented vs discovered problems](1976-presented-vs-discovered-problems.md) | 1976 | Jacob Getzels, Mihaly Csikszentmihalyi |
 | [Single vs double-loop learning](1978-single-vs-double-loop-learning.md) | 1978 | Chris Argyris, Donald Schön |
@@ -51,7 +55,9 @@ Each framework has its own file with a fuller write up and examples. Where a dat
 | [Stacey matrix](1996-stacey-matrix.md) | 1996 | Ralph Stacey |
 | [Four levels of uncertainty](1997-four-levels-of-uncertainty.md) | 1997 | Hugh Courtney, Jane Kirkland, Patrick Viguerie |
 | [No free lunch](1997-no-free-lunch.md) | 1997 | David Wolpert, William Macready |
+| [Accountability](1999-accountability.md) | 1999 | Jennifer Lerner, Philip Tetlock |
 | [Cynefin](1999-cynefin.md) | 1999 (2003) | Dave Snowden, Cynthia Kurtz |
+| [Ecological rationality](1999-ecological-rationality.md) | 1999 | Gerd Gigerenzer, Peter Todd, ABC Research Group |
 | [Problem typology](2000-problem-typology.md) | 2000 | David Jonassen |
 | [Simple, complex and wicked](2000-simple-complex-and-wicked.md) | 2000 | Nancy Roberts |
 | [Ladder of causation](2000-ladder-of-causation.md) | 2000 (2018) | Judea Pearl, later with Dana Mackenzie |
@@ -70,4 +76,5 @@ Each framework has its own file with a fuller write up and examples. Where a dat
 | [Fragile, robust and antifragile](2012-fragile-robust-and-antifragile.md) | 2012 | Nassim Nicholas Taleb |
 | [One-way vs two-way doors](2015-one-way-vs-two-way-doors.md) | 2015 | Jeff Bezos |
 | [Ergodicity](2016-ergodicity.md) | 2016 (2019) | Ole Peters, Murray Gell-Mann |
+| [Need for interpretability](2017-need-for-interpretability.md) | 2017 | Finale Doshi-Velez, Been Kim |
 | [Radical uncertainty](2020-radical-uncertainty.md) | 2020 | John Kay, Mervyn King |
