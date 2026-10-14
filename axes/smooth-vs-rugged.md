@@ -45,6 +45,7 @@ Two things follow on rugged ground. Rules of thumb stop working, because being c
 - [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). On a rugged landscape each run stalls on whichever peak is nearest, so runs that start in different places settle in different places.
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (logic). On smooth ground a quick look tells you if an answer is close to good. On rugged ground looking close proves nothing, so you need a check that tests every detail.
 - [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) (independent). Both are about small differences growing large, but in different places. The horizon is about errors growing over time as a system runs. Rugged is about a small change to an answer making a big change to how good it is, at one fixed moment. A rugged design problem can give each design a fixed score that never drifts.
+- [Convergent vs divergent](convergent-vs-divergent.md) (logic). Good answers that differ in kind are separate peaks, and the ground between them is a valley.
 
 ## Citations
 

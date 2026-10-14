@@ -42,6 +42,7 @@ When results vary, do they stay close to the average, or can one extreme case ou
 - [Inert vs reflexive](inert-vs-reflexive.md) (study). [Reflexivity](../frameworks/1987-reflexivity.md) and the [bank run](../frameworks/1948-self-fulfilling-prophecy.md) show beliefs and facts feeding each other into booms and crashes.
 - [Additive vs multiplicative](additive-vs-multiplicative.md) (logic). Compounding piles the gains on a lucky few. In Peters' coin game the crowd's average keeps rising only because a handful of players get vastly rich ([Ergodicity](../frameworks/2016-ergodicity.md)).
 - [Small vs large world](small-vs-large-world.md) (logic). The worst outcomes are often ones nobody listed, which is what Taleb means by a black swan.
+- [Spread vs single bet](spread-vs-single-bet.md) (logic). When a few wild bets carry most of the upside, you need to be able to back several. A barbell keeps most of the stake safe and puts a small slice on them ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
 
 ## Citations
 

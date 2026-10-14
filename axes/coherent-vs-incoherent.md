@@ -41,6 +41,7 @@ If you run the same thing again, do the runs land on the same spread of results,
 - [Thin vs fat tails](thin-vs-fat-tails.md) (independent). A fat tailed process can still be coherent if every run draws from the same wild spread. Incoherence is about runs disagreeing, not about any one run being extreme.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). Pooling incoherent runs gives a lot of data that describes none of them. Raising a child is complex because success with one is no guide to the next ([Simple, complicated and complex](../frameworks/2002-simple-complicated-and-complex.md)).
 - [Clustered vs scattered](clustered-vs-scattered.md) (by definition). Once runs disagree, the next question is whether they fall into a few clear groups. That axis only applies at the incoherent end.
+- [Convergent vs divergent](convergent-vs-divergent.md) (logic). It is the same trap on the answer side. Good answers that differ in kind blend into one nobody would choose, just as runs that split into groups average to a result none of them produced.
 
 ## Citations
 

@@ -39,6 +39,7 @@ Could one bad outcome take you out of the game for good, so that good odds over 
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). You can't learn from your own ruin, because it only happens once.
 - [Additive vs multiplicative](additive-vs-multiplicative.md) (by definition). Ruin is the extreme case, since a ruined player gets nothing over time whatever the crowd's average says. But the gap can open without ruin. Peters' coin game never wipes anyone out. It just makes the typical player a little poorer each round ([Ergodicity](../frameworks/2016-ergodicity.md)).
 - [Even vs lopsided errors](even-vs-lopsided-errors.md) (logic). When one kind of mistake can ruin you and the other can't, the costs are as lopsided as they get.
+- [Spread vs single bet](spread-vs-single-bet.md) (logic). Spreading is the main cure for ruin. But bets that fail together can still ruin you, as mortgage bonds did in 2008 ([Portfolio selection](../frameworks/1952-portfolio-selection.md)), and a single bet on lunch harms nobody.
 
 ## Citations
 

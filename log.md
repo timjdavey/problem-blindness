@@ -2,6 +2,10 @@
 
 ## 2026-10-14
 
+* **Creation**: Added the [Spread vs single bet](/axes/spread-vs-single-bet.md) axis, which asks whether you can split your stake across several options at once or must take one course of action. It differs from [Reversible vs irreversible](/axes/reversible-vs-irreversible.md), which spreads your tries across time rather than across options.
+* **Creation**: Added the [Portfolio selection](/frameworks/1952-portfolio-selection.md) framework, from Harry Markowitz's 1952 paper in the Journal of Finance.
+* **Update**: Added a barbell example to [Fragile, robust and antifragile](/frameworks/2012-fragile-robust-and-antifragile.md).
+* **Update**: Split the divergent end of [Convergent vs divergent](/axes/convergent-vs-divergent.md) into answers that differ in degree and answers that differ in kind. Blending two good answers works for the first and fails for the second, which is the answer side of [Coherent vs incoherent](/axes/coherent-vs-incoherent.md). A separate Dial vs fork axis was considered and folded in here.
 * **Update**: Folded Full vs partial observability into [Reducible vs irreducible uncertainty](/axes/reducible-vs-irreducible-uncertainty.md). A hidden fact is the main kind of reducible doubt, and the two axes gave the same advice.
 * **Update**: Separated [Small vs large world](/axes/small-vs-large-world.md) from [Tractable vs intractable search](/axes/tractable-vs-intractable-search.md). A small world is one where a fixed procedure generates the outcomes, so you can sample them however many there are. Intractable search only applies once the options are known. Go, with about 10¹⁷⁰ legal positions, replaces chess as the intractable example, and each axis now links to the other.
 * **Update**: Rewrote every axis description to describe each end in one line with a short example, in place of a single long question. The [axes index](/axes/index.md) now lists both ends under each axis.

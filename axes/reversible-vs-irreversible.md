@@ -38,6 +38,7 @@ If it goes wrong, can you undo it cheaply and try again, or are you stuck with i
 - [One-shot vs sequential](one-shot-vs-sequential.md) (opposite). A chain of moves usually gives you a chance to correct course. Rittel and Webber's "one-shot operation" means a choice that can't be undone, so it belongs here rather than on that axis.
 - [Private vs accountable](private-vs-accountable.md) (logic). Bezos argues one-way doors deserve a slow process with many views ([One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)), and that brings scrutiny.
 - [Test vs watch](test-vs-watch.md) (logic). You can't run a fair test of a one way door, because there is no going back to try the other side.
+- [Spread vs single bet](spread-vs-single-bet.md) (independent). Both are ways to avoid staking everything on one guess. This axis spreads your tries across time, and that one spreads them across options. A venture fund is spread but each cheque is gone once written, and a lunch spot is a single bet you can undo.
 
 ## Citations
 

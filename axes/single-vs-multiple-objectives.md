@@ -45,6 +45,7 @@ Most trade offs can be priced. You can say what an hour of travel is worth to yo
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (opposite). With several goals there is a set of good trade offs and no one best answer, so you have to settle for good enough.
 - [Complete vs incomplete goal](complete-vs-incomplete-goal.md) (bundled). Doshi-Velez and Kim ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)) count goals that pull against each other as one kind of gap in the score. But a car buyer who writes down every want and sets the weights has many objectives and a complete goal.
 - [Private vs accountable](private-vs-accountable.md) (study). In 2000 Tetlock asked people to judge a hospital manager who could spend $1m on a child's liver transplant or on equipment and salaries. Choosing the equipment after long thought scored 5.71 for outrage out of 7. Saving the child at once scored 1.51. Even being seen to weigh a sacred value counts against you, so a choice you must defend in public pushes the trade off out of sight ([Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)).
+- [Convergent vs divergent](convergent-vs-divergent.md) (logic). A trade off between goals gives many good answers that differ only in degree. There a blend of two good answers is also good, unlike answers that differ in kind.
 
 ## Citations
 

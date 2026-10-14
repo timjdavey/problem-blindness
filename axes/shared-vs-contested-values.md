@@ -52,6 +52,8 @@ Do all the people affected agree on what a good result looks like, or do they wa
 - [Complete vs incomplete goal](complete-vs-incomplete-goal.md) (logic). When people disagree on what a good result is, any one score takes a side and leaves the other wants out.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (bundled). [Heifetz](../frameworks/1994-technical-vs-adaptive-challenges.md) says adaptive work often means people giving up something they value. [Super wicked problems](../frameworks/2007-super-wicked-problems.md) have nobody in charge to settle whose interests count.
 - [Even vs lopsided errors](even-vs-lopsided-errors.md) (logic). How much worse a miss is than a false alarm is a value judgement, so people fight over where to set the bar.
+- [Convergent vs divergent](convergent-vs-divergent.md) (logic). When the options differ in kind there is no middle ground to settle on. Two towns that each want the bridge can't have half of it each, so someone has to lose.
+- [Spread vs single bet](spread-vs-single-bet.md) (logic). A budget can be split between rival groups, so each gets some of what it wants. A bridge can't, so someone has to lose.
 
 ## Citations
 

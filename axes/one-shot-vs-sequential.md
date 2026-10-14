@@ -38,6 +38,7 @@ Is it a single choice, or a chain of choices where each step shapes the next and
 - [Reversible vs irreversible](reversible-vs-irreversible.md) (opposite). A chain of moves usually gives you a chance to correct course, so sequential problems lean towards the reversible end. Watch the name clash. [Rittel and Webber](../frameworks/1973-tame-vs-wicked-problems.md) call each try at a wicked problem a one-shot operation, but they mean it can't be undone. That is a point about reversibility, not about how many moves there are.
 - [Test vs watch](test-vs-watch.md) (opposite). Each pull of a [bandit](../frameworks/1933-multi-armed-bandit.md) is a small test, so a chain of choices lets you test as you go. Thompson picked each new patient's treatment at random, weighted towards whichever looked better so far.
 - [Additive vs multiplicative](additive-vs-multiplicative.md) (by definition). The gap between the crowd and the single player only opens over repeated plays. For a single toss of Peters' coin the crowd's average is a fair guide, and the harm builds up toss by toss ([Ergodicity](../frameworks/2016-ergodicity.md)).
+- [Spread vs single bet](spread-vs-single-bet.md) (logic). A [bandit](../frameworks/1933-multi-armed-bandit.md) spreads its tries over time, which this axis covers. Backing several options side by side belongs on that axis.
 
 ## Citations
 

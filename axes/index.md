@@ -109,6 +109,9 @@
 * [Reversible vs irreversible](reversible-vs-irreversible.md)
   * **Reversible**: if it goes wrong you can undo it cheaply and try again (e.g. a new recipe).
   * **Irreversible**: once it is done you are stuck with it (e.g. selling the family home).
+* [Spread vs single bet](spread-vs-single-bet.md)
+  * **Spread**: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares).
+  * **Single bet**: you can only take one course of action, so everything rides on it (e.g. which job offer to accept).
 * [Survivable vs ruinous](survivable-vs-ruinous.md)
   * **Survivable**: no single loss can knock you out, so good odds pay off over many tries (e.g. a casino taking many small bets).
   * **Ruinous**: one bad outcome can take you out of the game for good (e.g. Russian roulette).

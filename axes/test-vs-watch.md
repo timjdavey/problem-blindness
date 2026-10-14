@@ -39,6 +39,7 @@ Can you run a fair test, where chance decides who gets what, or can you only wat
 - [Reversible vs irreversible](reversible-vs-irreversible.md) (logic). You can't run a fair test of a one way door, because there is no going back to try the other side.
 - [Inert vs reflexive](inert-vs-reflexive.md) (study). The [Lucas critique](../frameworks/1976-lucas-critique.md) is a warning about answering a question on stepping in with data from watching. The Phillips curve held while nobody leaned on it and broke once policy did.
 - [One-shot vs sequential](one-shot-vs-sequential.md) (opposite). Each pull of a [bandit](../frameworks/1933-multi-armed-bandit.md) is a small test, so a chain of choices lets you test as you go. Thompson picked each new patient's treatment at random, weighted towards whichever looked better so far.
+- [Spread vs single bet](spread-vs-single-bet.md) (logic). A fair test needs you to do more than one thing at once. With only one economy there is no control group. But a portfolio spreads without testing anything.
 
 ## Citations
 
