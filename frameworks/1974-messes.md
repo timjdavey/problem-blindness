@@ -1,11 +1,13 @@
 ---
-name: Messes
+type: Framework
+title: Messes
+description: >-
+  Real problems rarely come alone. Ackoff called a system of problems that act on each other a mess. Solving each part on its own can make the whole worse.
 date: 1974
 creators:
   - Russell Ackoff
-link: https://en.wikipedia.org/wiki/Social_mess
-summary: >-
-  Real problems rarely come alone. Ackoff called a system of problems that act on each other a mess. Solving each part on its own can make the whole worse.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Social_mess
 ---
 
 # Messes

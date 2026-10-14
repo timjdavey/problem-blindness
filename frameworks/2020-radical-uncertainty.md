@@ -1,12 +1,14 @@
 ---
-name: Radical uncertainty
+type: Framework
+title: Radical uncertainty
+description: >-
+  Many real problems can't be given probabilities at all, because we can't list what might happen. Kay and King argue you should ask "what is going on here?" and build a story, rather than pretend to calculate odds.
 date: 2020
 creators:
   - John Kay
   - Mervyn King
-link: https://wwnorton.com/books/9781324004776
-summary: >-
-  Many real problems can't be given probabilities at all, because we can't list what might happen. Kay and King argue you should ask "what is going on here?" and build a story, rather than pretend to calculate odds.
+sources:
+  - resource: https://wwnorton.com/books/9781324004776
 ---
 
 # Radical uncertainty

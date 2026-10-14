@@ -1,12 +1,14 @@
 ---
-name: Detail vs dynamic complexity
+type: Framework
+title: Detail vs dynamic complexity
+description: >-
+  Detail complexity means lots of variables. Dynamic complexity means cause and effect sit far apart in time and place, so the obvious fix often makes things worse. Most planning tools are built for the first and are blind to the second.
 date: 1990
 creators:
   - Peter Senge
   - Jay Forrester
-link: https://en.wikipedia.org/wiki/The_Fifth_Discipline
-summary: >-
-  Detail complexity means lots of variables. Dynamic complexity means cause and effect sit far apart in time and place, so the obvious fix often makes things worse. Most planning tools are built for the first and are blind to the second.
+sources:
+  - resource: https://en.wikipedia.org/wiki/The_Fifth_Discipline
 ---
 
 # Detail vs dynamic complexity

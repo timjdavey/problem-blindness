@@ -1,12 +1,14 @@
 ---
-name: Task environment properties
+type: Framework
+title: Task environment properties
+description: >-
+  Sorts the world an agent acts in by a few plain questions. Can it see everything, does chance play a part and does the world change while it thinks? Later editions added whether anyone else is acting. A crossword is easy on every count and driving a taxi is hard on every count.
 date: 1995
 creators:
   - Stuart Russell
   - Peter Norvig
-link: https://aima.cs.berkeley.edu/
-summary: >-
-  Sorts the world an agent acts in by a few plain questions. Can it see everything, does chance play a part and does the world change while it thinks? Later editions added whether anyone else is acting. A crossword is easy on every count and driving a taxi is hard on every count.
+sources:
+  - resource: https://aima.cs.berkeley.edu/
 ---
 
 # Task environment properties

@@ -1,14 +1,16 @@
 ---
-name: Levels of uncertainty
+type: Framework
+title: Levels of uncertainty
+description: >-
+  Grades uncertainty from a clear future, through known odds and plausible scenarios, up to total ignorance. It also asks where the uncertainty sits, such as in the inputs or in the model itself.
 date: 2003
 cited_date: 2013
 creators:
   - Warren Walker
   - Robert Lempert
   - Jan Kwakkel
-link: https://doi.org/10.1076/iaij.4.1.5.16466
-summary: >-
-  Grades uncertainty from a clear future, through known odds and plausible scenarios, up to total ignorance. It also asks where the uncertainty sits, such as in the inputs or in the model itself.
+sources:
+  - resource: https://doi.org/10.1076/iaij.4.1.5.16466
 ---
 
 # Levels of uncertainty

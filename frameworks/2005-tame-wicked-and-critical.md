@@ -1,11 +1,13 @@
 ---
-name: Tame, wicked and critical
+type: Framework
+title: Tame, wicked and critical
+description: >-
+  Tame problems call for management. Wicked problems call for leadership that asks good questions. Critical problems are crises with no time to talk, so they call for command. Grint argues leaders often pick the label that justifies the style they prefer.
 date: 2005
 creators:
   - Keith Grint
-link: https://doi.org/10.1177/0018726705061314
-summary: >-
-  Tame problems call for management. Wicked problems call for leadership that asks good questions. Critical problems are crises with no time to talk, so they call for command. Grint argues leaders often pick the label that justifies the style they prefer.
+sources:
+  - resource: https://doi.org/10.1177/0018726705061314
 ---
 
 # Tame, wicked and critical

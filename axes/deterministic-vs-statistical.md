@@ -1,8 +1,25 @@
+---
+type: Axis
+title: Deterministic vs statistical
+description: Do the same inputs always give the same result, or only a stable spread of results?
+group: world
+easy_end: Deterministic
+hard_end: Statistical
+sources:
+  - resource: /frameworks/1948-simplicity-disorganised-and-organised-complexity.md
+    title: Simplicity, disorganised complexity and organised complexity
+  - resource: /frameworks/1966-clocks-and-clouds.md
+    title: Clocks and clouds
+  - resource: /frameworks/1995-task-environment-properties.md
+    title: Task environment properties
+---
 # Deterministic vs statistical
 
-An axis in the [world](README.md#the-world) group.
+An axis in the [world](index.md#the-world) group.
 
 Do the same inputs always give the same result, or only a stable spread of results? A sum is deterministic. Which boiler breaks down this winter is statistical, though the rate across many boilers is steady.
+
+## Actions
 
 **Deterministic**: Write the rule down and test it like code.
 - Don't ask a model to guess at a rule you could state. A rule that is right most of the time is a bug.
@@ -15,11 +32,17 @@ Do the same inputs always give the same result, or only a stable spread of resul
 - Decide as a policy over many cases. Ask what rule gives the best results across the whole group, not what suits this one.
 - Don't judge the model on one bad outcome. A right call can still lose, so look at the rate across many calls.
 
-**Sources.** [Simplicity, disorganised complexity and organised complexity](../frameworks/1948-simplicity-disorganised-and-organised-complexity.md), [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md), [Task environment properties](../frameworks/1995-task-environment-properties.md)
-
-**Correlated with**
+## Correlated with
 
 - [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) (bundled). [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md) puts chance and unpredictability at the same cloud end, though chaos shows a fully deterministic system can still have a short horizon.
 - [Full vs partial observability](full-vs-partial-observability.md) (logic). Russell and Norvig note that a deterministic world you can only half see looks random to you ([Task environment properties](../frameworks/1995-task-environment-properties.md)).
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (logic). Pure chance is one kind of doubt that no new data can shrink.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (by definition). The tails axis only applies once a problem is statistical. A deterministic problem has no spread of results, so it has no tails to speak of.
+
+## Citations
+
+[1] [Simplicity, disorganised complexity and organised complexity](../frameworks/1948-simplicity-disorganised-and-organised-complexity.md)
+
+[2] [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md)
+
+[3] [Task environment properties](../frameworks/1995-task-environment-properties.md)

@@ -1,13 +1,15 @@
 ---
-name: Garbage can model
+type: Framework
+title: Garbage can model
+description: >-
+  In many organisations problems, solutions, people and chances to decide drift about on their own and get matched by timing more than by logic. Solutions go looking for problems they can be the answer to. It is the law of the instrument at the scale of a whole organisation.
 date: 1972
 creators:
   - Michael Cohen
   - James March
   - Johan Olsen
-link: https://doi.org/10.2307/2392088
-summary: >-
-  In many organisations problems, solutions, people and chances to decide drift about on their own and get matched by timing more than by logic. Solutions go looking for problems they can be the answer to. It is the law of the instrument at the scale of a whole organisation.
+sources:
+  - resource: https://doi.org/10.2307/2392088
 ---
 
 # Garbage can model

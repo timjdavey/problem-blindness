@@ -1,14 +1,16 @@
 ---
-name: Cognitive continuum
+type: Framework
+title: Cognitive continuum
+description: >-
+  Tasks sit on a line from ones that suit intuition to ones that suit analysis. People do best when the way they think matches where the task sits. Ill-structured tasks with many cues pull towards intuition, while tasks with clear rules pull towards analysis.
 date: 1987
 creators:
   - Kenneth R. Hammond
   - Robert Hamm
   - Janet Grassia
   - Tamra Pearson
-link: https://doi.org/10.1109/TSMC.1987.6499282
-summary: >-
-  Tasks sit on a line from ones that suit intuition to ones that suit analysis. People do best when the way they think matches where the task sits. Ill-structured tasks with many cues pull towards intuition, while tasks with clear rules pull towards analysis.
+sources:
+  - resource: https://doi.org/10.1109/TSMC.1987.6499282
 ---
 
 # Cognitive continuum

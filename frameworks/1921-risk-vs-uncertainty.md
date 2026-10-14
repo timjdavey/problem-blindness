@@ -1,11 +1,13 @@
 ---
-name: Risk vs uncertainty
+type: Framework
+title: Risk vs uncertainty
+description: >-
+  Risk is when you know the odds, like a dice roll. Uncertainty is when you don't even know the odds, so you can't price it. Knight argued that profit comes from bearing the second kind.
 date: 1921
 creators:
   - Frank Knight
-link: https://en.wikipedia.org/wiki/Knightian_uncertainty
-summary: >-
-  Risk is when you know the odds, like a dice roll. Uncertainty is when you don't even know the odds, so you can't price it. Knight argued that profit comes from bearing the second kind.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Knightian_uncertainty
 ---
 
 # Risk vs uncertainty

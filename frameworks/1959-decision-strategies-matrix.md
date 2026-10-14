@@ -1,12 +1,14 @@
 ---
-name: Decision strategies matrix
+type: Framework
+title: Decision strategies matrix
+description: >-
+  Asks two questions. Do people agree on the goal, and do they agree on cause and effect? The four answers call for four strategies: computation, judgement, compromise and inspiration. It is the root of the Stacey matrix.
 date: 1959
 creators:
   - James D. Thompson
   - Arthur Tuden
-link: https://doi.org/10.2307/jj.6338492.16
-summary: >-
-  Asks two questions. Do people agree on the goal, and do they agree on cause and effect? The four answers call for four strategies: computation, judgement, compromise and inspiration. It is the root of the Stacey matrix.
+sources:
+  - resource: https://doi.org/10.2307/jj.6338492.16
 ---
 
 # Decision strategies matrix

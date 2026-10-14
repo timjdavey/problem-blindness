@@ -1,12 +1,14 @@
 ---
-name: Post-normal science
+type: Framework
+title: Post-normal science
+description: >-
+  Some questions have uncertain facts, disputed values, high stakes and urgent deadlines. Normal science can't settle them on its own. A wider group of people has to judge the quality of the answer, not only experts.
 date: 1993
 creators:
   - Silvio Funtowicz
   - Jerome Ravetz
-link: https://en.wikipedia.org/wiki/Post-normal_science
-summary: >-
-  Some questions have uncertain facts, disputed values, high stakes and urgent deadlines. Normal science can't settle them on its own. A wider group of people has to judge the quality of the answer, not only experts.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Post-normal_science
 ---
 
 # Post-normal science

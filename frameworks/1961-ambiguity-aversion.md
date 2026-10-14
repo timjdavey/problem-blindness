@@ -1,11 +1,13 @@
 ---
-name: Ambiguity aversion
+type: Framework
+title: Ambiguity aversion
+description: >-
+  People prefer a bet with known odds to one with unknown odds, even when the unknown bet is no worse. It shows that missing odds are a different kind of problem from bad odds.
 date: 1961
 creators:
   - Daniel Ellsberg
-link: https://en.wikipedia.org/wiki/Ellsberg_paradox
-summary: >-
-  People prefer a bet with known odds to one with unknown odds, even when the unknown bet is no worse. It shows that missing odds are a different kind of problem from bad odds.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Ellsberg_paradox
 ---
 
 # Ambiguity aversion

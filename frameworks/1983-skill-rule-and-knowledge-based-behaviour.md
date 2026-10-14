@@ -1,11 +1,13 @@
 ---
-name: Skill, rule and knowledge-based behaviour
+type: Framework
+title: Skill, rule and knowledge-based behaviour
+description: >-
+  Familiar tasks run on trained skill. Known situations run on rules. New situations need slow reasoning from first principles. Many errors come from using the wrong level for the task.
 date: 1983
 creators:
   - Jens Rasmussen
-link: https://doi.org/10.1109/TSMC.1983.6313160
-summary: >-
-  Familiar tasks run on trained skill. Known situations run on rules. New situations need slow reasoning from first principles. Many errors come from using the wrong level for the task.
+sources:
+  - resource: https://doi.org/10.1109/TSMC.1983.6313160
 ---
 
 # Skill, rule and knowledge-based behaviour

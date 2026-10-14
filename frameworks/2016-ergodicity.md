@@ -1,13 +1,15 @@
 ---
-name: Ergodicity
+type: Framework
+title: Ergodicity
+description: >-
+  Some bets look good on average across a crowd yet ruin almost everyone who keeps playing them. The test is whether the average over many people at one moment matches the average for one person over time. When it doesn't, expected value is the wrong guide.
 date: 2016
 cited_date: 2019
 creators:
   - Ole Peters
   - Murray Gell-Mann
-link: https://doi.org/10.1038/s41567-019-0732-0
-summary: >-
-  Some bets look good on average across a crowd yet ruin almost everyone who keeps playing them. The test is whether the average over many people at one moment matches the average for one person over time. When it doesn't, expected value is the wrong guide.
+sources:
+  - resource: https://doi.org/10.1038/s41567-019-0732-0
 ---
 
 # Ergodicity

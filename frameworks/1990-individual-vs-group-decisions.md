@@ -1,12 +1,14 @@
 ---
-name: Individual vs group decisions
+type: Framework
+title: Individual vs group decisions
+description: >-
+  Doctors make different choices for one patient than for a group of patients just like them. Seen alone, a case feels special, so it gets the extra test and skips the awkward question. A choice about one case is often really a policy for many, and it should be judged that way.
 date: 1990
 creators:
   - Donald Redelmeier
   - Amos Tversky
-link: https://doi.org/10.1056/NEJM199004193221620
-summary: >-
-  Doctors make different choices for one patient than for a group of patients just like them. Seen alone, a case feels special, so it gets the extra test and skips the awkward question. A choice about one case is often really a policy for many, and it should be judged that way.
+sources:
+  - resource: https://doi.org/10.1056/NEJM199004193221620
 ---
 
 # Individual vs group decisions

@@ -1,11 +1,13 @@
 ---
-name: Lucas critique
+type: Framework
+title: Lucas critique
+description: >-
+  Patterns in past economic data break once policy is built on them, because people change how they act when the rules change. A model of yesterday's behaviour fails on tomorrow's.
 date: 1976
 creators:
   - Robert Lucas
-link: https://en.wikipedia.org/wiki/Lucas_critique
-summary: >-
-  Patterns in past economic data break once policy is built on them, because people change how they act when the rules change. A model of yesterday's behaviour fails on tomorrow's.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Lucas_critique
 ---
 
 # Lucas critique

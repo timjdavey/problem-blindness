@@ -1,8 +1,23 @@
+---
+type: Axis
+title: Reversible vs irreversible
+description: Can you undo it if it goes wrong?
+group: decision
+easy_end: Reversible
+hard_end: Irreversible
+sources:
+  - resource: /frameworks/1973-tame-vs-wicked-problems.md
+    title: Tame vs wicked problems
+  - resource: /frameworks/2015-one-way-vs-two-way-doors.md
+    title: One-way vs two-way doors
+---
 # Reversible vs irreversible
 
-An axis in the [decision](README.md#the-decision) group.
+An axis in the [decision](index.md#the-decision) group.
 
 Can you undo it if it goes wrong? Trying a new recipe is a two way door. Selling the family home or cutting off a leg is a one way door.
+
+## Actions
 
 **Reversible**: Move fast and let the model act.
 - Ship small changes often and learn from what breaks. You can roll back.
@@ -14,9 +29,7 @@ Can you undo it if it goes wrong? Trying a new recipe is a two way door. Selling
 - Turn one way doors into two way ones where you can. Staging, soft deletes and a delay before a send all buy you an undo.
 - Gate only the actions that are hard to undo. Gating everything trains people to click approve without reading.
 
-**Sources.** [Tame vs wicked problems](../frameworks/1973-tame-vs-wicked-problems.md), [One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)
-
-**Correlated with**
+## Correlated with
 
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (by definition). All ruin is irreversible, but not every irreversible choice ruins you.
 - [Loose vs tight coupling](loose-vs-tight-coupling.md) (study). In [Normal accidents](../frameworks/1984-normal-accidents.md) faults cascade into damage that can't be undone before anyone can step in.
@@ -26,3 +39,9 @@ Can you undo it if it goes wrong? Trying a new recipe is a two way door. Selling
 - [Private vs accountable](private-vs-accountable.md) (logic). Bezos argues one-way doors deserve a slow process with many views ([One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)), and that brings scrutiny.
 - [Test vs watch](test-vs-watch.md) (logic). You can't run a fair test of a one way door, because there is no going back to try the other side.
 - [Convex vs concave payoff](convex-vs-concave-payoff.md) (logic). Cheap two way doors make tinkering convex, because you keep what works and walk back from what fails.
+
+## Citations
+
+[1] [Tame vs wicked problems](../frameworks/1973-tame-vs-wicked-problems.md)
+
+[2] [One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)

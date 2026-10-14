@@ -1,11 +1,13 @@
 ---
-name: Simplicity, disorganised complexity and organised complexity
+type: Framework
+title: Simplicity, disorganised complexity and organised complexity
+description: >-
+  Problems of simplicity have a few variables, like a planet's orbit. Problems of disorganised complexity have millions of parts that average out, so statistics works. Problems of organised complexity sit between the two. They have many parts that interact, like an economy or a living cell.
 date: 1948
 creators:
   - Warren Weaver
-link: https://en.wikipedia.org/wiki/Warren_Weaver
-summary: >-
-  Problems of simplicity have a few variables, like a planet's orbit. Problems of disorganised complexity have millions of parts that average out, so statistics works. Problems of organised complexity sit between the two. They have many parts that interact, like an economy or a living cell.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Warren_Weaver
 ---
 
 # Simplicity, disorganised complexity and organised complexity

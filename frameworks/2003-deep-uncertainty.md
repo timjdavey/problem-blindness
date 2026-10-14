@@ -1,13 +1,15 @@
 ---
-name: Deep uncertainty
+type: Framework
+title: Deep uncertainty
+description: >-
+  Parties can't agree on how the system works, how likely each outcome is, or how to value the outcomes. Instead of predicting, you look for plans that hold up across many possible futures. This grew into decision making under deep uncertainty (DMDU).
 date: 2003
 creators:
   - Robert Lempert
   - Steven Popper
   - Steven Bankes
-link: https://doi.org/10.7249/mr1626
-summary: >-
-  Parties can't agree on how the system works, how likely each outcome is, or how to value the outcomes. Instead of predicting, you look for plans that hold up across many possible futures. This grew into decision making under deep uncertainty (DMDU).
+sources:
+  - resource: https://doi.org/10.7249/mr1626
 ---
 
 # Deep uncertainty

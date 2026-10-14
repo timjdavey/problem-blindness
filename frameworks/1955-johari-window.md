@@ -1,12 +1,14 @@
 ---
-name: Johari window
+type: Framework
+title: Johari window
+description: >-
+  A two by two grid of what you know about yourself against what others know about you. Its four boxes look a lot like the later known and unknown unknowns, though nobody has shown that one came from the other.
 date: 1955
 creators:
   - Joseph Luft
   - Harrington Ingham
-link: https://en.wikipedia.org/wiki/Johari_window
-summary: >-
-  A two by two grid of what you know about yourself against what others know about you. Its four boxes look a lot like the later known and unknown unknowns, though nobody has shown that one came from the other.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Johari_window
 ---
 
 # Johari window

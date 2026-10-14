@@ -1,12 +1,14 @@
 ---
-name: Signal detection theory
+type: Framework
+title: Signal detection theory
+description: >-
+  Any yes or no call can go wrong in two ways. You can raise a false alarm or you can miss the real thing. Where you set the bar should depend on what each mistake costs and how common the real thing is, not on how often you are right overall.
 date: 1954
 creators:
   - Wilson Tanner
   - John Swets
-link: https://doi.org/10.1037/h0058700
-summary: >-
-  Any yes or no call can go wrong in two ways. You can raise a false alarm or you can miss the real thing. Where you set the bar should depend on what each mistake costs and how common the real thing is, not on how often you are right overall.
+sources:
+  - resource: https://doi.org/10.1037/h0058700
 ---
 
 # Signal detection theory

@@ -1,12 +1,14 @@
 ---
-name: Conditions for intuitive expertise
+type: Framework
+title: Conditions for intuitive expertise
+description: >-
+  Intuition can be trusted only when two things hold. The setting must be regular enough to learn, and the expert must have had long practice with quick, clear feedback. Without both, confident experts are often wrong.
 date: 2009
 creators:
   - Daniel Kahneman
   - Gary Klein
-link: https://doi.org/10.1037/a0016755
-summary: >-
-  Intuition can be trusted only when two things hold. The setting must be regular enough to learn, and the expert must have had long practice with quick, clear feedback. Without both, confident experts are often wrong.
+sources:
+  - resource: https://doi.org/10.1037/a0016755
 ---
 
 # Conditions for intuitive expertise

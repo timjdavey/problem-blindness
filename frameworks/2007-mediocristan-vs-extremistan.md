@@ -1,11 +1,13 @@
 ---
-name: Mediocristan vs Extremistan
+type: Framework
+title: Mediocristan vs Extremistan
+description: >-
+  In Mediocristan no single case moves the total much, like human height. In Extremistan one case can outweigh all the rest, like wealth or book sales. Averages and past data work in the first and mislead in the second.
 date: 2007
 creators:
   - Nassim Nicholas Taleb
-link: https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable
-summary: >-
-  In Mediocristan no single case moves the total much, like human height. In Extremistan one case can outweigh all the rest, like wealth or book sales. Averages and past data work in the first and mislead in the second.
+sources:
+  - resource: https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable
 ---
 
 # Mediocristan vs Extremistan

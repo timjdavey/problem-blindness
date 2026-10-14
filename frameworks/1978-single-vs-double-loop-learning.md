@@ -1,12 +1,14 @@
 ---
-name: Single vs double-loop learning
+type: Framework
+title: Single vs double-loop learning
+description: >-
+  Single-loop learning fixes errors against a fixed goal, like a thermostat. Double-loop learning questions the goal itself. Some problems can only be solved by the second kind.
 date: 1978
 creators:
   - Chris Argyris
   - Donald Schön
-link: https://en.wikipedia.org/wiki/Double-loop_learning
-summary: >-
-  Single-loop learning fixes errors against a fixed goal, like a thermostat. Double-loop learning questions the goal itself. Some problems can only be solved by the second kind.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Double-loop_learning
 ---
 
 # Single vs double-loop learning

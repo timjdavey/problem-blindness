@@ -1,11 +1,13 @@
 ---
-name: Programmed vs non-programmed decisions
+type: Framework
+title: Programmed vs non-programmed decisions
+description: >-
+  Programmed decisions come round often in the same form, so a fixed procedure can make them. Non-programmed decisions are new, messy and high stakes, so they need judgement. The mistake runs both ways: writing rules for one-off calls and treating everyday calls as special.
 date: 1960
 creators:
   - Herbert Simon
-link: https://archive.org/details/newscienceofmana00simo
-summary: >-
-  Programmed decisions come round often in the same form, so a fixed procedure can make them. Non-programmed decisions are new, messy and high stakes, so they need judgement. The mistake runs both ways: writing rules for one-off calls and treating everyday calls as special.
+sources:
+  - resource: https://archive.org/details/newscienceofmana00simo
 ---
 
 # Programmed vs non-programmed decisions

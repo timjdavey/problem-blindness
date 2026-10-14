@@ -1,11 +1,13 @@
 ---
-name: Technical vs adaptive challenges
+type: Framework
+title: Technical vs adaptive challenges
+description: >-
+  A technical problem can be solved with known expertise, like setting a broken leg. An adaptive challenge needs the people involved to change their values, habits or beliefs. No expert can solve it for them.
 date: 1994
 creators:
   - Ronald Heifetz
-link: https://en.wikipedia.org/wiki/Ronald_Heifetz
-summary: >-
-  A technical problem can be solved with known expertise, like setting a broken leg. An adaptive challenge needs the people involved to change their values, habits or beliefs. No expert can solve it for them.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Ronald_Heifetz
 ---
 
 # Technical vs adaptive challenges

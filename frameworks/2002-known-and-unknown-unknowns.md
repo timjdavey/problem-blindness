@@ -1,11 +1,13 @@
 ---
-name: Known and unknown unknowns
+type: Framework
+title: Known and unknown unknowns
+description: >-
+  Known knowns are things we know. Known unknowns are gaps we know about. Unknown unknowns are gaps we don't even know to look for, and they cause the worst surprises. The idea is older, but Rumsfeld made it famous.
 date: 2002
 creators:
   - Donald Rumsfeld
-link: https://en.wikipedia.org/wiki/There_are_unknown_unknowns
-summary: >-
-  Known knowns are things we know. Known unknowns are gaps we know about. Unknown unknowns are gaps we don't even know to look for, and they cause the worst surprises. The idea is older, but Rumsfeld made it famous.
+sources:
+  - resource: https://en.wikipedia.org/wiki/There_are_unknown_unknowns
 ---
 
 # Known and unknown unknowns

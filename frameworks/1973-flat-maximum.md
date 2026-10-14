@@ -1,13 +1,15 @@
 ---
-name: Flat maximum
+type: Framework
+title: Flat maximum
+description: >-
+  Near the best answer the payoff is often flat, so small errors in your weights or choices cost little. Where the payoff is peaked, the last bit of tuning matters a lot.
 date: 1973
 cited_date: 1982
 creators:
   - Detlof von Winterfeldt
   - Ward Edwards
-link: https://doi.org/10.1037/0033-2909.91.3.609
-summary: >-
-  Near the best answer the payoff is often flat, so small errors in your weights or choices cost little. Where the payoff is peaked, the last bit of tuning matters a lot.
+sources:
+  - resource: https://doi.org/10.1037/0033-2909.91.3.609
 ---
 
 # Flat maximum

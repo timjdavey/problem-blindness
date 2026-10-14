@@ -1,12 +1,14 @@
 ---
-name: No free lunch
+type: Framework
+title: No free lunch
+description: >-
+  Averaged over every possible problem, all search methods do exactly as well as each other. A method only wins by matching the shape of the problem in front of it. There is no best tool in general.
 date: 1997
 creators:
   - David Wolpert
   - William Macready
-link: https://doi.org/10.1109/4235.585893
-summary: >-
-  Averaged over every possible problem, all search methods do exactly as well as each other. A method only wins by matching the shape of the problem in front of it. There is no best tool in general.
+sources:
+  - resource: https://doi.org/10.1109/4235.585893
 ---
 
 # No free lunch

@@ -1,8 +1,35 @@
+---
+type: Axis
+title: Shared vs contested values
+description: Does everyone agree what a good result looks like?
+group: decision
+easy_end: Shared
+hard_end: Contested
+sources:
+  - resource: /frameworks/1959-decision-strategies-matrix.md
+    title: Decision strategies matrix
+  - resource: /frameworks/1973-tame-vs-wicked-problems.md
+    title: Tame vs wicked problems
+  - resource: /frameworks/1981-hard-vs-soft-systems.md
+    title: Hard vs soft systems
+  - resource: /frameworks/1993-post-normal-science.md
+    title: Post-normal science
+  - resource: /frameworks/1994-technical-vs-adaptive-challenges.md
+    title: Technical vs adaptive challenges
+  - resource: /frameworks/1996-stacey-matrix.md
+    title: Stacey matrix
+  - resource: /frameworks/2000-simple-complex-and-wicked.md
+    title: Simple, complex and wicked
+  - resource: /frameworks/2003-deep-uncertainty.md
+    title: Deep uncertainty
+---
 # Shared vs contested values
 
-An axis in the [decision](README.md#the-decision) group.
+An axis in the [decision](index.md#the-decision) group.
 
 Does everyone agree what a good result looks like? A bridge should stay up, and nobody argues. Where to build the bridge, and whose homes it passes, depends on whose interests count.
+
+## Actions
 
 **Shared**: Go straight to the technical work.
 - Let experts build it and judge it. Everyone agrees what good looks like.
@@ -14,9 +41,7 @@ Does everyone agree what a good result looks like? A bridge should stay up, and 
 - Let people outside the team challenge the choices. An outside review catches the side you didn't know you took.
 - Don't ship one side's view as neutral fact. If nobody asks whose side a model is on, that is what it does.
 
-**Sources.** [Decision strategies matrix](../frameworks/1959-decision-strategies-matrix.md), [Tame vs wicked problems](../frameworks/1973-tame-vs-wicked-problems.md), [Hard vs soft systems](../frameworks/1981-hard-vs-soft-systems.md), [Post-normal science](../frameworks/1993-post-normal-science.md), [Technical vs adaptive challenges](../frameworks/1994-technical-vs-adaptive-challenges.md), [Stacey matrix](../frameworks/1996-stacey-matrix.md), [Simple, complex and wicked](../frameworks/2000-simple-complex-and-wicked.md), [Deep uncertainty](../frameworks/2003-deep-uncertainty.md)
-
-**Correlated with**
+## Correlated with
 
 - [Neutral vs adversarial](neutral-vs-adversarial.md) (logic). Rivals often want different things, so the two tend to come together. But two players in a [zero-sum game](../frameworks/1944-zero-sum-vs-non-zero-sum-games.md) agree on what winning means. They each just want to be the winner. Contested values is a fight over what a good result even is.
 - [Known vs unknown odds](known-vs-unknown-odds.md) and [Slack vs time pressure](slack-vs-time-pressure.md) (bundled). [Post-normal science](../frameworks/1993-post-normal-science.md) joins disputed values with uncertain facts and urgent deadlines, and [Deep uncertainty](../frameworks/2003-deep-uncertainty.md) joins them with unknown odds. [Stirling](../frameworks/2007-incertitude-matrix.md) and [Thompson and Tuden](../frameworks/1959-decision-strategies-matrix.md) keep facts and values apart, so this is a link in practice, not by definition.
@@ -28,3 +53,21 @@ Does everyone agree what a good result looks like? A bridge should stay up, and 
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (bundled). [Heifetz](../frameworks/1994-technical-vs-adaptive-challenges.md) says adaptive work often means people giving up something they value. [Super wicked problems](../frameworks/2007-super-wicked-problems.md) have nobody in charge to settle whose interests count.
 - [Commensurable vs incommensurable values](commensurable-vs-incommensurable-values.md) (independent). Everyone can agree a child's life is sacred and still face a budget.
 - [Even vs lopsided errors](even-vs-lopsided-errors.md) (logic). How much worse a miss is than a false alarm is a value judgement, so people fight over where to set the bar.
+
+## Citations
+
+[1] [Decision strategies matrix](../frameworks/1959-decision-strategies-matrix.md)
+
+[2] [Tame vs wicked problems](../frameworks/1973-tame-vs-wicked-problems.md)
+
+[3] [Hard vs soft systems](../frameworks/1981-hard-vs-soft-systems.md)
+
+[4] [Post-normal science](../frameworks/1993-post-normal-science.md)
+
+[5] [Technical vs adaptive challenges](../frameworks/1994-technical-vs-adaptive-challenges.md)
+
+[6] [Stacey matrix](../frameworks/1996-stacey-matrix.md)
+
+[7] [Simple, complex and wicked](../frameworks/2000-simple-complex-and-wicked.md)
+
+[8] [Deep uncertainty](../frameworks/2003-deep-uncertainty.md)

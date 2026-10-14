@@ -1,12 +1,14 @@
 ---
-name: Agency costs
+type: Framework
+title: Agency costs
+description: >-
+  When one person decides and someone else pays for the mistakes, the person deciding takes risks they would never take with their own money. That gap is a real cost, and someone pays it in checks, in contracts or in losses.
 date: 1976
 creators:
   - Michael Jensen
   - William Meckling
-link: https://doi.org/10.1016/0304-405X(76)90026-X
-summary: >-
-  When one person decides and someone else pays for the mistakes, the person deciding takes risks they would never take with their own money. That gap is a real cost, and someone pays it in checks, in contracts or in losses.
+sources:
+  - resource: https://doi.org/10.1016/0304-405X(76)90026-X
 ---
 
 # Agency costs

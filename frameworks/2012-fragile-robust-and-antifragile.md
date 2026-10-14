@@ -1,11 +1,13 @@
 ---
-name: Fragile, robust and antifragile
+type: Framework
+title: Fragile, robust and antifragile
+description: >-
+  Sorts things by how they respond to shocks. Fragile things break, robust things stay the same and antifragile things get better. What matters is the shape of your exposure, not the accuracy of your forecast.
 date: 2012
 creators:
   - Nassim Nicholas Taleb
-link: https://en.wikipedia.org/wiki/Antifragility
-summary: >-
-  Sorts things by how they respond to shocks. Fragile things break, robust things stay the same and antifragile things get better. What matters is the shape of your exposure, not the accuracy of your forecast.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Antifragility
 ---
 
 # Fragile, robust and antifragile

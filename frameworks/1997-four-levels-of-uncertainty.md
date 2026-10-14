@@ -1,13 +1,15 @@
 ---
-name: Four levels of uncertainty
+type: Framework
+title: Four levels of uncertainty
+description: >-
+  A strategy faces one of four levels. There may be a clear enough future, a few distinct futures, a range of futures, or true ambiguity. Each level needs different tools, and firms go wrong by treating every case as the first.
 date: 1997
 creators:
   - Hugh Courtney
   - Jane Kirkland
   - Patrick Viguerie
-link: https://hbr.org/1997/11/strategy-under-uncertainty
-summary: >-
-  A strategy faces one of four levels. There may be a clear enough future, a few distinct futures, a range of futures, or true ambiguity. Each level needs different tools, and firms go wrong by treating every case as the first.
+sources:
+  - resource: https://hbr.org/1997/11/strategy-under-uncertainty
 ---
 
 # Four levels of uncertainty

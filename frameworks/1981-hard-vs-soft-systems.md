@@ -1,11 +1,13 @@
 ---
-name: Hard vs soft systems
+type: Framework
+title: Hard vs soft systems
+description: >-
+  In a hard problem people agree on the goal, so the job is to find the best way to reach it. In a soft problem people see the situation differently. The first job is to agree on what the problem is.
 date: 1981
 creators:
   - Peter Checkland
-link: https://en.wikipedia.org/wiki/Soft_systems_methodology
-summary: >-
-  In a hard problem people agree on the goal, so the job is to find the best way to reach it. In a soft problem people see the situation differently. The first job is to agree on what the problem is.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Soft_systems_methodology
 ---
 
 # Hard vs soft systems

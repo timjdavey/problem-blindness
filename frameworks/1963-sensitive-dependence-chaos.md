@@ -1,11 +1,13 @@
 ---
-name: Sensitive dependence (chaos)
+type: Framework
+title: Sensitive dependence (chaos)
+description: >-
+  In some systems a tiny change at the start grows into a huge change later. Long range forecasts fail even when you know the rules perfectly. This is called the butterfly effect.
 date: 1963
 creators:
   - Edward Lorenz
-link: https://en.wikipedia.org/wiki/Butterfly_effect
-summary: >-
-  In some systems a tiny change at the start grows into a huge change later. Long range forecasts fail even when you know the rules perfectly. This is called the butterfly effect.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Butterfly_effect
 ---
 
 # Sensitive dependence (chaos)

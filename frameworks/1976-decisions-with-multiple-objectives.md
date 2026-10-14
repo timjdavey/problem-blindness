@@ -1,12 +1,14 @@
 ---
-name: Decisions with multiple objectives
+type: Framework
+title: Decisions with multiple objectives
+description: >-
+  Many problems have several goals that pull against each other. No single best answer exists until you say how much of one goal you would give up to get more of another.
 date: 1976
 creators:
   - Ralph Keeney
   - Howard Raiffa
-link: https://doi.org/10.1017/CBO9781139174084
-summary: >-
-  Many problems have several goals that pull against each other. No single best answer exists until you say how much of one goal you would give up to get more of another.
+sources:
+  - resource: https://doi.org/10.1017/CBO9781139174084
 ---
 
 # Decisions with multiple objectives

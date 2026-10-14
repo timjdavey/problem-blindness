@@ -1,8 +1,25 @@
+---
+type: Axis
+title: Satisficing vs optimising
+description: Is good enough fine, or does the last bit matter?
+group: decision
+easy_end: Satisficing
+hard_end: Optimising
+sources:
+  - resource: /frameworks/1956-satisficing.md
+    title: Satisficing
+  - resource: /frameworks/1973-flat-maximum.md
+    title: Flat maximum
+  - resource: /frameworks/1999-ecological-rationality.md
+    title: Ecological rationality
+---
 # Satisficing vs optimising
 
-An axis in the [decision](README.md#the-decision) group.
+An axis in the [decision](index.md#the-decision) group.
 
 Is good enough fine, or does the last bit matter? Picking a lunch spot is satisficing. Setting the dose of a strong drug, or tuning a racing car, needs the best answer you can find.
+
+## Actions
 
 **Satisficing**: Set a bar and stop when you clear it.
 - Ship the first model that meets the need. More tuning past the bar is waste.
@@ -13,12 +30,18 @@ Is good enough fine, or does the last bit matter? Picking a lunch spot is satisf
 - Confirm the gain on fresh data. Otherwise you may just be fitting the test set.
 - Check the gain is real before you pay for it. Small gaps between models often vanish when you rerun them.
 
-**Sources.** [Satisficing](../frameworks/1956-satisficing.md), [Flat maximum](../frameworks/1973-flat-maximum.md), [Ecological rationality](../frameworks/1999-ecological-rationality.md)
-
-**Correlated with**
+## Correlated with
 
 - [Smooth vs rugged](smooth-vs-rugged.md) and [Tractable vs intractable search](tractable-vs-intractable-search.md) (tension). Needing the best answer when the land is rugged or the search is too big is the hardest case. Small steps stop on the nearest peak, and the [NP problems](../frameworks/1971-np-problems.md) note advises settling for a good answer.
 - [Slack vs time pressure](slack-vs-time-pressure.md) (tension). Needing the best answer with no time to look for it is a clash. Simon's point was that limited time and attention push people to good enough, and Klein's fire commanders took the first plan that would work rather than compare options ([Satisficing](../frameworks/1956-satisficing.md)).
 - [Single vs multiple objectives](single-vs-multiple-objectives.md) (opposite). "Best" needs one agreed score, so several goals push you towards good enough.
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (tension). You can't claim you found the best answer if you can't check it.
 - [Convergent vs divergent](convergent-vs-divergent.md) (opposite). With many good answers there is no single best one to chase.
+
+## Citations
+
+[1] [Satisficing](../frameworks/1956-satisficing.md)
+
+[2] [Flat maximum](../frameworks/1973-flat-maximum.md)
+
+[3] [Ecological rationality](../frameworks/1999-ecological-rationality.md)

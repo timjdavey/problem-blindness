@@ -1,11 +1,13 @@
 ---
-name: Fourth quadrant
+type: Framework
+title: Fourth quadrant
+description: >-
+  A grid of how complex the payoff is against how wild the odds are. Simple bets in tame worlds are safe to model. Complex payoffs in fat-tailed worlds form the fourth quadrant, where statistics break down and errors cost the most.
 date: 2008
 creators:
   - Nassim Nicholas Taleb
-link: https://www.edge.org/conversation/nassim_nicholas_taleb-the-fourth-quadrant-a-map-of-the-limits-of-statistics
-summary: >-
-  A grid of how complex the payoff is against how wild the odds are. Simple bets in tame worlds are safe to model. Complex payoffs in fat-tailed worlds form the fourth quadrant, where statistics break down and errors cost the most.
+sources:
+  - resource: https://www.edge.org/conversation/nassim_nicholas_taleb-the-fourth-quadrant-a-map-of-the-limits-of-statistics
 ---
 
 # Fourth quadrant

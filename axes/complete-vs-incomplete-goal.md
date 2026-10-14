@@ -1,8 +1,25 @@
+---
+type: Axis
+title: Complete vs incomplete goal
+description: Does the score capture everything you want?
+group: decision
+easy_end: Complete
+hard_end: Incomplete
+sources:
+  - resource: /frameworks/1975-goodharts-law.md
+    title: Goodhart's law
+  - resource: /frameworks/1976-campbells-law.md
+    title: Campbell's law
+  - resource: /frameworks/2017-need-for-interpretability.md
+    title: Need for interpretability
+---
 # Complete vs incomplete goal
 
-An axis in the [decision](README.md#the-decision) group.
+An axis in the [decision](index.md#the-decision) group.
 
 Does the score capture everything you want? A machine that sorts letters by postcode has a complete goal, since reading the code right is the whole job. From 2014 Amazon built a tool that rated job applicants by learning from ten years of past CVs. It marked down CVs with the word "women's", because fairness was never in the score. Finale Doshi-Velez and Been Kim call this gap incompleteness.
+
+## Actions
 
 **Complete**: Optimise the score.
 - Push the metric up. If the metric is the whole job, pushing it up is doing the job.
@@ -14,9 +31,7 @@ Does the score capture everything you want? A machine that sorts letters by post
 - Have people read outputs for harms no number catches. Amazon's CV tool learnt to mark down women because nobody had scored it for fairness.
 - Expect the model to find the gaps in the score and exploit them. This is called reward hacking.
 
-**Sources.** [Goodhart's law](../frameworks/1975-goodharts-law.md), [Campbell's law](../frameworks/1976-campbells-law.md), [Need for interpretability](../frameworks/2017-need-for-interpretability.md)
-
-**Correlated with**
+## Correlated with
 
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (independent). A score can be quick to check and still miss what you want. Amazon could test its star ratings against past hires, but that only checked the score.
 - [Well-posed vs ill-posed](well-posed-vs-ill-posed.md) (logic). If you can't state the goal, you can't score all of it. The reverse doesn't hold, since rating CVs looked well posed and the score still left out fairness.
@@ -27,3 +42,11 @@ Does the score capture everything you want? A machine that sorts letters by post
 - [Commensurable vs incommensurable values](commensurable-vs-incommensurable-values.md) (logic). A single score has to price everything, so a sacred value is left out or priced where nobody can see.
 - [Even vs lopsided errors](even-vs-lopsided-errors.md) (logic). Plain accuracy counts a missed cancer and a false scare as the same mistake.
 - [Skin in the game vs none](skin-in-the-game-vs-none.md) (logic). An agent scored on fees or loans signed has a score that leaves out the owner's loss.
+
+## Citations
+
+[1] [Goodhart's law](../frameworks/1975-goodharts-law.md)
+
+[2] [Campbell's law](../frameworks/1976-campbells-law.md)
+
+[3] [Need for interpretability](../frameworks/2017-need-for-interpretability.md)

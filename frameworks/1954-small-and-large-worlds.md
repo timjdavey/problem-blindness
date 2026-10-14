@@ -1,11 +1,13 @@
 ---
-name: Small and large worlds
+type: Framework
+title: Small and large worlds
+description: >-
+  In a small world you can list every state of the world and every act before you choose, so you can look before you leap. In a large world some bridges can only be crossed when you reach them. Theories of rational choice work in the first kind and mislead in the second.
 date: 1954
 creators:
   - Leonard Savage
-link: https://archive.org/details/foundationsofsta0000sava
-summary: >-
-  In a small world you can list every state of the world and every act before you choose, so you can look before you leap. In a large world some bridges can only be crossed when you reach them. Theories of rational choice work in the first kind and mislead in the second.
+sources:
+  - resource: https://archive.org/details/foundationsofsta0000sava
 ---
 
 # Small and large worlds

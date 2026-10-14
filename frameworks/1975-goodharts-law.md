@@ -1,11 +1,13 @@
 ---
-name: Goodhart's law
+type: Framework
+title: Goodhart's law
+description: >-
+  When a measure becomes a target, it stops being a good measure. People game whatever you count, so the problem shifts in response to how you track it. Marilyn Strathern gave it its famous wording in 1997.
 date: 1975
 creators:
   - Charles Goodhart
-link: https://en.wikipedia.org/wiki/Goodhart%27s_law
-summary: >-
-  When a measure becomes a target, it stops being a good measure. People game whatever you count, so the problem shifts in response to how you track it. Marilyn Strathern gave it its famous wording in 1997.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Goodhart%27s_law
 ---
 
 # Goodhart's law

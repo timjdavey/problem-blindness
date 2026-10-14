@@ -1,11 +1,13 @@
 ---
-name: Clinical vs statistical prediction
+type: Framework
+title: Clinical vs statistical prediction
+description: >-
+  Meehl compared expert judgement with simple formulas across many prediction tasks. In noisy, repeated decisions the formulas matched or beat the experts almost every time. It marks out the problems where gut feel is the wrong tool.
 date: 1954
 creators:
   - Paul Meehl
-link: https://en.wikipedia.org/wiki/Paul_E._Meehl
-summary: >-
-  Meehl compared expert judgement with simple formulas across many prediction tasks. In noisy, repeated decisions the formulas matched or beat the experts almost every time. It marks out the problems where gut feel is the wrong tool.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Paul_E._Meehl
 ---
 
 # Clinical vs statistical prediction

@@ -1,11 +1,13 @@
 ---
-name: Value-focused thinking
+type: Framework
+title: Value-focused thinking
+description: >-
+  Most decisions start with a list of options and ask which is best. Value-focused thinking starts with what you want and uses it to design options nobody had put on the table. The best answer is often one you had to invent.
 date: 1992
 creators:
   - Ralph Keeney
-link: https://archive.org/details/valuefocusedthin0000keen
-summary: >-
-  Most decisions start with a list of options and ask which is best. Value-focused thinking starts with what you want and uses it to design options nobody had put on the table. The best answer is often one you had to invent.
+sources:
+  - resource: https://archive.org/details/valuefocusedthin0000keen
 ---
 
 # Value-focused thinking

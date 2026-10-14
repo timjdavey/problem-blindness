@@ -1,14 +1,16 @@
 ---
-name: Kind vs wicked learning environments
+type: Framework
+title: Kind vs wicked learning environments
+description: >-
+  In a kind environment feedback is quick, accurate and matches the real task, so experience teaches you well. In a wicked environment feedback is missing, late or misleading. Experience there can teach you the wrong lesson.
 date: 2001
 cited_date: 2015
 creators:
   - Robin Hogarth
   - Tomás Lejarraga
   - Emre Soyer
-link: https://doi.org/10.1177/0963721415591878
-summary: >-
-  In a kind environment feedback is quick, accurate and matches the real task, so experience teaches you well. In a wicked environment feedback is missing, late or misleading. Experience there can teach you the wrong lesson.
+sources:
+  - resource: https://doi.org/10.1177/0963721415591878
 ---
 
 # Kind vs wicked learning environments

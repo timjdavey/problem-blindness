@@ -1,11 +1,13 @@
 ---
-name: High ground vs swampy lowlands
+type: Framework
+title: High ground vs swampy lowlands
+description: >-
+  On the high ground problems are tidy and theory solves them. In the swamp they are messy and confusing, and they are often the ones that matter most. Professionals tend to stay on the high ground and solve the wrong problem well.
 date: 1983
 creators:
   - Donald Schön
-link: https://en.wikipedia.org/wiki/Donald_Sch%C3%B6n
-summary: >-
-  On the high ground problems are tidy and theory solves them. In the swamp they are messy and confusing, and they are often the ones that matter most. Professionals tend to stay on the high ground and solve the wrong problem well.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Donald_Sch%C3%B6n
 ---
 
 # High ground vs swampy lowlands

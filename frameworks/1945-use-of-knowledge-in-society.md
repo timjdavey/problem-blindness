@@ -1,11 +1,13 @@
 ---
-name: Use of knowledge in society
+type: Framework
+title: Use of knowledge in society
+description: >-
+  Some answers need general knowledge that anyone can learn from a book. Others hang on facts about this place at this moment, which only the person on the spot has. Central planners, and AI models trained on general text, go wrong when they treat the second kind as the first.
 date: 1945
 creators:
   - Friedrich Hayek
-link: https://www.jstor.org/stable/1809376
-summary: >-
-  Some answers need general knowledge that anyone can learn from a book. Others hang on facts about this place at this moment, which only the person on the spot has. Central planners, and AI models trained on general text, go wrong when they treat the second kind as the first.
+sources:
+  - resource: https://www.jstor.org/stable/1809376
 ---
 
 # Use of knowledge in society

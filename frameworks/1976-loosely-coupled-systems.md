@@ -1,11 +1,13 @@
 ---
-name: Loosely coupled systems
+type: Framework
+title: Loosely coupled systems
+description: >-
+  In some organisations the parts respond to each other only weakly and slowly. That makes them hard to steer from the top. It also stops a failure in one part spreading to the rest.
 date: 1976
 creators:
   - Karl Weick
-link: https://doi.org/10.2307/2391875
-summary: >-
-  In some organisations the parts respond to each other only weakly and slowly. That makes them hard to steer from the top. It also stops a failure in one part spreading to the rest.
+sources:
+  - resource: https://doi.org/10.2307/2391875
 ---
 
 # Loosely coupled systems

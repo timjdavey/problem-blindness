@@ -1,11 +1,13 @@
 ---
-name: Campbell's law
+type: Framework
+title: Campbell's law
+description: >-
+  The more a number is used to make social decisions, the more it gets corrupted. It also warps the very thing it was meant to measure. It is the social science cousin of Goodhart's law.
 date: 1976
 creators:
   - Donald T. Campbell
-link: https://en.wikipedia.org/wiki/Campbell%27s_law
-summary: >-
-  The more a number is used to make social decisions, the more it gets corrupted. It also warps the very thing it was meant to measure. It is the social science cousin of Goodhart's law.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Campbell%27s_law
 ---
 
 # Campbell's law

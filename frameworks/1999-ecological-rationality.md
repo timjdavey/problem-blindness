@@ -1,13 +1,15 @@
 ---
-name: Ecological rationality
+type: Framework
+title: Ecological rationality
+description: >-
+  A rule of thumb is not good or bad in itself, only good or bad for a given setting. Simple rules can beat complex models when data is scarce and the odds are uncertain. They lose when data is plentiful and the world holds still.
 date: 1999
 creators:
   - Gerd Gigerenzer
   - Peter Todd
   - ABC Research Group
-link: https://openlibrary.org/books/OL388028M
-summary: >-
-  A rule of thumb is not good or bad in itself, only good or bad for a given setting. Simple rules can beat complex models when data is scarce and the odds are uncertain. They lose when data is plentiful and the world holds still.
+sources:
+  - resource: https://openlibrary.org/books/OL388028M
 ---
 
 # Ecological rationality

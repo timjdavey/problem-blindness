@@ -1,13 +1,15 @@
 ---
-name: NP problems
+type: Framework
+title: NP problems
+description: >-
+  Some problems are hard to solve but easy to check, like a sudoku. Finding the answer may take ages. Once someone hands you an answer, you can test it fast.
 date: 1971
 creators:
   - Stephen Cook
   - Richard Karp
   - Leonid Levin
-link: https://en.wikipedia.org/wiki/NP-completeness
-summary: >-
-  Some problems are hard to solve but easy to check, like a sudoku. Finding the answer may take ages. Once someone hands you an answer, you can test it fast.
+sources:
+  - resource: https://en.wikipedia.org/wiki/NP-completeness
 ---
 
 # NP problems

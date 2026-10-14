@@ -1,12 +1,14 @@
 ---
-name: Uncertainty vs equivocality
+type: Framework
+title: Uncertainty vs equivocality
+description: >-
+  Uncertainty is missing information, so you fix it by finding out more. Equivocality is a situation with several clashing meanings, so more data won't settle it. It needs people talking until they agree what is going on.
 date: 1986
 creators:
   - Richard Daft
   - Robert Lengel
-link: https://doi.org/10.1287/mnsc.32.5.554
-summary: >-
-  Uncertainty is missing information, so you fix it by finding out more. Equivocality is a situation with several clashing meanings, so more data won't settle it. It needs people talking until they agree what is going on.
+sources:
+  - resource: https://doi.org/10.1287/mnsc.32.5.554
 ---
 
 # Uncertainty vs equivocality

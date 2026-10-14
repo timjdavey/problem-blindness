@@ -1,11 +1,13 @@
 ---
-name: Near decomposability
+type: Framework
+title: Near decomposability
+description: >-
+  Many complex systems are built from parts that interact strongly inside and weakly between. If a problem breaks up like this you can solve it one part at a time. If it doesn't, every fix touches everything else.
 date: 1962
 creators:
   - Herbert Simon
-link: https://en.wikipedia.org/wiki/Herbert_A._Simon
-summary: >-
-  Many complex systems are built from parts that interact strongly inside and weakly between. If a problem breaks up like this you can solve it one part at a time. If it doesn't, every fix touches everything else.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Herbert_A._Simon
 ---
 
 # Near decomposability

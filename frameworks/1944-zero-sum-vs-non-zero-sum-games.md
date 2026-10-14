@@ -1,12 +1,14 @@
 ---
-name: Zero-sum vs non-zero-sum games
+type: Framework
+title: Zero-sum vs non-zero-sum games
+description: >-
+  In a zero-sum game one side's gain is the other's loss, so you face an opponent who adapts to you. In a non-zero-sum game both sides can win or lose together.
 date: 1944
 creators:
   - John von Neumann
   - Oskar Morgenstern
-link: https://en.wikipedia.org/wiki/Zero-sum_game
-summary: >-
-  In a zero-sum game one side's gain is the other's loss, so you face an opponent who adapts to you. In a non-zero-sum game both sides can win or lose together.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Zero-sum_game
 ---
 
 # Zero-sum vs non-zero-sum games

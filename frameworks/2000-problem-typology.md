@@ -1,11 +1,13 @@
 ---
-name: Problem typology
+type: Framework
+title: Problem typology
+description: >-
+  Lists eleven kinds of problem, from logic puzzles to design problems and dilemmas. They differ in how structured, how complex and how tied to their setting they are. Each kind needs to be taught and solved in a different way.
 date: 2000
 creators:
   - David Jonassen
-link: https://doi.org/10.1007/BF02300500
-summary: >-
-  Lists eleven kinds of problem, from logic puzzles to design problems and dilemmas. They differ in how structured, how complex and how tied to their setting they are. Each kind needs to be taught and solved in a different way.
+sources:
+  - resource: https://doi.org/10.1007/BF02300500
 ---
 
 # Problem typology

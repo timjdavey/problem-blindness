@@ -1,12 +1,14 @@
 ---
-name: Taboo trade-offs
+type: Framework
+title: Taboo trade-offs
+description: >-
+  People trade time against money every day without a second thought. Trading money against a child's life feels wrong even to consider, because it treats a sacred value as something with a price. Methods that turn every value into one score break on these problems.
 date: 1997
 creators:
   - Alan Fiske
   - Philip Tetlock
-link: https://doi.org/10.1111/0162-895X.00058
-summary: >-
-  People trade time against money every day without a second thought. Trading money against a child's life feels wrong even to consider, because it treats a sacred value as something with a price. Methods that turn every value into one score break on these problems.
+sources:
+  - resource: https://doi.org/10.1111/0162-895X.00058
 ---
 
 # Taboo trade-offs

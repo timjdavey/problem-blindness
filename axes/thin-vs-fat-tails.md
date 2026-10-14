@@ -1,8 +1,23 @@
+---
+type: Axis
+title: Thin vs fat tails
+description: When results are statistical, how extreme can a single one get?
+group: world
+easy_end: Thin
+hard_end: Fat
+sources:
+  - resource: /frameworks/2007-mediocristan-vs-extremistan.md
+    title: Mediocristan vs Extremistan
+  - resource: /frameworks/2008-fourth-quadrant.md
+    title: Fourth quadrant
+---
 # Thin vs fat tails
 
-An axis in the [world](README.md#the-world) group.
+An axis in the [world](index.md#the-world) group.
 
 When results are statistical, how extreme can a single one get? Heights are thin tailed, so the average tells you a lot. Floods, pandemics and startup returns are fat tailed, so one outlier can outweigh everything else and past averages mislead you.
+
+## Actions
 
 **Thin**: Trust the average.
 - Use mean error on a test set as your guide. With thin tails a few odd cases won't change the picture.
@@ -14,9 +29,7 @@ When results are statistical, how extreme can a single one get? Heights are thin
 - Cap exposure with limits on size or spend. No single prediction should be able to do unbounded harm.
 - Don't read a long calm run as proof of safety. Banks in 2007 had years of quiet data, and it said nothing about 2008.
 
-**Sources.** [Mediocristan vs Extremistan](../frameworks/2007-mediocristan-vs-extremistan.md), [Fourth quadrant](../frameworks/2008-fourth-quadrant.md)
-
-**Correlated with**
+## Correlated with
 
 - [Deterministic vs statistical](deterministic-vs-statistical.md) (by definition). This axis sits inside that one. It only applies near the statistical end, because a deterministic problem has no spread to have tails.
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (bundled). The [Fourth quadrant](../frameworks/2008-fourth-quadrant.md) and [Ergodicity](../frameworks/2016-ergodicity.md) both warn that one extreme outcome can end the game.
@@ -27,3 +40,9 @@ When results are statistical, how extreme can a single one get? Heights are thin
 - [Additive vs multiplicative](additive-vs-multiplicative.md) (logic). Compounding piles the gains on a lucky few. In Peters' coin game the crowd's average keeps rising only because a handful of players get vastly rich ([Ergodicity](../frameworks/2016-ergodicity.md)).
 - [Small vs large world](small-vs-large-world.md) (logic). The worst outcomes are often ones nobody listed, which is what Taleb means by a black swan.
 - [Convex vs concave payoff](convex-vs-concave-payoff.md) (bundled). The [Fourth quadrant](../frameworks/2008-fourth-quadrant.md) is a fat tailed world met with a payoff whose shape you don't understand. You can't change the tails, but you can often change your exposure to them.
+
+## Citations
+
+[1] [Mediocristan vs Extremistan](../frameworks/2007-mediocristan-vs-extremistan.md)
+
+[2] [Fourth quadrant](../frameworks/2008-fourth-quadrant.md)

@@ -1,11 +1,13 @@
 ---
-name: Normal accidents
+type: Framework
+title: Normal accidents
+description: >-
+  Sorts systems on two traits. Parts can interact in simple or tangled ways, and they can be loosely or tightly coupled. Tight coupling means there is no slack, so a failure spreads before anyone can stop it. When a system is both tangled and tight, accidents are built in.
 date: 1984
 creators:
   - Charles Perrow
-link: https://en.wikipedia.org/wiki/Normal_Accidents
-summary: >-
-  Sorts systems on two traits. Parts can interact in simple or tangled ways, and they can be loosely or tightly coupled. Tight coupling means there is no slack, so a failure spreads before anyone can stop it. When a system is both tangled and tight, accidents are built in.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Normal_Accidents
 ---
 
 # Normal accidents

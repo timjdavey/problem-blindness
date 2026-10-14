@@ -1,11 +1,13 @@
 ---
-name: Satisficing
+type: Framework
+title: Satisficing
+description: >-
+  Real people and firms rarely search for the best answer. They set a bar for good enough and take the first option that clears it. Whether that is wise depends on how much the last bit of quality is worth.
 date: 1956
 creators:
   - Herbert Simon
-link: https://doi.org/10.1037/h0042769
-summary: >-
-  Real people and firms rarely search for the best answer. They set a bar for good enough and take the first option that clears it. Whether that is wise depends on how much the last bit of quality is worth.
+sources:
+  - resource: https://doi.org/10.1037/h0042769
 ---
 
 # Satisficing

@@ -1,5 +1,8 @@
 ---
-name: Super wicked problems
+type: Framework
+title: Super wicked problems
+description: >-
+  Wicked problems with four extra traits. Time is running out, and the people trying to solve it are also causing it. There is no central authority, and policies discount the future. Climate change is the standard example.
 date: 2007
 cited_date: 2012
 creators:
@@ -7,9 +10,8 @@ creators:
   - Benjamin Cashore
   - Graeme Auld
   - Steven Bernstein
-link: https://doi.org/10.1007/s11077-012-9151-0
-summary: >-
-  Wicked problems with four extra traits. Time is running out, and the people trying to solve it are also causing it. There is no central authority, and policies discount the future. Climate change is the standard example.
+sources:
+  - resource: https://doi.org/10.1007/s11077-012-9151-0
 ---
 
 # Super wicked problems

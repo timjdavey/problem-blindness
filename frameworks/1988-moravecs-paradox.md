@@ -1,13 +1,15 @@
 ---
-name: Moravec's paradox
+type: Framework
+title: Moravec's paradox
+description: >-
+  What is hard for people and what is hard for machines don't line up. Computers played draughts and passed intelligence tests long before they could see or pick things up, which a toddler does without trying. So "hard" means nothing until you say who is doing the solving.
 date: 1988
 creators:
   - Hans Moravec
   - Marvin Minsky
   - Rodney Brooks
-link: https://archive.org/details/mindchildrenfutu00mora
-summary: >-
-  What is hard for people and what is hard for machines don't line up. Computers played draughts and passed intelligence tests long before they could see or pick things up, which a toddler does without trying. So "hard" means nothing until you say who is doing the solving.
+sources:
+  - resource: https://archive.org/details/mindchildrenfutu00mora
 ---
 
 # Moravec's paradox

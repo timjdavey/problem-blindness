@@ -1,11 +1,13 @@
 ---
-name: Keynesian beauty contest
+type: Framework
+title: Keynesian beauty contest
+description: >-
+  In some games you win by guessing what others will guess, not by judging the thing itself. Markets work like this, so the right answer moves whenever people change their minds about each other.
 date: 1936
 creators:
   - John Maynard Keynes
-link: https://en.wikipedia.org/wiki/Keynesian_beauty_contest
-summary: >-
-  In some games you win by guessing what others will guess, not by judging the thing itself. Markets work like this, so the right answer moves whenever people change their minds about each other.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Keynesian_beauty_contest
 ---
 
 # Keynesian beauty contest

@@ -1,11 +1,13 @@
 ---
-name: Convergent vs divergent thinking
+type: Framework
+title: Convergent vs divergent thinking
+description: >-
+  Some problems have one right answer that the facts point to. Others have many good answers and reward range and fresh ideas. Mark a divergent task against a key, or brainstorm a question with one answer, and you get the wrong result.
 date: 1956
 creators:
   - J. P. Guilford
-link: https://doi.org/10.1037/h0040755
-summary: >-
-  Some problems have one right answer that the facts point to. Others have many good answers and reward range and fresh ideas. Mark a divergent task against a key, or brainstorm a question with one answer, and you get the wrong result.
+sources:
+  - resource: https://doi.org/10.1037/h0040755
 ---
 
 # Convergent vs divergent thinking

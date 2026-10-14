@@ -1,11 +1,13 @@
 ---
-name: Routine vs non-routine technology
+type: Framework
+title: Routine vs non-routine technology
+description: >-
+  Sorts work on two traits: how often odd cases turn up, and whether there is a logical way to work them out. That gives four kinds of work called routine, engineering, craft and non-routine. Each needs to be organised in a different way.
 date: 1967
 creators:
   - Charles Perrow
-link: https://doi.org/10.2307/2091811
-summary: >-
-  Sorts work on two traits: how often odd cases turn up, and whether there is a logical way to work them out. That gives four kinds of work called routine, engineering, craft and non-routine. Each needs to be organised in a different way.
+sources:
+  - resource: https://doi.org/10.2307/2091811
 ---
 
 # Routine vs non-routine technology

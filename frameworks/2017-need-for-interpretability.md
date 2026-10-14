@@ -1,12 +1,14 @@
 ---
-name: Need for interpretability
+type: Framework
+title: Need for interpretability
+description: >-
+  We only need a model to explain itself when the problem can't be fully written down. If the goal is complete and well tested, a score is enough. When parts of the goal are missing, like fairness, safety or the law, an explanation lets a person check what the score leaves out.
 date: 2017
 creators:
   - Finale Doshi-Velez
   - Been Kim
-link: https://arxiv.org/abs/1702.08608
-summary: >-
-  We only need a model to explain itself when the problem can't be fully written down. If the goal is complete and well tested, a score is enough. When parts of the goal are missing, like fairness, safety or the law, an explanation lets a person check what the score leaves out.
+sources:
+  - resource: https://arxiv.org/abs/1702.08608
 ---
 
 # Need for interpretability

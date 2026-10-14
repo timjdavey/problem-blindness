@@ -1,11 +1,13 @@
 ---
-name: Law of requisite variety
+type: Framework
+title: Law of requisite variety
+description: >-
+  A controller can only hold an outcome steady if it has at least as many different responses as there are disturbances to deal with. Only variety can absorb variety. So one tool, however good, can't cover a wide range of problem shapes.
 date: 1956
 creators:
   - W. Ross Ashby
-link: https://archive.org/details/introductiontocy00ashb
-summary: >-
-  A controller can only hold an outcome steady if it has at least as many different responses as there are disturbances to deal with. Only variety can absorb variety. So one tool, however good, can't cover a wide range of problem shapes.
+sources:
+  - resource: https://archive.org/details/introductiontocy00ashb
 ---
 
 # Law of requisite variety

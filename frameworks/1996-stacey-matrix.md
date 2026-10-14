@@ -1,11 +1,13 @@
 ---
-name: Stacey matrix
+type: Framework
+title: Stacey matrix
+description: >-
+  Plots a decision by how much people agree on it and how sure they are of cause and effect. Near agreement and certainty, you can plan and control. Far from both you are in chaos. The zone between is where complexity methods help.
 date: 1996
 creators:
   - Ralph Stacey
-link: https://en.wikipedia.org/wiki/Ralph_D._Stacey
-summary: >-
-  Plots a decision by how much people agree on it and how sure they are of cause and effect. Near agreement and certainty, you can plan and control. Far from both you are in chaos. The zone between is where complexity methods help.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Ralph_D._Stacey
 ---
 
 # Stacey matrix

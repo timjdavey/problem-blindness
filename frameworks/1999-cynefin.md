@@ -1,13 +1,15 @@
 ---
-name: Cynefin
+type: Framework
+title: Cynefin
+description: >-
+  Splits situations into clear, complicated, complex and chaotic, plus confusion when you don't know which you are in. In clear and complicated problems cause and effect can be worked out in advance. Complex ones only make sense looking back, and chaotic ones make no sense at all. Each needs a different way to act.
 date: 1999
 cited_date: 2003
 creators:
   - Dave Snowden
   - Cynthia Kurtz
-link: https://doi.org/10.1147/sj.423.0462
-summary: >-
-  Splits situations into clear, complicated, complex and chaotic, plus confusion when you don't know which you are in. In clear and complicated problems cause and effect can be worked out in advance. Complex ones only make sense looking back, and chaotic ones make no sense at all. Each needs a different way to act.
+sources:
+  - resource: https://doi.org/10.1147/sj.423.0462
 ---
 
 # Cynefin

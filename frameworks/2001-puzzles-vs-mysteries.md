@@ -1,11 +1,13 @@
 ---
-name: Puzzles vs mysteries
+type: Framework
+title: Puzzles vs mysteries
+description: >-
+  A puzzle has an answer that more information would reveal, like where a missile is hidden. A mystery has no single answer even with all the facts, like what a leader will do next. You can only frame a mystery well, not solve it.
 date: 2001
 creators:
   - Gregory Treverton
-link: https://doi.org/10.1017/CBO9780511754470
-summary: >-
-  A puzzle has an answer that more information would reveal, like where a missile is hidden. A mystery has no single answer even with all the facts, like what a leader will do next. You can only frame a mystery well, not solve it.
+sources:
+  - resource: https://doi.org/10.1017/CBO9780511754470
 ---
 
 # Puzzles vs mysteries

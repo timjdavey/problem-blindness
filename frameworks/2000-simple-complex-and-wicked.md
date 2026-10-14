@@ -1,11 +1,13 @@
 ---
-name: Simple, complex and wicked
+type: Framework
+title: Simple, complex and wicked
+description: >-
+  Sorts problems by whether people agree on the problem and on the fix. Simple problems have agreement on both. Complex ones agree on the problem but not the fix. Wicked ones agree on neither, and each kind needs a different way of coping.
 date: 2000
 creators:
   - Nancy Roberts
-link: https://ipmr.net/index.php/ipmr/article/view/175
-summary: >-
-  Sorts problems by whether people agree on the problem and on the fix. Simple problems have agreement on both. Complex ones agree on the problem but not the fix. Wicked ones agree on neither, and each kind needs a different way of coping.
+sources:
+  - resource: https://ipmr.net/index.php/ipmr/article/view/175
 ---
 
 # Simple, complex and wicked

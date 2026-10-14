@@ -1,12 +1,14 @@
 ---
-name: Simple, complicated and complex
+type: Framework
+title: Simple, complicated and complex
+description: >-
+  Following a recipe is simple. Sending a rocket to the moon is complicated, but once solved it can be repeated. Raising a child is complex, because each child is different and success with one doesn't guarantee the next.
 date: 2002
 creators:
   - Sholom Glouberman
   - Brenda Zimmerman
-link: https://doi.org/10.3138/9781442672833-004
-summary: >-
-  Following a recipe is simple. Sending a rocket to the moon is complicated, but once solved it can be repeated. Raising a child is complex, because each child is different and success with one doesn't guarantee the next.
+sources:
+  - resource: https://doi.org/10.3138/9781442672833-004
 ---
 
 # Simple, complicated and complex

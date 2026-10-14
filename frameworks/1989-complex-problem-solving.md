@@ -1,11 +1,13 @@
 ---
-name: Complex problem solving
+type: Framework
+title: Complex problem solving
+description: >-
+  Dörner put people in charge of simulated towns and countries. Many linked variables, hidden states and time delays tripped up almost everyone. People acted on one thing and ignored the side effects.
 date: 1989
 creators:
   - Dietrich Dörner
-link: https://en.wikipedia.org/wiki/Dietrich_D%C3%B6rner
-summary: >-
-  Dörner put people in charge of simulated towns and countries. Many linked variables, hidden states and time delays tripped up almost everyone. People acted on one thing and ignored the side effects.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Dietrich_D%C3%B6rner
 ---
 
 # Complex problem solving

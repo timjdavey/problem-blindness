@@ -1,8 +1,27 @@
+---
+type: Axis
+title: Slack vs time pressure
+description: How long do you have to decide, compared to how fast things change?
+group: decision
+easy_end: Slack
+hard_end: Time pressure
+sources:
+  - resource: /frameworks/1993-post-normal-science.md
+    title: Post-normal science
+  - resource: /frameworks/1999-cynefin.md
+    title: Cynefin
+  - resource: /frameworks/2005-tame-wicked-and-critical.md
+    title: Tame, wicked and critical
+  - resource: /frameworks/2007-super-wicked-problems.md
+    title: Super wicked problems
+---
 # Slack vs time pressure
 
-An axis in the [decision](README.md#the-decision) group.
+An axis in the [decision](index.md#the-decision) group.
 
 How long do you have to decide, compared to how fast things change? A pension plan gives you months. A pilot with a failed engine has seconds.
+
+## Actions
 
 **Slack**: Take your time.
 - Use a bigger model and more reasoning steps. The extra seconds cost nothing here.
@@ -14,9 +33,7 @@ How long do you have to decide, compared to how fast things change? A pension pl
 - Take the first good enough action. Klein found that expert fire commanders do this rather than compare options.
 - Check the deadline is real. A false crisis is a common excuse to skip review.
 
-**Sources.** [Post-normal science](../frameworks/1993-post-normal-science.md), [Cynefin](../frameworks/1999-cynefin.md), [Tame, wicked and critical](../frameworks/2005-tame-wicked-and-critical.md), [Super wicked problems](../frameworks/2007-super-wicked-problems.md)
-
-**Correlated with**
+## Correlated with
 
 - [Loose vs tight coupling](loose-vs-tight-coupling.md) (by definition). Perrow defines tight coupling as having no slack, so when a tight system fails it hands you a decision with no time ([Normal accidents](../frameworks/1984-normal-accidents.md)).
 - [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md) (study). Hammond's [cognitive continuum](../frameworks/1987-cognitive-continuum.md) puts tasks with little time at the intuitive end, and Klein's fire lieutenant got out on a gut call ([Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)).
@@ -24,3 +41,13 @@ How long do you have to decide, compared to how fast things change? A pension pl
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (tension). A search too big to finish, done against the clock, is the worst case.
 - [Shared vs contested values](shared-vs-contested-values.md) (bundled). [Post-normal science](../frameworks/1993-post-normal-science.md) and [super wicked problems](../frameworks/2007-super-wicked-problems.md) both join a clock to a fight over values. Grint warns that leaders sometimes call a problem a crisis to justify giving orders ([Tame, wicked and critical](../frameworks/2005-tame-wicked-and-critical.md)), so check that the deadline is real.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (bundled). [Super wicked problems](../frameworks/2007-super-wicked-problems.md) join a clock to a world with nobody in charge, so each actor has a reason to wait while time runs out.
+
+## Citations
+
+[1] [Post-normal science](../frameworks/1993-post-normal-science.md)
+
+[2] [Cynefin](../frameworks/1999-cynefin.md)
+
+[3] [Tame, wicked and critical](../frameworks/2005-tame-wicked-and-critical.md)
+
+[4] [Super wicked problems](../frameworks/2007-super-wicked-problems.md)

@@ -1,11 +1,13 @@
 ---
-name: Self-fulfilling prophecy
+type: Framework
+title: Self-fulfilling prophecy
+description: >-
+  A false belief about a situation can make itself come true. A rumour that a bank will fail causes the run that makes it fail. The forecast changes the thing being forecast.
 date: 1948
 creators:
   - Robert K. Merton
-link: https://en.wikipedia.org/wiki/Self-fulfilling_prophecy
-summary: >-
-  A false belief about a situation can make itself come true. A rumour that a bank will fail causes the run that makes it fail. The forecast changes the thing being forecast.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Self-fulfilling_prophecy
 ---
 
 # Self-fulfilling prophecy

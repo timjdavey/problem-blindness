@@ -1,12 +1,14 @@
 ---
-name: Accountability
+type: Framework
+title: Accountability
+description: >-
+  Having to explain a choice to someone else changes how you make it. Sometimes it makes you more careful. Often it just makes you pick what is easiest to defend.
 date: 1999
 creators:
   - Jennifer Lerner
   - Philip Tetlock
-link: https://doi.org/10.1037/0033-2909.125.2.255
-summary: >-
-  Having to explain a choice to someone else changes how you make it. Sometimes it makes you more careful. Often it just makes you pick what is easiest to defend.
+sources:
+  - resource: https://doi.org/10.1037/0033-2909.125.2.255
 ---
 
 # Accountability

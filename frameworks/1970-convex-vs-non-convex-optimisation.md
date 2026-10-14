@@ -1,14 +1,16 @@
 ---
-name: Convex vs non-convex optimisation
+type: Framework
+title: Convex vs non-convex optimisation
+description: >-
+  In a convex problem the landscape has one valley, so going downhill always finds the best answer. A non-convex problem has many valleys. Where you start decides where you end up, and small changes can send you somewhere else.
 date: 1970
 cited_date: 2004
 creators:
   - R. Tyrrell Rockafellar
   - Stephen Boyd
   - Lieven Vandenberghe
-link: https://en.wikipedia.org/wiki/Convex_optimization
-summary: >-
-  In a convex problem the landscape has one valley, so going downhill always finds the best answer. A non-convex problem has many valleys. Where you start decides where you end up, and small changes can send you somewhere else.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Convex_optimization
 ---
 
 # Convex vs non-convex optimisation

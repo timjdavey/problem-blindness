@@ -1,13 +1,15 @@
 ---
-name: Rugged fitness landscapes
+type: Framework
+title: Rugged fitness landscapes
+description: >-
+  When the parts of a problem don't affect each other, small steps uphill always reach the top. When the parts interact, the landscape fills with small peaks. Step by step improvement then gets stuck on whichever peak is nearest.
 date: 1987
 cited_date: 1993
 creators:
   - Stuart Kauffman
   - Simon Levin
-link: https://doi.org/10.1016/S0022-5193(87)80029-2
-summary: >-
-  When the parts of a problem don't affect each other, small steps uphill always reach the top. When the parts interact, the landscape fills with small peaks. Step by step improvement then gets stuck on whichever peak is nearest.
+sources:
+  - resource: https://doi.org/10.1016/S0022-5193(87)80029-2
 ---
 
 # Rugged fitness landscapes

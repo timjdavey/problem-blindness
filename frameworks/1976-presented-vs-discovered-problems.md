@@ -1,12 +1,14 @@
 ---
-name: Presented vs discovered problems
+type: Framework
+title: Presented vs discovered problems
+description: >-
+  Some problems are handed to you ready made. Others you have to find and frame yourself. In a study of art students, those who spent longest framing the problem made the most original work.
 date: 1976
 creators:
   - Jacob Getzels
   - Mihaly Csikszentmihalyi
-link: https://en.wikipedia.org/wiki/Problem_finding
-summary: >-
-  Some problems are handed to you ready made. Others you have to find and frame yourself. In a study of art students, those who spent longest framing the problem made the most original work.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Problem_finding
 ---
 
 # Presented vs discovered problems

@@ -1,11 +1,13 @@
 ---
-name: Task characteristics of expertise
+type: Framework
+title: Task characteristics of expertise
+description: >-
+  Experts do well in some fields, like weather forecasting and chess, and badly in others, like clinical psychology and stock picking. The difference lies in the task. Stable subjects, repeated decisions and fast feedback breed real skill.
 date: 1992
 creators:
   - James Shanteau
-link: https://doi.org/10.1016/0749-5978%2892%2990064-E
-summary: >-
-  Experts do well in some fields, like weather forecasting and chess, and badly in others, like clinical psychology and stock picking. The difference lies in the task. Stable subjects, repeated decisions and fast feedback breed real skill.
+sources:
+  - resource: https://doi.org/10.1016/0749-5978%2892%2990064-E
 ---
 
 # Task characteristics of expertise

@@ -1,11 +1,13 @@
 ---
-name: One-way vs two-way doors
+type: Framework
+title: One-way vs two-way doors
+description: >-
+  A one-way door decision can't be undone, so it deserves slow and careful thought. A two-way door can be reversed cheaply, so you should decide fast and learn from the result.
 date: 2015
 creators:
   - Jeff Bezos
-link: https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
-summary: >-
-  A one-way door decision can't be undone, so it deserves slow and careful thought. A two-way door can be reversed cheaply, so you should decide fast and learn from the result.
+sources:
+  - resource: https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
 ---
 
 # One-way vs two-way doors

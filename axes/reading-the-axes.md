@@ -1,4 +1,9 @@
-# Axes for sorting problems
+---
+type: Guide
+title: Reading the axes
+description: How the axes are grouped, what the correlation labels mean and what changes at the hard end.
+---
+# Reading the axes
 
 Each axis is a scale with two ends, and any problem sits somewhere along it. They fall into three groups. The first is about the world you act on. The second is about what you can know about it. The third is about the decision itself, what it needs and what it costs to get wrong.
 
@@ -8,69 +13,11 @@ Each entry also says where the link comes from. "By definition" means one axis i
 
 Under each axis, the actions say what to do differently at each end, with the easy end first. Each one opens with a plain rule that holds for anyone. A list then says what that rule means when you build or deploy an AI model, since that is the main use of this project. The section [What changes at the hard end](#what-changes-at-the-hard-end) pulls out the pattern the actions share.
 
-Each axis has its own file. Each name in the tables below links to it.
+## The three groups
 
-## The world
-
-These describe the system, whoever is looking at it.
-
-| Axis | Easy end | Hard end |
-| --- | --- | --- |
-| [Deterministic vs statistical](deterministic-vs-statistical.md) | Deterministic | Statistical |
-| [Thin vs fat tails](thin-vs-fat-tails.md) | Thin | Fat |
-| [Smooth vs rugged](smooth-vs-rugged.md) | Smooth | Rugged |
-| [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) | Long | Short |
-| [Stationary vs drifting](stationary-vs-drifting.md) | Stationary | Drifting |
-| [Inert vs reflexive](inert-vs-reflexive.md) | Inert | Reflexive |
-| [Neutral vs adversarial](neutral-vs-adversarial.md) | Neutral | Adversarial |
-| [Decomposable vs holistic](decomposable-vs-holistic.md) | Decomposable | Holistic |
-| [Loose vs tight coupling](loose-vs-tight-coupling.md) | Loose | Tight |
-| [Tractable vs intractable search](tractable-vs-intractable-search.md) | Tractable | Intractable |
-| [Discrete vs continuous](discrete-vs-continuous.md) | Discrete | Continuous |
-
-## The knower
-
-These describe what you can find out. The same problem can sit at different points for different people.
-
-| Axis | Easy end | Hard end |
-| --- | --- | --- |
-| [Known vs unknown odds](known-vs-unknown-odds.md) | Known | Unknown |
-| [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) | Reducible | Irreducible |
-| [Small vs large world](small-vs-large-world.md) | Small | Large |
-| [Full vs partial observability](full-vs-partial-observability.md) | Full | Partial |
-| [Transparent vs opaque causes](transparent-vs-opaque-causes.md) | Transparent | Opaque |
-| [Test vs watch](test-vs-watch.md) | Test | Watch |
-| [Kind vs wicked feedback](kind-vs-wicked-feedback.md) | Kind | Wicked |
-| [Plentiful vs scarce data](plentiful-vs-scarce-data.md) | Plentiful | Scarce |
-| [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md) | Explicit | Tacit |
-| [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md) | Familiar | Novel |
-| [General vs local knowledge](general-vs-local-knowledge.md) | General | Local |
-
-## The decision
-
-These describe what you are trying to achieve and what happens if you get it wrong.
-
-| Axis | Easy end | Hard end |
-| --- | --- | --- |
-| [Well-posed vs ill-posed](well-posed-vs-ill-posed.md) | Well-posed | Ill-posed |
-| [Choose vs design the options](choose-vs-design-the-options.md) | Choose | Design |
-| [Convergent vs divergent](convergent-vs-divergent.md) | Convergent | Divergent |
-| [Single vs multiple objectives](single-vs-multiple-objectives.md) | Single | Multiple |
-| [Shared vs contested values](shared-vs-contested-values.md) | Shared | Contested |
-| [Commensurable vs incommensurable values](commensurable-vs-incommensurable-values.md) | Commensurable | Incommensurable |
-| [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) | Yours to fix | Needs others |
-| [Satisficing vs optimising](satisficing-vs-optimising.md) | Satisficing | Optimising |
-| [Easy vs hard to verify](easy-vs-hard-to-verify.md) | Easy | Hard |
-| [Complete vs incomplete goal](complete-vs-incomplete-goal.md) | Complete | Incomplete |
-| [One-shot vs sequential](one-shot-vs-sequential.md) | One-shot | Sequential |
-| [Reversible vs irreversible](reversible-vs-irreversible.md) | Reversible | Irreversible |
-| [Survivable vs ruinous](survivable-vs-ruinous.md) | Survivable | Ruinous |
-| [Additive vs multiplicative](additive-vs-multiplicative.md) | Additive | Multiplicative |
-| [Convex vs concave payoff](convex-vs-concave-payoff.md) | Convex | Concave |
-| [Even vs lopsided errors](even-vs-lopsided-errors.md) | Even | Lopsided |
-| [Slack vs time pressure](slack-vs-time-pressure.md) | Slack | Time pressure |
-| [Private vs accountable](private-vs-accountable.md) | Private | Accountable |
-| [Skin in the game vs none](skin-in-the-game-vs-none.md) | Skin in the game | None |
+- [The world](index.md#the-world). These describe the system, whoever is looking at it.
+- [The knower](index.md#the-knower). These describe what you can find out. The same problem can sit at different points for different people.
+- [The decision](index.md#the-decision). These describe what you are trying to achieve and what happens if you get it wrong.
 
 ## What changes at the hard end
 

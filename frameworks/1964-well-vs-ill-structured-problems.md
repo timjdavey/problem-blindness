@@ -1,13 +1,15 @@
 ---
-name: Well vs ill-structured problems
+type: Framework
+title: Well vs ill-structured problems
+description: >-
+  A well-structured problem has a clear goal, known moves and a way to check an answer, like chess. An ill-structured problem lacks one or more of these, like designing a house. Simon argued most real problems are ill-structured.
 date: 1964
 cited_date: 1973
 creators:
   - Walter Reitman
   - Herbert Simon
-link: https://doi.org/10.1016/0004-3702%2873%2990011-8
-summary: >-
-  A well-structured problem has a clear goal, known moves and a way to check an answer, like chess. An ill-structured problem lacks one or more of these, like designing a house. Simon argued most real problems are ill-structured.
+sources:
+  - resource: https://doi.org/10.1016/0004-3702%2873%2990011-8
 ---
 
 # Well vs ill-structured problems

@@ -1,13 +1,15 @@
 ---
-name: Multi-armed bandit
+type: Framework
+title: Multi-armed bandit
+description: >-
+  You choose again and again between options with noisy, unknown payoffs. Each choice pays out and also teaches you something. The problem is how to balance trying new options against using the best one so far.
 date: 1933
 cited_date: 1952
 creators:
   - William R. Thompson
   - Herbert Robbins
-link: https://en.wikipedia.org/wiki/Multi-armed_bandit
-summary: >-
-  You choose again and again between options with noisy, unknown payoffs. Each choice pays out and also teaches you something. The problem is how to balance trying new options against using the best one so far.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Multi-armed_bandit
 ---
 
 # Multi-armed bandit

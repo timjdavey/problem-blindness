@@ -1,12 +1,14 @@
 ---
-name: Tame vs wicked problems
+type: Framework
+title: Tame vs wicked problems
+description: >-
+  A tame problem has a clear goal and a test of whether you solved it, like a chess puzzle. A wicked problem has neither. People disagree on what the problem even is and there is no point where it is done. Every attempt changes the situation, so you can't learn by trial and error. Rittel and Webber's ten traits bundle several separate ideas, which is why "wicked" feels strong but vague.
 date: 1973
 creators:
   - Horst Rittel
   - Melvin Webber
-link: https://doi.org/10.1007/BF01405730
-summary: >-
-  A tame problem has a clear goal and a test of whether you solved it, like a chess puzzle. A wicked problem has neither. People disagree on what the problem even is and there is no point where it is done. Every attempt changes the situation, so you can't learn by trial and error. Rittel and Webber's ten traits bundle several separate ideas, which is why "wicked" feels strong but vague.
+sources:
+  - resource: https://doi.org/10.1007/BF01405730
 ---
 
 # Tame vs wicked problems

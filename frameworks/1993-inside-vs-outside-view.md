@@ -1,12 +1,14 @@
 ---
-name: Inside vs outside view
+type: Framework
+title: Inside vs outside view
+description: >-
+  You can judge a plan by its own details or by how similar plans turned out. The first view feels more informed but is usually too hopeful. Start from the track record of cases like yours, then adjust.
 date: 1993
 creators:
   - Daniel Kahneman
   - Dan Lovallo
-link: https://doi.org/10.1287/mnsc.39.1.17
-summary: >-
-  You can judge a plan by its own details or by how similar plans turned out. The first view feels more informed but is usually too hopeful. Start from the track record of cases like yours, then adjust.
+sources:
+  - resource: https://doi.org/10.1287/mnsc.39.1.17
 ---
 
 # Inside vs outside view

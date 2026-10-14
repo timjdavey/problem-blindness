@@ -1,11 +1,13 @@
 ---
-name: Incertitude matrix
+type: Framework
+title: Incertitude matrix
+description: >-
+  Not knowing comes in four kinds, set by two questions. Do you know what could happen, and do you know how likely each outcome is? Only when you know both is it risk, and only then does a single number make sense.
 date: 2007
 creators:
   - Andy Stirling
-link: https://doi.org/10.1038/sj.embor.7400953
-summary: >-
-  Not knowing comes in four kinds, set by two questions. Do you know what could happen, and do you know how likely each outcome is? Only when you know both is it risk, and only then does a single number make sense.
+sources:
+  - resource: https://doi.org/10.1038/sj.embor.7400953
 ---
 
 # Incertitude matrix

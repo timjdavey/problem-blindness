@@ -1,13 +1,15 @@
 ---
-name: Ladder of causation
+type: Framework
+title: Ladder of causation
+description: >-
+  Questions about cause sit on three rungs: seeing, doing and imagining. Data from a lower rung can't answer a question from a higher one on its own. You need a test, or a stated model of what causes what.
 date: 2000
 cited_date: 2018
 creators:
   - Judea Pearl
   - Dana Mackenzie
-link: https://doi.org/10.1017/CBO9780511803161
-summary: >-
-  Questions about cause sit on three rungs: seeing, doing and imagining. Data from a lower rung can't answer a question from a higher one on its own. You need a test, or a stated model of what causes what.
+sources:
+  - resource: https://doi.org/10.1017/CBO9780511803161
 ---
 
 # Ladder of causation

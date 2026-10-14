@@ -1,11 +1,13 @@
 ---
-name: Reflexivity
+type: Framework
+title: Reflexivity
+description: >-
+  In markets, what people believe changes the facts, and the new facts then change what people believe. The loop means there is no fixed truth for a forecaster to find.
 date: 1987
 creators:
   - George Soros
-link: https://en.wikipedia.org/wiki/Reflexivity_%28social_theory%29
-summary: >-
-  In markets, what people believe changes the facts, and the new facts then change what people believe. The loop means there is no fixed truth for a forecaster to find.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Reflexivity_%28social_theory%29
 ---
 
 # Reflexivity

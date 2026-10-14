@@ -1,11 +1,13 @@
 ---
-name: Clocks and clouds
+type: Framework
+title: Clocks and clouds
+description: >-
+  Some systems run like clocks and can be predicted far ahead. Others behave like clouds and can't. Most real systems sit somewhere between, and many we took for clocks are more cloudlike than they look.
 date: 1966
 creators:
   - Karl Popper
-link: https://en.wikipedia.org/wiki/Karl_Popper
-summary: >-
-  Some systems run like clocks and can be predicted far ahead. Others behave like clouds and can't. Most real systems sit somewhere between, and many we took for clocks are more cloudlike than they look.
+sources:
+  - resource: https://en.wikipedia.org/wiki/Karl_Popper
 ---
 
 # Clocks and clouds
