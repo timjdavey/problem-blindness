@@ -1,0 +1,26 @@
+---
+name: Johari window
+date: 1955
+creators:
+  - Joseph Luft
+  - Harrington Ingham
+link: https://en.wikipedia.org/wiki/Johari_window
+summary: >-
+  A two by two grid of what you know about yourself against what others know about you. Its four boxes look a lot like the later known and unknown unknowns, though nobody has shown that one came from the other.
+---
+
+# Johari window
+
+Everyone has things about them that they know and others know too, like their job or their accent. There are also things others can see that they can't, like a habit of talking over people. Then there are things they keep to themselves, and things nobody knows yet, not even them. In 1955 the psychologists Joseph Luft and Harrington Ingham drew these as a grid of four boxes. They named it the Johari window, after their first names, Joe and Harry.
+
+The four boxes are usually called the open area, the blind spot, the hidden area and the unknown. What the grid sorts on is who holds a piece of knowledge: you, the people around you, both or neither. That matters because each box needs a different way of finding things out. The open area needs nothing. A blind spot can only be fixed by asking others and listening. A hidden thing comes out when you choose to share it. The unknown can only be found by trying new things and seeing what turns up.
+
+The mistake is to use the wrong method for the box you are in. You can think hard about yourself for years and never find a blind spot, because thinking alone can't reach what only others see. A team can hold endless meetings and still miss a fact one member is keeping quiet. Later writers drew a similar grid for knowledge in general. Its boxes are known knowns, known unknowns and unknown unknowns.
+
+## Examples
+
+**Bad breath.** Most people with bad breath don't know it. Everyone near them does, but few will say so. It is a pure blind spot, and no amount of thinking about your own habits will reveal it. The only fix is someone else telling you.
+
+**The Challenger launch.** On the night before the launch in January 1986, engineers at Morton Thiokol warned that the rubber seals on the rocket boosters might fail in the cold. They knew the danger well. Thiokol's managers overruled them under pressure from NASA. The senior NASA officials who cleared the launch were never told of the dispute, and the launch went ahead on a freezing morning. The shuttle broke apart 73 seconds after lift off and all seven crew died. The facts sat in one group's hidden area and never reached the open area where the decision was made.
+
+**A new manager.** Someone promoted to lead a team has no idea how they will cope with their first round of layoffs. Neither do their colleagues. That is the unknown box, and no feedback or reflection can fill it ahead of time. They only find out by doing it.

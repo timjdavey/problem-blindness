@@ -1,0 +1,25 @@
+---
+name: Known and unknown unknowns
+date: 2002
+creators:
+  - Donald Rumsfeld
+link: https://en.wikipedia.org/wiki/There_are_unknown_unknowns
+summary: >-
+  Known knowns are things we know. Known unknowns are gaps we know about. Unknown unknowns are gaps we don't even know to look for, and they cause the worst surprises. The idea is older, but Rumsfeld made it famous.
+---
+
+# Known and unknown unknowns
+
+When you plan anything, there are things you know and things you know you don't know. You can work round the second kind. You can research them, add a buffer or take out insurance. But there is a third kind: the gaps you don't know are there. You can't plan for them because they aren't on your list.
+
+On 12 February 2002 Donald Rumsfeld, then the US Secretary of Defense, put it this way at a press briefing. There are known knowns, known unknowns and unknown unknowns, "the ones we don't know we don't know". People laughed at the wording, but the idea was sound and much older. Engineers had long spoken of "unk-unks", and the Johari window from 1955 has a similar box for what nobody knows about you. The trait it sorts on is whether you are aware of what you don't know.
+
+The mistake is to treat a problem as if all its unknowns were the known kind. You list the risks, put a number on each one and feel prepared. The list hides the fact that the worst surprises are the ones nobody wrote down. A problem with many unknown unknowns needs slack and the ability to change course, not a longer list.
+
+## Examples
+
+**Thalidomide.** Thalidomide went on sale in West Germany in 1957 as a sleeping pill and was given to pregnant women for morning sickness. Drug testing at the time did not look for harm to unborn babies, so the risk wasn't a known unknown. It wasn't on anyone's list at all. Over ten thousand children were born with severe birth defects before the drug was withdrawn.
+
+**Moving house.** Before you move, you know you don't know how long the new commute will take, so you test it. That is a known unknown. You had no reason to ask whether the neighbour's dog barks all night. That is an unknown unknown, and it is the one that makes you regret the move.
+
+**Iraq.** The briefing where Rumsfeld spoke was about whether Iraq could give weapons to terrorists. The US went on to treat Iraq's weapons of mass destruction as a known known. None were found after the 2003 invasion. The bigger failure was a known known that turned out to be false, and none of the three boxes warns you about that.
