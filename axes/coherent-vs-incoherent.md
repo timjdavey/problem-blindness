@@ -40,6 +40,7 @@ If you run the same thing again, do the runs land on the same spread of results,
 - [Additive vs multiplicative](additive-vs-multiplicative.md) (logic). Compounding splits paths apart, so the crowd's average describes almost nobody. That is incoherence across players over time.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (independent). A fat tailed process can still be coherent if every run draws from the same wild spread. Incoherence is about runs disagreeing, not about any one run being extreme.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). Pooling incoherent runs gives a lot of data that describes none of them. Raising a child is complex because success with one is no guide to the next ([Simple, complicated and complex](../frameworks/2002-simple-complicated-and-complex.md)).
+- [Clustered vs scattered](clustered-vs-scattered.md) (by definition). Once runs disagree, the next question is whether they fall into a few clear groups. That axis only applies at the incoherent end.
 
 ## Citations
 
