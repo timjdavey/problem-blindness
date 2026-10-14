@@ -2,6 +2,7 @@
 
 ## 2026-10-14
 
+* **Update**: Reframed [Smooth vs rugged](/axes/smooth-vs-rugged.md) around how far a small change in the inputs can move the result, following Tim Davey. Local peaks are now one result of that, and the axis cites the [Flat maximum](/frameworks/1973-flat-maximum.md).
 * **Creation**: Added the [Coherent vs incoherent](/axes/coherent-vs-incoherent.md) axis, which asks whether repeated runs agree well enough for the average to stand for a typical run.
 * **Creation**: Added the [Incoherence](/frameworks/2024-incoherence.md) framework, from Tim Davey's 2024 paper in Entropy.
 * **Update**: Moved the project to the [Open Knowledge Format](https://okf.md) 0.2. Every framework and axis now has `type`, `title`, `description` and `sources` front matter.
