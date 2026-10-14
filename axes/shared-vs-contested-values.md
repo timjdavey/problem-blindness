@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Shared vs contested values
-description: Do all the people affected agree on what a good result looks like, or do they want different things?
+description: "Shared: everyone affected agrees on what a good result looks like (e.g. a bridge should stay up). Contested: people want different things from the result (e.g. where to build the bridge)."
 group: decision
 easy_end: Shared
 hard_end: Contested

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Stationary vs drifting
-description: Do the patterns in your past data still hold, or does the world keep shifting so that what you learnt goes stale?
+description: "Stationary: the patterns in past data still hold today (e.g. gravity). Drifting: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang)."
 group: world
 easy_end: Stationary
 hard_end: Drifting

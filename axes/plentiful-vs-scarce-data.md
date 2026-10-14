@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Plentiful vs scarce data
-description: Have there been enough past cases like this one to learn the pattern from, or so few that you have almost nothing to go on?
+description: "Plentiful: there are many past cases like this one to learn from (e.g. card fraud). Scarce: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident)."
 group: knower
 easy_end: Plentiful
 hard_end: Scarce

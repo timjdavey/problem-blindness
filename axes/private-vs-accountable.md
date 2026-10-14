@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Private vs accountable
-description: Is the choice yours alone, or must you explain and defend it to others, such as a regulator, a court or the person affected?
+description: "Private: the choice is yours alone (e.g. picking a film). Accountable: you must explain and defend the choice to others (e.g. a bank refusing a loan)."
 group: decision
 easy_end: Private
 hard_end: Accountable

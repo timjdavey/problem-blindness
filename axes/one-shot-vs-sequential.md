@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: One-shot vs sequential
-description: Is it a single choice, or a chain of choices where each step shapes the next and it's hard to tell which one caused the result?
+description: "One-shot: it is a single choice (e.g. a paint colour). Sequential: each choice shapes the next, so it is hard to tell which one caused the result (e.g. treating a long illness)."
 group: decision
 easy_end: One-shot
 hard_end: Sequential

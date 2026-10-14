@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Smooth vs rugged
-description: If you change the inputs a little, does the result change a little, so rough answers and rules of thumb get you close, or can a small change make a big difference, so every detail matters and small steps stall?
+description: "Smooth: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup). Rugged: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code)."
 group: world
 easy_end: Smooth
 hard_end: Rugged

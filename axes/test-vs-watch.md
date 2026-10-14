@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Test vs watch
-description: Can you run a fair test, where chance decides who gets what, or can you only watch what happens and guess at the cause?
+description: "Test: you can run a fair test where chance decides who gets what (e.g. a drug trial). Watch: you can only watch what happens and guess at the cause (e.g. a study of nurses who chose hormone therapy)."
 group: knower
 easy_end: Test
 hard_end: Watch

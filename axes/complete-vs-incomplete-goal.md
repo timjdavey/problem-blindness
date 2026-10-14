@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Complete vs incomplete goal
-description: Does the thing you measure capture everything you want, or are some goals, such as fairness, left out because they are hard to write down?
+description: "Complete: the thing you measure captures everything you want (e.g. sorting letters by postcode). Incomplete: some goals are left out because they are hard to write down (e.g. fairness in hiring)."
 group: decision
 easy_end: Complete
 hard_end: Incomplete

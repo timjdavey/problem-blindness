@@ -39,7 +39,7 @@ The project is written in the [Open Knowledge Format](https://okf.md) (OKF), so 
 
 A new framework goes in `frameworks/` as a file named by year and title, like `1973-tame-vs-wicked-problems.md`. Give it `type: Framework`, a `title`, a short `description`, the `date`, its `creators` and a `sources` entry for the original paper. Add a line for it to the [frameworks index](frameworks/index.md).
 
-A new axis goes in `axes/` as its own file, named like `thin-vs-fat-tails.md`. Give it `type: Axis`, a `title`, a one question `description`, its `group`, its `easy_end` and `hard_end`, and a `sources` entry for each framework it came from. Add a line for it to the [axes index](axes/index.md) under its group, and link it to the existing axes it moves with.
+A new axis goes in `axes/` as its own file, named like `thin-vs-fat-tails.md`. Give it `type: Axis`, a `title`, a `description` that gives each end in one line with a short example, its `group`, its `easy_end` and `hard_end`, and a `sources` entry for each framework it came from. Add a line for it to the [axes index](axes/index.md) under its group, and link it to the existing axes it moves with.
 
 ## Why does treating one problem as another matter?
 

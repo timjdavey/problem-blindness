@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Satisficing vs optimising
-description: Will any answer that clears the bar do, or does each extra bit of quality still pay off, so you need the best you can find?
+description: "Satisficing: any answer that clears the bar will do (e.g. a lunch spot). Optimising: each extra bit of quality still pays off, so you need the best you can find (e.g. the dose of a strong drug)."
 group: decision
 easy_end: Satisficing
 hard_end: Optimising

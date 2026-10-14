@@ -2,7 +2,7 @@
 type: Framework
 title: Incoherence
 description: >-
-  Run the same system many times and compare the runs. If they agree, the average stands for a typical run. If each run lands somewhere different, the average can describe none of them, and planning for it goes wrong.
+  Systems which give wildly different output distributions each run.
 date: 2024
 creators:
   - Tim J. Davey

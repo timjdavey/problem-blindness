@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Coherent vs incoherent
-description: If you run the same thing again, do the runs land on the same spread of results, so the average stands for a typical run, or does each run settle somewhere different, so the average describes none of them?
+description: "Coherent: the average of all outcomes represents the typical outcome (e.g. the mean height of a population closely matches the median and mode). Incoherent: each instance of a system looks very different and never like the average (e.g. climate tipping points)."
 group: world
 easy_end: Coherent
 hard_end: Incoherent

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Additive vs multiplicative
-description: Do gains and losses add up, so the average outcome is what you can expect, or do they compound, so one player over time can do far worse than the average?
+description: "Additive: gains and losses add up, so the average is what you can expect (e.g. betting the same £10 every round). Multiplicative: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round)."
 group: decision
 easy_end: Additive
 hard_end: Multiplicative

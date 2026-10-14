@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Reversible vs irreversible
-description: If it goes wrong, can you undo it cheaply and try again, or are you stuck with it?
+description: "Reversible: if it goes wrong you can undo it cheaply and try again (e.g. a new recipe). Irreversible: once it is done you are stuck with it (e.g. selling the family home)."
 group: decision
 easy_end: Reversible
 hard_end: Irreversible

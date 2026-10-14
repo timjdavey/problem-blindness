@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Easy vs hard to verify
-description: Once you have an answer, can you check it quickly and cheaply, or might it take years to know if it was right?
+description: "Easy: you can check an answer quickly and cheaply (e.g. a solved sudoku). Hard: it might take years to know if an answer was right (e.g. a business strategy)."
 group: decision
 easy_end: Easy
 hard_end: Hard

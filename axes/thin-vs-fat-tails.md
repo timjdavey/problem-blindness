@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Thin vs fat tails
-description: When results vary, do they stay close to the average, or can one extreme case outweigh all the rest put together?
+description: "Thin: results stay close to the average, so the average tells you a lot (e.g. people's heights). Fat: one extreme case can outweigh all the rest put together (e.g. floods or startup returns)."
 group: world
 easy_end: Thin
 hard_end: Fat

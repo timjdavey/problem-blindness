@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Even vs lopsided errors
-description: Do a false alarm and a miss cost about the same, or is one mistake far worse than the other?
+description: "Even: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella). Lopsided: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire)."
 group: decision
 easy_end: Even
 hard_end: Lopsided

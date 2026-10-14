@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Inert vs reflexive
-description: Does the system behave the same whether or not you measure and forecast it, or do your forecasts change what people do and so change the outcome?
+description: "Inert: the system behaves the same whether or not you measure or forecast it (e.g. a rock). Reflexive: your forecast changes what people do and so changes the outcome (e.g. a forecast that a bank will fail sets off a run on it)."
 group: world
 easy_end: Inert
 hard_end: Reflexive

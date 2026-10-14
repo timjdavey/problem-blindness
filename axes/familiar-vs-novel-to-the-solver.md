@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Familiar vs novel to the solver
-description: Has the solver, person or model, met this kind of problem before, or is it new to them even if others have solved it?
+description: "Familiar: the solver has met this kind of problem many times before (e.g. a doctor seeing a common cold). Novel: the problem is new to the solver, even if others have solved it (e.g. a question outside a model's training data)."
 group: knower
 easy_end: Familiar
 hard_end: Novel

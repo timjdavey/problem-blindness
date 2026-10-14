@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Single vs multiple objectives
-description: Is there one thing to get right, or several goals that pull against each other, so a gain on one costs you on another?
+description: "Single: there is one thing to get right (e.g. the fastest route home). Multiple: several goals pull against each other, so a gain on one costs you on another (e.g. price against safety in a new car)."
 group: decision
 easy_end: Single
 hard_end: Multiple

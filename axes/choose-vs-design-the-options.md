@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Choose vs design the options
-description: Are the options handed to you to pick from, or do you have to invent them first?
+description: "Choose: the options are handed to you to pick from (e.g. a mortgage from a bank's list). Design: you have to invent the options first (e.g. saving a dying high street)."
 group: decision
 easy_end: Choose
 hard_end: Design

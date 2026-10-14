@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Long vs short predictability horizon
-description: How far ahead can you forecast before tiny errors in what you know today grow too large for the forecast to be any use?
+description: "Long: small errors in what you know today stay small, so you can forecast far ahead (e.g. the tides). Short: tiny errors grow fast, so a forecast soon becomes useless (e.g. the weather two weeks out)."
 group: world
 easy_end: Long
 hard_end: Short

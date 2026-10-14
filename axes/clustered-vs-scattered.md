@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Clustered vs scattered
-description: When runs disagree, do they fall into a few clear groups, so a few clues can tell you which one you are in, or do they scatter with no pattern to latch onto?
+description: "Clustered: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars). Scattered: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks)."
 group: world
 easy_end: Clustered
 hard_end: Scattered

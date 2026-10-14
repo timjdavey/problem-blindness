@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Known vs unknown odds
-description: Can you put a number you trust on how likely each outcome is, or do you only know that things are uncertain?
+description: "Known: you can put a number you trust on each outcome (e.g. a dice roll). Unknown: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off)."
 group: knower
 easy_end: Known
 hard_end: Unknown

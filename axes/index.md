@@ -1,52 +1,129 @@
 # Axes for sorting problems
 
-* [Reading the axes](reading-the-axes.md) - How the axes are grouped, what the correlation labels mean and what changes at the hard end.
+* [Reading the axes](reading-the-axes.md): how the axes are grouped, what the correlation labels mean and what changes at the hard end.
 
 # The world
 
-* [Deterministic vs statistical](deterministic-vs-statistical.md) - Do the same inputs always give the same result, or only the same spread of results, so you can predict the rate but not the single case?
-* [Coherent vs incoherent](coherent-vs-incoherent.md) - If you run the same thing again, do the runs land on the same spread of results, so the average stands for a typical run, or does each run settle somewhere different, so the average describes none of them?
-* [Clustered vs scattered](clustered-vs-scattered.md) - When runs disagree, do they fall into a few clear groups, so a few clues can tell you which one you are in, or do they scatter with no pattern to latch onto?
-* [Thin vs fat tails](thin-vs-fat-tails.md) - When results vary, do they stay close to the average, or can one extreme case outweigh all the rest put together?
-* [Smooth vs rugged](smooth-vs-rugged.md) - If you change the inputs a little, does the result change a little, so rough answers and rules of thumb get you close, or can a small change make a big difference, so every detail matters and small steps stall?
-* [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) - How far ahead can you forecast before tiny errors in what you know today grow too large for the forecast to be any use?
-* [Stationary vs drifting](stationary-vs-drifting.md) - Do the patterns in your past data still hold, or does the world keep shifting so that what you learnt goes stale?
-* [Inert vs reflexive](inert-vs-reflexive.md) - Does the system behave the same whether or not you measure and forecast it, or do your forecasts change what people do and so change the outcome?
-* [Neutral vs adversarial](neutral-vs-adversarial.md) - Is the world indifferent to you, or is someone studying your methods and changing their play to beat them?
-* [Decomposable vs holistic](decomposable-vs-holistic.md) - Can you split the problem into parts, solve each one on its own and put them back together, or does each part only make sense in light of the others?
-* [Loose vs tight coupling](loose-vs-tight-coupling.md) - When one part fails, is there slack and time to step in, or does the fault spread to other parts before anyone can react?
-* [Tractable vs intractable search](tractable-vs-intractable-search.md) - Are there few enough options to check them all, or so many that no computer could, even when the rules are clear and everything is in view?
+* [Deterministic vs statistical](deterministic-vs-statistical.md)
+  * **Deterministic**: the same inputs always give exactly the same output (e.g. a sum).
+  * **Statistical**: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter).
+* [Coherent vs incoherent](coherent-vs-incoherent.md)
+  * **Coherent**: the average of all outcomes represents the typical outcome (e.g. the mean height of a population closely matches the median and mode).
+  * **Incoherent**: each instance of a system looks very different and never like the average (e.g. climate tipping points).
+* [Clustered vs scattered](clustered-vs-scattered.md)
+  * **Clustered**: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars).
+  * **Scattered**: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks).
+* [Thin vs fat tails](thin-vs-fat-tails.md)
+  * **Thin**: results stay close to the average, so the average tells you a lot (e.g. people's heights).
+  * **Fat**: one extreme case can outweigh all the rest put together (e.g. floods or startup returns).
+* [Smooth vs rugged](smooth-vs-rugged.md)
+  * **Smooth**: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup).
+  * **Rugged**: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code).
+* [Long vs short predictability horizon](long-vs-short-predictability-horizon.md)
+  * **Long**: small errors in what you know today stay small, so you can forecast far ahead (e.g. the tides).
+  * **Short**: tiny errors grow fast, so a forecast soon becomes useless (e.g. the weather two weeks out).
+* [Stationary vs drifting](stationary-vs-drifting.md)
+  * **Stationary**: the patterns in past data still hold today (e.g. gravity).
+  * **Drifting**: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang).
+* [Inert vs reflexive](inert-vs-reflexive.md)
+  * **Inert**: the system behaves the same whether or not you measure or forecast it (e.g. a rock).
+  * **Reflexive**: your forecast changes what people do and so changes the outcome (e.g. a forecast that a bank will fail sets off a run on it).
+* [Neutral vs adversarial](neutral-vs-adversarial.md)
+  * **Neutral**: the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella).
+  * **Adversarial**: someone studies your methods and changes their play to beat them (e.g. fraudsters).
+* [Decomposable vs holistic](decomposable-vs-holistic.md)
+  * **Decomposable**: you can solve each part on its own and put them back together (e.g. a car engine).
+  * **Holistic**: each part only makes sense in light of the others (e.g. a company culture).
+* [Loose vs tight coupling](loose-vs-tight-coupling.md)
+  * **Loose**: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest).
+  * **Tight**: a fault spreads to other parts before anyone can react (e.g. a power grid).
+* [Tractable vs intractable search](tractable-vs-intractable-search.md)
+  * **Tractable**: you know every option and there are few enough to check them all (e.g. noughts and crosses).
+  * **Intractable**: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions).
 
 # The knower
 
-* [Known vs unknown odds](known-vs-unknown-odds.md) - Can you put a number you trust on how likely each outcome is, or do you only know that things are uncertain?
-* [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) - Is your doubt a gap that more data or research could close, or would no amount of fact finding settle it?
-* [Small vs large world](small-vs-large-world.md) - Can you list every way things might turn out before you choose, or could the result be something nobody thought to list?
-* [Full vs partial observability](full-vs-partial-observability.md) - Can you see the whole current state of things, or are some facts that matter hidden from you?
-* [Transparent vs opaque causes](transparent-vs-opaque-causes.md) - Even when you can see every part, can you follow how one thing leads to another well enough to predict what a change will do?
-* [Test vs watch](test-vs-watch.md) - Can you run a fair test, where chance decides who gets what, or can you only watch what happens and guess at the cause?
-* [Kind vs wicked feedback](kind-vs-wicked-feedback.md) - Do you find out soon and clearly whether you were right, or is the feedback slow, noisy or missing, so experience can teach the wrong lesson?
-* [Plentiful vs scarce data](plentiful-vs-scarce-data.md) - Have there been enough past cases like this one to learn the pattern from, or so few that you have almost nothing to go on?
-* [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md) - Can the know-how be written down as rules, or does it live in experts' hands and gut feel, so it can only be learnt from examples?
-* [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md) - Has the solver, person or model, met this kind of problem before, or is it new to them even if others have solved it?
-* [General vs local knowledge](general-vs-local-knowledge.md) - Does the answer rest on facts anyone could look up, or on facts about this place, this firm or this moment that only people close to it know?
+* [Known vs unknown odds](known-vs-unknown-odds.md)
+  * **Known**: you can put a number you trust on each outcome (e.g. a dice roll).
+  * **Unknown**: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off).
+* [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md)
+  * **Reducible**: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test).
+  * **Irreducible**: no amount of fact finding would settle it (e.g. whether a rival cuts prices next year).
+* [Small vs large world](small-vs-large-world.md)
+  * **Small**: a fixed procedure generates every way things might turn out, so you can compute or sample the outcomes before you choose, even when there are too many to list (e.g. a lottery ticket).
+  * **Large**: no procedure generates the outcomes, so you can't sample them and the result could be something nobody thought to list (e.g. a new product hit by a change in the law).
+* [Transparent vs opaque causes](transparent-vs-opaque-causes.md)
+  * **Transparent**: you can follow how one thing leads to another and predict what a change will do (e.g. a lever).
+  * **Opaque**: you can see every part but can't follow the whole chain (e.g. a large codebase).
+* [Test vs watch](test-vs-watch.md)
+  * **Test**: you can run a fair test where chance decides who gets what (e.g. a drug trial).
+  * **Watch**: you can only watch what happens and guess at the cause (e.g. a study of nurses who chose hormone therapy).
+* [Kind vs wicked feedback](kind-vs-wicked-feedback.md)
+  * **Kind**: you find out soon and clearly whether you were right (e.g. a game of chess).
+  * **Wicked**: feedback is slow, noisy or missing, so experience can teach the wrong lesson (e.g. a fund manager's results).
+* [Plentiful vs scarce data](plentiful-vs-scarce-data.md)
+  * **Plentiful**: there are many past cases like this one to learn from (e.g. card fraud).
+  * **Scarce**: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident).
+* [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md)
+  * **Explicit**: the know-how can be written down as rules (e.g. a tax rule).
+  * **Tacit**: the know-how lives in experts' hands and gut feel, so it can only be learnt from examples (e.g. a nurse sensing a patient is about to crash).
+* [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md)
+  * **Familiar**: the solver has met this kind of problem many times before (e.g. a doctor seeing a common cold).
+  * **Novel**: the problem is new to the solver, even if others have solved it (e.g. a question outside a model's training data).
+* [General vs local knowledge](general-vs-local-knowledge.md)
+  * **General**: the answer rests on facts anyone could look up (e.g. how insulin works).
+  * **Local**: the answer rests on facts that only people close to it know (e.g. whether this patient takes their insulin).
 
 # The decision
 
-* [Well-posed vs ill-posed](well-posed-vs-ill-posed.md) - Is the problem clearly stated, with a known goal and a clear point where you are done, or is working out what the problem is part of the job?
-* [Choose vs design the options](choose-vs-design-the-options.md) - Are the options handed to you to pick from, or do you have to invent them first?
-* [Convergent vs divergent](convergent-vs-divergent.md) - Is there one right answer that everyone would agree on, or many good answers that differ in kind?
-* [Single vs multiple objectives](single-vs-multiple-objectives.md) - Is there one thing to get right, or several goals that pull against each other, so a gain on one costs you on another?
-* [Shared vs contested values](shared-vs-contested-values.md) - Do all the people affected agree on what a good result looks like, or do they want different things?
-* [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) - Do you hold the levers, or does the fix depend on other people changing what they do?
-* [Satisficing vs optimising](satisficing-vs-optimising.md) - Will any answer that clears the bar do, or does each extra bit of quality still pay off, so you need the best you can find?
-* [Easy vs hard to verify](easy-vs-hard-to-verify.md) - Once you have an answer, can you check it quickly and cheaply, or might it take years to know if it was right?
-* [Complete vs incomplete goal](complete-vs-incomplete-goal.md) - Does the thing you measure capture everything you want, or are some goals, such as fairness, left out because they are hard to write down?
-* [One-shot vs sequential](one-shot-vs-sequential.md) - Is it a single choice, or a chain of choices where each step shapes the next and it's hard to tell which one caused the result?
-* [Reversible vs irreversible](reversible-vs-irreversible.md) - If it goes wrong, can you undo it cheaply and try again, or are you stuck with it?
-* [Survivable vs ruinous](survivable-vs-ruinous.md) - Could one bad outcome take you out of the game for good, so that good odds over many tries no longer help?
-* [Additive vs multiplicative](additive-vs-multiplicative.md) - Do gains and losses add up, so the average outcome is what you can expect, or do they compound, so one player over time can do far worse than the average?
-* [Even vs lopsided errors](even-vs-lopsided-errors.md) - Do a false alarm and a miss cost about the same, or is one mistake far worse than the other?
-* [Slack vs time pressure](slack-vs-time-pressure.md) - Do you have time to gather facts and think before things change, or must you act in seconds or minutes?
-* [Private vs accountable](private-vs-accountable.md) - Is the choice yours alone, or must you explain and defend it to others, such as a regulator, a court or the person affected?
-* [Skin in the game vs none](skin-in-the-game-vs-none.md) - Does whoever makes the call bear the cost if it goes wrong, or does it land on someone else?
+* [Well-posed vs ill-posed](well-posed-vs-ill-posed.md)
+  * **Well-posed**: the problem is clearly stated with a known goal and a clear end (e.g. a maths exam question).
+  * **Ill-posed**: working out what the problem is becomes part of the job (e.g. "fix homelessness").
+* [Choose vs design the options](choose-vs-design-the-options.md)
+  * **Choose**: the options are handed to you to pick from (e.g. a mortgage from a bank's list).
+  * **Design**: you have to invent the options first (e.g. saving a dying high street).
+* [Convergent vs divergent](convergent-vs-divergent.md)
+  * **Convergent**: there is one right answer that everyone would agree on (e.g. a sum).
+  * **Divergent**: there are many good answers that differ in kind (e.g. a wedding speech).
+* [Single vs multiple objectives](single-vs-multiple-objectives.md)
+  * **Single**: there is one thing to get right (e.g. the fastest route home).
+  * **Multiple**: several goals pull against each other, so a gain on one costs you on another (e.g. price against safety in a new car).
+* [Shared vs contested values](shared-vs-contested-values.md)
+  * **Shared**: everyone affected agrees on what a good result looks like (e.g. a bridge should stay up).
+  * **Contested**: people want different things from the result (e.g. where to build the bridge).
+* [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md)
+  * **Yours to fix**: you hold the levers yourself (e.g. a surgeon unblocking an artery).
+  * **Needs others**: the fix depends on other people changing what they do (e.g. a patient giving up smoking).
+* [Satisficing vs optimising](satisficing-vs-optimising.md)
+  * **Satisficing**: any answer that clears the bar will do (e.g. a lunch spot).
+  * **Optimising**: each extra bit of quality still pays off, so you need the best you can find (e.g. the dose of a strong drug).
+* [Easy vs hard to verify](easy-vs-hard-to-verify.md)
+  * **Easy**: you can check an answer quickly and cheaply (e.g. a solved sudoku).
+  * **Hard**: it might take years to know if an answer was right (e.g. a business strategy).
+* [Complete vs incomplete goal](complete-vs-incomplete-goal.md)
+  * **Complete**: the thing you measure captures everything you want (e.g. sorting letters by postcode).
+  * **Incomplete**: some goals are left out because they are hard to write down (e.g. fairness in hiring).
+* [One-shot vs sequential](one-shot-vs-sequential.md)
+  * **One-shot**: it is a single choice (e.g. a paint colour).
+  * **Sequential**: each choice shapes the next, so it is hard to tell which one caused the result (e.g. treating a long illness).
+* [Reversible vs irreversible](reversible-vs-irreversible.md)
+  * **Reversible**: if it goes wrong you can undo it cheaply and try again (e.g. a new recipe).
+  * **Irreversible**: once it is done you are stuck with it (e.g. selling the family home).
+* [Survivable vs ruinous](survivable-vs-ruinous.md)
+  * **Survivable**: no single loss can knock you out, so good odds pay off over many tries (e.g. a casino taking many small bets).
+  * **Ruinous**: one bad outcome can take you out of the game for good (e.g. Russian roulette).
+* [Additive vs multiplicative](additive-vs-multiplicative.md)
+  * **Additive**: gains and losses add up, so the average is what you can expect (e.g. betting the same £10 every round).
+  * **Multiplicative**: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round).
+* [Even vs lopsided errors](even-vs-lopsided-errors.md)
+  * **Even**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
+  * **Lopsided**: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire).
+* [Slack vs time pressure](slack-vs-time-pressure.md)
+  * **Slack**: you have time to gather facts and think before things change (e.g. a pension plan).
+  * **Time pressure**: you must act in seconds or minutes (e.g. a pilot with a failed engine).
+* [Private vs accountable](private-vs-accountable.md)
+  * **Private**: the choice is yours alone (e.g. picking a film).
+  * **Accountable**: you must explain and defend the choice to others (e.g. a bank refusing a loan).
+* [Skin in the game vs none](skin-in-the-game-vs-none.md)
+  * **Skin in the game**: whoever makes the call bears the cost if it goes wrong (e.g. a shopkeeper pricing their own stock).
+  * **None**: the cost lands on someone else (e.g. a broker paid for each loan whether or not it is repaid).

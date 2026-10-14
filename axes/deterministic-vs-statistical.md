@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Deterministic vs statistical
-description: Do the same inputs always give the same result, or only the same spread of results, so you can predict the rate but not the single case?
+description: "Deterministic: the same inputs always give exactly the same output (e.g. a sum). Statistical: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter)."
 group: world
 easy_end: Deterministic
 hard_end: Statistical
@@ -35,8 +35,7 @@ Do the same inputs always give the same result, or only the same spread of resul
 ## Correlated with
 
 - [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) (bundled). [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md) puts chance and unpredictability at the same cloud end, though chaos shows a fully deterministic system can still have a short horizon.
-- [Full vs partial observability](full-vs-partial-observability.md) (logic). Russell and Norvig note that a deterministic world you can only half see looks random to you ([Task environment properties](../frameworks/1995-task-environment-properties.md)).
-- [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (logic). Pure chance is one kind of doubt that no new data can shrink.
+- [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (logic). Pure chance is one kind of doubt that no new data can shrink. But Russell and Norvig note that a deterministic world you can only half see looks random to you ([Task environment properties](../frameworks/1995-task-environment-properties.md)). So doubt that looks like chance may be a hidden fact you could find.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (by definition). The tails axis only applies once a problem is statistical. A deterministic problem has no spread of results, so it has no tails to speak of.
 - [Coherent vs incoherent](coherent-vs-incoherent.md) (by definition). A deterministic problem gives the same result every run, so it is always coherent. But a statistical one can be coherent too, like a die, where every roll draws from the same spread.
 

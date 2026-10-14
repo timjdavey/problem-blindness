@@ -1,27 +1,38 @@
 ---
 type: Axis
 title: Reducible vs irreducible uncertainty
-description: Is your doubt a gap that more data or research could close, or would no amount of fact finding settle it?
+description: "Reducible: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test). Irreducible: no amount of fact finding would settle it (e.g. whether a rival cuts prices next year)."
 group: knower
 easy_end: Reducible
 hard_end: Irreducible
 sources:
+  - resource: /frameworks/1955-johari-window.md
+    title: Johari window
   - resource: /frameworks/1986-uncertainty-vs-equivocality.md
     title: Uncertainty vs equivocality
+  - resource: /frameworks/1989-complex-problem-solving.md
+    title: Complex problem solving
+  - resource: /frameworks/1995-task-environment-properties.md
+    title: Task environment properties
   - resource: /frameworks/2001-puzzles-vs-mysteries.md
     title: Puzzles vs mysteries
+  - resource: /frameworks/2002-known-and-unknown-unknowns.md
+    title: Known and unknown unknowns
 ---
 # Reducible vs irreducible uncertainty
 
 An axis in the [knower](index.md#the-knower) group.
 
-Is your doubt a gap that more data or research could close, or would no amount of fact finding settle it? Waiting on a blood test is reducible doubt, since the result will settle it. Three kinds of doubt are irreducible. Some is pure chance, like the next roll of a dice. Some hangs on choices people haven't made yet, like whether a rival will cut prices next year. Some is a clash over what the facts mean, where people read the same evidence in different ways. If your doubt is reducible you should go and gather data. If it's irreducible you should hedge instead.
+Is your doubt a gap that more data or research could close, or would no amount of fact finding settle it? Waiting on a blood test is reducible doubt, since the result will settle it. The most common reducible doubt is a fact that already exists but is hidden from you, like the other hands in poker. When nothing that matters is hidden, as on a chess board, you have no doubt of this kind and can act on what you see. Three kinds of doubt are irreducible. Some is pure chance, like the next roll of a dice. Some hangs on choices people haven't made yet, like whether a rival will cut prices next year. Some is a clash over what the facts mean, where people read the same evidence in different ways. If your doubt is reducible you should go and gather data. If it's irreducible you should hedge instead.
 
 ## Actions
 
 **Reducible**: Go and get the data.
 - Label more cases. Focus labelling on the cases the model is least sure of, which is called active learning.
 - Ask the user the missing question before acting. One question often settles what no model could guess.
+- Keep track of what you believe about the hidden facts. Update it as each new clue comes in, like a doctor narrowing a diagnosis.
+- Say what you can't see. A model that answers as if it had the full picture hides its biggest weakness.
+- Test the model on cases where the key evidence is missing. That is how it will meet many real ones.
 
 **Irreducible**: Stop paying for more data and hedge instead.
 - Report a spread, not a single answer. More training won't shrink the doubt, so hiding it only misleads.
@@ -31,14 +42,27 @@ Is your doubt a gap that more data or research could close, or would no amount o
 
 ## Correlated with
 
-- [Deterministic vs statistical](deterministic-vs-statistical.md) (logic). Pure chance is one kind of doubt that no new data can shrink.
+- [Deterministic vs statistical](deterministic-vs-statistical.md) (logic). Pure chance is one kind of doubt that no new data can shrink. But Russell and Norvig note that a deterministic world you can only half see looks random ([Task environment properties](../frameworks/1995-task-environment-properties.md)). Doubt that looks like chance may be a hidden fact you could find.
 - [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) (logic). Past the horizon more data barely moves the forecast.
-- [Full vs partial observability](full-vs-partial-observability.md) (opposite). Hidden facts are the classic reducible doubt, like Treverton's [puzzles](../frameworks/2001-puzzles-vs-mysteries.md), so partial observability usually leans to the reducible end.
-- [Shared vs contested values](shared-vs-contested-values.md) (bundled). Treverton's mysteries and Daft and Lengel's [equivocality](../frameworks/1986-uncertainty-vs-equivocality.md) are doubts that more facts won't settle, because people read the facts differently or haven't yet chosen what to do.
+- [Shared vs contested values](shared-vs-contested-values.md) (bundled). Treverton's mysteries and Daft and Lengel's [equivocality](../frameworks/1986-uncertainty-vs-equivocality.md) are doubts that more facts won't settle, because people read the facts differently or haven't yet chosen what to do. His [puzzles](../frameworks/2001-puzzles-vs-mysteries.md) are the other end, hidden facts that someone could find.
 - [Known vs unknown odds](known-vs-unknown-odds.md) (independent). Reducible asks whether more data would shrink your doubt, while known odds asks whether you can put a number on it. A coin toss has known odds and irreducible doubt. A new drug has unknown odds and reducible doubt, because you can run a trial.
+- [Transparent vs opaque causes](transparent-vs-opaque-causes.md) (study). Hidden variables are part of why Dörner's players couldn't trace their own effects ([Complex problem solving](../frameworks/1989-complex-problem-solving.md)). The two still differ. You can read every line of an open source codebase and still not trace the chain. A poker hand is a simple cause that is hidden from view.
+- [Neutral vs adversarial](neutral-vs-adversarial.md) (bundled). Opponents hide what they can, as in poker. The facts exist, but they cost more to find.
+- [Kind vs wicked feedback](kind-vs-wicked-feedback.md) (logic). Some hidden facts can never be found. A hiring manager never sees how the people they turned away would have done, so half the feedback is missing ([Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)).
+- [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). Go hides nothing and still can't be searched in full.
+- [Small vs large world](small-vs-large-world.md) (independent). Every possible poker hand is known in advance, and you still can't see the one in front of you.
+- [General vs local knowledge](general-vs-local-knowledge.md) (logic). Local facts are often out of sight for anyone far away. But the shop manager can see the stock levels that head office can't, so the gap is about who holds the facts.
 
 ## Citations
 
-[1] [Uncertainty vs equivocality](../frameworks/1986-uncertainty-vs-equivocality.md)
+[1] [Johari window](../frameworks/1955-johari-window.md)
 
-[2] [Puzzles vs mysteries](../frameworks/2001-puzzles-vs-mysteries.md)
+[2] [Uncertainty vs equivocality](../frameworks/1986-uncertainty-vs-equivocality.md)
+
+[3] [Complex problem solving](../frameworks/1989-complex-problem-solving.md)
+
+[4] [Task environment properties](../frameworks/1995-task-environment-properties.md)
+
+[5] [Puzzles vs mysteries](../frameworks/2001-puzzles-vs-mysteries.md)
+
+[6] [Known and unknown unknowns](../frameworks/2002-known-and-unknown-unknowns.md)

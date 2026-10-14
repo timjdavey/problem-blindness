@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: General vs local knowledge
-description: Does the answer rest on facts anyone could look up, or on facts about this place, this firm or this moment that only people close to it know?
+description: "General: the answer rests on facts anyone could look up (e.g. how insulin works). Local: the answer rests on facts that only people close to it know (e.g. whether this patient takes their insulin)."
 group: knower
 easy_end: General
 hard_end: Local
@@ -31,7 +31,7 @@ Does the answer rest on facts anyone could look up, or on facts about this place
 
 - [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md) (bundled). James C. Scott's metis is knowledge that is both local and tacit ([Use of knowledge in society](../frameworks/1945-use-of-knowledge-in-society.md)). But the two come apart. Today's stock levels are local and sit in a spreadsheet. Riding a bike is tacit and works the same in every town.
 - [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md) (logic). Local facts are never in the training data, however common the type of problem. An AI model may know everything about stock control and nothing about this shop.
-- [Full vs partial observability](full-vs-partial-observability.md) (logic). Local facts are often out of sight for anyone far away. But observability is about what the world hides, while this axis is about who holds the facts. The shop manager can see the stock levels. Head office can't.
+- [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (logic). Local facts are often out of sight for anyone far away, so to head office they are reducible doubt. But this axis is about who holds the facts. The shop manager can see the stock levels. Head office can't.
 - [Stationary vs drifting](stationary-vs-drifting.md) (logic). Hayek's point was that local circumstances change every day, so local facts go stale fast.
 
 ## Citations

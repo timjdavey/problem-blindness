@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Tractable vs intractable search
-description: Are there few enough options to check them all, or so many that no computer could, even when the rules are clear and everything is in view?
+description: "Tractable: you know every option and there are few enough to check them all (e.g. noughts and crosses). Intractable: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions)."
 group: world
 easy_end: Tractable
 hard_end: Intractable
@@ -15,7 +15,7 @@ sources:
 
 An axis in the [world](index.md#the-world) group.
 
-Are there few enough options to check them all, or so many that no computer could, even when the rules are clear and everything is in view? Noughts and crosses has so few possible games that you can check every one. Chess is fully visible, fixed and rule bound, yet the number of possible games is so vast that you can't. The hardest searches of all are called NP-complete, which means nobody knows a method that stays fast as the problem grows.
+Are there few enough options to check them all, or so many that no computer could, even when the rules are clear and everything is in view? Noughts and crosses has so few possible games that you can check every one. Go is fully visible, fixed and rule bound, yet it has about 10¹⁷⁰ legal board positions, far more than there are atoms in the universe, so you can't. The hardest searches of all are called NP-complete, which means nobody knows a method that stays fast as the problem grows.
 
 ## Actions
 
@@ -36,7 +36,8 @@ Are there few enough options to check them all, or so many that no computer coul
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). Needing the best answer from a search too big to finish is the hardest case.
 - [Slack vs time pressure](slack-vs-time-pressure.md) (tension). A search too big to finish, done against the clock, is the worst case.
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (independent). [NP problems](../frameworks/1971-np-problems.md) are hard to find and easy to check.
-- [Full vs partial observability](full-vs-partial-observability.md) (independent). Chess hides nothing and still can't be searched in full.
+- [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (independent). Go hides nothing, so there is no fact left to find, and it still can't be searched in full.
+- [Small vs large world](small-vs-large-world.md) (independent). Search size assumes a procedure generates the options. More computing power can finish a big search in principle. It can't search outcomes nobody can generate.
 - [Choose vs design the options](choose-vs-design-the-options.md) (independent). Search size assumes the options already exist. A design problem can have only three options once someone has thought of them.
 
 ## Citations

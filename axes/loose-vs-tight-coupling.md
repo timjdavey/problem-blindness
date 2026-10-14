@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Loose vs tight coupling
-description: When one part fails, is there slack and time to step in, or does the fault spread to other parts before anyone can react?
+description: "Loose: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest). Tight: a fault spreads to other parts before anyone can react (e.g. a power grid)."
 group: world
 easy_end: Loose
 hard_end: Tight
