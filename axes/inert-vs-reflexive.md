@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Inert vs reflexive
-description: Does looking at the system, or acting on your forecast, change it?
+description: Does the system behave the same whether or not you measure and forecast it, or do your forecasts change what people do and so change the outcome?
 group: world
 easy_end: Inert
 hard_end: Reflexive
@@ -23,7 +23,7 @@ sources:
 
 An axis in the [world](index.md#the-world) group.
 
-Does looking at the system, or acting on your forecast, change it? A rock doesn't care if you measure it. Publish a forecast that a bank will fail and people pull their money out, which makes it fail.
+Does the system behave the same whether or not you measure and forecast it, or do your forecasts change what people do and so change the outcome? A rock doesn't care if you measure it. Publish a forecast that a bank will fail and people pull their money out, which makes it fail.
 
 ## Actions
 

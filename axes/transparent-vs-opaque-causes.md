@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Transparent vs opaque causes
-description: Can you trace the chain from cause to effect?
+description: Even when you can see every part, can you follow how one thing leads to another well enough to predict what a change will do?
 group: knower
 easy_end: Transparent
 hard_end: Opaque
@@ -25,7 +25,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Can you trace the chain from cause to effect? A lever is transparent. A large codebase follows rules, yet no one person can hold the whole chain in their head.
+Even when you can see every part, can you follow how one thing leads to another well enough to predict what a change will do? A lever is transparent. A large codebase follows rules, yet no one person can hold the whole chain in their head.
 
 ## Actions
 

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Additive vs multiplicative
-description: Does the average across many players match what one player gets over time?
+description: Do gains and losses add up, so the average outcome is what you can expect, or do they compound, so one player over time can do far worse than the average?
 group: decision
 easy_end: Additive
 hard_end: Multiplicative
@@ -13,7 +13,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Does the average across many players match what one player gets over time? When gains and losses add up, it does. When they compound, it may not. In Ole Peters' coin game heads grows your wealth by 50% and tails shrinks it by 40%. The crowd's average rises 5% a round, while a typical player loses about 5% a round. When the two averages differ, the game is called non-ergodic.
+Do gains and losses add up, so the average outcome is what you can expect, or do they compound, so one player over time can do far worse than the average? In Ole Peters' coin game heads grows your wealth by 50% and tails shrinks it by 40%. The crowd's average rises 5% a round, while a typical player loses about 5% a round. When the crowd's average and one player's long run result differ like this, the game is called non-ergodic.
 
 ## Actions
 

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Stationary vs drifting
-description: Do the lessons you learn today still hold next year?
+description: Do the patterns in your past data still hold, or does the world keep shifting so that what you learnt goes stale?
 group: world
 easy_end: Stationary
 hard_end: Drifting
@@ -17,7 +17,7 @@ sources:
 
 An axis in the [world](index.md#the-world) group.
 
-Do the lessons you learn today still hold next year? Gravity stays put. Music tastes, fashion and slang keep moving, so old data goes stale.
+Do the patterns in your past data still hold, or does the world keep shifting so that what you learnt goes stale? Gravity stays put. Music tastes, fashion and slang keep moving, so old data goes stale.
 
 ## Actions
 

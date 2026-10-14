@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Familiar vs novel to the solver
-description: Has the solver seen this kind of problem before?
+description: Has the solver, person or model, met this kind of problem before, or is it new to them even if others have solved it?
 group: knower
 easy_end: Familiar
 hard_end: Novel
@@ -17,7 +17,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Has the solver seen this kind of problem before? A doctor sees a common cold every day but a rare disease once in a career. For an AI model the question is whether the problem sits inside its training data, which decides if it is reasoning or recalling.
+Has the solver, person or model, met this kind of problem before, or is it new to them even if others have solved it? A doctor sees a common cold every day but a rare disease once in a career. For an AI model the question is whether the problem sits inside its training data, which decides if it is reasoning or recalling.
 
 ## Actions
 

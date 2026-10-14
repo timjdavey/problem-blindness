@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Explicit vs tacit know-how
-description: Can the expertise be written down?
+description: Can the know-how be written down as rules, or does it live in experts' hands and gut feel, so it can only be learnt from examples?
 group: knower
 easy_end: Explicit
 hard_end: Tacit
@@ -19,7 +19,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Can the expertise be written down? A tax rule can. How a master chef judges when bread is done, or how a nurse senses a patient is about to crash, is hard to put into words.
+Can the know-how be written down as rules, or does it live in experts' hands and gut feel, so it can only be learnt from examples? A tax rule can. How a master chef judges when bread is done, or how a nurse senses a patient is about to crash, is hard to put into words. Skills of degree, like balance and grip, are the hardest of all. Machines beat people at chess long before they could walk across a room, which is called [Moravec's paradox](../frameworks/1988-moravecs-paradox.md).
 
 ## Actions
 
@@ -40,7 +40,6 @@ Can the expertise be written down? A tax rule can. How a master chef judges when
 - [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md) (opposite). Rasmussen found that novel cases force slow, explicit reasoning, since there is no trained pattern to fall back on ([Skill, rule and knowledge-based behaviour](../frameworks/1983-skill-rule-and-knowledge-based-behaviour.md)).
 - [Private vs accountable](private-vs-accountable.md) (tension). Know-how you can't put into words is hard to defend in an audit. Meehl's [formulas](../frameworks/1954-clinical-vs-statistical-prediction.md) and the Apgar score show the usual fix, which is to write a rule down and give up some of the craft.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (independent). Both say an expert can't just hand over the fix, but for different reasons. Tacit know-how is hard to put into words. In an adaptive challenge the know-how is often plain, like stop smoking, and the hard part is getting people to act on it ([Technical vs adaptive challenges](../frameworks/1994-technical-vs-adaptive-challenges.md)).
-- [Discrete vs continuous](discrete-vs-continuous.md) (study). By [Moravec's paradox](../frameworks/1988-moravecs-paradox.md) machines beat people at chess long before they could walk across a room, because skills of degree are the ones nobody can write down.
 - [General vs local knowledge](general-vs-local-knowledge.md) (bundled). Scott's metis is both local and tacit ([Use of knowledge in society](../frameworks/1945-use-of-knowledge-in-society.md)). But today's stock levels are local and written down, and riding a bike is tacit and the same in every town.
 
 ## Citations

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: General vs local knowledge
-description: Does the answer rest on facts anyone could look up, or on facts about this place, this firm or this moment?
+description: Does the answer rest on facts anyone could look up, or on facts about this place, this firm or this moment that only people close to it know?
 group: knower
 easy_end: General
 hard_end: Local
@@ -13,7 +13,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Does the answer rest on facts anyone could look up, or on facts about this place, this firm or this moment? How insulin works is general. Whether this patient has been taking theirs is local, and only someone close to them knows. Friedrich Hayek called this knowledge of the particular circumstances of time and place.
+Does the answer rest on facts anyone could look up, or on facts about this place, this firm or this moment that only people close to it know? How insulin works is general. Whether this patient has been taking theirs is local, and only someone close to them knows. Friedrich Hayek called this knowledge of the particular circumstances of time and place.
 
 ## Actions
 

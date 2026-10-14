@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Loose vs tight coupling
-description: When one part fails, how fast does it spread?
+description: When one part fails, is there slack and time to step in, or does the fault spread to other parts before anyone can react?
 group: world
 easy_end: Loose
 hard_end: Tight
@@ -15,7 +15,7 @@ sources:
 
 An axis in the [world](index.md#the-world) group.
 
-When one part fails, how fast does it spread? In a loose system there is slack and time to step in. In a tight one, like a power grid or a nuclear plant, one fault can cascade before anyone reacts.
+When one part fails, is there slack and time to step in, or does the fault spread to other parts before anyone can react? A delayed parcel rarely stops the rest of the post. In a tightly coupled system, like a power grid or a nuclear plant, one fault can cascade before anyone reacts.
 
 ## Actions
 

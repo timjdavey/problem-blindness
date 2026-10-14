@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Well-posed vs ill-posed
-description: Is the goal clear and do you know when you are done?
+description: Is the problem clearly stated, with a known goal and a clear point where you are done, or is working out what the problem is part of the job?
 group: decision
 easy_end: Well-posed
 hard_end: Ill-posed
@@ -23,7 +23,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Is the goal clear and do you know when you are done? A maths exam question is well posed. "Fix homelessness" is not, so working out what the problem actually is becomes part of the job.
+Is the problem clearly stated, with a known goal and a clear point where you are done, or is working out what the problem is part of the job? A maths exam question is well posed. "Fix homelessness" is not, so working out what the problem actually is becomes part of the job.
 
 ## Actions
 

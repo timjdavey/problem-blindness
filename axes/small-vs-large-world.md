@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Small vs large world
-description: Can you list every way things might turn out before you choose?
+description: Can you list every way things might turn out before you choose, or could the result be something nobody thought to list?
 group: knower
 easy_end: Small
 hard_end: Large
@@ -17,7 +17,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Can you list every way things might turn out before you choose? A lottery ticket wins or loses, and nothing else can happen. A new product can fail in ways nobody thought to list, like a rival's launch or a change in the law. Leonard Savage called the first a small world and the second a large one, and said his theory of rational choice only works in the small one.
+Can you list every way things might turn out before you choose, or could the result be something nobody thought to list? A lottery ticket wins or loses, and nothing else can happen. A new product can fail in ways nobody thought to list, like a rival's launch or a change in the law. Leonard Savage called the first a small world and the second a large one, and said his theory of rational choice only works in the small one.
 
 ## Actions
 

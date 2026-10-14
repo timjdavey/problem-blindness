@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: One-shot vs sequential
-description: Is it a single choice, or a chain where each step shapes the next?
+description: Is it a single choice, or a chain of choices where each step shapes the next and it's hard to tell which one caused the result?
 group: decision
 easy_end: One-shot
 hard_end: Sequential
@@ -17,7 +17,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Is it a single choice, or a chain where each step shapes the next? Choosing a paint colour is one shot. Running a project or treating a long illness is a series of moves, and it's hard to tell which early move caused the final result.
+Is it a single choice, or a chain of choices where each step shapes the next and it's hard to tell which one caused the result? Choosing a paint colour is one shot. Running a project or treating a long illness is a series of moves, and it's hard to tell which early move caused the final result.
 
 ## Actions
 

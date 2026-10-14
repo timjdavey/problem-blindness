@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Reducible vs irreducible uncertainty
-description: Could more information shrink your doubt, or would no amount of fact finding settle it?
+description: Is your doubt a gap that more data or research could close, or would no amount of fact finding settle it?
 group: knower
 easy_end: Reducible
 hard_end: Irreducible
@@ -15,7 +15,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Could more information shrink your doubt, or would no amount of fact finding settle it? Some doubt is pure chance, like the next roll of a dice. Some hangs on choices people haven't made yet, like whether a rival will cut prices next year. Some is a clash over what the facts mean. If your doubt is reducible you should go and gather data. If it's irreducible you should hedge instead.
+Is your doubt a gap that more data or research could close, or would no amount of fact finding settle it? Waiting on a blood test is reducible doubt, since the result will settle it. Three kinds of doubt are irreducible. Some is pure chance, like the next roll of a dice. Some hangs on choices people haven't made yet, like whether a rival will cut prices next year. Some is a clash over what the facts mean, where people read the same evidence in different ways. If your doubt is reducible you should go and gather data. If it's irreducible you should hedge instead.
 
 ## Actions
 

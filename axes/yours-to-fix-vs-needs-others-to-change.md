@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Yours to fix vs needs others to change
-description: Do you hold the levers, or does the fix depend on other people changing?
+description: Do you hold the levers, or does the fix depend on other people changing what they do?
 group: decision
 easy_end: Yours to fix
 hard_end: Needs others
@@ -19,7 +19,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Do you hold the levers, or does the fix depend on other people changing? A surgeon can unblock a man's arteries on his own. Whether the man lives another twenty years depends on whether he stops smoking, and no surgeon can do that for him. Climate change is harder still, because nobody is in charge and the people trying to fix it are also causing it. Ronald Heifetz calls the first kind of problem technical and the second adaptive.
+Do you hold the levers, or does the fix depend on other people changing what they do? A surgeon can unblock a man's arteries on his own. Whether the man lives another twenty years depends on whether he stops smoking, and no surgeon can do that for him. Climate change is harder still, because nobody is in charge and the people trying to fix it are also causing it. Ronald Heifetz calls the first kind of problem technical and the second adaptive.
 
 ## Actions
 

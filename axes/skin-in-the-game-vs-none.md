@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Skin in the game vs none
-description: Does whoever makes the call pay if it goes wrong?
+description: Does whoever makes the call bear the cost if it goes wrong, or does it land on someone else?
 group: decision
 easy_end: Skin in the game
 hard_end: None
@@ -13,7 +13,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Does whoever makes the call pay if it goes wrong? A shopkeeper pricing their own stock does. A broker paid for each loan they sign, whether or not it is repaid, does not, and will sign worse loans. Michael Jensen and William Meckling called the cost of this gap an agency cost. An AI model never pays for its own mistakes, so it starts at the hard end.
+Does whoever makes the call bear the cost if it goes wrong, or does it land on someone else? A shopkeeper pricing their own stock does. A broker paid for each loan they sign, whether or not it is repaid, does not, and will sign worse loans. Michael Jensen and William Meckling called the cost of this gap an agency cost. An AI model never pays for its own mistakes, so it starts at the hard end.
 
 ## Actions
 

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Tractable vs intractable search
-description: How many options do you have to search through?
+description: Are there few enough options to check them all, or so many that no computer could, even when the rules are clear and everything is in view?
 group: world
 easy_end: Tractable
 hard_end: Intractable
@@ -15,7 +15,7 @@ sources:
 
 An axis in the [world](index.md#the-world) group.
 
-How many options do you have to search through? Noughts and crosses has so few possible games that you can check every one. Chess is fully visible, fixed and rule bound, yet the number of possible games is so vast that you can't. The hardest searches of all are called NP-complete, which means nobody knows a method that stays fast as the problem grows.
+Are there few enough options to check them all, or so many that no computer could, even when the rules are clear and everything is in view? Noughts and crosses has so few possible games that you can check every one. Chess is fully visible, fixed and rule bound, yet the number of possible games is so vast that you can't. The hardest searches of all are called NP-complete, which means nobody knows a method that stays fast as the problem grows.
 
 ## Actions
 
@@ -37,7 +37,6 @@ How many options do you have to search through? Noughts and crosses has so few p
 - [Slack vs time pressure](slack-vs-time-pressure.md) (tension). A search too big to finish, done against the clock, is the worst case.
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (independent). [NP problems](../frameworks/1971-np-problems.md) are hard to find and easy to check.
 - [Full vs partial observability](full-vs-partial-observability.md) (independent). Chess hides nothing and still can't be searched in full.
-- [Discrete vs continuous](discrete-vs-continuous.md) (opposite). Clean steps often make the search harder. Finding the best mix of products is fast when amounts can be any number, and NP-complete when they must be whole numbers ([NP problems](../frameworks/1971-np-problems.md)).
 - [Choose vs design the options](choose-vs-design-the-options.md) (independent). Search size assumes the options already exist. A design problem can have only three options once someone has thought of them.
 
 ## Citations

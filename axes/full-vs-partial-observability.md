@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Full vs partial observability
-description: Can you see everything that matters?
+description: Can you see the whole current state of things, or are some facts that matter hidden from you?
 group: knower
 easy_end: Full
 hard_end: Partial
@@ -19,7 +19,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Can you see everything that matters? In chess you see the whole board. In poker the other hands are hidden, and in medicine you often see only symptoms, not the cause.
+Can you see the whole current state of things, or are some facts that matter hidden from you? In chess you see the whole board. In poker the other hands are hidden, and a doctor often has to act before the test results are back.
 
 ## Actions
 

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Known vs unknown odds
-description: Do you know the chances, or only that things are uncertain?
+description: Can you put a number you trust on how likely each outcome is, or do you only know that things are uncertain?
 group: knower
 easy_end: Known
 hard_end: Unknown
@@ -27,7 +27,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Do you know the chances, or only that things are uncertain? A dice roll has known odds. Whether a new technology takes off does not, and pretending it does gives you false confidence. Doubt you can't put a number on is called Knightian uncertainty, after Frank Knight.
+Can you put a number you trust on how likely each outcome is, or do you only know that things are uncertain? A dice roll has known odds. Whether a new technology takes off does not, and pretending it does gives you false confidence. Doubt you can't put a number on is called Knightian uncertainty, after Frank Knight.
 
 ## Actions
 

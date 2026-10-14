@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Satisficing vs optimising
-description: Is good enough fine, or does the last bit matter?
+description: Will any answer that clears the bar do, or does each extra bit of quality still pay off, so you need the best you can find?
 group: decision
 easy_end: Satisficing
 hard_end: Optimising
@@ -17,7 +17,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Is good enough fine, or does the last bit matter? Picking a lunch spot is satisficing. Setting the dose of a strong drug, or tuning a racing car, needs the best answer you can find.
+Will any answer that clears the bar do, or does each extra bit of quality still pay off, so you need the best you can find? For a lunch spot, any decent place will do. Setting the dose of a strong drug, or tuning a racing car, is worth every extra bit of care.
 
 ## Actions
 

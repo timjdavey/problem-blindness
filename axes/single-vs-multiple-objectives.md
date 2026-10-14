@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Single vs multiple objectives
-description: Is there one thing to get right, or several that pull against each other?
+description: Is there one thing to get right, or several goals that pull against each other, so a gain on one costs you on another?
 group: decision
 easy_end: Single
 hard_end: Multiple
@@ -12,12 +12,16 @@ sources:
     title: Problem typology
   - resource: /frameworks/2017-need-for-interpretability.md
     title: Need for interpretability
+  - resource: /frameworks/1997-taboo-trade-offs.md
+    title: Taboo trade-offs
 ---
 # Single vs multiple objectives
 
 An axis in the [decision](index.md#the-decision) group.
 
-Is there one thing to get right, or several that pull against each other? The fastest route home is one objective. A new car trades price against safety, comfort and running costs, so there are many good answers, not one.
+Is there one thing to get right, or several goals that pull against each other, so a gain on one costs you on another? The fastest route home is one objective. A new car trades price against safety, comfort and running costs, so there are many good answers, not one.
+
+Most trade offs can be priced. You can say what an hour of travel is worth to you. Some can't. A hospital budget trades money against lives, and most people refuse to put a price on a child. Alan Fiske and Philip Tetlock called these taboo trade offs.
 
 ## Actions
 
@@ -30,6 +34,7 @@ Is there one thing to get right, or several that pull against each other? The fa
 - Show decision makers the best trade offs on offer. Lay out the options where you can't gain on one goal without losing on another, and let them pick.
 - Agree the weights before training, not after. Weights set after you see results tend to favour the model you already like.
 - Set a floor for each objective. No gain on one should push another below what is acceptable.
+- Treat sacred values as rules the model can't break, not weights it can trade. A loss function that puts a price on a life will be found and quoted.
 
 ## Correlated with
 
@@ -39,7 +44,7 @@ Is there one thing to get right, or several that pull against each other? The fa
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (logic). With no single score there is no simple check that one answer beats another.
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (opposite). With several goals there is a set of good trade offs and no one best answer, so you have to settle for good enough.
 - [Complete vs incomplete goal](complete-vs-incomplete-goal.md) (bundled). Doshi-Velez and Kim ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)) count goals that pull against each other as one kind of gap in the score. But a car buyer who writes down every want and sets the weights has many objectives and a complete goal.
-- [Commensurable vs incommensurable values](commensurable-vs-incommensurable-values.md) (by definition). The question only comes up with more than one objective. Setting weights, as Keeney and Raiffa do, assumes every goal can be turned into one score.
+- [Private vs accountable](private-vs-accountable.md) (study). In 2000 Tetlock asked people to judge a hospital manager who could spend $1m on a child's liver transplant or on equipment and salaries. Choosing the equipment after long thought scored 5.71 for outrage out of 7. Saving the child at once scored 1.51. Even being seen to weigh a sacred value counts against you, so a choice you must defend in public pushes the trade off out of sight ([Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)).
 
 ## Citations
 
@@ -48,3 +53,5 @@ Is there one thing to get right, or several that pull against each other? The fa
 [2] [Problem typology](../frameworks/2000-problem-typology.md)
 
 [3] [Need for interpretability](../frameworks/2017-need-for-interpretability.md)
+
+[4] [Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)

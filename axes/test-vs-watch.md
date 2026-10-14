@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Test vs watch
-description: Can you run a fair test, or can you only watch what happens?
+description: Can you run a fair test, where chance decides who gets what, or can you only watch what happens and guess at the cause?
 group: knower
 easy_end: Test
 hard_end: Watch
@@ -17,7 +17,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Can you run a fair test, or can you only watch what happens? A drug trial gives the pill to some people and a dummy to others at random, so any gap comes from the pill. In 1991 a study of nearly 50,000 nurses found women on hormone therapy had about half the heart disease. That was watching, and the women who chose hormones were healthier to start with. A 2002 trial found the hormones raised heart disease. Judea Pearl calls watching and testing the bottom two rungs of his ladder of causation.
+Can you run a fair test, where chance decides who gets what, or can you only watch what happens and guess at the cause? A drug trial gives the pill to some people and a dummy to others at random, so any gap comes from the pill. In 1991 a study of nearly 50,000 nurses found women on hormone therapy had about half the heart disease. That was watching, and the women who chose hormones were healthier to start with. A 2002 trial found the hormones raised heart disease. Judea Pearl calls watching and testing the bottom two rungs of his ladder of causation.
 
 ## Actions
 

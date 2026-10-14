@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Smooth vs rugged
-description: Can small steps carry you to the best answer, or will they get stuck?
+description: Will small improvements keep carrying you to the best answer, or will they stall on an answer that is good but not the best, where every small change makes it worse?
 group: world
 easy_end: Smooth
 hard_end: Rugged
@@ -15,7 +15,7 @@ sources:
 
 An axis in the [world](index.md#the-world) group.
 
-Can small steps carry you to the best answer, or will they get stuck? On a smooth problem every step that helps also brings you closer to the best answer, so steady tweaking works. On a rugged one there are many local peaks, and small steps stop on whichever is nearest. Seasoning a soup to taste is smooth. Designing a new protein is rugged, because changing one part changes what every other part is worth.
+Will small improvements keep carrying you to the best answer, or will they stall on an answer that is good but not the best, where every small change makes it worse? On a smooth problem every step that helps also brings you closer to the best answer, so steady tweaking works. On a rugged one there are many local peaks, and small steps stop on whichever is nearest. Seasoning a soup to taste is smooth. Designing a new protein is rugged, because changing one part changes what every other part is worth.
 
 ## Actions
 

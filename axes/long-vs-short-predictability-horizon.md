@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Long vs short predictability horizon
-description: How far ahead does a forecast hold before small errors blow up?
+description: How far ahead can you forecast before tiny errors in what you know today grow too large for the forecast to be any use?
 group: world
 easy_end: Long
 hard_end: Short
@@ -15,7 +15,7 @@ sources:
 
 An axis in the [world](index.md#the-world) group.
 
-How far ahead does a forecast hold before small errors blow up? A cup pushed off a table is easy to predict. The weather two weeks out is not, even though the physics is simple. This is called chaos.
+How far ahead can you forecast before tiny errors in what you know today grow too large for the forecast to be any use? A cup pushed off a table is easy to predict. The weather two weeks out is not, even though the physics is simple. Systems where small errors grow this fast are called chaotic.
 
 ## Actions
 

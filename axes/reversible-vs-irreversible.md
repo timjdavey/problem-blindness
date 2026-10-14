@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Reversible vs irreversible
-description: Can you undo it if it goes wrong?
+description: If it goes wrong, can you undo it cheaply and try again, or are you stuck with it?
 group: decision
 easy_end: Reversible
 hard_end: Irreversible
@@ -15,7 +15,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Can you undo it if it goes wrong? Trying a new recipe is a two way door. Selling the family home or cutting off a leg is a one way door.
+If it goes wrong, can you undo it cheaply and try again, or are you stuck with it? Trying a new recipe is a two way door. Selling the family home or cutting off a leg is a one way door.
 
 ## Actions
 
@@ -38,7 +38,6 @@ Can you undo it if it goes wrong? Trying a new recipe is a two way door. Selling
 - [One-shot vs sequential](one-shot-vs-sequential.md) (opposite). A chain of moves usually gives you a chance to correct course. Rittel and Webber's "one-shot operation" means a choice that can't be undone, so it belongs here rather than on that axis.
 - [Private vs accountable](private-vs-accountable.md) (logic). Bezos argues one-way doors deserve a slow process with many views ([One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)), and that brings scrutiny.
 - [Test vs watch](test-vs-watch.md) (logic). You can't run a fair test of a one way door, because there is no going back to try the other side.
-- [Convex vs concave payoff](convex-vs-concave-payoff.md) (logic). Cheap two way doors make tinkering convex, because you keep what works and walk back from what fails.
 
 ## Citations
 

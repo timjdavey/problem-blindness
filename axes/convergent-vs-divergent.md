@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Convergent vs divergent
-description: Is there one right answer, or many good ones?
+description: Is there one right answer that everyone would agree on, or many good answers that differ in kind?
 group: decision
 easy_end: Convergent
 hard_end: Divergent
@@ -13,7 +13,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Is there one right answer, or many good ones? A sum has one. A wedding speech, a logo or a sonnet about autumn has many, and two very different ones can both be excellent. J. P. Guilford called the thinking for the first kind convergent and for the second divergent.
+Is there one right answer that everyone would agree on, or many good answers that differ in kind? A sum has one. A wedding speech, a logo or a sonnet about autumn has many, and two very different ones can both be excellent. J. P. Guilford called the thinking for the first kind convergent and for the second divergent.
 
 ## Actions
 

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Decomposable vs holistic
-description: Can you split the problem into parts, solve each one and put them back together?
+description: Can you split the problem into parts, solve each one on its own and put them back together, or does each part only make sense in light of the others?
 group: world
 easy_end: Decomposable
 hard_end: Holistic
@@ -21,7 +21,7 @@ sources:
 
 An axis in the [world](index.md#the-world) group.
 
-Can you split the problem into parts, solve each one and put them back together? A car engine mostly can. A family, an ecosystem or a company culture can't, because the parts only make sense together.
+Can you split the problem into parts, solve each one on its own and put them back together, or does each part only make sense in light of the others? A car engine mostly can. A family, an ecosystem or a company culture can't, because the parts only make sense together.
 
 ## Actions
 

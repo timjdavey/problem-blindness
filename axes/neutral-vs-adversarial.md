@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Neutral vs adversarial
-description: Is someone working against you?
+description: Is the world indifferent to you, or is someone studying your methods and changing their play to beat them?
 group: world
 easy_end: Neutral
 hard_end: Adversarial
@@ -15,7 +15,7 @@ sources:
 
 An axis in the [world](index.md#the-world) group.
 
-Is someone working against you? Rain doesn't try to beat your umbrella. Fraudsters, hackers and rival traders learn your methods and change their play to beat them.
+Is the world indifferent to you, or is someone studying your methods and changing their play to beat them? Rain doesn't try to beat your umbrella. Fraudsters, hackers and rival traders learn your methods and change their play to beat them.
 
 ## Actions
 

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Shared vs contested values
-description: Does everyone agree what a good result looks like?
+description: Do all the people affected agree on what a good result looks like, or do they want different things?
 group: decision
 easy_end: Shared
 hard_end: Contested
@@ -27,7 +27,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Does everyone agree what a good result looks like? A bridge should stay up, and nobody argues. Where to build the bridge, and whose homes it passes, depends on whose interests count.
+Do all the people affected agree on what a good result looks like, or do they want different things? A bridge should stay up, and nobody argues. Where to build the bridge, and whose homes it passes, depends on whose interests count.
 
 ## Actions
 
@@ -51,7 +51,6 @@ Does everyone agree what a good result looks like? A bridge should stay up, and 
 - [Private vs accountable](private-vs-accountable.md) (logic). A choice that picks winners has to be defended in public, which is why [Post-normal science](../frameworks/1993-post-normal-science.md) calls for a wider group to judge it.
 - [Complete vs incomplete goal](complete-vs-incomplete-goal.md) (logic). When people disagree on what a good result is, any one score takes a side and leaves the other wants out.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (bundled). [Heifetz](../frameworks/1994-technical-vs-adaptive-challenges.md) says adaptive work often means people giving up something they value. [Super wicked problems](../frameworks/2007-super-wicked-problems.md) have nobody in charge to settle whose interests count.
-- [Commensurable vs incommensurable values](commensurable-vs-incommensurable-values.md) (independent). Everyone can agree a child's life is sacred and still face a budget.
 - [Even vs lopsided errors](even-vs-lopsided-errors.md) (logic). How much worse a miss is than a false alarm is a value judgement, so people fight over where to set the bar.
 
 ## Citations

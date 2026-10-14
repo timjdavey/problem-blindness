@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Kind vs wicked feedback
-description: Do you find out quickly and honestly whether you were right?
+description: Do you find out soon and clearly whether you were right, or is the feedback slow, noisy or missing, so experience can teach the wrong lesson?
 group: knower
 easy_end: Kind
 hard_end: Wicked
@@ -17,7 +17,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Do you find out quickly and honestly whether you were right? A chess player gets fast and clear feedback, so skill builds. A fund manager waits years for noisy results, so experience can teach the wrong lesson.
+Do you find out soon and clearly whether you were right, or is the feedback slow, noisy or missing, so experience can teach the wrong lesson? A chess player gets fast and clear feedback, so skill builds. A fund manager waits years for noisy results, so a run of luck can pass for skill. Robin Hogarth coined these terms. His wicked is not the wicked of [wicked problems](../frameworks/1973-tame-vs-wicked-problems.md), which is about problems with no clear statement or end.
 
 ## Actions
 

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Easy vs hard to verify
-description: Can you check an answer cheaply, even if finding it was hard?
+description: Once you have an answer, can you check it quickly and cheaply, or might it take years to know if it was right?
 group: decision
 easy_end: Easy
 hard_end: Hard
@@ -17,7 +17,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Can you check an answer cheaply, even if finding it was hard? A solved sudoku takes seconds to check. A business strategy or a diagnosis may take years to prove right or wrong.
+Once you have an answer, can you check it quickly and cheaply, or might it take years to know if it was right? A solved sudoku takes seconds to check. A business strategy or a diagnosis may take years to prove right or wrong.
 
 ## Actions
 
@@ -41,7 +41,6 @@ Can you check an answer cheaply, even if finding it was hard? A solved sudoku ta
 - [Private vs accountable](private-vs-accountable.md) (tension). You can only defend a choice if someone can check it, so a choice that is hard to verify is hard to account for.
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). [NP problems](../frameworks/1971-np-problems.md) are the textbook case of hard to find and easy to check.
 - [Complete vs incomplete goal](complete-vs-incomplete-goal.md) (independent). A score can be quick to check and still miss what you want. Amazon could test its star ratings for job applicants against past hires, but fairness was never in the score ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)).
-- [Discrete vs continuous](discrete-vs-continuous.md) (logic). A continuous answer is only close or far, so checking it needs a tolerance someone has to pick.
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). One right answer can be checked against a key. Many good answers need someone to judge them.
 
 ## Citations

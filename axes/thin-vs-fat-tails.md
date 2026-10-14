@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Thin vs fat tails
-description: When results are statistical, how extreme can a single one get?
+description: When results vary, do they stay close to the average, or can one extreme case outweigh all the rest put together?
 group: world
 easy_end: Thin
 hard_end: Fat
@@ -10,12 +10,14 @@ sources:
     title: Mediocristan vs Extremistan
   - resource: /frameworks/2008-fourth-quadrant.md
     title: Fourth quadrant
+  - resource: /frameworks/2012-fragile-robust-and-antifragile.md
+    title: Fragile, robust and antifragile
 ---
 # Thin vs fat tails
 
 An axis in the [world](index.md#the-world) group.
 
-When results are statistical, how extreme can a single one get? Heights are thin tailed, so the average tells you a lot. Floods, pandemics and startup returns are fat tailed, so one outlier can outweigh everything else and past averages mislead you.
+When results vary, do they stay close to the average, or can one extreme case outweigh all the rest put together? Heights are thin tailed, so the average tells you a lot. Floods, pandemics and startup returns are fat tailed, so one outlier can outweigh everything else and past averages mislead you.
 
 ## Actions
 
@@ -27,6 +29,7 @@ When results are statistical, how extreme can a single one get? Heights are thin
 - Report tail metrics, like the worst 1% of errors or the largest single loss. A good average on a calm test set tells you nothing about the next crash.
 - Stress test with extreme cases you build on purpose. The real extremes are too rare to turn up in your data by chance.
 - Cap exposure with limits on size or spend. No single prediction should be able to do unbounded harm.
+- Change your exposure when you can't change the world. The tails belong to the world, but how much a surprise costs you is up to you. Prefer the dull model with no rare failures, and test in a sandbox before going live.
 - Don't read a long calm run as proof of safety. Banks in 2007 had years of quiet data, and it said nothing about 2008.
 
 ## Correlated with
@@ -39,10 +42,11 @@ When results are statistical, how extreme can a single one get? Heights are thin
 - [Inert vs reflexive](inert-vs-reflexive.md) (study). [Reflexivity](../frameworks/1987-reflexivity.md) and the [bank run](../frameworks/1948-self-fulfilling-prophecy.md) show beliefs and facts feeding each other into booms and crashes.
 - [Additive vs multiplicative](additive-vs-multiplicative.md) (logic). Compounding piles the gains on a lucky few. In Peters' coin game the crowd's average keeps rising only because a handful of players get vastly rich ([Ergodicity](../frameworks/2016-ergodicity.md)).
 - [Small vs large world](small-vs-large-world.md) (logic). The worst outcomes are often ones nobody listed, which is what Taleb means by a black swan.
-- [Convex vs concave payoff](convex-vs-concave-payoff.md) (bundled). The [Fourth quadrant](../frameworks/2008-fourth-quadrant.md) is a fat tailed world met with a payoff whose shape you don't understand. You can't change the tails, but you can often change your exposure to them.
 
 ## Citations
 
 [1] [Mediocristan vs Extremistan](../frameworks/2007-mediocristan-vs-extremistan.md)
 
 [2] [Fourth quadrant](../frameworks/2008-fourth-quadrant.md)
+
+[3] [Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)

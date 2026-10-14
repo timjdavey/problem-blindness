@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Survivable vs ruinous
-description: Could one bad outcome take you out of the game for good?
+description: Could one bad outcome take you out of the game for good, so that good odds over many tries no longer help?
 group: decision
 easy_end: Survivable
 hard_end: Ruinous
@@ -17,7 +17,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Could one bad outcome take you out of the game for good? If so, the average result over many tries is useless, because you won't get many tries. Russian roulette has good odds and still isn't worth playing.
+Could one bad outcome take you out of the game for good, so that good odds over many tries no longer help? If so, the average result over many tries is useless, because you won't get many tries. Russian roulette has good odds and still isn't worth playing.
 
 ## Actions
 
@@ -38,7 +38,6 @@ Could one bad outcome take you out of the game for good? If so, the average resu
 - [Loose vs tight coupling](loose-vs-tight-coupling.md) (study). Tight systems let small faults cascade into a meltdown ([Normal accidents](../frameworks/1984-normal-accidents.md)).
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). You can't learn from your own ruin, because it only happens once.
 - [Additive vs multiplicative](additive-vs-multiplicative.md) (by definition). Ruin is the extreme case, since a ruined player gets nothing over time whatever the crowd's average says. But the gap can open without ruin. Peters' coin game never wipes anyone out. It just makes the typical player a little poorer each round ([Ergodicity](../frameworks/2016-ergodicity.md)).
-- [Convex vs concave payoff](convex-vs-concave-payoff.md) (logic). A bet that can ruin you is the most concave payoff there is.
 - [Even vs lopsided errors](even-vs-lopsided-errors.md) (logic). When one kind of mistake can ruin you and the other can't, the costs are as lopsided as they get.
 
 ## Citations

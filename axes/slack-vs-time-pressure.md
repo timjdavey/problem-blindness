@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Slack vs time pressure
-description: How long do you have to decide, compared to how fast things change?
+description: Do you have time to gather facts and think before things change, or must you act in seconds or minutes?
 group: decision
 easy_end: Slack
 hard_end: Time pressure
@@ -19,7 +19,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-How long do you have to decide, compared to how fast things change? A pension plan gives you months. A pilot with a failed engine has seconds.
+Do you have time to gather facts and think before things change, or must you act in seconds or minutes? A pension plan gives you months. A pilot with a failed engine has seconds.
 
 ## Actions
 

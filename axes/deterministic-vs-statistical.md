@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Deterministic vs statistical
-description: Do the same inputs always give the same result, or only a stable spread of results?
+description: Do the same inputs always give the same result, or only the same spread of results, so you can predict the rate but not the single case?
 group: world
 easy_end: Deterministic
 hard_end: Statistical
@@ -17,7 +17,7 @@ sources:
 
 An axis in the [world](index.md#the-world) group.
 
-Do the same inputs always give the same result, or only a stable spread of results? A sum is deterministic. Which boiler breaks down this winter is statistical, though the rate across many boilers is steady.
+Do the same inputs always give the same result, or only the same spread of results, so you can predict the rate but not the single case? A sum is deterministic. Which boiler breaks down this winter is statistical, though the rate across many boilers is steady.
 
 ## Actions
 

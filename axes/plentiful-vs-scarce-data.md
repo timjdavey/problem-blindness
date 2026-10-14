@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Plentiful vs scarce data
-description: Do you have enough cases to learn from?
+description: Have there been enough past cases like this one to learn the pattern from, or so few that you have almost nothing to go on?
 group: knower
 easy_end: Plentiful
 hard_end: Scarce
@@ -19,7 +19,7 @@ sources:
 
 An axis in the [knower](index.md#the-knower) group.
 
-Do you have enough cases to learn from? Card fraud happens millions of times a year. A nuclear accident or a once in a century flood gives you almost nothing to go on.
+Have there been enough past cases like this one to learn the pattern from, or so few that you have almost nothing to go on? Card fraud happens millions of times a year. A nuclear accident or a once in a century flood gives you almost nothing to go on.
 
 ## Actions
 

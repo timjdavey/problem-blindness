@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Choose vs design the options
-description: Are the options handed to you, or do you have to invent them?
+description: Are the options handed to you to pick from, or do you have to invent them first?
 group: decision
 easy_end: Choose
 hard_end: Design
@@ -15,7 +15,7 @@ sources:
 
 An axis in the [decision](index.md#the-decision) group.
 
-Are the options handed to you, or do you have to invent them? Picking a mortgage from a bank's list is choosing. Deciding what to do about a dying high street means making up the options first, and the best one may be something nobody has tried. Herbert Simon split decision making into finding the problem, designing options and choosing among them.
+Are the options handed to you to pick from, or do you have to invent them first? Picking a mortgage from a bank's list is choosing. Deciding what to do about a dying high street means making up the options first, and the best one may be something nobody has tried. Herbert Simon split decision making into finding the problem, designing options and choosing among them.
 
 ## Actions
 
