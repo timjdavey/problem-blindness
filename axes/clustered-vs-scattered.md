@@ -9,6 +9,8 @@ hard_end: Scattered
 sources:
   - resource: /frameworks/1956-law-of-requisite-variety.md
     title: Law of requisite variety
+  - resource: /frameworks/1976-algorithm-selection-problem.md
+    title: Algorithm selection problem
   - resource: /frameworks/2003-deep-uncertainty.md
     title: Deep uncertainty
   - resource: /frameworks/2023-cohesion.md
@@ -25,7 +27,7 @@ When runs disagree, do they fall into a few clear groups, so a few clues can tel
 **Clustered**: Name the groups and plan for each.
 - Cluster the runs or outputs and report each group, not the pooled average. Two clear groups averaged together give a result neither produced.
 - Pick the early signals that tell the groups apart, and update your belief about which group you are in as they come in. A few readings can rule out a whole group.
-- Keep a playbook for each group, so you can switch as soon as the signals point one way.
+- Keep a playbook for each group, so you can switch as soon as the signals point one way. Learn which method wins in each group from a few features you can measure first, rather than using the one with the best average everywhere ([Algorithm selection problem](../frameworks/1976-algorithm-selection-problem.md)).
 - Don't serve every group with one answer. In 2004 the US Army brought in one camouflage pattern for every setting, and it hid soldiers worse than other patterns in several of them. You need as many kinds of response as there are kinds of case ([Law of requisite variety](../frameworks/1956-law-of-requisite-variety.md)).
 
 **Scattered**: Plan for the whole spread.
@@ -45,6 +47,8 @@ When runs disagree, do they fall into a few clear groups, so a few clues can tel
 
 [1] [Law of requisite variety](../frameworks/1956-law-of-requisite-variety.md)
 
-[2] [Deep uncertainty](../frameworks/2003-deep-uncertainty.md)
+[2] [Algorithm selection problem](../frameworks/1976-algorithm-selection-problem.md)
 
-[3] [Cohesion](../frameworks/2023-cohesion.md)
+[3] [Deep uncertainty](../frameworks/2003-deep-uncertainty.md)
+
+[4] [Cohesion](../frameworks/2023-cohesion.md)

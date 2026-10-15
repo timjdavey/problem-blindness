@@ -1,5 +1,9 @@
 # Update Log
 
+## 2026-10-15
+
+* **Creation**: Added the [Algorithm selection problem](/frameworks/1976-algorithm-selection-problem.md) framework, from John Rice's 1976 chapter in *Advances in Computers*. It asks how to pick a method from features of the case you can measure first. It feeds [Clustered vs scattered](/axes/clustered-vs-scattered.md), and [No free lunch](/frameworks/1997-no-free-lunch.md) now links to it.
+
 ## 2026-10-14
 
 * **Update**: Renamed four axes. Well-posed vs ill-posed is now [Well vs ill-structured](/axes/well-vs-ill-structured.md), since "well-posed" means something else in maths and Simon's term is the source. One-shot vs sequential is now [Standalone vs sequential](/axes/standalone-vs-sequential.md), because Russell and Norvig's easy end is many choices that stand alone, not one choice. Complete vs incomplete goal is now [Complete vs incomplete score](/axes/complete-vs-incomplete-score.md), since it is the score that leaves things out. Decomposable vs holistic is now [Decomposable vs tangled](/axes/decomposable-vs-tangled.md).
