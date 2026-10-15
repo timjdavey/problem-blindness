@@ -19,6 +19,8 @@ The person who decides is called the agent. The person who bears the result is c
 
 The trait this sorts on is whether whoever decides bears the cost of being wrong. This is not the same as [accountability](1999-accountability.md), which asks whether you must explain a choice. Here the question is whether you pay for it. A banker can write a careful memo for every loan and still keep his bonus when the loans go bad. The mistake is to treat a decision or a forecast as if the person making it shared your stakes. The better response is to ask who pays if it goes wrong. If it isn't the person deciding, give them a stake, check their work harder or keep the decision yourself. An AI agent is the extreme case. It never bears the cost of being wrong, because it loses no money, no job and no sleep. All the checking has to come from the people who will pay.
 
+This framework feeds the [Skin in the game vs none](../axes/skin-in-the-game-vs-none.md) axis.
+
 ## Examples
 
 **Hammurabi's builder.** In about 1753 BC the Babylonian king Hammurabi had his laws carved on a basalt stele 2.25 metres tall. It was found at Susa in present day Iran in 1901 and now stands in the Louvre. Law 229 says that if a builder builds a house badly and it falls and kills the owner, the builder shall be put to death. Law 232 says that if it ruins the owner's goods, the builder pays for them and rebuilds the house at his own cost. The builder knows where the shortcuts are hidden and the owner can't see them, so the law made the builder carry the risk. Taleb quotes this law early in *Skin in the Game*.

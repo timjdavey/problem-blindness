@@ -21,6 +21,8 @@ Later work found the same logic built into living things. In 2000 Martie Haselto
 
 The mistake is to judge a test or a person by how often they are right. When one error costs far more than the other, the most accurate rule can be the wrong one. A smoke alarm that never sounds is right on almost every day of the year, and it is useless. The better response is to ask two questions in turn. First, how well can you tell the cases apart? Then, what does each kind of error cost? Set the bar from those costs and from how common the real thing is.
 
+This framework feeds the [Even vs lopsided errors](../axes/even-vs-lopsided-errors.md) axis.
+
 ## Examples
 
 **Blackstone's ratio.** In 1769 William Blackstone wrote in his *Commentaries on the Laws of England* that "it is better that ten guilty persons escape, than that one innocent suffer". That is a bar set by cost. A wrongful conviction counts as ten times worse than a wrongful acquittal, so the proof needed for guilt goes up. John Fortescue had put the ratio at twenty to one around 1470. English law still uses two bars. Criminal courts need proof beyond reasonable doubt, while civil courts decide on the balance of probabilities, where a wrong verdict usually costs money rather than liberty.

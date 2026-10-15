@@ -16,7 +16,9 @@ People run tasks at three levels of effort. When a task is well practised, like 
 
 The trait this sorts on is how familiar the situation is. Rasmussen studied control room operators at the Risø laboratory. The British psychologist James Reason later built on his three levels and showed that each one fails in its own way. Skill fails through slips, like your hand doing the usual thing at an unusual moment. Rules fail when a situation looks like a known one but isn't, so a good rule gets used in the wrong place. Reasoning fails because people working from scratch are slow, miss facts and stop too early.
 
-The worst errors come from a mismatch. A new situation that looks familiar gets handled by rule, and the rule makes it worse. Since the rule worked last time, nobody stops to check whether this really is last time.
+The worst errors come from a mismatch. A new situation that looks familiar gets handled by rule, and the rule makes it worse. Since the rule worked last time, nobody stops to check whether this really is last time. The better response is to build in moments that force a check, like a pause when a familiar rule isn't working, so people step up to reasoning when a case is new.
+
+This framework feeds the [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md) and [Familiar vs novel to the solver](../axes/familiar-vs-novel-to-the-solver.md) axes.
 
 ## Examples
 

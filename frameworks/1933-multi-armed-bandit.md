@@ -20,6 +20,8 @@ William Thompson posed it in 1933, thinking about which of two medical treatment
 
 People get this wrong in two ways. Some treat it as a one-off choice. They pick what looks best today and never test again, so they lock in an early guess that was mostly luck. Others treat it as pure research. They run a long fixed experiment and keep sending half their users to the option that is plainly losing, because the test plan says so. A bandit problem needs you to shift towards what works while still checking now and then.
 
+This framework feeds the [Standalone vs sequential](../axes/standalone-vs-sequential.md) and [Test vs watch](../axes/test-vs-watch.md) axes.
+
 ## Examples
 
 **Your local restaurants.** You moved to a new town and found a curry house you like in the first month. You could go there every Friday for ten years. But you have only tried four places, so the odds are good that a better one exists. The usual fix is to go back to your favourite most weeks and try somewhere new now and then.

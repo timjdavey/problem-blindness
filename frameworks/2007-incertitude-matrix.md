@@ -18,6 +18,8 @@ He sorted not knowing with two questions. Do you know what outcomes are possible
 
 The mistake is to force all four into the risk corner, because only that corner gives a single answer. Uncertainty gets made up odds. Ambiguity gets one group's values built quietly into the sums. Ignorance gets left out, since you can't put a number on a thing nobody has thought of. The better response is to match the tool to the corner. Use ranges and scenarios for uncertainty, and open up the question of what counts for ambiguity. For ignorance, keep watching and prefer choices you can undo.
 
+This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md) axis.
+
 ## Examples
 
 **Mad cow disease.** In February 1989 a UK working party led by Sir Richard Southwood reported that BSE was "most unlikely" to have any implications for human health. On 20 March 1996 the health secretary Stephen Dorrell told Parliament that ten people had a new form of CJD, most likely caught from BSE. The UK has since recorded 178 cases. The early advice treated ignorance as a small, known risk, when nobody yet knew how the disease could pass between species.

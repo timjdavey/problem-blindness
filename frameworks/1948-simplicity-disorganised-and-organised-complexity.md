@@ -16,7 +16,9 @@ Think about a game of snooker. If you know how hard the cue ball was struck and 
 
 Now picture a table with a million balls bouncing about. You can't follow any one ball, but you can say a lot about the average. You can say how often a ball hits a cushion, or how far a ball travels before it hits another. Weaver called these problems of disorganised complexity. They have huge numbers of parts that act more or less at random, so the quirks cancel out and statistics works.
 
-Weaver's real point was about the large middle ground. Here there are too many parts to track one by one, but too few to average away, and the parts are linked in ways that matter. A living cell, a firm or a city works like this. He called these problems of organised complexity, and he said science had barely started on them. The trait the framework sorts on is how many parts a problem has and how much they shape each other. The big mistake is to take an organised problem and treat it as one of the other two. You either pick a few variables and ignore the rest, or you average over parts whose links are the whole story.
+Weaver's real point was about the large middle ground. Here there are too many parts to track one by one, but too few to average away, and the parts are linked in ways that matter. A living cell, a firm or a city works like this. He called these problems of organised complexity, and he said science had barely started on them. The trait the framework sorts on is how many parts a problem has and how much they shape each other. The big mistake is to take an organised problem and treat it as one of the other two. You either pick a few variables and ignore the rest, or you average over parts whose links are the whole story. The better response is to ask how many parts matter and how tightly they are linked. When the parts shape each other, study the links themselves rather than the parts or the average.
+
+This framework feeds the [Decomposable vs tangled](../axes/decomposable-vs-tangled.md) and [Deterministic vs statistical](../axes/deterministic-vs-statistical.md) axes.
 
 ## Examples
 

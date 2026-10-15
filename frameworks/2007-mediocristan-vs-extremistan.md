@@ -14,9 +14,11 @@ sources:
 
 Pick a thousand people at random and weigh them. Now add the heaviest person on earth to the group. The average barely moves, because even a very heavy person is only a few times heavier than normal. Now do the same with wealth and add the richest person on earth. That one person now holds almost all the group's money, and the average tells you nothing about anyone in it.
 
-Taleb named these two worlds in The Black Swan. In Mediocristan no single case can move the total much. Height, weight and calories eaten live here. In Extremistan a single case can outweigh all the others put together. Wealth and book sales live here, and so do city sizes and market crashes. The sorting trait is whether the extremes are capped. Statisticians call the second kind fat-tailed, because the rare events at the edges are far bigger and more common than a bell curve predicts.
+Taleb named these two worlds in The Black Swan. In Mediocristan no single case can move the total much. Height, weight and calories eaten live here. In Extremistan a single case can outweigh all the others put together. Wealth and book sales live here, and so do city sizes and market crashes. The sorting trait is whether one case can outweigh all the rest. Statisticians call the second kind fat-tailed, because the rare events at the edges are far bigger and more common than a bell curve predicts.
 
-The tools that work in Mediocristan are averages, spreads and the past as a guide to the future. In Extremistan they break. The past can look calm for years because the event that matters most hasn't happened yet. The mistake is to measure an Extremistan problem with Mediocristan tools and then feel safe because the numbers look normal.
+The tools that work in Mediocristan are averages, spreads and the past as a guide to the future. In Extremistan they break. The past can look calm for years because the event that matters most hasn't happened yet. The mistake is to measure an Extremistan problem with Mediocristan tools and then feel safe because the numbers look normal. The better response is to ask whether one case could outweigh all the rest. If it could, plan for the extreme rather than the average, and avoid bets that one bad day could ruin.
+
+This framework feeds the [Thin vs fat tails](../axes/thin-vs-fat-tails.md) axis.
 
 ## Examples
 

@@ -12,7 +12,7 @@ sources:
 ---
 # Additive vs multiplicative
 
-An axis in the [decision](index.md#the-decision) group.
+An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
 
 Do gains and losses add up, so the average outcome is what you can expect, or do they compound, so one player over time can do far worse than the average? In Ole Peters' coin game heads grows your wealth by 50% and tails shrinks it by 40%. The crowd's average rises 5% a round, while a typical player loses about 5% a round. When the crowd's average and one player's long run result differ like this, the game is called non-ergodic.
 
@@ -32,7 +32,7 @@ Do gains and losses add up, so the average outcome is what you can expect, or do
 
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (by definition). Ruin is the extreme case, since a ruined player gets nothing over time whatever the crowd's average says. But the gap can open without ruin, and the coin game never wipes anyone out.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). Compounding piles the gains on a lucky few. In the coin game the crowd's average keeps rising only because a handful of players get vastly rich.
-- [One-shot vs sequential](one-shot-vs-sequential.md) (by definition). The gap only opens over repeated plays. For a single toss the crowd's average is a fair guide, and the harm builds up toss by toss.
+- [Standalone vs sequential](standalone-vs-sequential.md) (by definition). Compounding is a sequential problem, since each bet's result sets the stake for the next. Bet the same fixed sum each round and the rounds stand alone, so the crowd's average is a fair guide.
 - [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). Compounding splits players' paths apart, so the crowd's average describes almost nobody. That is incoherence across players over time.
 
 ## Citations

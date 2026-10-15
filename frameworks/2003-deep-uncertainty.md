@@ -14,11 +14,13 @@ sources:
 
 # Deep uncertainty
 
-Most planning starts with a forecast. You pick the most likely future and build the best plan for it. That works when people agree on how the world works and roughly how likely each outcome is. Deep uncertainty is the case where they don't. Experts disagree about how the system works, about the odds of each outcome and even about which outcomes are good.
+Most planning starts with a forecast. You pick the most likely future and build the best plan for it. That works when people agree on how the world works and roughly how likely each outcome is. Deep uncertainty is the case where they don't. Experts disagree about how the system works, about the odds of each outcome and even about which outcomes are good. The trait this sorts on is whether that agreement exists.
 
 Robert Lempert, Steven Popper and Steven Bankes worked at RAND, an American policy research body. In their 2003 report *Shaping the Next One Hundred Years*, they argued that in this case a forecast is worse than useless. It gives you a plan tuned to one future that probably won't arrive. So they turned the question round. Instead of asking "what will happen?" you ask "which plans do well enough across many futures?" You use computers to run a plan through thousands of possible worlds and look for the ones where it fails. Then you change the plan so it fails less often, or add signposts that tell you when to switch course. This grew into a field called decision making under deep uncertainty, or DMDU.
 
-The mistake this framework warns against is treating a deep problem as one of plain risk. If you force a single best guess onto a question nobody can agree on, you get a precise plan that breaks easily. Arguments about whose forecast is right also stall the decision. Testing plans against many futures lets people who disagree about the future still agree on what to do.
+The mistake this framework warns against is treating a deep problem as one of plain risk. If you force a single best guess onto a question nobody can agree on, you get a precise plan that breaks easily. Arguments about whose forecast is right also stall the decision. The better response is to test plans against many futures, which lets people who disagree about the future still agree on what to do.
+
+This framework feeds the [Clustered vs scattered](../axes/clustered-vs-scattered.md), [Known vs unknown odds](../axes/known-vs-unknown-odds.md) and [Shared vs contested values](../axes/shared-vs-contested-values.md) axes.
 
 ## Examples
 

@@ -14,7 +14,7 @@ sources:
 ---
 # Private vs accountable
 
-An axis in the [decision](index.md#the-decision) group.
+An axis in the [People](index.md#people) set of the [decision](index.md#the-decision) group.
 
 Is the choice yours alone, or must you explain and defend it to others, such as a regulator, a court or the person affected? A hunch is fine for picking a film. A loan refusal, a court ruling or a medical decision may have to be explained, audited or defended in law, which rules out some methods even when they would work better.
 
@@ -37,7 +37,7 @@ Is the choice yours alone, or must you explain and defend it to others, such as 
 - [Inert vs reflexive](inert-vs-reflexive.md) (study). [Campbell's law](../frameworks/1976-campbells-law.md) says the more a number decides people's fate, the more they bend it.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). A choice that picks winners has to be defended in public ([Post-normal science](../frameworks/1993-post-normal-science.md)).
 - [Reversible vs irreversible](reversible-vs-irreversible.md) (logic). One-way doors get the slow, careful process, and with it more scrutiny ([One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)).
-- [Complete vs incomplete goal](complete-vs-incomplete-goal.md) (bundled). Doshi-Velez and Kim say people need explanations when part of the goal, like fairness, safety or the law, never made it into the score ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)).
+- [Complete vs incomplete score](complete-vs-incomplete-score.md) (bundled). Doshi-Velez and Kim say people need explanations when part of the goal, like fairness, safety or the law, never made it into the score ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)).
 - [Single vs multiple objectives](single-vs-multiple-objectives.md) (study). In Tetlock's hospital study, a manager who spent money on equipment instead of a child's transplant after long thought drew the most outrage of any version ([Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)). Even weighing a sacred value in public counts against you.
 - [Skin in the game vs none](skin-in-the-game-vs-none.md) (independent). Accountable means you must explain the choice, while skin in the game means you pay for it. A judge gives reasons and loses nothing if wrong. A gambler pays for every bad bet and explains nothing.
 

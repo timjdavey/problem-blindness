@@ -20,6 +20,8 @@ What decides which group you are in is the shape of the harm. Jumping from one m
 
 The sorting matters because it changes the question you ask. Most planning tries to forecast the next shock and prepare for it. Taleb argues that in a fat-tailed world the forecast will often be wrong, so you should look at the shape of your exposure instead. Ask what happens to you if things go very badly or very well. If a big surprise would ruin you, you are fragile no matter how good the forecast is. Cutting that exposure is safer than sharpening the prediction.
 
+This framework feeds the [Spread vs single bet](../axes/spread-vs-single-bet.md), [Survivable vs ruinous](../axes/survivable-vs-ruinous.md) and [Thin vs fat tails](../axes/thin-vs-fat-tails.md) axes.
+
 ## Examples
 
 **Fukushima Daiichi.** The nuclear plant on Japan's east coast had a sea wall built for a tsunami of under six metres. On 11 March 2011 a wave of about 14 metres arrived. It flooded the backup generators, which sat low in the buildings, and three reactors melted down. The plant was fragile to a wave bigger than its planners expected, and the harm grew far faster than the size of the wave.

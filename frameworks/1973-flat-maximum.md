@@ -20,6 +20,8 @@ In 1973 Detlof von Winterfeldt and Ward Edwards at the University of Michigan wr
 
 Herbert Simon's satisficing treats good enough as a habit of the person. The flat maximum makes it a trait of the problem. If the top is flat, good enough is nearly as good as best, so a long hunt for the perfect answer wastes effort. If the top is peaked, settling early is a real loss. The mistake runs both ways. People polish the weights in a scoring model for weeks when any sensible weights would do. Others bring a relaxed habit to a problem with a sharp peak, where small errors hurt.
 
+This framework feeds the [Satisficing vs optimising](../axes/satisficing-vs-optimising.md) and [Smooth vs rugged](../axes/smooth-vs-rugged.md) axes.
+
 ## Examples
 
 **Graduate admissions in Oregon.** In a 1979 paper in *American Psychologist*, Robyn Dawes tried to predict how the faculty would later rate graduate students at the University of Oregon from three numbers: a test score, their college grades and how selective their college was. On a scale where 0 means no link and 1 means a perfect forecast, the admissions committee's own judgement scored .19. Weights fitted to half the students and tested on the other half scored .38. Just adding the three scores with equal weights scored .48. Dawes explained this with von Winterfeldt and Edwards' flat maximum: weights near the best ones give almost the same answer. What mattered was choosing the right measures and knowing which way each one pointed.

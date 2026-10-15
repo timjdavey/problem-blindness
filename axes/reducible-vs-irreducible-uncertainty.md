@@ -22,9 +22,11 @@ sources:
 ---
 # Reducible vs irreducible uncertainty
 
-An axis in the [knower](index.md#the-knower) group.
+An axis in the [Uncertainty](index.md#uncertainty) set of the [knower](index.md#the-knower) group.
 
-Is your doubt a gap that more data or research could close, or would no amount of fact finding settle it? Waiting on a blood test is reducible doubt, since the result will settle it. The most common reducible doubt is a fact that already exists but is hidden from you, like the other hands in poker. When nothing that matters is hidden, as on a chess board, you have no doubt of this kind and can act on what you see. Three kinds of doubt are irreducible. Some is pure chance, like the next roll of a dice. Some hangs on choices people haven't made yet, like whether a rival will cut prices next year. Some is a clash over what the facts mean, where people read the same evidence in different ways. If your doubt is reducible you should go and gather data. If it's irreducible you should hedge instead.
+Is your doubt a gap that more data or research could close, or would no amount of fact finding settle it? Waiting on a blood test is reducible doubt, since the result will settle it. The most common reducible doubt is a fact that already exists but is hidden from you, like the other hands in poker. When nothing that matters is hidden, as on a chess board, you have no doubt of this kind and can act on what you see.
+
+Three kinds of doubt are irreducible. Some is pure chance, like the next roll of a die. Some hangs on choices people haven't made yet, like whether a rival will cut prices next year. Some is a clash over what the facts mean, where people read the same evidence in different ways. That last kind sits close to [Shared vs contested values](shared-vs-contested-values.md), since the fight is often over what matters. If your doubt is reducible you should go and gather data. If it's irreducible you should hedge instead.
 
 ## Actions
 
@@ -37,7 +39,7 @@ Is your doubt a gap that more data or research could close, or would no amount o
 
 **Irreducible**: Stop paying for more data and hedge instead.
 - Report a spread, not a single answer. More training won't shrink the doubt, so hiding it only misleads.
-- Spread your bets. Make the decision cope with either result instead of staking it on one.
+- Make the decision cope with either result instead of staking it on one. Where you can, back several options at once, as under [Spread vs single bet](spread-vs-single-bet.md).
 - Use an ensemble to tell the two kinds of doubt apart. Models that disagree point to doubt more data could fix. Models that agree on a wide spread point to doubt it can't.
 - Check where the doubt comes from. If it hangs on a choice nobody has made yet, no data will settle it, so plan for each way the choice could go.
 

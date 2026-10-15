@@ -18,6 +18,8 @@ His sharpest point is about what matters. The tidy problems on the high ground a
 
 Schön thought many professionals quietly choose the high ground. They recast a messy situation as one their method fits, then solve that version well. The trouble is that the version they solved is not the one that was there. His answer was what he called reflection in action. A good practitioner treats each case as partly new. They try a way of framing it, watch how the situation responds and change the framing when it doesn't fit.
 
+This framework feeds the [Well vs ill-structured](../axes/well-vs-ill-structured.md) axis.
+
 ## Examples
 
 **Pruitt-Igoe.** In 1954 St Louis opened Pruitt-Igoe, a public housing estate of 33 blocks, each eleven storeys tall. It answered the high ground question of how to house many people cheaply on cleared land. Within two decades it was badly run down, and demolition began in 1972. Historians now point to falling funds, racial segregation and the loss of city jobs as much as to the design. None of those were questions the planners had been asked to answer.

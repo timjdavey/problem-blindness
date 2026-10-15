@@ -14,9 +14,11 @@ sources:
 
 Some questions only have two answers. Will it rain tomorrow? Will this patient survive the year? Other questions are about size. How much rain will fall? How much will the bank lose? Taleb's point was that statistics copes well with the first kind even in a wild world. It copes badly with the second kind once the world gets wild.
 
-He drew a grid with two traits. The first is the payoff. It can be simple, like a yes or no. Or it can be complex, where the size of the outcome matters and has no upper limit. The second trait is the world the odds come from. It can be tame, where the extremes are capped. Or it can be fat-tailed, where one huge event can outweigh everything else. The first three boxes are fairly safe to model. The fourth, with complex payoffs in a fat-tailed world, is where models fail and failure costs the most.
+He drew a grid with two traits. The first is the payoff. It can be simple, like a yes or no. Or it can be complex, where the size of the outcome matters and has no upper limit. The second trait is the world the odds come from. It can be tame, where no single case can move the total much. Or it can be fat-tailed, where one huge event can outweigh everything else. The first three boxes are fairly safe to model. The fourth, with complex payoffs in a fat-tailed world, is where models fail and failure costs the most.
 
 Taleb's advice for the fourth quadrant is not a better model. It is to cut your exposure to the events the model can't see. That means less debt and more slack, and avoiding bets where a rare loss could wipe you out. The error is to treat a fourth quadrant problem as if it sat in one of the other three, because the maths looks the same on paper.
+
+This framework feeds the [Survivable vs ruinous](../axes/survivable-vs-ruinous.md) and [Thin vs fat tails](../axes/thin-vs-fat-tails.md) axes.
 
 ## Examples
 

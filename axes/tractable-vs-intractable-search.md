@@ -14,9 +14,9 @@ sources:
 ---
 # Tractable vs intractable search
 
-An axis in the [world](index.md#the-world) group.
+An axis in the [Structure](index.md#structure) set of the [world](index.md#the-world) group.
 
-Are there few enough options to check them all, or so many that no computer could, even when the rules are clear and everything is in view? Noughts and crosses has so few possible games that you can check every one. Go is fully visible, fixed and rule bound, yet it has about 10¹⁷⁰ legal board positions, far more than there are atoms in the universe, so you can't. The hardest searches of all are called NP-complete, which means nobody knows a method that stays fast as the problem grows.
+Are there few enough options to check them all, or so many that no computer could, even when the rules are clear and everything is in view? Noughts and crosses has so few possible games that you can check every one. Go is fully visible, fixed and rule bound, yet it has about 10¹⁷⁰ legal board positions, far more than there are atoms in the universe, so you can't. The hardest problems whose answers are quick to check are called NP-complete. Nobody knows a method for them that stays fast as the problem grows.
 
 ## Actions
 
@@ -33,7 +33,7 @@ Are there few enough options to check them all, or so many that no computer coul
 ## Correlated with
 
 - [Smooth vs rugged](smooth-vs-rugged.md) (study). Stepping downhill on rugged land stops at a false bottom ([Convex vs non-convex optimisation](../frameworks/1970-convex-vs-non-convex-optimisation.md)). Edward Weinberger proved in 1996 that finding the top of a general NK landscape is NP-complete.
-- [Decomposable vs holistic](decomposable-vs-holistic.md) (logic). A problem that splits into parts can be searched one part at a time, like Simon's [watchmakers](../frameworks/1962-near-decomposability.md).
+- [Decomposable vs tangled](decomposable-vs-tangled.md) (logic). A problem that splits into parts can be searched one part at a time, like Simon's [watchmakers](../frameworks/1962-near-decomposability.md).
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). Needing the best answer from a search too big to finish is the hardest case.
 - [Slack vs time pressure](slack-vs-time-pressure.md) (tension). A search too big to finish, done against the clock, is the worst case.
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (independent). [NP problems](../frameworks/1971-np-problems.md) are hard to find and easy to check.

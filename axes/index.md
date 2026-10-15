@@ -10,8 +10,8 @@
   * **Deterministic**: the same inputs always give exactly the same output (e.g. a sum).
   * **Statistical**: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter).
 * [Coherent vs incoherent](coherent-vs-incoherent.md)
-  * **Coherent**: the average of all outcomes represents the typical outcome (e.g. the mean height of a population closely matches the median and mode).
-  * **Incoherent**: each instance of a system looks very different and never like the average (e.g. climate tipping points).
+  * **Coherent**: every run of the system gives the same spread of results, so the pooled average stands for any run (e.g. a die).
+  * **Incoherent**: each run settles somewhere different, so the pooled average describes none of them (e.g. climate model runs that split into warm and cold futures).
 * [Clustered vs scattered](clustered-vs-scattered.md)
   * **Clustered**: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars).
   * **Scattered**: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks).
@@ -34,17 +34,17 @@
 ## Response
 
 * [Inert vs reflexive](inert-vs-reflexive.md)
-  * **Inert**: the system behaves the same whether or not you measure or forecast it (e.g. a rock).
-  * **Reflexive**: your forecast changes what people do and so changes the outcome (e.g. a forecast that a bank will fail sets off a run on it).
+  * **Inert**: the system behaves the same whether or not you model it (e.g. a rock).
+  * **Reflexive**: your forecasts, scores or actions change what people do and so change the outcome (e.g. a forecast that a bank will fail sets off a run on it).
 * [Neutral vs adversarial](neutral-vs-adversarial.md)
   * **Neutral**: the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella).
   * **Adversarial**: someone studies your methods and changes their play to beat them (e.g. fraudsters).
 
 ## Structure
 
-* [Decomposable vs holistic](decomposable-vs-holistic.md)
+* [Decomposable vs tangled](decomposable-vs-tangled.md)
   * **Decomposable**: you can solve each part on its own and put them back together (e.g. a car engine).
-  * **Holistic**: each part only makes sense in light of the others (e.g. a company culture).
+  * **Tangled**: each part only makes sense in light of the others (e.g. a company culture).
 * [Loose vs tight coupling](loose-vs-tight-coupling.md)
   * **Loose**: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest).
   * **Tight**: a fault spreads to other parts before anyone can react (e.g. a power grid).
@@ -97,9 +97,9 @@
 
 ## Goal
 
-* [Well-posed vs ill-posed](well-posed-vs-ill-posed.md)
-  * **Well-posed**: the problem is clearly stated with a known goal and a clear end (e.g. a maths exam question).
-  * **Ill-posed**: working out what the problem is becomes part of the job (e.g. "fix homelessness").
+* [Well vs ill-structured](well-vs-ill-structured.md)
+  * **Well-structured**: the problem is clearly stated, with a known goal, known moves and a clear end (e.g. a maths exam question).
+  * **Ill-structured**: working out what the problem is, or how to attack it, becomes part of the job (e.g. "fix homelessness").
 * [Convergent vs divergent](convergent-vs-divergent.md)
   * **Convergent**: there is one right answer that everyone would agree on (e.g. a sum).
   * **Divergent**: there are many good answers that differ in kind (e.g. a wedding speech).
@@ -111,8 +111,8 @@
   * **Optimising**: each extra bit of quality still pays off, so you need the best you can find (e.g. the dose of a strong drug).
 * [Easy vs hard to verify](easy-vs-hard-to-verify.md)
   * **Easy**: you can check an answer quickly and cheaply (e.g. a solved sudoku).
-  * **Hard**: it might take years to know if an answer was right (e.g. a business strategy).
-* [Complete vs incomplete goal](complete-vs-incomplete-goal.md)
+  * **Hard**: there is no quick or cheap way to check an answer before you act on it (e.g. a business strategy).
+* [Complete vs incomplete score](complete-vs-incomplete-score.md)
   * **Complete**: the thing you measure captures everything you want (e.g. sorting letters by postcode).
   * **Incomplete**: some goals are left out because they are hard to write down (e.g. fairness in hiring).
 
@@ -124,8 +124,8 @@
 * [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md)
   * **Yours to fix**: you hold the levers yourself (e.g. a surgeon unblocking an artery).
   * **Needs others**: the fix depends on other people changing what they do (e.g. a patient giving up smoking).
-* [One-shot vs sequential](one-shot-vs-sequential.md)
-  * **One-shot**: it is a single choice (e.g. a paint colour).
+* [Standalone vs sequential](standalone-vs-sequential.md)
+  * **Standalone**: each choice stands alone, so one doesn't change the next (e.g. checking invoices for fraud).
   * **Sequential**: each choice shapes the next, so it is hard to tell which one caused the result (e.g. treating a long illness).
 * [Slack vs time pressure](slack-vs-time-pressure.md)
   * **Slack**: you have time to gather facts and think before things change (e.g. a pension plan).

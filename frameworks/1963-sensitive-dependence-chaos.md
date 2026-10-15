@@ -18,6 +18,8 @@ The framework sorts problems by how fast small errors grow. Where errors stay sm
 
 The mistake is to treat a chaotic problem as if it were only complicated. You buy a bigger computer and build a finer model, and the long range forecast barely moves. The better response is to stop asking for one answer and ask for a range. Forecasters now run the same model many times from slightly different starts and look at how far the results spread. This is called ensemble forecasting, and the spread tells you how far ahead you can trust what you see.
 
+This framework feeds the [Coherent vs incoherent](../axes/coherent-vs-incoherent.md) and [Long vs short predictability horizon](../axes/long-vs-short-predictability-horizon.md) axes.
+
 ## Examples
 
 **Lorenz's rounding error.** In 1961 Lorenz was running a small weather model on a computer at MIT. To see one run again, he restarted it halfway with a number typed from the printout. The printout showed 0.506, but the computer had stored 0.506127. He went for a coffee, and when he came back the new run had drifted far from the old one. A difference in the fourth decimal place had produced a different weather pattern within about two months of model time.

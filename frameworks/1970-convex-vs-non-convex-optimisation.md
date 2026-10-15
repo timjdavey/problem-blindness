@@ -23,6 +23,8 @@ The trait this sorts on is the shape of the problem, not its size. A convex prob
 
 The mistake is to treat a non-convex problem as convex. You improve step by step until no small change helps, and then you declare it the best. In fact you only found the best near where you began. The fix is to start from many places or take a big jump now and then, and to accept that your answer depends on your starting point.
 
+This framework feeds the [Smooth vs rugged](../axes/smooth-vs-rugged.md) axis.
+
 ## Examples
 
 **Stigler's diet.** In 1945 the economist George Stigler asked for the cheapest diet that met an adult's needs, choosing from 77 foods. The maths of that problem is convex, so there is one true best. He had no way to solve it exactly and made a careful guess instead. In 1947 the new simplex method found the exact answer, and Stigler's guess was less than a dollar a year more expensive. In a bowl, sensible steps get you close.

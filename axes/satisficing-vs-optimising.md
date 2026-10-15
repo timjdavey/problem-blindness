@@ -16,7 +16,7 @@ sources:
 ---
 # Satisficing vs optimising
 
-An axis in the [decision](index.md#the-decision) group.
+An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision) group.
 
 Will any answer that clears the bar do, or does each extra bit of quality still pay off, so you need the best you can find? For a lunch spot, any decent place will do. Setting the dose of a strong drug, or tuning a racing car, is worth every extra bit of care.
 
@@ -35,9 +35,9 @@ Will any answer that clears the bar do, or does each extra bit of quality still 
 
 - [Smooth vs rugged](smooth-vs-rugged.md) and [Tractable vs intractable search](tractable-vs-intractable-search.md) (tension). Needing the best answer when the land is rugged or the search is too big is the hardest case. Small steps stop on the nearest peak, and the [NP problems](../frameworks/1971-np-problems.md) note advises settling for a good answer.
 - [Slack vs time pressure](slack-vs-time-pressure.md) (tension). Needing the best answer with no time to look for it is a clash. Simon's point was that limited time and attention push people to good enough, and Klein's fire commanders took the first plan that would work rather than compare options ([Satisficing](../frameworks/1956-satisficing.md)).
-- [Single vs multiple objectives](single-vs-multiple-objectives.md) (opposite). "Best" needs one agreed score, so several goals push you towards good enough.
+- [Single vs multiple objectives](single-vs-multiple-objectives.md) (opposite). Simon's own model of satisficing works this way. With several goals, people set a floor on each and take the first option that clears them all ([Satisficing](../frameworks/1956-satisficing.md)).
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (tension). You can't claim you found the best answer if you can't check it.
-- [Convergent vs divergent](convergent-vs-divergent.md) (opposite). With many good answers there is no single best one to chase.
+- [Convergent vs divergent](convergent-vs-divergent.md) (independent). Many good answers don't settle whether extra quality pays. A wedding speech only needs to be good. An advert has just as many good answers, yet each extra bit of quality still pays off in sales.
 
 ## Citations
 

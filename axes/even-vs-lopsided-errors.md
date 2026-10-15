@@ -12,7 +12,7 @@ sources:
 ---
 # Even vs lopsided errors
 
-An axis in the [decision](index.md#the-decision) group.
+An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
 
 Do a false alarm and a miss cost about the same, or is one mistake far worse than the other? A smoke alarm that goes off over toast costs you a minute. One that stays quiet in a fire can cost your life, so it should be set to cry wolf. A court leans the other way and would rather free the guilty than jail the innocent. Where to set the bar for saying yes depends on what each mistake costs, not just on how often you're right.
 
@@ -31,7 +31,7 @@ Do a false alarm and a miss cost about the same, or is one mistake far worse tha
 ## Correlated with
 
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (logic). When one kind of mistake can ruin you and the other can't, the costs are as lopsided as they get.
-- [Complete vs incomplete goal](complete-vs-incomplete-goal.md) (logic). A score that counts every mistake the same leaves the costs out. A model tuned for plain accuracy treats a missed cancer and a false scare as equal.
+- [Complete vs incomplete score](complete-vs-incomplete-score.md) (logic). A score that counts every mistake the same leaves the costs out. A model tuned for plain accuracy treats a missed cancer and a false scare as equal.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). How much worse a miss is than a false alarm is a value judgement, so people fight over where to set the bar.
 
 ## Citations

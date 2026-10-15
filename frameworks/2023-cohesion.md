@@ -15,9 +15,13 @@ sources:
 
 No two snowflakes are alike, yet anyone can tell a snowflake at a glance. Each one is different, but they all follow the same few patterns. In 2023 Tim Davey set out a way to measure that in the journal Entropy. He called it cohesion, and it goes with his later measure of [incoherence](2024-incoherence.md).
 
-A system organises itself when nothing outside it imposes the pattern. Snowflakes do this twice. Every flake has six arms, each symmetrical down its middle. And flakes settle into a few distinct kinds, so a plate is far more like another plate than like a column. To measure this, Davey runs a system many times and joins every pair of runs with a line. If the runs fall into tight groups, the line lengths bunch into a few clear sizes. The entropy of those lengths shows how organised the system is. Diamonds and water both score 1, because a diamond's runs are all the same and water has no pattern at all. Cohesion only means something once a system is incoherent, so its runs disagree.
+A system organises itself when nothing outside it imposes the pattern. Snowflakes do this twice. Every flake has six arms, each symmetrical down its middle. And flakes settle into a few distinct kinds, so a plate is far more like another plate than like a column.
 
-The mistake is to treat every spread of results as one fuzzy cloud. When the runs fall into groups, you can plan for each group and watch for the signs that tell them apart. Davey puts it this way. Incoherence tells you how far you can trust frequentist statistics, which pool the runs. Cohesion tells you how far you can trust Bayesian statistics, which update your belief about which group you are in as evidence comes in.
+To measure this, Davey runs a system many times and joins every pair of runs with a line. If the runs fall into tight groups, the line lengths bunch into a few clear sizes. The entropy of those lengths shows how organised the system is. Diamonds and water both score 1, the top of the scale, because each turns out the same every time. Every diamond is the same lattice and every glass of water is the same even jumble. So cohesion only means something once a system is incoherent and its runs disagree. The trait this sorts on is whether runs that disagree still fall into a few clear groups.
+
+The mistake is to treat every spread of results as one fuzzy cloud. The better response is to check whether the runs fall into groups. If they do, plan for each group and watch for the signs that tell them apart. Davey puts it this way. Incoherence tells you how far you can trust frequentist statistics, which pool the runs. Cohesion tells you how far you can trust Bayesian statistics, which update your belief about which group you are in as evidence comes in.
+
+This framework feeds the [Clustered vs scattered](../axes/clustered-vs-scattered.md) axis.
 
 ## Examples
 
@@ -25,4 +29,4 @@ The mistake is to treat every spread of results as one fuzzy cloud. When the run
 
 **Nakaya's shapes.** In the 1930s the physicist Ukichiro Nakaya grew snowflakes in a lab at different temperatures. He found they form thin plates, columns and needles, or the familiar stars, depending on the conditions. The shapes don't blend smoothly into each other. They fall into a few distinct kinds.
 
-**UK climate.** Most runs of a warming scenario have the UK 7 to 9 degrees warmer. A few have the Atlantic current that warms Britain shutting down, leaving it 7 to 10 degrees colder than today. The runs fall into two clear groups, so planners can prepare for each, and just three temperature readings can rule out a whole group at once. If the runs had been scattered with no pattern, they could only split the budget across a vague spread.
+**UK climate.** Davey works through a thought experiment. Say you must prepare the UK for climate change and you commission a climate model. Most runs have the UK 7 to 9 degrees warmer. A few have the Atlantic current that warms Britain shutting down, leaving it 7 to 10 degrees colder than today. The runs fall into two clear groups, so planners can prepare for each, and just three temperature readings can rule out a whole group at once. If the runs had been scattered with no pattern, they could only split the budget across a vague spread.

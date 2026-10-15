@@ -14,7 +14,7 @@ sources:
 ---
 # Neutral vs adversarial
 
-An axis in the [world](index.md#the-world) group.
+An axis in the [Response](index.md#response) set of the [world](index.md#the-world) group.
 
 Is the world indifferent to you, or is someone studying your methods and changing their play to beat them? Rain doesn't try to beat your umbrella. Fraudsters, hackers and rival traders learn your methods and change their play to beat them.
 

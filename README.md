@@ -41,6 +41,8 @@ A new framework goes in `frameworks/` as a file named by year and title, like `1
 
 A new axis goes in `axes/` as its own file, named like `thin-vs-fat-tails.md`. Give it `type: Axis`, a `title`, a `description` that gives each end in one line with a short example, its `group` and `subgroup`, its `easy_end` and `hard_end`, and a `sources` entry for each framework it came from. Add a line for it to the [axes index](axes/index.md) under its subgroup, and link it to the existing axes it moves with.
 
+Most ideas for a new axis turn out to be an old one in new words, so a new axis has to pass three tests. First, name a problem at its hard end that sits at the easy end of the axes closest to it. Second, its hard end must call for actions those axes don't already list. Third, no mix of two or three existing axes can land the same problems at the hard end and call for the same actions. If it fails the first test it is a copy. If it fails the second or third, add it as a note to the axis that covers it. [Reading the axes](axes/reading-the-axes.md#when-is-it-a-new-axis) works through an example.
+
 ## Why does treating one problem as another matter?
 
 The two stories below show the same mistake. In each, someone used a tool that suited one kind of problem on a problem of a different kind.

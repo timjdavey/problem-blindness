@@ -16,7 +16,9 @@ A bridge engineer can test steel in a lab and trust the result on site. Steel do
 
 The framework sorts problems by whether the thing you are modelling will respond to the model being used. A tide table doesn't change the tides. A model of how people spend or save becomes useless the moment the government acts on it in a way people notice. The fix Lucas proposed was to build models from things a new policy shouldn't change, like what people want and what firms are able to make. On top of that you model how people form their expectations, so the model can work out how they will react to the new rules.
 
-The mistake is to treat a model of people as if it were a law of nature. It fits the past well, so you trust it to guide a big change. But the big change is exactly what breaks it. Lucas is close to Goodhart, though his focus is the forecaster's model rather than a target.
+The mistake is to treat a model of people as if it were a law of nature. It fits the past well, so you trust it to guide a big change. But the big change is exactly what breaks it. Lucas is close to [Goodhart](1975-goodharts-law.md), though his focus is the forecaster's model rather than a target. The better response is to ask what in your model would change once people know about the policy, and to build on what wouldn't.
+
+This framework feeds the [Inert vs reflexive](../axes/inert-vs-reflexive.md) axis.
 
 ## Examples
 

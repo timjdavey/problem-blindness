@@ -13,11 +13,13 @@ sources:
 
 # Radical uncertainty
 
-Some uncertainty can be priced. A roulette wheel has 37 slots, so you can work out the odds of every bet. Kay and King argue that most big decisions in life, business and policy are nothing like this. You can't list everything that might happen, so you can't give each outcome a probability. They call this radical uncertainty, and it is close to what Frank Knight meant by uncertainty in 1921.
+Some uncertainty can be priced. A roulette wheel has 37 slots, so you can work out the odds of every bet. Kay and King argue that most big decisions in life, business and policy are nothing like this. You can't list everything that might happen, so you can't give each outcome a probability. They call this radical uncertainty, and it is close to what Frank Knight meant by uncertainty in 1921. The trait this sorts on is whether you can list what might happen and put odds on it.
 
 Kay is an economist, and King was governor of the Bank of England through the 2008 crisis. They borrow an idea from the statistician Jimmie Savage, who split problems into small worlds and large worlds. In a small world, like a game of cards, all the outcomes are known and the maths works. In a large world, like the real economy, new things keep happening that nobody had listed. Economists, they argue, keep building small world models and applying them to large world problems.
 
 Their advice is to stop making up numbers. When the odds can't be known, ask "what is going on here?" Build the best story you can that explains the facts, test it against what others think and choose actions that would survive if the story is wrong. Putting a precise probability on a large world event gives false comfort. It can lead to worse choices than honest doubt would.
+
+This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md) and [Small vs large world](../axes/small-vs-large-world.md) axes.
 
 ## Examples
 

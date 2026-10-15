@@ -18,6 +18,8 @@ The trait this framework sorts on is how tightly problems are linked. In a loose
 
 The mistake is to treat a mess as a list of separate problems. Each team hits its target and the overall picture gets worse. The fix for one department becomes the next department's problem. Ackoff's answer was to design the whole system on purpose, starting from what you want it to be, rather than patching each fault as it appears.
 
+This framework feeds the [Decomposable vs tangled](../axes/decomposable-vs-tangled.md) and [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md) axes.
+
 ## Examples
 
 **The Aral Sea.** In the 1960s Soviet planners set out to grow far more cotton in Central Asia. They diverted the two rivers that fed the Aral Sea, then one of the four largest lakes in the world, to irrigate the fields. The cotton targets were met. But the sea shrank to a small fraction of its old size, the fishing industry collapsed and ports like Muynak were left stranded far from the water. Winds now carry salt and farm chemicals from the dry seabed across the region. Treated alone, the cotton problem was solved. Treated as a mess, the region was far worse off.

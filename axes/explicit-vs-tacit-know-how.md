@@ -18,7 +18,7 @@ sources:
 ---
 # Explicit vs tacit know-how
 
-An axis in the [knower](index.md#the-knower) group.
+An axis in the [Know-how](index.md#know-how) set of the [knower](index.md#the-knower) group.
 
 Can the know-how be written down as rules, or does it live in experts' hands and gut feel, so it can only be learnt from examples? A tax rule can. How a master chef judges when bread is done, or how a nurse senses a patient is about to crash, is hard to put into words. Skills of degree, like balance and grip, are the hardest of all. Machines beat people at chess long before they could walk across a room, which is called [Moravec's paradox](../frameworks/1988-moravecs-paradox.md).
 

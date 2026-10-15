@@ -16,7 +16,7 @@ sources:
 ---
 # Deterministic vs statistical
 
-An axis in the [world](index.md#the-world) group.
+An axis in the [Randomness](index.md#randomness) set of the [world](index.md#the-world) group.
 
 Do the same inputs always give the same result, or only the same spread of results, so you can predict the rate but not the single case? A sum is deterministic. Which boiler breaks down this winter is statistical, though the rate across many boilers is steady.
 
@@ -38,7 +38,7 @@ Do the same inputs always give the same result, or only the same spread of resul
 - [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) (bundled). [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md) puts chance and unpredictability at the same cloud end, though chaos shows a fully deterministic system can still have a short horizon.
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (logic). Pure chance is one kind of doubt that no new data can shrink. But Russell and Norvig note that a deterministic world you can only half see looks random to you ([Task environment properties](../frameworks/1995-task-environment-properties.md)). So doubt that looks like chance may be a hidden fact you could find.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (by definition). The tails axis only applies once a problem is statistical. A deterministic problem has no spread of results, so it has no tails to speak of.
-- [Coherent vs incoherent](coherent-vs-incoherent.md) (by definition). A deterministic problem gives the same result every run, so it is always coherent. But a statistical one can be coherent too, like a die, where every roll draws from the same spread.
+- [Coherent vs incoherent](coherent-vs-incoherent.md) (by definition). A deterministic problem gives the same result every run, so it is always coherent. But a statistical one can be coherent too. A die varies roll to roll, yet every thousand rolls look alike.
 
 ## Citations
 

@@ -18,6 +18,8 @@ Put the two together and you get a grid. A university is complex but loose, so o
 
 The mistake is to treat these systems as ones where accidents come from bad parts or bad people. Then the fix is more safety devices and more rules. Perrow argued those can add new links and new ways to fail, which makes the system more complex still. Sometimes the honest answer is to add slack, or to decide the system isn't worth running.
 
+This framework feeds the [Loose vs tight coupling](../axes/loose-vs-tight-coupling.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
+
 ## Examples
 
 **Three Mile Island.** Perrow began the book after studying the 1979 accident in Pennsylvania. A failed pump, a stuck valve and a misleading light came together. The light showed that the valve had been told to close, not that it had closed. Each fault was small and none was unusual on its own. Together they let coolant drain from the reactor for over two hours before the operators understood what was going on.

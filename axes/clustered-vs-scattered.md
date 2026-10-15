@@ -7,6 +7,8 @@ subgroup: randomness
 easy_end: Clustered
 hard_end: Scattered
 sources:
+  - resource: /frameworks/1956-law-of-requisite-variety.md
+    title: Law of requisite variety
   - resource: /frameworks/2003-deep-uncertainty.md
     title: Deep uncertainty
   - resource: /frameworks/2023-cohesion.md
@@ -14,7 +16,7 @@ sources:
 ---
 # Clustered vs scattered
 
-An axis in the [world](index.md#the-world) group.
+An axis in the [Randomness](index.md#randomness) set of the [world](index.md#the-world) group.
 
 When runs disagree, do they fall into a few clear groups, so a few clues can tell you which one you are in, or do they scatter with no pattern to latch onto? No two snowflakes are alike, yet each is a plate, a column or a star. Climate runs for the UK split into a warm group and a cold one, where the Atlantic current fails. Tim Davey measures how tightly runs group and calls it cohesion.
 
@@ -24,15 +26,16 @@ When runs disagree, do they fall into a few clear groups, so a few clues can tel
 - Cluster the runs or outputs and report each group, not the pooled average. Two clear groups averaged together give a result neither produced.
 - Pick the early signals that tell the groups apart, and update your belief about which group you are in as they come in. A few readings can rule out a whole group.
 - Keep a playbook for each group, so you can switch as soon as the signals point one way.
+- Don't serve every group with one answer. In 2004 the US Army brought in one camouflage pattern for every setting, and it hid soldiers worse than other patterns in several of them. You need as many kinds of response as there are kinds of case ([Law of requisite variety](../frameworks/1956-law-of-requisite-variety.md)).
 
 **Scattered**: Plan for the whole spread.
-- Choose the option that holds up across all the runs, not one that bets on a single scenario ([Deep uncertainty](../frameworks/2003-deep-uncertainty.md)).
+- Design to fit the range, since there is no small set of types to plan for. In 1950 not one of 4,063 US Air Force pilots was average on all ten key sizes, so cockpits were made to adjust.
 - Don't trust a few early readings to say where you will end up. With no groups, early evidence narrows things only slowly.
-- Test the model across a wide range of conditions and keep a fallback for the cases you didn't foresee.
+- Test the model across a wide range of conditions and keep a fallback for the cases you didn't foresee. When you must commit, pick the option that holds up across all the runs, as under [Known vs unknown odds](known-vs-unknown-odds.md) ([Deep uncertainty](../frameworks/2003-deep-uncertainty.md)).
 
 ## Correlated with
 
-- [Coherent vs incoherent](coherent-vs-incoherent.md) (by definition). This axis only applies once runs disagree. A coherent system has one group, so there is nothing to sort.
+- [Coherent vs incoherent](coherent-vs-incoherent.md) (by definition). This axis only applies once runs disagree. In a coherent system every run draws from the same spread, so there are no groups to sort.
 - [Small vs large world](small-vs-large-world.md) (logic). Clear groups let you list the ways things might turn out. Scattered runs leave outcomes nobody thought to list.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). With clear groups a few readings can rule a whole group out, so a little data goes a long way ([Cohesion](../frameworks/2023-cohesion.md)).
 - [Kind vs wicked feedback](kind-vs-wicked-feedback.md) (logic). Clear groups give early signs of which path you are on. Scattered runs give signs that point nowhere in particular.
@@ -40,6 +43,8 @@ When runs disagree, do they fall into a few clear groups, so a few clues can tel
 
 ## Citations
 
-[1] [Deep uncertainty](../frameworks/2003-deep-uncertainty.md)
+[1] [Law of requisite variety](../frameworks/1956-law-of-requisite-variety.md)
 
-[2] [Cohesion](../frameworks/2023-cohesion.md)
+[2] [Deep uncertainty](../frameworks/2003-deep-uncertainty.md)
+
+[3] [Cohesion](../frameworks/2023-cohesion.md)

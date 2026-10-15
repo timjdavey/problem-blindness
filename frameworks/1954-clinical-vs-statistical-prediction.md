@@ -18,6 +18,8 @@ Later reviews of well over a hundred studies found the same thing. The tasks whe
 
 The trait this sorts on is whether a problem is a repeated, noisy prediction or a rare case with facts no formula could hold. The usual mistake is to treat the first kind as the second. Experts feel each case is special and trust their gut, so they throw away the gains a simple rule would give. Meehl also warned about the reverse. He imagined a formula that says a professor goes to the cinema every Tuesday. If you know he broke his leg this morning, you should overrule it. The skill is knowing which kind of problem you have.
 
+This framework feeds the [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md) axis.
+
 ## Examples
 
 **The Apgar score.** In 1952 the anaesthetist Virginia Apgar proposed a simple check on newborn babies. A doctor or midwife scores five things, such as heart rate and breathing, from 0 to 2 one minute after birth. Before that, doctors judged a baby's health by eye and often disagreed. The score made the call the same every time, and it is still used around the world. It checks the baby's state now rather than predicting the future, but it shows the same gain from a fixed rule over judgement by eye.

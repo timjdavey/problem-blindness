@@ -20,6 +20,8 @@ In their model four streams flow more or less on their own. The streams are prob
 
 The law of the instrument is one person with a hammer. The garbage can is a whole organisation with one. A team that has built a system, a vendor with a product or a leader with a pet idea will go looking for problems it can answer. The problem then gets described in the tool's terms, so the fit looks good on paper. The mistake is to take a match between a problem and a solution as proof that the solution fits. It may only mean they turned up at the same meeting. The better response is to check the order. Ask whether the problem was defined before the solution was on the table, and whether anyone looked at other options. If the solution came first, test it hard against the shape of the problem or start again from the problem.
 
+This framework feeds the [Well vs ill-structured](../axes/well-vs-ill-structured.md) axis.
+
 ## Examples
 
 **IBM Watson at MD Anderson.** In February 2011 IBM's Watson beat the Jeopardy! champions Ken Jennings and Brad Rutter on American television. IBM then went looking for work for it, and health care became a main target. The MD Anderson Cancer Center in Houston built an "Oncology Expert Advisor" on Watson. Along the way its focus switched from leukaemia to lung cancer. An audit by the University of Texas System, made public in early 2017, found MD Anderson had spent about $62 million and that the system was not in clinical use. In January 2022 IBM sold much of its Watson Health business to the private equity firm Francisco Partners.

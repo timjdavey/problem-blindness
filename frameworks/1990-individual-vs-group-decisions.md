@@ -19,6 +19,8 @@ Other cases pointed the same way. The authors asked a panel of doctors trained i
 
 The mistake is treating a case as unique when it is really one of many. Each patient feels special, so the extra test seems worth it and the awkward talk about organ donation can wait. But a doctor who sees the same problem every week is setting a policy whether they mean to or not. One of the two answers must be wrong, because the same patient can't deserve both. The better response is to ask what you would want done for every patient like this one. Then check whether this patient really differs in a way that matters.
 
+No single axis covers this framework. [Reading the axes](../axes/reading-the-axes.md) uses it to ask whether you are deciding one case or setting a policy for many.
+
 ## Examples
 
 **Samuelson's lunch bet.** In a 1963 paper the economist Paul Samuelson told how he once offered some colleagues at lunch a bet on a coin toss. They would win $200 or lose $100. One of them turned it down. "I won't bet because I would feel the $100 loss more than the $200 gain," he said. "But I'll take you on if you promise to let me make 100 such bets." Samuelson argued that the two answers can't both be right. Under the standard theory, someone who turns down one such bet should turn down a hundred too. Either way, the colleague gave a different answer to the same bet depending on whether he saw it alone or as one of a series.

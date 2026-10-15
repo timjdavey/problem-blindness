@@ -47,3 +47,15 @@ Where a problem sits on most axes depends on how closely you look and over what 
 Split a task into its separate decisions before you tag it. The cardiology story in the [README](../README.md) is one task with two problems inside it. Putting in a stent is a practised skill with fast, clear feedback. Deciding whether to put one in is a slow, statistical call where your gut misleads you. Tag the task as a whole and you average two different problems into one that doesn't exist.
 
 Also ask whether you are deciding one case or setting a policy for many. In 1990 Donald Redelmeier and Amos Tversky gave doctors the same case in two forms. Seen as one patient, a student with fatigue got an extra $20 blood test 30% of the time. Seen as one of a group of patients just like them, the figure was 17% ([Individual vs group decisions](../frameworks/1990-individual-vs-group-decisions.md)). A single case feels special, so it gets the extra test. But a doctor who sees the same kind of patient every week is setting a policy whether they mean to or not, and should judge the choice that way.
+
+## When is it a new axis?
+
+Most ideas for a new axis turn out to be an old one in new words. So a new axis has to pass three tests.
+
+The first is the corner test. Name a problem at the new axis's hard end that sits at the easy end of the axes closest to it. If you can't find one, the new axis is a copy of one of them.
+
+The second is the action test. The hard end has to call for something the nearby axes don't already say. If it doesn't, the idea may still be real. But it belongs as a note on one of those axes.
+
+The third is the combination test. No mix of two or three existing axes can land the same problems at the hard end and call for the same actions. An idea can pass the first two tests against each axis on its own and still fail this one.
+
+Fixed vs moving goal looked like a gap until it met the third test. A couple planning a wedding for 100 people on 5 June for under £20k have a clear brief. Yet what they want shifts once they start seeing venues. That passes the corner test, since the brief is well structured and the world around it isn't drifting. But the brief left out wants the couple could only find by looking, which is the hard end of [Complete vs incomplete score](complete-vs-incomplete-score.md). They found them through a chain of choices where each shaped the next, which is the hard end of [Standalone vs sequential](standalone-vs-sequential.md). Those two axes already say what to do. Don't trust the brief to hold everything you want, and learn as you go. So moving goals went in as a note on those two axes.

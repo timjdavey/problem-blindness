@@ -18,8 +18,10 @@ Clocks stand for systems that are regular and orderly, so you can predict them f
 
 The mistake is to treat clouds as if they were clocks. Clocks reward careful models and precise forecasts, so an expert trained on clocks keeps building them. Point that skill at an economy, an election or a war and it produces confident numbers that miss. The better response is to ask first how cloudlike the system is. For clocks, predict and plan. For clouds, give ranges rather than single numbers, watch closely and keep plans easy to change.
 
+This framework feeds the [Deterministic vs statistical](../axes/deterministic-vs-statistical.md) and [Long vs short predictability horizon](../axes/long-vs-short-predictability-horizon.md) axes.
+
 ## Examples
 
-**The 1715 eclipse.** Edmond Halley used Newton's laws to map where a total eclipse of the sun would cross England on 3 May 1715. He got the timing right to within about four minutes and the path to within about 20 miles. Astronomers can now give the time of an eclipse centuries ahead. Over human timescales the solar system really is a clock.
+**The 1715 eclipse.** Edmond Halley used Newton's laws to map where a total eclipse of the sun would cross England on 3 May 1715 (22 April in the calendar England then used). He got the timing right to within about four minutes and the path to within about 20 miles. Astronomers can now give the time of an eclipse centuries ahead. Over human timescales the solar system really is a clock.
 
 **Political science.** In 1977 Gabriel Almond and Stephen Genco wrote "Clouds, Clocks, and the Study of Politics" in the journal *World Politics*. They argued their field had copied physics and treated politics as a clock, though politics is made of people who learn and change their minds. The psychologist Philip Tetlock later put numbers on the problem. From 1984 to 2003 he collected 82,361 forecasts from 284 experts on politics and economics. Most did little better than chance, and the famous ones tended to do worse.

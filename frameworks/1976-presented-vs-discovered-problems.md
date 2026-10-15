@@ -19,6 +19,8 @@ The trait this framework sorts on is who did the framing. With a presented probl
 
 The mistake is to treat a discovered problem as if it had been presented. You grab the first framing that comes to mind, often the one someone handed you, and start solving. The work can be skilled and still miss, because the question was wrong. Experts are prone to this, since their training is in solving problems of a known shape.
 
+This framework feeds the [Well vs ill-structured](../axes/well-vs-ill-structured.md) axis.
+
 ## Examples
 
 **The art students.** In the early 1960s Getzels and Csikszentmihalyi gave 31 students at the School of the Art Institute of Chicago a table of objects and asked each to arrange some and draw them. They watched how many objects each student handled and whether they changed the set up as the drawing went on. Students who explored longer before settling made work that judges rated more original. Years later, the same habit predicted which students were still working as successful artists. Their 1976 book reported the results.

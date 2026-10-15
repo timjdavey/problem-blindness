@@ -18,10 +18,12 @@ That makes no sense if you think in odds alone. If you avoid the second jar for 
 
 The trait this picks out is whether the odds of a problem are known or missing. That is the line Frank Knight drew in 1921 between risk and uncertainty, and Ellsberg showed that people feel it sharply. The danger is that the feeling leaks into choices where it doesn't belong. People treat missing odds as if they were bad odds, so they pay too much to stick with the familiar. They avoid new options that are no worse and might be far better. The opposite mistake is to ignore the gap and plug in a made-up number as if it were known.
 
+This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md) axis.
+
 ## Examples
 
 **Investing at home.** Investors in most countries hold far more of their savings in shares from their own country than a spread across world markets would suggest. Part of the reason is that foreign firms feel less known. A British saver often knows no more about how a FTSE firm will do than about a German firm. The home firm only feels better known, yet that feeling is enough to make them give up the gains of spreading their money.
 
-**A new treatment.** A doctor offers a patient two options. One is an old drug that works for about 60 people in 100. The other is a newer drug whose early trials look as good or better, though the evidence is thinner. Many patients choose the old drug because its odds are known. The missing odds feel like bad odds, even though nothing suggests the new drug is worse.
+**A new treatment.** A doctor offers a patient two options. One is an old drug that works for about 60 people in 100. The other is a newer drug whose early trials look as good or better, though the evidence is thinner. Here caution is often right, because early trials tend to overstate how well a drug works, so thin evidence is a reason to expect worse. Ambiguity aversion is only a mistake when the missing odds give you no reason to expect worse, as with Ellsberg's second jar.
 
 **The chain restaurant.** On a road trip you pass a local café with no reviews and a chain you have eaten at before. You know the chain will be fine and never great. Most people pull into the chain. The café is no more likely to be bad, but its odds are a blank.

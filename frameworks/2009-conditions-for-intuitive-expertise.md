@@ -15,9 +15,11 @@ sources:
 
 Daniel Kahneman spent his career showing how often expert judgement fails. Gary Klein spent his showing how well fire commanders and nurses decide under pressure. In 2009 they wrote a paper together to settle the argument. They subtitled it "a failure to disagree", because once they asked when intuition works they found they mostly agreed.
 
-Their answer has two parts. First, the setting must be regular enough to learn. There have to be real cues that predict what will happen, the way smoke and heat tell a firefighter how a fire will behave. Second, the expert must have had long practice in that setting with quick, clear feedback. Intuition is pattern matching, so it can only be as good as the patterns the person has had a chance to learn.
+Their answer has two parts. First, the setting must be regular enough to learn. There have to be real cues that predict what will happen, the way smoke and heat tell a firefighter how a fire will behave. Second, the expert must have had long practice in that setting with quick, clear feedback. Intuition is pattern matching, so it can only be as good as the patterns the person has had a chance to learn. The trait this sorts on is whether the task lets intuition be learned.
 
 When either part is missing, you get experts who feel sure and are often wrong. Confidence is a poor guide, because people feel just as sure in settings where there is nothing to learn. The test is not how confident the expert is. It is whether the task gave them a fair chance to learn. A surgeon's hands may deserve trust while the same surgeon's guess about whether to operate does not.
+
+This framework feeds the [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md), [Kind vs wicked feedback](../axes/kind-vs-wicked-feedback.md) and [Stationary vs drifting](../axes/stationary-vs-drifting.md) axes.
 
 ## Examples
 

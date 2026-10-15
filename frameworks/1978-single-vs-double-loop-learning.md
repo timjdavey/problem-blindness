@@ -19,6 +19,8 @@ Double-loop learning goes a step further. When things go wrong, you also questio
 
 The framework sorts problems by where the error lives. If the goal is sound and the method is off, single-loop learning fixes it. If the goal itself is wrong, no amount of tuning helps. The mistake is to keep turning the dial harder on a problem that needs a new goal. Each round of tweaks makes the team better at something that no longer matters.
 
+This framework feeds the [Well vs ill-structured](../axes/well-vs-ill-structured.md) axis.
+
 ## Examples
 
 **Kodak.** In 1975 Steven Sasson, an engineer at Kodak, built one of the first digital cameras. Kodak saw what was coming. A 1981 internal study warned that digital would replace film, and in 2005 Kodak sold more digital cameras in the US than anyone else. But it made most of its money from film and prints, and it kept judging digital by how well it fed that goal. It sold printer docks, photo kiosks and later ink, betting that people would still print their photos. That was single-loop learning: better ways to reach the old goal. The question it was slow to ask was how it would make money once people stopped printing at all. In January 2012 Kodak filed for bankruptcy.

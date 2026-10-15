@@ -18,6 +18,8 @@ A satisficer sets a bar for good enough, looks at options one at a time and stop
 
 The mistake runs both ways. Some people optimise where it doesn't pay, like spending a week comparing kettles. Others settle for good enough where the best answer matters, like a rough guess at a drug dose. The better response is to ask what the gap between good and best is worth, and what it costs to close it, before you decide how hard to search.
 
+This framework feeds the [Satisficing vs optimising](../axes/satisficing-vs-optimising.md) and [Tractable vs intractable search](../axes/tractable-vs-intractable-search.md) axes.
+
 ## Examples
 
 **Fire commanders.** In the 1980s Gary Klein set out to study how fire commanders compare their options under pressure. He found they mostly didn't compare at all. They spotted a familiar pattern, pictured the first plan that came to mind playing out, and used it if it seemed to work. Only if it failed that mental test did they think of a second plan. That is satisficing done well, by people with years of practice in a setting they know.

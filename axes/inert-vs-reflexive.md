@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Inert vs reflexive
-description: "Inert: the system behaves the same whether or not you measure or forecast it (e.g. a rock). Reflexive: your forecast changes what people do and so changes the outcome (e.g. a forecast that a bank will fail sets off a run on it)."
+description: "Inert: the system behaves the same whether or not you model it (e.g. a rock). Reflexive: your forecasts, scores or actions change what people do and so change the outcome (e.g. a forecast that a bank will fail sets off a run on it)."
 group: world
 subgroup: response
 easy_end: Inert
@@ -22,9 +22,9 @@ sources:
 ---
 # Inert vs reflexive
 
-An axis in the [world](index.md#the-world) group.
+An axis in the [Response](index.md#response) set of the [world](index.md#the-world) group.
 
-Does the system behave the same whether or not you measure and forecast it, or do your forecasts change what people do and so change the outcome? A rock doesn't care if you measure it. Publish a forecast that a bank will fail and people pull their money out, which makes it fail.
+Does the system behave the same whether or not you model it, or do your forecasts, scores and actions change what people do and so change the outcome? A rock doesn't care if you measure it. Publish a forecast that a bank will fail and people pull their money out, which makes it fail. A forecast can also defeat itself. Warn that a road will jam and drivers take another route, so it flows freely. Both are reflexive, because in each case the forecast changed the outcome. Scores and actions do it too. Judge teachers on test results and they teach to the test. A recommender changes what people click, then learns from those clicks as if they were the world.
 
 ## Actions
 
@@ -46,7 +46,7 @@ Does the system behave the same whether or not you measure and forecast it, or d
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (logic). By [Goodhart's law](../frameworks/1975-goodharts-law.md) a cheap check stops working once people are judged on it.
 - [Private vs accountable](private-vs-accountable.md) (study). [Campbell's law](../frameworks/1976-campbells-law.md) says the more a number decides people's fate, the more they bend it.
 - [Test vs watch](test-vs-watch.md) (study). The [Lucas critique](../frameworks/1976-lucas-critique.md) is a warning about answering a question on stepping in with data from watching. The Phillips curve held while nobody leaned on it and broke once policy did.
-- [Complete vs incomplete goal](complete-vs-incomplete-goal.md) (study). By [Goodhart's law](../frameworks/1975-goodharts-law.md) people work on whatever the score leaves out. In 1902 Hanoi paid a bounty for each rat tail, so people cut off the tails and let the rats go to breed.
+- [Complete vs incomplete score](complete-vs-incomplete-score.md) (study). By [Goodhart's law](../frameworks/1975-goodharts-law.md) people work on whatever the score leaves out. In 1902 Hanoi paid a bounty for each rat tail, so people cut off the tails and let the rats go to breed.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (logic). Both put other people inside the problem. Once a fix depends on others changing, how they react to it becomes part of the problem.
 
 ## Citations

@@ -19,6 +19,8 @@ In February 2017 Finale Doshi-Velez and Been Kim set this out in a paper called 
 
 The mistake runs both ways. Demanding an explanation from a well tested system can cost accuracy for nothing. Trusting a model you can't see inside because it scores well is worse, when part of the goal never made it into the score. The better response is to ask what the score leaves out. If nothing that matters is missing, trust the score. If safety, fairness or the law is missing, a person needs a way to look inside.
 
+This framework feeds the [Complete vs incomplete score](../axes/complete-vs-incomplete-score.md), [Private vs accountable](../axes/private-vs-accountable.md) and [Single vs multiple objectives](../axes/single-vs-multiple-objectives.md) axes.
+
 ## Examples
 
 **Asthma and pneumonia.** In the mid 1990s a project funded by Cost-Effective HealthCare built models to predict which pneumonia patients would die, so that low-risk patients could be treated at home. Neural nets were the most accurate. But a simpler model made of readable rules learned that patients with asthma were at lower risk. The pattern was real, because asthmatic patients were usually sent straight to intensive care and the care worked. The neural nets had likely learned it too, and who knew what else, so the team used a simpler model they could read and fix. Rich Caruana and colleagues told the story in 2015.

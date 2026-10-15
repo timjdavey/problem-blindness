@@ -20,6 +20,8 @@ In 1971 Stephen Cook showed that some problems in NP are the hardest of the lot.
 
 The mistake is to treat a problem that is hard to solve as if it were easy, just because the answer is easy to recognise. You promise the best possible delivery route or the perfect school timetable. Then the search blows up as the problem grows. The better response is to aim for a good answer rather than the best one, using rules of thumb, and to lean on the cheap check to compare the options you find.
 
+This framework feeds the [Easy vs hard to verify](../axes/easy-vs-hard-to-verify.md) and [Tractable vs intractable search](../axes/tractable-vs-intractable-search.md) axes.
+
 ## Examples
 
 **RSA-129.** In August 1977 Martin Gardner's column in *Scientific American* printed a 129 digit number and offered $100 to anyone who could find its two prime factors. It took until 1994, when about 600 volunteers pooled their computers over the internet. Checking their answer took one multiplication. The hidden message turned out to be "The Magic Words are Squeamish Ossifrage". Much of today's online security rests on that same gap between finding and checking. Factoring is in NP, but it is not thought to be NP-complete, so it is probably not one of the hardest of the lot.

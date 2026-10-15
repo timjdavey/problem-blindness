@@ -16,7 +16,9 @@ By the early 1990s research on experts gave a confusing picture. Some studies fo
 
 He listed experts on each side. Weather forecasters, chess masters, test pilots and accountants tended to do well. Clinical psychologists, parole officers, court judges and stockbrokers tended to do poorly. What split the lists was the shape of the work. Good performance came where the thing being judged was stable and decisions came often in a similar form. It also needed feedback that was quick and clear. It helped when the problem broke into parts and when aids like tables or formulas were common. Poor performance came where the subject was human behaviour, feedback was rare or late, and every case felt one of a kind.
 
-So the trait this sorts on is whether the task lets experience turn into skill. The danger is that experts in the poor fields feel just as sure as those in the good ones. Confidence and years of practice look the same from outside, so we trust a parole officer's gut as we would trust a pilot's.
+So the trait this sorts on is whether the task lets experience turn into skill. The danger is that experts in the poor fields feel just as sure as those in the good ones. Confidence and years of practice look the same from outside, so we trust a parole officer's gut as we would trust a pilot's. The better response is to judge an expert by their task, not their confidence. Before you trust their gut, ask whether the field has stable subjects, repeated decisions and quick feedback.
+
+This framework feeds the [Kind vs wicked feedback](../axes/kind-vs-wicked-feedback.md), [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md) and [Stationary vs drifting](../axes/stationary-vs-drifting.md) axes.
 
 ## Examples
 

@@ -12,11 +12,13 @@ sources:
 
 # Reflexivity
 
-Most forecasting assumes the thing you forecast sits still while you study it. A weather forecast doesn't change the weather. George Soros, the Hungarian-born hedge fund manager, argued that markets are different. What investors believe about a company changes its share price, and the share price then changes the company's real prospects. A firm with a high price can raise money cheaply and buy rivals, so the belief helps make itself true. Soros called this two-way loop reflexivity, and set it out in The Alchemy of Finance.
+Most forecasting assumes the thing you forecast sits still while you study it. George Soros, the Hungarian-born hedge fund manager, argued that markets are different. What investors believe about a company changes its share price, and the share price then changes the company's real prospects. A firm with a high price can raise money cheaply and buy rivals, so the belief helps make itself true. Soros called this two-way loop reflexivity, and set it out in The Alchemy of Finance.
 
-The trait it sorts on is whether people's views of a situation are part of the situation. Where they are, there is no fixed truth for a forecaster to find. Prices don't settle around a true value. They can run far from any sensible value and stay there for years, because the beliefs and the facts keep holding each other up. Once the gap grows too large, the loop reverses and the fall feeds on itself just as the rise did.
+The trait it sorts on is whether people's views of a situation are part of the situation. Where they are, there is no fixed truth for a forecaster to find. Unlike a [self-fulfilling prophecy](1948-self-fulfilling-prophecy.md), which makes itself true once and stops, this loop keeps running. Beliefs move the facts, the facts move the beliefs and round it goes. Prices don't settle around a true value. They can run far from any sensible value and stay there for years, because the beliefs and the facts keep holding each other up. Once the gap grows too large, the loop reverses and the fall feeds on itself just as the rise did.
 
-Treat a reflexive problem as a fixed one and you trust models built on past prices. You also read a boom as proof that the fundamentals are strong, when the boom may be what made them look strong. Soros made his money by reading the loop instead. He would often ride a boom while the beliefs were still feeding it, then bet against it once it had run too far and was about to break.
+Treat a reflexive problem as a fixed one and you trust models built on past prices. You also read a boom as proof that the fundamentals are strong, when the boom may be what made them look strong. Soros made his money by reading the loop instead. He would often ride a boom while the beliefs were still feeding it, then bet against it once it had run too far and was about to break. The better response is to ask whether beliefs are moving the facts you measure, and to watch for the point where the loop turns.
+
+This framework feeds the [Inert vs reflexive](../axes/inert-vs-reflexive.md) axis.
 
 ## Examples
 

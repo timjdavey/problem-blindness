@@ -14,9 +14,13 @@ sources:
 
 When a group of people faces a problem, they can disagree in two places. They can disagree about what the problem is, and they can disagree about how to fix it. Nancy Roberts, a professor of public policy, used these two questions in 2000 to sort public problems into three kinds.
 
-If people agree on both, the problem is simple. Someone just has to do the work. If they agree on the problem but not the fix, it is complex, and the fight is over means. If they agree on neither, the problem is wicked. Roberts borrowed the word from Rittel and Webber, but she pinned it to one trait. People can't agree on what the problem is, so they can't agree on the fix either.
+If people agree on both, the problem is simple. Someone just has to do the work. If they agree on the problem but not the fix, it is complex, and the fight is over means. If they agree on neither, the problem is wicked. Roberts borrowed the word from Rittel and Webber, but she pinned it to one trait. People can't agree on what the problem is, so they can't agree on the fix either. The trait this sorts on is where people disagree: about the problem, about the fix or about both. The same two questions drive Thompson and Tuden's [decision strategies matrix](1959-decision-strategies-matrix.md) and the [Stacey matrix](1996-stacey-matrix.md).
 
-She also named three ways of coping with wicked problems. You can hand the problem to one authority and let them decide. You can let the sides compete until one wins. Or you can bring them together to work it out. Each has a cost. Authority is quick but others may ignore the result. Competition can drag on for years, and working together is slow and needs trust. The mistake is to treat a wicked problem as simple and send in experts to fix it. They will fix what they think the problem is, and half the people involved will see the fix as the problem.
+Watch the word complex. For Roberts it means a fight over means. In [Cynefin](1999-cynefin.md) and for [Glouberman and Zimmerman](2002-simple-complicated-and-complex.md) it means parts that adapt to each other, so what worked last time is no guide. For [Warren Weaver](1948-simplicity-disorganised-and-organised-complexity.md) it means many parts that interact. A problem can be complex in one sense and not in the others, so say which one you mean.
+
+She also named three ways of coping with wicked problems. You can hand the problem to one authority and let them decide. You can let the sides compete until one wins. Or you can bring them together to work it out. Each has a cost. Authority is quick but others may ignore the result. Competition can drag on for years, and working together is slow and needs trust. The mistake is to treat a wicked problem as simple and send in experts to fix it. They will fix what they think the problem is, and half the people involved will see the fix as the problem. The better response is to name where the disagreement sits first, then pick the way of coping whose cost you can bear.
+
+This framework feeds the [Shared vs contested values](../axes/shared-vs-contested-values.md) axis.
 
 ## Examples
 

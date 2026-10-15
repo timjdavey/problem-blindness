@@ -16,7 +16,9 @@ Some problems arrive with the goal already agreed. Everyone wants the bridge to 
 
 Checkland came to this from experience. He spent years as a manager at ICI before joining Lancaster University, where his team tried to apply systems engineering to messy business problems. The methods kept failing. They assumed a clear goal and asked how to reach it, but in a real firm the goal was the thing people argued about. Out of that work came soft systems methodology. It starts by mapping how each group sees the situation, and only then asks what change they could all live with.
 
-The danger runs mostly one way. Treat a soft problem as hard and you pick one group's view of the goal, then work hard to reach it. The answer can be clever and still be rejected, because half the people never agreed it was the right question. Treating a hard problem as soft wastes time, but we think it rarely does as much harm.
+The danger runs mostly one way. Treat a soft problem as hard and you pick one group's view of the goal, then work hard to reach it. The answer can be clever and still be rejected, because half the people never agreed it was the right question. Treating a hard problem as soft wastes time, but we think it rarely does as much harm. The better response is to check first whether people agree on what the problem is. If they don't, map how each group sees it before anyone starts on a fix.
+
+This framework feeds the [Shared vs contested values](../axes/shared-vs-contested-values.md) axis.
 
 ## Examples
 

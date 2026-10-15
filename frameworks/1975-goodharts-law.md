@@ -16,7 +16,9 @@ A thermometer doesn't care what you think of the temperature. You can read it as
 
 Charles Goodhart, an economist at the Bank of England, put it this way in 1975. Any pattern you spot in the data will tend to collapse once you lean on it for control. He was thinking of money supply targets in Britain. In 1997 the anthropologist Marilyn Strathern gave the idea its famous short form: when a measure becomes a target, it ceases to be a good measure.
 
-The framework sorts problems by whether the thing you measure can react to being measured. Where it can't, more measurement gives a sharper picture. Where it can, every new target changes the problem. The mistake is to treat the second kind like the first. You pick a number and tie rewards to it, then trust the reports as if they were thermometer readings. What you get back is a measure of how well people can hit the number.
+The framework sorts problems by whether the thing you measure can react to being measured. Where it can't, more measurement gives a sharper picture. Where it can, every new target changes the problem. The mistake is to treat the second kind like the first. You pick a number and tie rewards to it, then trust the reports as if they were thermometer readings. What you get back is a measure of how well people can hit the number. [Campbell's law](1976-campbells-law.md) adds that the work itself gets bent, and the [Lucas critique](1976-lucas-critique.md) makes the same point about economic models. The better response is to keep the number you reward apart from the number you learn from, and to change targets before people learn to game them.
+
+This framework feeds the [Complete vs incomplete score](../axes/complete-vs-incomplete-score.md) and [Inert vs reflexive](../axes/inert-vs-reflexive.md) axes.
 
 ## Examples
 
@@ -24,4 +26,4 @@ The framework sorts problems by whether the thing you measure can react to being
 
 **Wells Fargo.** For years the American bank Wells Fargo pushed staff to sell each customer more products, under the slogan "eight is great". In September 2016 it was fined $185 million after staff were found to have opened around two million accounts that customers never asked for. The number of accounts per customer looked superb. It had stopped telling managers anything about how happy or loyal those customers were.
 
-**Monetary targets.** Goodhart's own case came soon after his warning. In 1980 the British government set targets for the growth of the money supply, on the grounds that it had tracked inflation in the past. Once it became a target, the old link fell apart. The money supply overshot its targets in most years even as inflation fell, and by the late 1980s the targets had been dropped.
+**Monetary targets.** Goodhart's own case came soon after his warning. In 1980 the British government set targets for the growth of the money supply, on the grounds that it had tracked inflation in the past. Once it became a target, the old link fell apart. The money supply overshot its targets in most years even as inflation fell, and by 1986 the target for broad money had been dropped.

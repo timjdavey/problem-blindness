@@ -16,9 +16,11 @@ sources:
 
 Most business planning assumes you can forecast the future well enough to pick one plan. Sometimes you can. Often you can't, and pretending you can is how firms walk into trouble. In 1997 three McKinsey consultants wrote "Strategy Under Uncertainty" for the *Harvard Business Review*. They argued that uncertainty comes in four grades and each one needs a different kind of strategy.
 
-At the first level the future is clear enough. You can make one forecast and it will be close enough to act on. At the second level there are a few distinct outcomes, such as a law passing or not. At the third level the outcome could fall anywhere across a range, with no natural break points. At the fourth level you can't even sketch the range, because nobody knows which forces will matter.
+At the first level the future is clear enough. You can make one forecast and it will be close enough to act on. At the second level there are a few distinct outcomes, such as a law passing or not. At the third level the outcome could fall anywhere across a range, with no natural break points. At the fourth level you can't even sketch the range, because nobody knows which forces will matter. The trait this sorts on is how much of the future you can pin down.
 
 The authors saw managers make two opposite errors. Some treat every problem as level one, build a single forecast and are blindsided. Others decide the future is unknowable and give up on analysis entirely. Both are wrong. A level two problem calls for a plan for each outcome and a way to spot which one is coming. A level four problem calls for small bets and options you can grow later.
+
+This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md) axis.
 
 ## Examples
 

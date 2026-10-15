@@ -18,6 +18,8 @@ He sorted work on two traits. The first is how often a case turns up that doesn'
 
 Each cell suits a different shape of organisation. Routine work runs well on rules, central control and little freedom for the people doing it. Non-routine work needs skilled staff who have the power to decide, and who talk to each other often. The common mistake is to run craft or non-routine work as if it were routine. Managers write procedures and set targets, then force the cases that don't fit through the wrong process. The better response is to ask how often surprises arrive and whether anyone can reason them out. Then set the rules and the freedom to match.
 
+This framework feeds the [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md), [Familiar vs novel to the solver](../axes/familiar-vs-novel-to-the-solver.md) and [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md) axes.
+
 ## Examples
 
 **Ford's Model T.** In 1913 Ford's moving assembly line at Highland Park cut the time to build a chassis from about 12.5 hours to about 1.5. It worked because Ford made one model in one way, for years in only one colour. When buyers wanted variety, that strength became a weakness. Ford built its 15 millionth Model T in May 1927, then shut its plants for about six months to retool. Some 60,000 workers were laid off, and Chevrolet passed Ford in sales that year.

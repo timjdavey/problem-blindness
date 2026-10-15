@@ -22,6 +22,8 @@ Together these traits create what the authors call a tragedy. Everyone can see t
 
 Their answer is to stop hoping for one big fix. Instead you look for small steps that are hard to reverse and that build support for themselves over time. Once a policy creates jobs or habits that depend on it, it tends to stick. This is called path dependence. The aim is to bind our future selves, who will always be tempted to put things off.
 
+This framework feeds the [Single vs multiple objectives](../axes/single-vs-multiple-objectives.md), [Slack vs time pressure](../axes/slack-vs-time-pressure.md) and [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md) axes.
+
 ## Examples
 
 **Climate change.** This is the case the authors built the idea around. Every country emits carbon, so every country is part of the cause. There is no world government to set limits. The Kyoto Protocol of 1997 relied on countries choosing to take part, and the US never ratified it. Canada pulled out in 2011 when it was clear it would miss its target.

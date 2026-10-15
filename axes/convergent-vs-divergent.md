@@ -12,7 +12,7 @@ sources:
 ---
 # Convergent vs divergent
 
-An axis in the [decision](index.md#the-decision) group.
+An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision) group.
 
 Is there one right answer that everyone would agree on, or many good answers that differ in kind? A sum has one. A wedding speech, a logo or a sonnet about autumn has many, and two very different ones can both be excellent. J. P. Guilford called the thinking for the first kind convergent and for the second divergent.
 
@@ -34,9 +34,9 @@ Many good answers come in two shapes. Some lie along one trade off and differ on
 
 ## Correlated with
 
-- [Well-posed vs ill-posed](well-posed-vs-ill-posed.md) (independent). "Write a sonnet about autumn" is well posed. You know what is wanted and when you're done, yet there are endless good answers.
+- [Well vs ill-structured](well-vs-ill-structured.md) (independent). "Write a sonnet about autumn" is well structured. You know what is wanted and when you're done, yet there are endless good answers.
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (logic). One right answer can be checked against a key. Many good answers need someone to judge them.
-- [Satisficing vs optimising](satisficing-vs-optimising.md) (opposite). With many good answers there is no single best one to chase.
+- [Satisficing vs optimising](satisficing-vs-optimising.md) (independent). Many good answers don't settle whether extra quality pays. A wedding speech only needs to be good. An advert has just as many good answers, yet each extra bit of quality still pays off in sales.
 - [Choose vs design the options](choose-vs-design-the-options.md) (logic). Options you invent rarely line up to one right answer.
 - [Single vs multiple objectives](single-vs-multiple-objectives.md) (logic). A trade off between goals gives many good answers that differ only in degree. There a blend of two good answers is also good.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). When the options differ in kind there is no middle ground to settle on. Two towns that each want the bridge can't have half of it each, so someone has to lose.

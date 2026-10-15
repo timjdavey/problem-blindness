@@ -19,6 +19,8 @@ Decision analysis used to pick one number to maximise, usually money. In 1976 Ra
 
 The mistake comes in two forms. One is to chase a single goal and ignore the rest, like buying the cheapest house and then spending two hours a day on a train. The other is to fold all the goals into one score too early, so the trade-offs get made inside a formula nobody looks at. The better response is to name each objective and measure it on its own terms. Then make the trade-offs out loud, where people can see them and argue.
 
+This framework feeds the [Single vs multiple objectives](../axes/single-vs-multiple-objectives.md) axis.
+
 ## Examples
 
 **Mexico City airport.** In the summer of 1971 Mexico's Ministry of Public Works asked Richard de Neufville, Keeney and Raiffa to help plan its airports. One option was to expand the existing airport by Lake Texcoco, which the city had grown around. The other was a new airport at Zumpango, about 40 kilometres to the north. Keeney scored each plan on six objectives. The first three were cost, safety and capacity. The rest were noise, social disruption and travel time to the airport. A site near the city keeps trips short but puts more homes under the flight path. Zumpango was picked in 1974 but never built. A new airport at Texcoco was cancelled after a public vote in 2018, and one at Zumpango opened in March 2022.

@@ -19,8 +19,10 @@ The trait here is how you look at a case. You can treat it as unique and build a
 
 The mistake is trusting the inside view because it feels better informed. Fox had the base rate in his head, yet his own guess had been as hopeful as everyone else's. The better response is to start outside. Find a fair group of past cases and use their spread of results as your first guess. Then nudge it up or down for what really is different about yours. Bent Flyvbjerg later turned this into a method for big public projects, called reference class forecasting.
 
+This framework feeds the [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md) axis.
+
 ## Examples
 
-**Edinburgh trams.** In 2004 the UK Department for Transport adopted Flyvbjerg's method, and its first use was on Edinburgh's tram plans. The promoters had added 25% to their base cost for overruns. A reference class of past rail projects said 57% was needed to be 80% sure of staying in budget. The scheme went ahead and still ran far over. Plans costed at £375 million in 2003 ended up as one shorter line for £776 million, opened in 2014.
+**Edinburgh trams.** In 2004 the UK Department for Transport adopted Flyvbjerg's method, and its first use was on Edinburgh's tram plans. The promoters had added 25% to their base cost for overruns. A reference class of past rail projects said 57% was needed to be 80% sure of staying in budget. The scheme went ahead and ran over by far more than either figure. Plans costed at £375 million in 2003 ended up as one shorter line for £776 million, opened in 2014. The outside view was closer than the promoters, but even the base rate of past projects was too hopeful for this one.
 
 **Public works.** In 2002 Flyvbjerg and colleagues looked at 258 transport projects in 20 countries. Almost nine in ten cost more than forecast, and rail projects ran about 45% over on average.

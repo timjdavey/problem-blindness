@@ -18,6 +18,8 @@ The trait it sorts on is distance from the corner where both answers are yes. Ne
 
 The mistake the matrix warns against is using the tools of the safe corner everywhere. A detailed plan assumes you know cause and effect. A vote or a top down order assumes the disagreement doesn't matter. In the middle zone both fail, and you do better with small trials, open talk and changing course as you learn. Stacey later dropped the matrix from his own work because he felt it made a messy idea look too tidy. It lives on anyway, mostly in software teams.
 
+This framework feeds the [Shared vs contested values](../axes/shared-vs-contested-values.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
+
 ## Examples
 
 **Building a bridge.** The engineers know how steel and concrete behave, and the council agrees it wants a bridge. This sits near the safe corner, so a fixed plan with a budget and a timetable is the right tool.

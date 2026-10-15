@@ -18,6 +18,8 @@ The trait this sorts on is how strongly the parts respond to each other. Charles
 
 The mistake runs both ways. One is to treat a loose system as if it were tight. You change the policy at the top and assume it flows through to the front line. The other is to tighten the links for control or efficiency and lose the buffering that kept one failure from spreading. The better response is to work out how tightly the parts are linked before you act. In a loose system, change has to be built in each part, and the slack is worth keeping.
 
+This framework feeds the [Loose vs tight coupling](../axes/loose-vs-tight-coupling.md) axis.
+
 ## Examples
 
 **Mrs O's revolution.** In 1985 California published a new mathematics framework that told teachers to move away from drills and rote learning towards understanding. David Cohen studied a teacher he called Mrs Oublier and published the case in 1990. She believed her teaching had gone through a revolution. Cohen saw that she had taken on the visible features, like objects for children to handle and small groups. Yet underneath she still taught much as before. The policy and the look of the classroom had changed, but the teaching barely moved.

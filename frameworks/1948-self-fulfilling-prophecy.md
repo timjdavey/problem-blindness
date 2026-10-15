@@ -14,9 +14,11 @@ sources:
 
 A weather forecast can't change the weather. Say it will rain tomorrow and the clouds don't care. Many forecasts about people are not like that. If enough people believe a shop is about to close, they stop buying gift cards there and the shop runs short of cash. The belief started out false and ended up true. In a 1948 essay the sociologist Robert K. Merton called this a self-fulfilling prophecy.
 
-Merton's own example was a made-up bank in 1932. It was sound until a rumour said it was in trouble. Depositors rushed to take out their money, and since no bank keeps all its deposits as cash, the run broke it. The people who started the rumour then felt proved right. Merton's point was that the prophecy creates the facts that seem to confirm it.
+Merton's own example was a made-up bank in 1932. It was sound until a rumour said it was in trouble. Depositors rushed to take out their money, and since no bank keeps all its deposits as cash, the run broke it. The people who started the rumour then felt proved right. Merton's point was that the prophecy creates the facts that seem to confirm it. The loop runs once: a false belief makes itself true and then stops. [Reflexivity](1987-reflexivity.md) is the version that keeps running.
 
 The trait this picks out is whether a prediction feeds back into the thing it predicts. If it doesn't, you can treat the problem like the weather and try to forecast well. If it does, the forecast is part of the system, so there is no fixed answer waiting to be found. Treating that kind of problem like the weather goes wrong in two ways. You can cause the very outcome you warned about. You can also learn the wrong lesson, because the result seems to show you were right all along. The fix is usually to change the belief or to break the loop, such as by guaranteeing deposits so that a rumour has nothing to feed on.
+
+This framework feeds the [Inert vs reflexive](../axes/inert-vs-reflexive.md) axis.
 
 ## Examples
 
@@ -24,4 +26,4 @@ The trait this picks out is whether a prediction feeds back into the thing it pr
 
 **Toilet roll in 2020.** In March 2020, as Covid-19 spread, shoppers in many countries cleared supermarket shelves of toilet roll. There was no real shortage at first. But once people believed there would be one, everyone bought extra and the shelves really did empty. The empty shelves then convinced more people the shortage was real.
 
-**Labels in school.** Imagine a teacher who decides in the first week that a quiet child isn't very bright. She asks the child fewer questions and expects less, and the child stops trying. By the end of the year the child's marks look like proof that the teacher read them right. Studies disagree on how strong this effect is, but every teacher has seen how hard it is to shake a label once it sticks.
+**Labels in school.** Imagine a teacher who decides in the first week that a quiet child isn't very bright. She asks the child fewer questions and expects less, and the child stops trying. By the end of the year the child's marks look like proof that the teacher read them right. In 1968 Robert Rosenthal and Lenore Jacobson reported this effect in a study they called *Pygmalion in the Classroom*. Later studies found it real but much smaller than they claimed.

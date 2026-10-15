@@ -16,7 +16,9 @@ Think of an office building on a cold day. Heat moves fast between the desks in 
 
 Simon argued that most complex systems are built like this. Cells make up organs and organs make up bodies. People form teams and teams form firms. The links inside each part are strong and fast, while the links between parts are weak and slow. He called this near decomposability. "Decomposable" means it can be split into pieces. "Near" means the pieces still touch a little, but not enough to stop you treating them one at a time.
 
-The trait this sorts problems on is how the links are spread. If they cluster inside parts, you can split the problem, solve each piece and put them back together. That is how most engineering and most organisations work. If the links run everywhere, there are no clean pieces. Every fix in one place changes something somewhere else. The common mistake is to split a tangled problem as if it broke apart neatly. You hand each piece to a different team, each team does well, and the whole thing still fails.
+The trait this sorts problems on is how the links are spread. If they cluster inside parts, you can split the problem, solve each piece and put them back together. That is how most engineering and most organisations work. If the links run everywhere, there are no clean pieces. Every fix in one place changes something somewhere else. The common mistake is to split a tangled problem as if it broke apart neatly. You hand each piece to a different team, each team does well, and the whole thing still fails. The better response is to map where the strong links run before you split the work. Cut along the weak links, and make someone responsible for checking each link between the pieces.
+
+This framework feeds the [Decomposable vs tangled](../axes/decomposable-vs-tangled.md) axis.
 
 ## Examples
 

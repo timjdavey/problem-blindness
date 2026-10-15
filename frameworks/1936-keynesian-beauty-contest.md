@@ -16,7 +16,9 @@ In his 1936 book *The General Theory*, John Maynard Keynes described a newspaper
 
 Keynes said the stock market works the same way. A share is worth what someone will pay for it tomorrow, and that depends on what they think others will pay. This picks out a type of problem where the answer lives in other people's heads, not in the thing itself. The trait is whether you are judging an object or judging the crowd's judgement of it.
 
-Treat a beauty contest as an ordinary judging problem and you lose. You can be right about a company and still go broke, because the crowd can stay wrong for longer than you can wait. The reverse mistake is just as bad. If you treat a real question of fact as a game of guessing the crowd, you end up chasing fashion. And because everyone is guessing about everyone else, the answer can jump when nothing real has changed.
+Treat a beauty contest as an ordinary judging problem and you lose. You can be right about a company and still go broke, because the crowd can stay wrong for longer than you can wait. The reverse mistake is just as bad. If you treat a real question of fact as a game of guessing the crowd, you end up chasing fashion. And because everyone is guessing about everyone else, the answer can jump when nothing real has changed. The better response is to ask whose judgement decides the payoff. If it is the crowd's, study the crowd and how long you can afford to wait for it. If it is the facts, judge the thing itself and ignore the fashion.
+
+This framework feeds the [Inert vs reflexive](../axes/inert-vs-reflexive.md) axis.
 
 ## Examples
 
@@ -24,4 +26,4 @@ Treat a beauty contest as an ordinary judging problem and you lose. You can be r
 
 **The dotcom bubble.** In the late 1990s many fund managers said in private that internet shares were overpriced. Plenty bought them anyway, because they expected other buyers to push prices higher still. Those who judged the companies on profits looked foolish for years. Then the market turned in 2000 and the crowd's guess about itself collapsed.
 
-**Meeting a friend in London.** You agreed to meet a friend in London today but never said where or when, and neither of you can get in touch. The best spot is not your own favourite. It is the place you think your friend will pick, and they are thinking the same about you. Most people head for a famous landmark at noon, because they guess the other person will guess the obvious.
+**Meeting a friend in London.** You agreed to meet a friend in London today but never said where or when, and neither of you can get in touch. The best spot is not your own favourite. It is the place you think your friend will pick, and they are thinking the same about you. Most people head for a famous landmark at noon, because they guess the other person will guess the obvious. In 1960 Thomas Schelling asked people this about New York, and most picked Grand Central Station at noon. He called such a spot a focal point. It is a cousin of the beauty contest, since you both win together, but the same skill of guessing someone else's guess decides it.

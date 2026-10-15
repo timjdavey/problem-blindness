@@ -19,6 +19,8 @@ Accountability means you expect to have to justify your choice to someone. Lerne
 
 The trait this sorts on is whether a choice has to be explained and defended. That changes which methods you can use. A gut call that works may still be unusable if it can't be put into words. A simple rule that you can point to is easier to defend, even when it does worse. The mistake is to treat explaining as free, or to assume it always improves the choice. The better response is to ask who will judge the choice, what they want and whether the method you plan to use can be shown to them.
 
+This framework feeds the [Private vs accountable](../axes/private-vs-accountable.md) axis.
+
 ## Examples
 
 **Turning down a loan.** The US Equal Credit Opportunity Act requires lenders to tell an applicant the main reasons they were refused credit. A lender can't just say a model gave a low score. So many lenders use credit scores built from a small set of factors they can name, like late payments or high balances. A more complex model might predict defaults better, but it is harder to turn into a list of reasons.

@@ -16,7 +16,7 @@ sources:
 ---
 # Stationary vs drifting
 
-An axis in the [world](index.md#the-world) group.
+An axis in the [Change](index.md#change) set of the [world](index.md#the-world) group.
 
 Do the patterns in your past data still hold, or does the world keep shifting so that what you learnt goes stale? Gravity stays put. Music tastes, fashion and slang keep moving, so old data goes stale.
 
@@ -42,6 +42,7 @@ Do the patterns in your past data still hold, or does the world keep shifting so
 - [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md) (logic). A drifting world keeps serving up cases nobody has seen.
 - [Small vs large world](small-vs-large-world.md) (logic). A drifting world keeps adding states nobody listed.
 - [General vs local knowledge](general-vs-local-knowledge.md) (logic). Hayek's point was that local circumstances change every day ([Use of knowledge in society](../frameworks/1945-use-of-knowledge-in-society.md)).
+- [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) (independent). Both make forecasts go bad with time, so they get mixed up. A short horizon means small errors grow while the rules stay fixed. Drift means the rules themselves change. Weather is chaotic, yet the physics behind it never moves. Slang drifts, but nothing about it is chaotic.
 
 ## Citations
 

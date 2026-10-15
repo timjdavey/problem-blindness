@@ -17,7 +17,9 @@ Some group decisions are easy because everyone wants the same thing and everyone
 
 The answers give four boxes, and each box needs its own way of deciding. When people agree on both, the answer can be worked out, so the right strategy is computation. Hand it to experts and a rule book. When they agree on the goal but not on cause and effect, they need judgement. A panel of wise heads weighs the evidence and votes. When they agree on cause and effect but want different things, they need compromise. Each side bargains and gives a little. When they agree on neither, there is no method left. Someone has to offer a new vision that people can rally round, and Thompson and Tuden called this inspiration.
 
-The trait the matrix sorts on is where the disagreement sits: in the facts, in the values or in both. Many bad decisions come from using the strategy for one box in another. Experts who treat a clash of values as a sum produce a plan that adds up and that nobody accepts. Groups that bargain over a question of fact are just as wrong. If two experts disagree on how a disease spreads, splitting the difference gives you a policy that matches neither view of the facts. Ralph Stacey later built his matrix on the same two questions.
+The trait the matrix sorts on is where the disagreement sits: in the facts, in the values or in both. Many bad decisions come from using the strategy for one box in another. Experts who treat a clash of values as a sum produce a plan that adds up and that nobody accepts. Groups that bargain over a question of fact are just as wrong. If two experts disagree on how a disease spreads, splitting the difference gives you a policy that matches neither view of the facts. The better response is to find where the disagreement sits before you choose how to decide. Ralph Stacey later built [his matrix](1996-stacey-matrix.md) on the same two questions.
+
+This framework feeds the [Shared vs contested values](../axes/shared-vs-contested-values.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
 
 ## Examples
 

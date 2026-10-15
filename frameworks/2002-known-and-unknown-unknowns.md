@@ -16,7 +16,9 @@ When you plan anything, there are things you know and things you know you don't 
 
 On 12 February 2002 Donald Rumsfeld, then the US Secretary of Defense, put it this way at a press briefing. There are known knowns, known unknowns and unknown unknowns, "the ones we don't know we don't know". People laughed at the wording, but the idea was sound and much older. Engineers had long spoken of "unk-unks", and the Johari window from 1955 has a similar box for what nobody knows about you. The trait it sorts on is whether you are aware of what you don't know.
 
-The mistake is to treat a problem as if all its unknowns were the known kind. You list the risks, put a number on each one and feel prepared. The list hides the fact that the worst surprises are the ones nobody wrote down. A problem with many unknown unknowns needs slack and the ability to change course, not a longer list.
+The mistake is to treat a problem as if all its unknowns were the known kind. You list the risks, put a number on each one and feel prepared. The list hides the fact that the worst surprises are the ones nobody wrote down. The better response to a problem with many unknown unknowns is slack and the ability to change course, not a longer list.
+
+This framework feeds the [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) and [Small vs large world](../axes/small-vs-large-world.md) axes.
 
 ## Examples
 

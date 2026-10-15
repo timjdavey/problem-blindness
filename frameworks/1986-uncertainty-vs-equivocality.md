@@ -19,6 +19,8 @@ The first problem is a lack of information. Think of twenty questions, where eac
 
 The mistake is to treat an equivocal problem as an uncertain one. You commission another study or send a report, and each side reads the data as proof of its own view. Daft and Lengel said managers reduce equivocality by defining or creating an answer, rather than by finding one in more data. The better response is to get the people who see it differently into a room. Let them argue it out until they agree a shared reading. Then any data you gather has a clear question.
 
+This framework feeds the [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) axis.
+
 ## Examples
 
 **Khrushchev's two letters.** In October 1962 the US found Soviet nuclear missiles in Cuba. On 26 October a long and personal letter from Nikita Khrushchev offered to remove the missiles if the US promised not to invade Cuba. The next day a harsher letter on Moscow radio added a demand that the US remove its own missiles from Turkey. No spy photo could say which letter showed what Moscow wanted. Kennedy's advisers argued it out face to face, and they chose to answer the first letter as the real offer. Robert Kennedy privately told the Soviet ambassador that the missiles in Turkey would go. On 28 October Khrushchev agreed to withdraw.

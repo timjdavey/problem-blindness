@@ -19,7 +19,9 @@ Most talk about thinking splits it in two: gut feel or careful analysis. Kenneth
 
 The twist is that tasks sit on a line too. A task with many cues shown at once and no clear rule for combining them pulls towards intuition. A task with few cues, a known formula and time to work pulls towards analysis. Hammond's claim is that people do best when the way they think matches where the task sits. So the trait this sorts on is the shape of the task: how many cues there are, how clear the rules are and how much time you have.
 
-Getting the match wrong fails both ways. Force analysis onto a task full of cues and you pick the few you can measure, ignore the rest and do worse than a gut call. Use gut feel on a task with a clear rule and you add noise to something a formula would get right every time.
+Getting the match wrong fails both ways. Force analysis onto a task full of cues and you pick the few you can measure, ignore the rest and do worse than a gut call. Use gut feel on a task with a clear rule and you add noise to something a formula would get right every time. The better response is to read the task before you choose how to think. Count the cues, check for a known rule and see how much time you have.
+
+This framework feeds the [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md) axis.
 
 ## Examples
 

@@ -17,7 +17,9 @@ Baking a cake, landing on the moon and bringing up a child are all hard in their
 
 A simple problem has a recipe. Follow the steps and you get roughly the same result each time, without needing to be an expert. A complicated problem needs teams of experts and careful planning, but once you have solved it you can do it again. The parts behave the same way each time. A complex problem is different in kind. The parts adapt and react to each other, so what worked last time is no guide to next time.
 
-Two traits split them. Needing experts separates simple from complicated, and whether success can be copied separates complicated from complex. Their point was aimed at health reform. Planners treated the health system as a complicated machine that a good enough blueprint could fix. Glouberman and Zimmerman argued it was complex, full of patients and staff who adapt to whatever you do. The mistake is to bring a rocket scientist's plan to a problem that behaves like a child.
+Two traits split them. Needing experts separates simple from complicated, and whether success can be copied separates complicated from complex. Their point was aimed at health reform. Planners treated the health system as a complicated machine that a good enough blueprint could fix. Glouberman and Zimmerman argued it was complex, full of patients and staff who adapt to whatever you do. The mistake is to bring a rocket scientist's plan to a problem that behaves like a child. The better response to a complex problem is to try things in small ways, watch how people react and keep adjusting.
+
+This framework feeds the [Coherent vs incoherent](../axes/coherent-vs-incoherent.md), [Decomposable vs tangled](../axes/decomposable-vs-tangled.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
 
 ## Examples
 

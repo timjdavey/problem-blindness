@@ -18,6 +18,8 @@ Savage was careful about where his theory applied. He used two proverbs. "Look b
 
 This is not the same as known odds. You can list every state and still not know how likely each one is, as with a new drug that either works or doesn't. A large world is worse, because the state that matters may not be on your list at all. No amount of care with the numbers will fix that. The mistake is building a careful model of a small world and then trusting it in a large one. The model feels complete because everything on the list has been weighed. The better response is to ask what you would do if the truth turned out to be off the list. In a large world it pays to keep options open and leave slack, so you can improvise when the bridge comes.
 
+This framework feeds the [Small vs large world](../axes/small-vs-large-world.md) axis.
+
 ## Examples
 
 **Beating blackjack.** Blackjack is a small world. The cards left in the deck fix every state, and the rules fix every act. In 1961 the mathematician Edward Thorp used an IBM 704 computer at MIT to work out the best play for each mix of remaining cards. He published the result that year in the *Proceedings of the National Academy of Sciences* as "A favorable strategy for twenty-one". He then took $10,000 to the casinos and won $11,000 in a single weekend. His 1962 book *Beat the Dealer* sold over 700,000 copies. In a world this small, looking before you leap works.

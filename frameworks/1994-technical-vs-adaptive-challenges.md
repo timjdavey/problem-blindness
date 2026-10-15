@@ -18,10 +18,12 @@ Ronald Heifetz, who trained as a doctor before teaching leadership at Harvard, c
 
 Heifetz argued that the most common failure of leadership is treating an adaptive challenge as a technical one. It is tempting because technical fixes feel good. They are quick and visible, and they let everyone avoid the painful change. The problem comes back, and each time people grow more sure that someone else should have fixed it.
 
+This framework feeds the [Shared vs contested values](../axes/shared-vs-contested-values.md) and [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md) axes.
+
 ## Examples
 
 **The heart patient.** A surgeon can unblock a man's arteries in a few hours. That part is technical. Whether he lives another twenty years depends on whether he stops smoking, eats differently and exercises. No surgeon can do that for him, and a patient who thinks the operation was the cure is likely to be back.
 
-**Kodak.** In 1975 a Kodak engineer called Steven Sasson built one of the first digital cameras. Kodak saw digital coming. A 1981 internal study warned that it would replace film, and in 2005 Kodak sold more digital cameras in the US than anyone else. So its problem was never technical. The hard part was that a firm built on the high margins of film had to accept a world where cameras earned little and few people bought prints. It had to change what it thought it was for. It never did, and it filed for bankruptcy in January 2012.
+**Kodak.** Kodak's fall is told in full under [Single vs double-loop learning](1978-single-vs-double-loop-learning.md). In Heifetz's terms its problem was never technical, since its own engineers built one of the first digital cameras in 1975. The hard part was adaptive. A firm built on the high margins of film had to accept a world where few people bought prints, and it never did.
 
 **The late projects.** A team keeps missing deadlines, so the manager buys new project tracking software. The deadlines keep slipping. The real cause is that nobody will tell the boss a date is unrealistic, and no software fixes a habit of silence.

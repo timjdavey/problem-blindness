@@ -12,11 +12,13 @@ sources:
 
 # Tame, wicked and critical
 
-Keith Grint took Rittel and Webber's split between tame and wicked problems and added a third kind. A tame problem may be hard but it has been solved before, like heart surgery. It calls for management, which means applying the right process. A wicked problem has no clear answer and no end point, like crime or the future of the NHS. It calls for leadership, which for Grint means asking good questions and getting people to own the problem. A critical problem is a crisis with no time to talk, like a fire in a building. It calls for command, where one person tells everyone what to do.
+Keith Grint took Rittel and Webber's split between tame and wicked problems and added a third kind. A tame problem may be hard but it has been solved before, like heart surgery. It calls for management, which means applying the right process. A wicked problem has no clear answer and no end point, like crime or the future of the NHS. It calls for leadership, which for Grint means asking good questions and getting people to own the problem. A critical problem is a crisis with no time to talk, like a fire in a building. It calls for command, where one person tells everyone what to do. The trait this sorts on is whether a problem has a known answer, no known answer or no time to look for one.
 
 Each style rests on a different kind of power. Command uses force or the threat of it. Management uses pay and process. Leadership has to rely on people choosing to follow, because nobody can order a wicked problem away. So the three styles are not grades of the same skill. They are different tools for different kinds of problem.
 
 Grint's sharpest point is that these labels are chosen, not found. A leader who likes giving orders has every reason to call a problem a crisis. A manager who likes process will call a wicked problem tame and launch another target. The label then justifies the style, and the problem gets the wrong treatment. So when someone tells you what kind of problem you face, ask what that label lets them do.
+
+This framework feeds the [Slack vs time pressure](../axes/slack-vs-time-pressure.md) axis.
 
 ## Examples
 

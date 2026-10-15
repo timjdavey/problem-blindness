@@ -14,9 +14,9 @@ sources:
 ---
 # Long vs short predictability horizon
 
-An axis in the [world](index.md#the-world) group.
+An axis in the [Change](index.md#change) set of the [world](index.md#the-world) group.
 
-How far ahead can you forecast before tiny errors in what you know today grow too large for the forecast to be any use? A cup pushed off a table is easy to predict. The weather two weeks out is not, even though the physics is simple. Systems where small errors grow this fast are called chaotic.
+How far ahead can you forecast before tiny errors in what you know today grow too large for the forecast to be any use? The tides can be forecast years ahead. The weather two weeks out can't, even though the physics is well understood. Systems where small errors grow this fast are called chaotic.
 
 ## Actions
 
@@ -37,6 +37,7 @@ How far ahead can you forecast before tiny errors in what you know today grow to
 - [Kind vs wicked feedback](kind-vs-wicked-feedback.md) (study). Weather forecasters work inside the horizon and are well calibrated ([Task characteristics of expertise](../frameworks/1992-task-characteristics-of-expertise.md)). Tetlock's pundits made long range calls and did little better than chance ([Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)).
 - [Smooth vs rugged](smooth-vs-rugged.md) (independent). Both are about small differences growing large, but in different places. The horizon is about errors growing over time as a system runs. Rugged is about a small change to an answer making a big change to how good it is, at one fixed moment.
 - [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). Chaos pulls runs that start almost alike far apart, so past the horizon the runs disagree and their average describes none of them.
+- [Stationary vs drifting](stationary-vs-drifting.md) (independent). Both make forecasts go bad with time, so they get mixed up. A short horizon means small errors grow while the rules stay fixed. Drift means the rules themselves change. Weather is chaotic, yet the physics behind it never moves. Slang drifts, but nothing about it is chaotic.
 
 ## Citations
 

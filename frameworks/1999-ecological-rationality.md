@@ -20,6 +20,8 @@ Their boldest claim is that ignoring information can make you more accurate. A c
 
 The mistake is to bring tools built for long records and known odds to a problem with little data and unknown odds. The reverse mistake is to trust a rule of thumb in a stable, data rich world where a proper model would do better.
 
+This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md), [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md), [Satisficing vs optimising](../axes/satisficing-vs-optimising.md) and [Spread vs single bet](../axes/spread-vs-single-bet.md) axes.
+
 ## Examples
 
 **Take-the-best.** In the book Jean Czerlinski, Gigerenzer and Daniel Goldstein ran a contest across 20 real data sets on topics from car accidents on a stretch of highway to how attractive people rated public figures. Each task was to pick the higher of two things. Take-the-best checks one clue at a time, best clue first, and stops at the first one that tells the two apart. Multiple regression weighs every clue. On data it had already seen, regression came first at 77% correct. When each method learnt from half the data and was tested on the other half, regression lost the most and take-the-best won.

@@ -18,7 +18,11 @@ Since the 1650s people have judged a gamble by its expected value. You list ever
 
 Imagine a coin game where heads grows your wealth by 50% and tails shrinks it by 40%. If a huge crowd plays one round, the average player gains 5%, so expected value says play. Now follow one person over many rounds. A head and a tail together multiply your wealth by 1.5 times 0.6, which is 0.9. So a typical player loses about 5% a round. The crowd average keeps rising only because a lucky few get vastly rich. When the average over a crowd matches the average for one person over time, a process is called ergodic. This game is not, and nor is most of life where gains and losses compound.
 
-The mistake is to judge a repeated, compounding bet by its expected value. You live one path through time, not the average of a million parallel lives. A loss that wipes you out ends the game for good, however good the bet looked on paper. The better response is to ask what happens to one player who keeps playing. That means looking at the growth rate over time, and staking a share of what you have so that no single loss can finish you.
+The mistake is to judge a repeated, compounding bet by its expected value. You live one path through time, not the average of a million parallel lives. In the coin game nobody is ever wiped out, yet the typical player still grows poorer every round while the crowd's average climbs.
+
+Popular writing often stretches "non-ergodic" to mean any risk of ruin, but that is a different trait, covered by [Survivable vs ruinous](../axes/survivable-vs-ruinous.md). The better response is to ask what happens to one player who keeps playing. That means looking at the growth rate over time, and staking only a share of what you have each round.
+
+This framework feeds the [Additive vs multiplicative](../axes/additive-vs-multiplicative.md) and [Survivable vs ruinous](../axes/survivable-vs-ruinous.md) axes.
 
 ## Examples
 

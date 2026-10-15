@@ -16,7 +16,7 @@ sources:
 ---
 # Spread vs single bet
 
-An axis in the [decision](index.md#the-decision) group.
+An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
 
 Can you split your stake across several options at once, or does everything ride on one? A pension fund holds hundreds of shares, so no single one has to be right. You can only accept one job offer, and a bridge can only be built in one town. Being able to undo a choice is another way to avoid staking everything on one guess. That spreads your tries across time, and this axis spreads them across options. But spreading only helps when the bets can fail on their own. Harry Markowitz showed that bets which rise and fall together are close to one bet ([Portfolio selection](../frameworks/1952-portfolio-selection.md)).
 
@@ -42,7 +42,7 @@ Can you split your stake across several options at once, or does everything ride
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). When the tails are fat a few wild bets carry most of the upside, so you need to be able to back several. A barbell puts a small slice on them and keeps the rest safe ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). Spreading is not blending. Halfway between a funny speech and a moving one is a bad speech, but you can draft both and keep one. A barbell beats the middling option because it spreads across a fork instead of blending it.
 - [Test vs watch](test-vs-watch.md) (logic). A fair test needs you to do more than one thing at once. With only one economy there is no control group. But the two come apart, since a portfolio spreads without testing anything.
-- [One-shot vs sequential](one-shot-vs-sequential.md) (logic). A [bandit](../frameworks/1933-multi-armed-bandit.md) spreads its tries over time, one pull after another, and that axis covers it. This axis is about backing several options side by side.
+- [Standalone vs sequential](standalone-vs-sequential.md) (independent). This axis asks whether you can back several options at once. That one asks whether each choice shapes the next. A [bandit](../frameworks/1933-multi-armed-bandit.md) makes one pull at a time and each pull shapes what it tries next, while a fund can back a hundred shares and treat each as its own call.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). A budget can be split between rival groups, so each gets some of what it wants. A bridge can't, so someone has to lose.
 
 ## Citations

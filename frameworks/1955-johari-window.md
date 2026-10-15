@@ -17,7 +17,9 @@ Everyone has things about them that they know and others know too, like their jo
 
 The four boxes are usually called the open area, the blind spot, the hidden area and the unknown. What the grid sorts on is who holds a piece of knowledge: you, the people around you, both or neither. That matters because each box needs a different way of finding things out. The open area needs nothing. A blind spot can only be fixed by asking others and listening. A hidden thing comes out when you choose to share it. The unknown can only be found by trying new things and seeing what turns up.
 
-The mistake is to use the wrong method for the box you are in. You can think hard about yourself for years and never find a blind spot, because thinking alone can't reach what only others see. A team can hold endless meetings and still miss a fact one member is keeping quiet. Later writers drew a similar grid for knowledge in general. Its boxes are known knowns, known unknowns and unknown unknowns.
+The mistake is to use the wrong method for the box you are in. You can think hard about yourself for years and never find a blind spot, because thinking alone can't reach what only others see. A team can hold endless meetings and still miss a fact one member is keeping quiet. Later writers drew a similar grid for knowledge in general. Its boxes are [known knowns, known unknowns and unknown unknowns](2002-known-and-unknown-unknowns.md). The better response is to work out which box a gap sits in before you try to fill it. Ask others about blind spots, make it safe to share hidden facts and try new things to find the unknown.
+
+This framework feeds the [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) axis.
 
 ## Examples
 

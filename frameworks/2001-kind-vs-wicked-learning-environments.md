@@ -15,11 +15,13 @@ sources:
 
 # Kind vs wicked learning environments
 
-We trust experience. Someone who has done a job for twenty years should be better at it than someone who started last week. Robin Hogarth, a psychologist, pointed out that this only holds if the job gives you honest feedback. In his 2001 book *Educating Intuition* he split the places we learn into two kinds.
+We trust experience. Someone who has done a job for twenty years should be better at it than someone who started last week. Robin Hogarth, a psychologist, pointed out that this only holds if the job gives you honest feedback. In his 2001 book *Educating Intuition* he split the places we learn into two kinds. The trait this sorts on is whether the feedback you get is quick and honest.
 
 In a kind environment you act and then quickly find out whether you were right. The feedback is accurate, and the practice looks like the real thing. Over time your gut gets good. In a wicked environment the feedback is missing, slow or wrong. You may never see the result of your choice, or you may see a result that your choice itself caused. In 2015 Hogarth wrote it up again with Tomás Lejarraga and Emre Soyer, and David Epstein's book *Range* later made the idea popular.
 
-The danger is that experience in a wicked environment still feels like expertise. You grow more confident with each year, and you have a long list of times you were right. But the lessons can be false. Treat a wicked environment as kind and you end up trusting a gut that was trained on bad data.
+The danger is that experience in a wicked environment still feels like expertise. You grow more confident with each year, and you have a long list of times you were right. But the lessons can be false. Treat a wicked environment as kind and you end up trusting a gut that was trained on bad data. The better response is to ask how an expert's gut was trained. Where the feedback was poor, lean on records, base rates and outside checks instead.
+
+This framework feeds the [Kind vs wicked feedback](../axes/kind-vs-wicked-feedback.md) axis.
 
 ## Examples
 

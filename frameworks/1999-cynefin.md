@@ -18,7 +18,9 @@ Some problems have a known answer anyone can look up. Some have an answer only a
 
 The trait it sorts on is how cause and effect relate. In a clear situation they are obvious, so you follow best practice. In a complicated one they can be found by analysis, so you call in an expert. In a complex situation causes only make sense looking back, so you run small safe experiments and grow what works. In a chaotic one there is no time to find causes, so you act first to make things stable. A fifth state, confusion, is when you don't know which of the four you are in. The 2003 paper called these known, knowable, complex, chaos and disorder. Snowden has renamed them since, and this page uses the current names.
 
-Snowden's warning is that people pick the domain they are used to, not the one they are in. Experts see every problem as complicated and reach for analysis. Managers want everything to be clear and reach for process. Treat a complex problem as complicated and you write a perfect plan for a world that won't stand still.
+Snowden's warning is that people pick the domain they are used to, not the one they are in. Experts see every problem as complicated and reach for analysis. Managers want everything to be clear and reach for process. Treat a complex problem as complicated and you write a perfect plan for a world that won't stand still. The better response is to work out which domain you are in before you pick a method, and to expect parts of one problem to sit in different domains.
+
+This framework feeds the [Slack vs time pressure](../axes/slack-vs-time-pressure.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
 
 ## Examples
 

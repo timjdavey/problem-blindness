@@ -19,6 +19,8 @@ Can the agent see everything that matters, or is some of it hidden? Does an acti
 
 The mistake is to build for an easier world than the real one. A system tested where everything is visible and nothing moves can look brilliant. Then it meets the real world and fails in ways the tests could never show. People do this too, when a plan assumes rivals will stand still. The better response is to describe the world honestly on every count before choosing a tool. If it is partly hidden, you need a running guess about what you can't see. If others act, you need a model of what they want. If chance plays a part, you need odds rather than certainties.
 
+This framework feeds the [Deterministic vs statistical](../axes/deterministic-vs-statistical.md), [Neutral vs adversarial](../axes/neutral-vs-adversarial.md), [Standalone vs sequential](../axes/standalone-vs-sequential.md), [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
+
 ## Examples
 
 **From crosswords to taxis.** The book's own table runs from easy to hard. A crossword is fully visible and solo, with a grid that waits for you. Chess with a clock adds an opponent and time pressure. Poker hides the cards and adds luck. Taxi driving is hard on every count. Deep Blue beat Garry Kasparov at chess in 1997 and a program beat top poker professionals in 2017. Waymo only opened fully driverless rides to the public in 2020, in a small patch of suburban Phoenix.

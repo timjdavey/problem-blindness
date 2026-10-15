@@ -16,7 +16,9 @@ Dietrich Dörner, a German psychologist, wanted to know how people cope with pro
 
 The trait these problems share is that many variables are linked, some are hidden and effects arrive late. Running an economy or managing a forest is like this. Dörner found people treated such problems as a set of simple ones. They picked the most visible issue, fixed it hard and ignored the side effects. When results were slow to show, they pushed harder, then overcorrected when the delayed effects landed all at once. Many gave up on the hard goals and retreated into small tasks they felt good at.
 
-The better players behaved differently. They asked more questions before acting and checked what their moves had done. They also thought about the side effects of each move, not only the main effect. Dörner published the work in 1989 as Die Logik des Misslingens, later translated as The Logic of Failure.
+The better players behaved differently. They asked more questions before acting and checked what their moves had done. They also thought about the side effects of each move, not only the main effect. That is the better response: gather facts first, act in small steps and check for side effects before the next move. Dörner published the work in 1989 as Die Logik des Misslingens, later translated as The Logic of Failure.
+
+This framework feeds the [Decomposable vs tangled](../axes/decomposable-vs-tangled.md) and [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) axes.
 
 ## Examples
 

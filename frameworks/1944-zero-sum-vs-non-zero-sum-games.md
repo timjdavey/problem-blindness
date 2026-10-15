@@ -17,7 +17,9 @@ In a game of poker the money on the table stays the same. Every pound you win is
 
 The trait this sorts problems on is whether the other side's interests are the exact opposite of yours. If they are, you face an opponent who is watching you and adapting. Any habit you show will be used against you, so the best plan is often to be hard to predict. If the interests overlap, the other side is partly a partner. The best plan is then to find the deal that makes the total bigger and to build enough trust to share it.
 
-Both mistakes are common. Treat a shared game as zero-sum and you fight over a pie you could have grown, so both sides walk away with less. Treat a true contest as shared and you show your hand to someone who will use it. A third mistake is to forget the other side is a player at all. Then you plan as if they will hold still while you make your move.
+Both mistakes are common. Treat a shared game as zero-sum and you fight over a pie you could have grown, so both sides walk away with less. Treat a true contest as shared and you show your hand to someone who will use it. A third mistake is to forget the other side is a player at all. Then you plan as if they will hold still while you make your move. The better response is to ask first whether the other side gains from your loss. If it does, keep your moves hard to read. If it doesn't, look for the deal that grows the total.
+
+This framework feeds the [Neutral vs adversarial](../axes/neutral-vs-adversarial.md) and [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md) axes.
 
 ## Examples
 

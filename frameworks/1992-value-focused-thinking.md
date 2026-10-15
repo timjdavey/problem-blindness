@@ -18,6 +18,8 @@ Keeney called the usual habit alternative-focused thinking. A problem turns up, 
 
 The mistake is to take the menu as given. You pick the least bad of what is on the table and never notice you could have built something else. The better response is to write down what you want, and why, before you compare anything. For each thing you want, ask which option would do best on that alone. Then try to build one that does well on several at once. Keep the old way for choices where the options truly are fixed, like a ballot paper.
 
+This framework feeds the [Choose vs design the options](../axes/choose-vs-design-the-options.md) axis.
+
 ## Examples
 
 **New York's water.** The Catskill and Delaware reservoirs supply New York City with an average of 1.3 billion gallons of water a day for about nine million people. A federal rule from 1989 meant the city would have to filter that water unless it could keep the source clean. The city estimated a filtration plant would cost $6 billion to build and more than $300 million a year to run. Rather than start by pricing plants, the city went back to what it wanted, which was clean water at the tap. On 21 January 1997 it signed an agreement with the towns in the watershed, New York State, the federal Environmental Protection Agency and environmental groups. The deal cost about $1.5 billion over ten years and included more than $250 million to buy land around the reservoirs from willing sellers. In December 2017 the state gave the city a further ten year waiver from filtering.

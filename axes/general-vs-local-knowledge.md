@@ -12,7 +12,7 @@ sources:
 ---
 # General vs local knowledge
 
-An axis in the [knower](index.md#the-knower) group.
+An axis in the [Know-how](index.md#know-how) set of the [knower](index.md#the-knower) group.
 
 Does the answer rest on facts anyone could look up, or on facts about this place, this firm or this moment that only people close to it know? How insulin works is general. Whether this patient has been taking theirs is local, and only someone close to them knows. Friedrich Hayek called this knowledge of the particular circumstances of time and place.
 

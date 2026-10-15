@@ -16,9 +16,9 @@ sources:
 ---
 # Small vs large world
 
-An axis in the [knower](index.md#the-knower) group.
+An axis in the [Uncertainty](index.md#uncertainty) set of the [knower](index.md#the-knower) group.
 
-Can you list every way things might turn out before you choose, or could the result be something nobody thought to list? A lottery ticket wins or loses, and nothing else can happen. A new product can fail in ways nobody thought to list, like a rival's launch or a change in the law. In a small world the outcomes come from a fixed procedure, so you can compute them or run the procedure many times to sample them. In a large world there is no procedure to run, so there is nothing to sample from. Leonard Savage called the first a small world and the second a large one, and said his theory of rational choice only works in the small one.
+Is there a fixed procedure that generates every way things might turn out, so you can work out or sample the outcomes before you choose? Or could the result be something nobody thought to list? A lottery ticket wins or loses, and nothing else can happen. A new product can fail in ways nobody thought to list, like a rival's launch or a change in the law. Go has more positions than anyone could list, yet its rules generate every one. A large world has no such procedure, so there is nothing to sample from. Leonard Savage called the first a small world and the second a large one, and said his theory of rational choice only works in the small one.
 
 ## Actions
 
@@ -36,12 +36,13 @@ Can you list every way things might turn out before you choose, or could the res
 
 ## Correlated with
 
-- [Known vs unknown odds](known-vs-unknown-odds.md) (logic). You can't put odds on a state you never listed, so a large world has unknown odds. The reverse doesn't hold. Ellsberg's urn has only two states, red or black, and the odds are still unknown ([Ambiguity aversion](../frameworks/1961-ambiguity-aversion.md)).
+- [Known vs unknown odds](known-vs-unknown-odds.md) (by definition). You can't put odds on a state you never listed, so a large world has unknown odds. The reverse doesn't hold. Ellsberg's urn has only two states, red or black, and the odds are still unknown ([Ambiguity aversion](../frameworks/1961-ambiguity-aversion.md)).
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (independent). A hidden fact is a state you know exists but can't see. Every possible poker hand is known in advance, and you still can't see the one in front of you.
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). Small means a procedure generates the outcomes, not that there are few of them. Go is a small world, since the rules fix every position, and still far too big to search. Picking between two job offers is a large world with only two options to check.
 - [Stationary vs drifting](stationary-vs-drifting.md) (logic). A drifting world keeps adding states nobody listed.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). The worst outcomes are often the ones nobody listed, which is what Taleb means by a black swan ([Mediocristan vs Extremistan](../frameworks/2007-mediocristan-vs-extremistan.md)).
 - [Choose vs design the options](choose-vs-design-the-options.md) (bundled). Savage's small world fixes the list of actions as well as the list of states. In a large world you often have to invent the options too.
+- [Clustered vs scattered](clustered-vs-scattered.md) (logic). Clear groups let you list the ways things might turn out. Scattered runs leave outcomes nobody thought to list.
 
 ## Citations
 

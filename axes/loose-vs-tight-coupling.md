@@ -14,7 +14,7 @@ sources:
 ---
 # Loose vs tight coupling
 
-An axis in the [world](index.md#the-world) group.
+An axis in the [Structure](index.md#structure) set of the [world](index.md#the-world) group.
 
 When one part fails, is there slack and time to step in, or does the fault spread to other parts before anyone can react? A delayed parcel rarely stops the rest of the post. In a tightly coupled system, like a power grid or a nuclear plant, one fault can cascade before anyone reacts.
 
@@ -32,10 +32,10 @@ When one part fails, is there slack and time to step in, or does the fault sprea
 
 ## Correlated with
 
-- [Slack vs time pressure](slack-vs-time-pressure.md) (by definition). Perrow defines tight coupling as having no slack, so when a tight system fails it hands you a decision with no time ([Normal accidents](../frameworks/1984-normal-accidents.md)).
+- [Slack vs time pressure](slack-vs-time-pressure.md) (logic). Perrow's slack is a buffer in the process, while that axis is about time to decide, but the two meet. When a tight system fails it hands you a decision with no time ([Normal accidents](../frameworks/1984-normal-accidents.md)).
 - [Survivable vs ruinous](survivable-vs-ruinous.md) and [Reversible vs irreversible](reversible-vs-irreversible.md) (study). In [Normal accidents](../frameworks/1984-normal-accidents.md) small faults cascade into a meltdown before anyone can step in.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (study). Cascades turn many small faults into rare huge losses, as in the 2010 flash crash.
-- [Decomposable vs holistic](decomposable-vs-holistic.md) (independent). Perrow treats how tangled the parts are and how tight the links are as separate traits.
+- [Decomposable vs tangled](decomposable-vs-tangled.md) (independent). Perrow treats how tangled the parts are and how tight the links are as separate traits.
 
 ## Citations
 

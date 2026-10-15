@@ -16,7 +16,7 @@ sources:
 ---
 # Survivable vs ruinous
 
-An axis in the [decision](index.md#the-decision) group.
+An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
 
 Could one bad outcome take you out of the game for good, so that good odds over many tries no longer help? If so, the average result over many tries is useless, because you won't get many tries. Russian roulette has good odds and still isn't worth playing.
 
