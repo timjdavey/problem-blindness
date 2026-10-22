@@ -34,9 +34,9 @@ There is no single "correct" way to collate or break the space of all problems i
 Every axis page has the same four parts.
 
 - **The two ends.** We have tried to order these axes so that the "easy end" comes first (as it can be argued that a deterministic system is easier to deal with than a stochastic one), however these are obviously subjective. A few axes also name a middle when it is a case of its own e.g. [Self-righting vs tipping](self-righting-vs-tipping.md).
-- **Actions.** What to do differently at each end. Each opens with a plain rule that holds for anyone, then a list of what that rule means in practice, whoever is solving the problem.
+- **Actions.** What to do differently at each end. Each opens with a plain rule that holds for anyone, then a list of what that rule means in practice, whoever is solving the problem. Each item ends with a number, like [2], that points at its source under Citations.
 - **Correlated with.** The other axes this one tends to move with, each with a tag in brackets.
-- **Citations.** The frameworks the axis came from.
+- **Citations.** The frameworks the axis came from, then any outside papers or reports the actions cite.
 
 Correlated means a problem near the hard end of one axis tends to sit near the hard end of the other. Most entries are correlated, and their tag says how we know. The rest are tagged with how they break that pattern.
 
@@ -60,12 +60,14 @@ Three checks stop the same problem getting tagged two different ways.
 
 ## What changes at the hard end
 
-Near the easy ends you can trust a rehearsal to tell you how you'll do for real. Towards the hard ends that rehearsal stops being enough.
+Near the easy ends a rehearsal tells you how you'll do for real. Robin Hogarth and his co-authors call a setting kind when the place you practise matches the place you play, and wicked when it doesn't ([Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)). Towards the hard ends the two drift apart, so each step below trusts the rehearsal less.
 
-1. **Trust the rehearsal.** Practice, past cases or a trial run predict how you'll do for real. Let the solver act alone, check in lightly and plan the work like any routine job.
-2. **Add a checker.** Pair the solver with tests, rules or a second opinion. Let it act alone only where the check can confirm the result.
-3. **Try it small and for real.** Stop treating the rehearsal as the gate. Run small live trials side by side and judge them by what happens downstream, not by how well they did in rehearsal.
-4. **Keep a way out.** Have someone who can take over, a stop button or a rule to freeze when cases stop looking like the ones you learnt on.
+The steps don't cover every axis. Some ask other things, like whose goal counts, which options exist or who pays for a miss. Their pages carry their own moves.
+
+1. **Trust the rehearsal.** Practice, past cases or a trial run predict how you'll do for real. Let the solver act alone, check in lightly and plan the work like any routine job. This only holds where the task is regular and practice gave quick, clear feedback ([Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)).
+2. **Add a checker.** Pair the solver with tests, rules or a second opinion. Let it act alone only where the check can confirm the result. Many answers that are hard to find are cheap to check ([NP problems](../frameworks/1971-np-problems.md)).
+3. **Try it small and for real.** Stop treating the rehearsal as the gate. Run small live trials side by side and judge them by what happens downstream, not by how well they did in rehearsal. Shift towards what works while you keep testing ([Multi-armed bandit](../frameworks/1933-multi-armed-bandit.md)).
+4. **Keep a way out.** Have someone who can take over, a stop button or a rule to freeze when cases stop looking like the ones you learnt on. Where a rare loss could wipe you out, cut your exposure rather than trust a better forecast ([Fourth quadrant](../frameworks/2008-fourth-quadrant.md)).
 
 A real problem sits near the hard end of several axes at once, and their actions can pull against each other. A drifting world says relearn often and move fast, while a ruinous one says set hard limits and keep a fallback ready. **When actions clash, the step furthest down the list wins.**
 
