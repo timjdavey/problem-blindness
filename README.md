@@ -31,6 +31,16 @@ A neat scheme nobody uses is useless. There is already proof that tagging tasks 
 
 That is a single, crude axis, and it already predicts how well a model will do. A richer set of axes, checked against real results, could do far more. We want the same thing when building expert systems. Before you hand a task to a model or a person, you should be able to say what shape it is, what kind of expert it needs and how far to trust the answer. The aim is for this project to work as a skill an AI agent can load, or at least as a reference guide.
 
+### Testing the axes against METR
+
+We planned to check the axes against METR's results. A model would tag each task on every axis without seeing how agents did. Then we would see which axes split the tasks agents pass from the ones they fail, after allowing for length, and whether they predict better than METR's messiness score.
+
+That needs the full text of each task. METR keeps most of it private so that models aren't trained on it. Only 23 tasks from 11 families are public in full. The rest have a one or two sentence summary.
+
+We ran a prototype on what is public, and it wasn't strong enough to trust. On the 23 full tasks our tagger matched METR's messiness result, with each point cutting success by 8.5% against their 8.1%. On the summaries it found almost nothing, because one sentence is too little to tag from. Eleven families can only show very large effects. Every tag also came from a Claude model, which may share the blind spots of the agents being tested. [Verifiable vs unverifiable](axes/verifiable-vs-unverifiable.md) came out strongest, as we had predicted, but it didn't survive once we allowed for testing 25 axes at once.
+
+We'd love to work with METR, or any lab that holds private task text, to run the test properly. The tagging can run on their side, so the task text never leaves their hands.
+
 ## How to contribute
 
 This is an open source project and we'd love your help. It is not a finished analysis and never will be. People will keep finding new axes, and there are surely frameworks we have missed. If you spot a gap, a wrong link or a better example, please open a pull request.
