@@ -50,7 +50,7 @@ Is the problem clearly stated, with a known goal, known moves to get there and a
 - [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md) (bundled). Simon's [non-programmed decisions](../frameworks/1960-programmed-vs-non-programmed-decisions.md) are both new and poorly structured.
 - [Direct vs proxy measure](direct-vs-proxy-measure.md) (logic). If you can't state the goal, you can't score all of it. The reverse doesn't hold. Rating CVs looked well structured, yet Amazon's score left out fairness ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)).
 - [Choose vs design the options](choose-vs-design-the-options.md) (independent). "Build a bridge across this river for under £10m" is well structured, and every option still has to be drawn.
-- [Convergent vs divergent](convergent-vs-divergent.md) (independent). "Write a sonnet about autumn" is well structured and has endless good answers.
+- [Convergent vs divergent](convergent-vs-divergent.md) (independent). "Write a sonnet about autumn" is well structured and has endless good answers that differ in kind.
 - [Finite vs ongoing](finite-vs-ongoing.md) (bundled). A clear end is part of what Simon means by well structured, and [Rittel and Webber](../frameworks/1973-tame-vs-wicked-problems.md) say a wicked problem has no stopping rule. But keeping a diabetic's blood sugar in range is well structured and never ends.
 
 ## Citations

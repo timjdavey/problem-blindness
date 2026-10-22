@@ -18,7 +18,7 @@ Convergent thinking is for problems where the facts point to one best answer, li
 
 The mistake runs both ways. Mark divergent work against one key and you punish the good answer nobody listed, or you fall back on whatever is easy to count. Brainstorm a problem with one right answer and you get a pile of ideas when you needed the answer, and no vote will pick it out. The better response is to ask how many answers would count as right before you choose a method. If there is one, check against it. If there are many, judge each answer on its merits and expect good answers you didn't foresee.
 
-This framework feeds the [Convergent vs divergent](../axes/convergent-vs-divergent.md) axis.
+This framework feeds the [Convergent vs divergent](../axes/convergent-vs-divergent.md) axis. The axis draws the line a little differently. Many good answers that differ only in degree, like phones that trade battery life for size, count as convergent there, because a blend of two is still good. Only answers that differ in kind count as divergent.
 
 ## Examples
 

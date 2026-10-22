@@ -34,7 +34,7 @@ Are the options handed to you to pick from, or do you have to invent them first?
 
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). Search size assumes the options already exist. A design problem can have only three options once someone has thought of them.
 - [Well vs ill-structured](well-vs-ill-structured.md) (independent). A design brief can be crisp. "Build a bridge across this river for under £10m" is well structured, and every option still has to be drawn.
-- [Convergent vs divergent](convergent-vs-divergent.md) (logic). Options you invent rarely line up to one right answer, so design problems tend to have many good ones.
+- [Convergent vs divergent](convergent-vs-divergent.md) (logic). Options you invent tend to differ in kind, since each design starts from a different idea, so you can't blend two good ones.
 - [Small vs large world](small-vs-large-world.md) (bundled). Savage's small world fixes the list of actions along with the list of states ([Small and large worlds](../frameworks/1954-small-and-large-worlds.md)).
 
 ## Citations

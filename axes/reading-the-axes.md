@@ -60,6 +60,18 @@ The third is the combination test. No mix of two or three existing axes can land
 
 Fixed vs moving goal looked like a gap until it met the third test. A couple planning a wedding for 100 people on 5 June for under £20k have a clear brief. Yet what they want shifts once they start seeing venues. That passes the corner test, since the brief is well structured and the world around it isn't drifting. But the brief left out wants the couple could only find by looking, which is the hard end of [Direct vs proxy measure](direct-vs-proxy-measure.md). They found them through a chain of choices where each shaped the next, which is the hard end of [Standalone vs sequential](standalone-vs-sequential.md). Those two axes already say what to do. Don't trust the brief to hold everything you want, and learn as you go. So moving goals went in as a note on those two axes.
 
+## Three reasons for many good answers
+
+Some axes look alike because they share a symptom. Three axes all describe problems with no one right answer, and they used to blur together. They split on why there are many good answers, and each reason calls for a different move.
+
+| Why there are many good answers | Axis | Can you blend two good answers? | What to do |
+|---|---|---|---|
+| The goal has several parts that pull against each other | [Single objective vs trade-offs](single-objective-vs-trade-offs.md) | Yes, a blend sits on or near the trade off | Lay out the trade offs and let the owner set the weights |
+| The good answers differ in kind | [Convergent vs divergent](convergent-vs-divergent.md) | No, halfway is worse than either | Commit to one, and sample rather than average |
+| The goal has several owners who rank the results differently | [Shared vs contested values](shared-vs-contested-values.md) | Only as a deal between them | Settle whose weights count, in the open |
+
+The moves clash, so tagging the wrong one does harm. Blending is the right move for a car buyer and the wrong move for a best man. Letting the decision maker pick works for the car buyer and fails for two towns that each want the bridge, since nobody there has the standing to pick. Each axis has a corner case that sits at its hard end and the easy end of the other two. A car buyer has trade-offs, shared values and answers that blend. A best man writing alone has one goal, nobody to argue with and answers that differ in kind. Two towns that each want the bridge have one goal each and contested values.
+
 ## Naming an axis
 
 Each end needs a label that makes sense on its own. Picture it written alone at one end of a chart. "None" could mean anything, but "No skin in the game" can only mean one thing. "Easy" was worse, since every axis already has an easy end and a hard end. So the labels give the noun as well, like "Fat tails" or "Proxy measure", and the title can stay short.

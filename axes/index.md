@@ -107,8 +107,8 @@
   * **Well-structured**: the problem is clearly stated, with a known goal, known moves and a clear end (e.g. a maths exam question).
   * **Ill-structured**: working out what the problem is, or how to attack it, becomes part of the job (e.g. \"fix homelessness\").
 * [Convergent vs divergent](convergent-vs-divergent.md)
-  * **Convergent**: there is one right answer that everyone would agree on (e.g. a sum).
-  * **Divergent**: there are many good answers that differ in kind (e.g. a wedding speech).
+  * **Convergent**: the good answers sit together, so a blend of two good ones is also good (e.g. a sum, or a phone trading battery life for size).
+  * **Divergent**: the good answers differ in kind, so halfway between two is worse than either (e.g. a funny wedding speech and a moving one).
 * [Single objective vs trade-offs](single-objective-vs-trade-offs.md)
   * **Single objective**: there is one thing to get right (e.g. the fastest route home).
   * **Trade-offs**: several goals pull against each other, so a gain on one costs you on another (e.g. price against safety in a new car).
@@ -164,8 +164,8 @@
 ## People
 
 * [Shared vs contested values](shared-vs-contested-values.md)
-  * **Shared values**: everyone affected agrees on what a good result looks like (e.g. a bridge should stay up).
-  * **Contested values**: people want different things from the result (e.g. where to build the bridge).
+  * **Shared values**: everyone affected ranks the possible results the same way, or one person owns the choice (e.g. a bridge should stay up).
+  * **Contested values**: the people affected rank the results differently, and nobody has the standing to settle it alone (e.g. where to build the bridge).
 * [Private vs accountable](private-vs-accountable.md)
   * **Private choice**: the choice is yours alone (e.g. picking a film).
   * **Accountable choice**: you must explain and defend the choice to others (e.g. a bank refusing a loan).
