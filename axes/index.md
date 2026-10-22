@@ -1,6 +1,6 @@
 # Axes for sorting problems
 
-* [Reading the axes](README.md): how the axes are grouped, what the correlation labels mean and what changes at the hard end.
+* [Reading the axes](README.md): how the axes are grouped, how to read one and what to do when a problem sits at the hard end.
 
 # Environment
 
