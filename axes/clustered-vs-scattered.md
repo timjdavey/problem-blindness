@@ -42,6 +42,7 @@ When runs disagree, do they fall into a few clear groups, so a few clues can tel
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). With clear groups a few readings can rule a whole group out, so a little data goes a long way ([Cohesion](../frameworks/2023-cohesion.md)).
 - [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md) (logic). Clear groups give early signs of which path you are on. Scattered runs give signs that point nowhere in particular.
 - [Smooth vs rugged](smooth-vs-rugged.md) (logic). A rugged landscape with a few big peaks gives one cluster per peak, as runs stall on whichever is nearest.
+- [Self-righting vs tipping](self-righting-vs-tipping.md) (logic). A tipping system has a few stable states, so its runs fall into a few clear groups.
 
 ## Citations
 

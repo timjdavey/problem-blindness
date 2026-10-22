@@ -42,6 +42,7 @@ Could one bad outcome take you out of the game for good, so that good odds over 
 - [Even vs lopsided errors](even-vs-lopsided-errors.md) (logic). When one kind of mistake can ruin you and the other can't, the costs are as lopsided as they get.
 - [Spread vs single bet](spread-vs-single-bet.md) (logic). Spreading is the main cure for ruin. But bets that fail together can still ruin you, as mortgage bonds did in 2008 ([Portfolio selection](../frameworks/1952-portfolio-selection.md)), and a single bet on lunch harms nobody.
 - [Winnable vs damage limitation](winnable-vs-damage-limitation.md) (independent). This axis is about how bad the worst case is, and that one is about how good the best case is. A tightrope walk has ruin as its worst case and a clean win as its best. Choosing which of two friends to let down is no-win but small.
+- [Self-righting vs tipping](self-righting-vs-tipping.md) (logic). A tip you can't climb back from is ruin for whoever depends on the old state.
 
 ## Citations
 

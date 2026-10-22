@@ -16,11 +16,13 @@ Post a wine glass and a rubber ball across the country and only one will arrive 
 
 Fragile things are harmed by shocks, and one big shock does far more harm than many small ones. Robust things stay much the same. Antifragile things get better, up to a point, because stress makes them adapt. Taleb made up that last word because English had no word for the opposite of fragile. Bones, immune systems and industries that learn from failure all fit.
 
+Taleb treats robust and resilient as the same thing, but they aren't. A robust thing resists the shock and barely moves, like a sea wall. A resilient thing takes the hit, bends or breaks, and then recovers, like a forest growing back after a fire. C. S. Holling drew this line in ecology in 1973 ([Resilience and stability](1973-resilience-and-stability.md)). Both come back to where they started, which is what sets them apart from antifragile things. Those come back somewhere better.
+
 What decides which group you are in is the shape of the harm. Jumping from one metre ten times does you no harm, but one jump from ten metres can break your legs. The harm grows faster than the shock, so the curve of your payoff bends down. This is called concave, and it is what fragile means. A payoff that bends up, where one big shock helps you more than many small ones, is called convex and is antifragile. So the shape tells you whether swings hurt or help. Take two years with the same average shock. A wild year leaves a concave payoff worse off than a steady year, and a convex payoff better off. This is called Jensen's inequality: the average of the outcomes is not the outcome of the average.
 
 The sorting matters because it changes the question you ask. Most planning tries to forecast the next shock and prepare for it. Taleb argues that in a fat-tailed world the forecast will often be wrong, so you should look at the shape of your exposure instead. Ask what happens to you if things go very badly or very well. If a big surprise would ruin you, you are fragile no matter how good the forecast is. Cutting that exposure is safer than sharpening the prediction.
 
-This framework feeds the [Spread vs single bet](../axes/spread-vs-single-bet.md), [Survivable vs ruinous](../axes/survivable-vs-ruinous.md) and [Thin vs fat tails](../axes/thin-vs-fat-tails.md) axes.
+This framework feeds the [Antifragile vs wears out](../axes/antifragile-vs-wears-out.md), [Self-righting vs tipping](../axes/self-righting-vs-tipping.md), [Spread vs single bet](../axes/spread-vs-single-bet.md), [Survivable vs ruinous](../axes/survivable-vs-ruinous.md) and [Thin vs fat tails](../axes/thin-vs-fat-tails.md) axes.
 
 ## Examples
 

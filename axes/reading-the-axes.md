@@ -7,7 +7,7 @@ description: How the axes are grouped, what the correlation labels mean and what
 
 Each axis is a scale with two ends, and any problem sits somewhere along it. They fall into three groups. The first is about the world you act on. The second is about what you can know about it. The third is about the decision itself, what it needs and what it costs to get wrong. Each group splits into a few smaller sets of axes that ask about the same thing.
 
-The Correlated with list under each axis names the other axes it tends to move with. On every axis the first end is the easy one and the second is the hard one. So "correlated" means a problem near the hard end of one axis tends to sit near the hard end of the other. A few entries say "opposite" when the hard end of one goes with the easy end of the other. "Tension" marks two hard ends that clash when they meet, and "independent" marks two axes that look linked but aren't.
+The Correlated with list under each axis names the other axes it tends to move with. On every axis the first end is the easy one and the second is the hard one. A few axes also name their middle, when it is a case of its own. A Word document is neither self-righting nor tipping. It stays wherever you push it. So "correlated" means a problem near the hard end of one axis tends to sit near the hard end of the other. A few entries say "opposite" when the hard end of one goes with the easy end of the other. "Tension" marks two hard ends that clash when they meet, and "independent" marks two axes that look linked but aren't.
 
 Each entry also says where the link comes from. "By definition" means one axis is partly built into the other, so tagging both may count the same thing twice. "Bundled" means a framework puts both under one label. "Study" means there is evidence or a worked case showing them together. "Logic" means it follows from what the two axes mean.
 
@@ -18,7 +18,8 @@ Under each axis, the actions say what to do differently at each end, with the ea
 - [The world](index.md#the-world). These describe the system, whoever is looking at it.
   - [Randomness](index.md#randomness): what the spread of outcomes looks like.
   - [Change](index.md#change): how the result moves when the inputs or the times move.
-  - [Response](index.md#response): whether the world reacts to what you do.
+  - [Stimulus](index.md#stimulus): what a push does to the system, whether it comes from you or from outside.
+  - [Response](index.md#response): whether the world notices your model and reacts to it.
   - [Structure](index.md#structure): how the parts fit together.
 - [The knower](index.md#the-knower). These describe what you can find out. The same problem can sit at different points for different people.
   - [Uncertainty](index.md#uncertainty): what kind of doubt you face.

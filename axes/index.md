@@ -34,6 +34,20 @@
   * **Still world**: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword).
   * **Moving world**: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).
 
+## Stimulus
+
+* [Self-righting vs tipping](self-righting-vs-tipping.md)
+  * **Self-righting**: after a push the system goes back to where it was, like a ball in a bowl (e.g. body temperature).
+  * **Malleable** (the middle): the system stays wherever it is pushed, like a ball on a flat table (e.g. a Word document).
+  * **Tipping point**: past some push the system flips into a new state and stays there, like a ball on a hilltop (e.g. a clear lake turning murky).
+* [Antifragile vs wears out](antifragile-vs-wears-out.md)
+  * **Antifragile**: each stress leaves the system stronger than before, up to a point (e.g. a muscle after a workout).
+  * **Robust** (the middle): stress leaves the system the same (e.g. a computer program, which is the same after a billion runs).
+  * **Wears out**: each stress uses up some of the system's life, until it fails (e.g. metal fatigue in an aircraft).
+* [Loose vs tight coupling](loose-vs-tight-coupling.md)
+  * **Loose coupling**: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest).
+  * **Tight coupling**: a fault spreads to other parts before anyone can react (e.g. a power grid).
+
 ## Response
 
 * [Inert vs reflexive](inert-vs-reflexive.md)
@@ -48,9 +62,6 @@
 * [Decomposable vs tangled](decomposable-vs-tangled.md)
   * **Decomposable**: you can solve each part on its own and put them back together (e.g. a car engine).
   * **Tangled**: each part only makes sense in light of the others (e.g. a company culture).
-* [Loose vs tight coupling](loose-vs-tight-coupling.md)
-  * **Loose coupling**: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest).
-  * **Tight coupling**: a fault spreads to other parts before anyone can react (e.g. a power grid).
 * [Tractable vs intractable search](tractable-vs-intractable-search.md)
   * **Tractable search**: you know every option and there are few enough to check them all (e.g. noughts and crosses).
   * **Intractable search**: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions).

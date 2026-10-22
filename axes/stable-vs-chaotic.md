@@ -41,6 +41,7 @@ How far ahead a forecast stays useful is called the predictability horizon. It i
 - [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). Chaos pulls runs that start almost alike far apart, so past the horizon the runs disagree and their average describes none of them.
 - [Stationary vs drifting](stationary-vs-drifting.md) (independent). Both make forecasts go bad with time, and both sound like the world being unsteady, so they get mixed up. Chaos means small errors grow while the rules stay fixed. Drift means the rules themselves change. Weather is chaotic, yet the physics behind it never moves. Slang drifts, but nothing about it is chaotic.
 - [Still vs moving](still-vs-moving.md) (independent). A ball in flight follows simple physics and is easy to predict, yet it won't wait while you work out where it will land.
+- [Self-righting vs tipping](self-righting-vs-tipping.md) (independent). Both are about small pushes growing, but in different ways. Chaos means small differences grow all the time. A tipping point means a system that holds steady until one threshold and then jumps. Day to day weather is chaotic, yet global temperature came back within a few years of the 1991 Pinatubo eruption cooling it. A shallow lake is easy to forecast on either side of its threshold and still tips.
 
 ## Citations
 
