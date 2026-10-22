@@ -2,7 +2,7 @@
 type: Framework
 title: Portfolio selection
 description: >-
-  The risk of a portfolio depends on how its parts move together, not just on how risky each one is. Spreading your stake only cuts risk when the bets don't all fail at once. Bets that rise and fall together are one bet in disguise.
+  The risk of a portfolio depends on how its parts move together, as well as on how risky each one is. Spreading your stake only cuts risk when the bets don't all fail at once. Bets that rise and fall together are one bet in disguise.
 date: 1952
 creators:
   - Harry Markowitz
@@ -22,7 +22,7 @@ This framework feeds the [Diversifiable vs single bet](../axes/diversifiable-vs-
 
 ## Examples
 
-**The 1/N portfolio.** Markowitz gave a formula for the best mix of shares, but it needs good estimates of how every pair moves together, and those are hard to get. In 2009 a study found that splitting money equally across N assets beat 14 optimising models, including his ([Ecological rationality](1999-ecological-rationality.md)). Markowitz later told a reporter that he split his own retirement money half and half between shares and bonds, so he would regret it less whichever way markets went.
+**The 1/N portfolio.** Markowitz gave a formula for the best mix of shares, but it needs good estimates of how every pair moves together, and those are hard to get. In 2009 a study pitted 14 optimising models, including his, against splitting money equally across N assets. None was consistently better than the equal split ([Ecological rationality](1999-ecological-rationality.md)). Markowitz later told a reporter that he split his own retirement money half and half between shares and bonds, so he would regret it less whichever way markets went.
 
 **Mortgage bonds in 2008.** Banks bundled thousands of American home loans into bonds and sold slices of them rated as safe as government debt. The ratings assumed that homeowners in different states would rarely stop paying at the same time. When house prices fell across the whole country at once, the loans failed together. The bonds looked spread across thousands of bets, but they were close to one bet on American house prices.
 
