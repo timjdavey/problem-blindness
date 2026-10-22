@@ -35,16 +35,16 @@ When results vary, do they stay close to the average, or can one extreme case ou
 
 ## Correlated with
 
-- [Deterministic vs statistical](deterministic-vs-statistical.md) (by definition). This axis sits inside that one. It only applies near the statistical end, because a deterministic problem has no spread to have tails.
+- [Deterministic vs stochastic](deterministic-vs-stochastic.md) (by definition). This axis sits inside that one. It only applies near the statistical end, because a deterministic problem has no spread to have tails.
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (bundled). The [Fourth quadrant](../frameworks/2008-fourth-quadrant.md) and [Ergodicity](../frameworks/2016-ergodicity.md) both warn that one extreme outcome can end the game.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). The events that matter most in a fat tailed world are rare, so your record holds few of them or none. But card fraud is fat tailed and still has millions of cases. Fat tails make the cases that matter rare, not the data overall.
 - [Risk vs Knightian uncertainty](risk-vs-knightian-uncertainty.md) (logic). Tail odds can't be read off a calm past, which is how banks in 2008 came to treat [uncertainty as risk](../frameworks/1921-risk-vs-uncertainty.md).
 - [Loose vs tight coupling](loose-vs-tight-coupling.md) (study). In [Normal accidents](../frameworks/1984-normal-accidents.md) small faults cascade through a tight system into huge losses.
 - [Inert vs reflexive](inert-vs-reflexive.md) (study). [Reflexivity](../frameworks/1987-reflexivity.md) and the [bank run](../frameworks/1948-self-fulfilling-prophecy.md) show beliefs and facts feeding each other into booms and crashes. A loop doesn't need a forecast to do this. Each case of a disease makes more cases, so a few epidemics dwarf all the rest.
-- [Additive vs multiplicative](additive-vs-multiplicative.md) (logic). Compounding piles the gains on a lucky few. In Peters' coin game the crowd's average keeps rising only because a handful of players get vastly rich ([Ergodicity](../frameworks/2016-ergodicity.md)).
+- [Additive vs multiplicative returns](additive-vs-multiplicative-returns.md) (logic). Compounding piles the gains on a lucky few. In Peters' coin game the crowd's average keeps rising only because a handful of players get vastly rich ([Ergodicity](../frameworks/2016-ergodicity.md)).
 - [Small vs large world](small-vs-large-world.md) (logic). The worst outcomes are often ones nobody listed, which is what Taleb means by a black swan.
-- [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). With fat tails one extreme case can dominate a run, so two runs of the same system can look very different. But thin tails don't make a system coherent. Each climate model run has thin tails, yet the runs still split into a warm group and a cold one.
-- [Spread vs single bet](spread-vs-single-bet.md) (logic). When a few wild bets carry most of the upside, you need to be able to back several. A barbell keeps most of the stake safe and puts a small slice on them ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
+- [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (logic). With fat tails one extreme case can dominate a run, so two runs of the same system can look very different. But thin tails don't make a system coherent. Each climate model run has thin tails, yet the runs still split into a warm group and a cold one.
+- [Diversifiable vs single bet](diversifiable-vs-single-bet.md) (logic). When a few wild bets carry most of the upside, you need to be able to back several. A barbell keeps most of the stake safe and puts a small slice on them ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
 - [Antifragile vs wears out](antifragile-vs-wears-out.md) (logic). When the tails are fat, an exposure that gains from wild swings is worth more than one that only survives them. That is the idea behind the barbell ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
 
 ## Citations

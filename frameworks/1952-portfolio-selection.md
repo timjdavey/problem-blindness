@@ -18,7 +18,7 @@ Before Markowitz, investors judged each share on its own and bought the best one
 
 The mistake is to count bets instead of checking how far they are independent. A hundred loans to people in one town are close to one loan, because one factory closing hits them all. Spreading only works when the bets can fail on their own. The better response is to ask what would make your bets fail at once, and to spread across things that don't share it.
 
-This framework feeds the [Spread vs single bet](../axes/spread-vs-single-bet.md) axis.
+This framework feeds the [Diversifiable vs single bet](../axes/diversifiable-vs-single-bet.md) axis.
 
 ## Examples
 

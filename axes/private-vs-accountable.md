@@ -40,7 +40,7 @@ Is the choice yours alone, or must you explain and defend it to others, such as 
 - [Direct vs proxy measure](direct-vs-proxy-measure.md) (bundled). Doshi-Velez and Kim say people need explanations when part of the goal, like fairness, safety or the law, never made it into the score ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)).
 - [Single objective vs trade-offs](single-objective-vs-trade-offs.md) (study). In Tetlock's hospital study, a manager who spent money on equipment instead of a child's transplant after long thought drew the most outrage of any version ([Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)). Even weighing a sacred value in public counts against you.
 - [Skin in the game vs none](skin-in-the-game-vs-none.md) (independent). Accountable means you must explain the choice, while skin in the game means you pay for it. A judge gives reasons and loses nothing if wrong. A gambler pays for every bad bet and explains nothing.
-- [Winnable vs damage limitation](winnable-vs-damage-limitation.md) (logic). Anyone who must defend a no-win choice will be judged by the loss. A record of what was known at the time is the main defence against [outcome bias](../frameworks/1988-outcome-bias.md).
+- [Winnable vs no-win](winnable-vs-no-win.md) (logic). Anyone who must defend a no-win choice will be judged by the loss. A record of what was known at the time is the main defence against [outcome bias](../frameworks/1988-outcome-bias.md).
 
 ## Citations
 

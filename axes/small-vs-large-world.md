@@ -41,8 +41,8 @@ Is there a fixed procedure that generates every way things might turn out, so yo
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). Small means a procedure generates the outcomes, not that there are few of them. Go is a small world, since the rules fix every position, and still far too big to search. Picking between two job offers is a large world with only two options to check.
 - [Stationary vs drifting](stationary-vs-drifting.md) (logic). A drifting world keeps adding states nobody listed.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). The worst outcomes are often the ones nobody listed, which is what Taleb means by a black swan ([Mediocristan vs Extremistan](../frameworks/2007-mediocristan-vs-extremistan.md)).
-- [Choose vs design the options](choose-vs-design-the-options.md) (bundled). Savage's small world fixes the list of actions as well as the list of states. In a large world you often have to invent the options too.
-- [Clustered vs scattered](clustered-vs-scattered.md) (logic). Clear groups let you list the ways things might turn out. Scattered runs leave outcomes nobody thought to list.
+- [Given vs invented options](given-vs-invented-options.md) (bundled). Savage's small world fixes the list of actions as well as the list of states. In a large world you often have to invent the options too.
+- [Clustered vs scattered runs](clustered-vs-scattered-runs.md) (logic). Clear groups let you list the ways things might turn out. Scattered runs leave outcomes nobody thought to list.
 
 ## Citations
 

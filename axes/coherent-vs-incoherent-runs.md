@@ -1,6 +1,6 @@
 ---
 type: Axis
-title: Coherent vs incoherent
+title: Coherent vs incoherent runs
 description: "Coherent runs: every run of the system gives the same spread of results, so the pooled average stands for any run (e.g. a die). Incoherent runs: each run settles somewhere different, so the pooled average describes none of them (e.g. climate model runs that split into warm and cold futures)."
 group: world
 subgroup: randomness
@@ -14,7 +14,7 @@ sources:
   - resource: /frameworks/2024-incoherence.md
     title: Incoherence
 ---
-# Coherent vs incoherent
+# Coherent vs incoherent runs
 
 An axis in the [Randomness](index.md#randomness) set of the [world](index.md#the-world) group.
 
@@ -36,13 +36,13 @@ This is a test of the runs, not of one spread. A trip with a tight train connect
 
 ## Correlated with
 
-- [Deterministic vs statistical](deterministic-vs-statistical.md) (by definition). A deterministic problem gives the same result every run, so it is always coherent. But statistical doesn't mean incoherent. A die varies roll to roll, yet every thousand rolls look alike.
+- [Deterministic vs stochastic](deterministic-vs-stochastic.md) (by definition). A deterministic problem gives the same result every run, so it is always coherent. But statistical doesn't mean incoherent. A die varies roll to roll, yet every thousand rolls look alike.
 - [Stable vs chaotic](stable-vs-chaotic.md) (logic). Chaos pulls runs that start almost alike far apart. Weather forecasters run the same model many times and read the spread, because no single run can be trusted ([Sensitive dependence](../frameworks/1963-sensitive-dependence-chaos.md)).
 - [Smooth vs rugged](smooth-vs-rugged.md) (logic). On a rugged landscape each run stalls on whichever peak is nearest, so runs settle in different places.
-- [Additive vs multiplicative](additive-vs-multiplicative.md) (logic). Compounding splits paths apart, so the crowd's average describes almost nobody. That is incoherence across players over time.
+- [Additive vs multiplicative returns](additive-vs-multiplicative-returns.md) (logic). Compounding splits paths apart, so the crowd's average describes almost nobody. That is incoherence across players over time.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). With fat tails one extreme case can dominate a run, so two runs of the same system can look very different. But thin tails don't make a system coherent. Each climate run has thin tails, yet the runs still split into a warm group and a cold one.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). Pooling incoherent runs gives a lot of data that describes none of them. Raising a child is complex because success with one is no guide to the next ([Simple, complicated and complex](../frameworks/2002-simple-complicated-and-complex.md)).
-- [Clustered vs scattered](clustered-vs-scattered.md) (by definition). Once the average stops standing for a typical outcome, the next question is whether the outcomes fall into a few clear groups. That axis only applies at the incoherent end.
+- [Clustered vs scattered runs](clustered-vs-scattered-runs.md) (by definition). Once the average stops standing for a typical outcome, the next question is whether the outcomes fall into a few clear groups. That axis only applies at the incoherent end.
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). It is the same trap on the answer side. Good answers that differ in kind blend into one nobody would choose, just as runs that split into groups average to a result none of them produced.
 - [Self-righting vs tipping](self-righting-vs-tipping.md) (logic). A system with two stable states sends runs that start close together to different places, so the average of the runs describes neither.
 

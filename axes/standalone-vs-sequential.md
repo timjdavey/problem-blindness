@@ -20,7 +20,7 @@ An axis in the [Options](index.md#options) set of the [decision](index.md#the-de
 
 Does each choice stand alone, or does it shape the ones that follow? Checking invoices for fraud is standalone. Flagging one invoice doesn't change the next, so each can be judged on its own. Treating a long illness is sequential. Each drug changes what the next one does, and it's hard to tell which early move caused the final result. Russell and Norvig call the first kind episodic ([Task environment properties](../frameworks/1995-task-environment-properties.md)).
 
-Standalone doesn't mean one-shot. A single choice you can't repeat or take back is the hard end of [Reversible vs irreversible](reversible-vs-irreversible.md) and [Spread vs single bet](spread-vs-single-bet.md). This axis only asks whether your choices change each other.
+Standalone doesn't mean one-shot. A single choice you can't repeat or take back is the hard end of [Reversible vs irreversible](reversible-vs-irreversible.md) and [Diversifiable vs single bet](diversifiable-vs-single-bet.md). This axis only asks whether your choices change each other.
 
 ## Actions
 
@@ -40,11 +40,11 @@ Standalone doesn't mean one-shot. A single choice you can't repeat or take back 
 
 - [Transparent vs opaque causes](transparent-vs-opaque-causes.md) and [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md) (study). In Senge's [beer game](../frameworks/1990-detail-vs-dynamic-complexity.md) delays between moves and results hide which move caused what.
 - [Reversible vs irreversible](reversible-vs-irreversible.md) (independent). Standalone choices can each be final, like a stream of loans where each one is gone once paid out. A chain of edits to a document is sequential, yet every step can be undone. Watch the name clash. [Rittel and Webber](../frameworks/1973-tame-vs-wicked-problems.md) call each try at a wicked problem a "one-shot operation", but they mean it can't be undone. That belongs on the reversible axis, not this one.
-- [Additive vs multiplicative](additive-vs-multiplicative.md) (by definition). Compounding is a sequential problem, since each bet's result sets the stake for the next. Bet the same fixed sum each round and the rounds stand alone, so the crowd's average is a fair guide ([Ergodicity](../frameworks/2016-ergodicity.md)).
+- [Additive vs multiplicative returns](additive-vs-multiplicative-returns.md) (by definition). Compounding is a sequential problem, since each bet's result sets the stake for the next. Bet the same fixed sum each round and the rounds stand alone, so the crowd's average is a fair guide ([Ergodicity](../frameworks/2016-ergodicity.md)).
 - [Direct vs proxy measure](direct-vs-proxy-measure.md) (logic). Each step can show you a want the goal left out, so over a chain of choices the goal itself can move ([Single vs double-loop learning](../frameworks/1978-single-vs-double-loop-learning.md)).
-- [Spread vs single bet](spread-vs-single-bet.md) (independent). That axis asks whether you can back several options at once. This one asks whether each choice shapes the next. A [bandit](../frameworks/1933-multi-armed-bandit.md) makes one pull at a time and each pull shapes what it tries next, while a fund can back a hundred shares and treat each as its own call.
-- [Finite vs ongoing](finite-vs-ongoing.md) (logic). Each round of work on an ongoing problem starts from where the last one left things. But a chain of choices can still end, as treating a long illness does when the patient is well.
-- [Still vs moving](still-vs-moving.md) (logic). Here your own choices change what comes next. In a moving world things change even if you do nothing. Chess by post is a long chain of choices, and the board still waits for you.
+- [Diversifiable vs single bet](diversifiable-vs-single-bet.md) (independent). That axis asks whether you can back several options at once. This one asks whether each choice shapes the next. A [bandit](../frameworks/1933-multi-armed-bandit.md) makes one pull at a time and each pull shapes what it tries next, while a fund can back a hundred shares and treat each as its own call.
+- [Curable vs chronic](curable-vs-chronic.md) (logic). Each round of work on an ongoing problem starts from where the last one left things. But a chain of choices can still end, as treating a long illness does when the patient is well.
+- [Static vs dynamic](static-vs-dynamic.md) (logic). Here your own choices change what comes next. In a dynamic world things change even if you do nothing. Chess by post is a long chain of choices, and the board still waits for you.
 
 ## Citations
 

@@ -1,10 +1,10 @@
 ---
 type: Axis
 title: Risk vs Knightian uncertainty
-description: "Risk: you can put a number you trust on each outcome (e.g. a dice roll). Knightian uncertainty: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off)."
+description: "Measurable risk: you can put a number you trust on each outcome (e.g. a dice roll). Knightian uncertainty: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off)."
 group: knower
 subgroup: uncertainty
-easy_end: Risk
+easy_end: Measurable risk
 hard_end: Knightian uncertainty
 sources:
   - resource: /frameworks/1921-risk-vs-uncertainty.md
@@ -32,7 +32,7 @@ Can you put a number you trust on how likely each outcome is, or do you only kno
 
 ## Actions
 
-**Risk**: Compute and optimise.
+**Measurable risk**: Compute and optimise.
 - Use expected value as the test. With odds you trust, the best choice is the one that does best on average.
 - Let a calibrated model make the call. Its probabilities mean what they say.
 

@@ -1,11 +1,11 @@
 ---
 type: Axis
-title: Deterministic vs statistical
-description: "Deterministic: the same inputs always give exactly the same output (e.g. a sum). Statistical: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter)."
+title: Deterministic vs stochastic
+description: "Deterministic: the same inputs always give exactly the same output (e.g. a sum). Stochastic: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter)."
 group: world
 subgroup: randomness
 easy_end: Deterministic
-hard_end: Statistical
+hard_end: Stochastic
 sources:
   - resource: /frameworks/1948-simplicity-disorganised-and-organised-complexity.md
     title: Simplicity, disorganised complexity and organised complexity
@@ -16,7 +16,7 @@ sources:
   - resource: /frameworks/2001-kind-vs-wicked-learning-environments.md
     title: Kind vs wicked learning environments
 ---
-# Deterministic vs statistical
+# Deterministic vs stochastic
 
 An axis in the [Randomness](index.md#randomness) set of the [world](index.md#the-world) group.
 
@@ -31,7 +31,7 @@ A statistical world grades you with noise. A fund manager can beat the market fi
 - Use the model to draft the rule or the code, then check that against tests. The tests decide if it ships, not the model.
 - Test for exact output. The same input should give the same answer every run, so any variation is a fault to fix.
 
-**Statistical**: Judge the spread, not single cases.
+**Stochastic**: Judge the spread, not single cases.
 - Evaluate on a large held-out set. A few good examples tell you nothing when any one case can go either way.
 - Report error rates and calibration. Calibration means that when the model says 70%, it is right about 70% of the time.
 - Decide as a policy over many cases. Ask what rule gives the best results across the whole group, not what suits this one.
@@ -42,7 +42,7 @@ A statistical world grades you with noise. A fund manager can beat the market fi
 - [Stable vs chaotic](stable-vs-chaotic.md) (bundled). [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md) puts chance and unpredictability at the same cloud end, though chaos shows a fully deterministic system can still have a short horizon.
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (logic). Pure chance is one kind of doubt that no new data can shrink. But Russell and Norvig note that a deterministic world you can only half see looks random to you ([Task environment properties](../frameworks/1995-task-environment-properties.md)). So doubt that looks like chance may be a hidden fact you could find.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (by definition). The tails axis only applies once a problem is statistical. A deterministic problem has no spread of results, so it has no tails to speak of.
-- [Coherent vs incoherent](coherent-vs-incoherent.md) (by definition). A deterministic problem gives the same result every run, so it is always coherent. But a statistical one can be coherent too. A die varies roll to roll, yet every thousand rolls look alike.
+- [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (by definition). A deterministic problem gives the same result every run, so it is always coherent. But a statistical one can be coherent too. A die varies roll to roll, yet every thousand rolls look alike.
 
 ## Citations
 

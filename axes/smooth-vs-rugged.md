@@ -43,11 +43,11 @@ Two things follow on rugged ground. Rules of thumb stop working, because being c
 - [Decomposable vs tangled](decomposable-vs-tangled.md) (study). In Kauffman's NK model ([Rugged fitness landscapes](../frameworks/1987-rugged-fitness-landscapes.md)) the land gets more rugged as each part depends on more of the others. If every part adds to the score on its own, there is only one peak.
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (study). Stepping downhill on rugged land stops at a false bottom ([Convex vs non-convex optimisation](../frameworks/1970-convex-vs-non-convex-optimisation.md)). Edward Weinberger proved in 1996 that finding the top of a general NK landscape is NP-complete.
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). Needing the best answer on rugged land is the worst case, because small steps stop on the nearest peak. On a [flat maximum](../frameworks/1973-flat-maximum.md) the clash goes away, since good enough is nearly as good as best.
-- [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). On a rugged landscape each run stalls on whichever peak is nearest, so runs that start in different places settle in different places.
+- [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (logic). On a rugged landscape each run stalls on whichever peak is nearest, so runs that start in different places settle in different places.
 - [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (logic). On smooth ground a quick look tells you if an answer is close to good. On rugged ground looking close proves nothing, so you need a check that tests every detail.
 - [Stable vs chaotic](stable-vs-chaotic.md) (independent). Both are about small differences growing large, but in different places. The horizon is about errors growing over time as a system runs. Rugged is about a small change to an answer making a big change to how good it is, at one fixed moment. A rugged design problem can give each design a fixed score that never drifts.
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). Good answers that differ in kind are separate peaks, and the ground between them is a valley.
-- [Clustered vs scattered](clustered-vs-scattered.md) (logic). A rugged landscape with a few big peaks gives one cluster per peak, as runs stall on whichever is nearest.
+- [Clustered vs scattered runs](clustered-vs-scattered-runs.md) (logic). A rugged landscape with a few big peaks gives one cluster per peak, as runs stall on whichever is nearest.
 
 ## Citations
 

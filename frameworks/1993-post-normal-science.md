@@ -19,7 +19,7 @@ They sorted problems on two traits: how uncertain the system is and how much rid
 
 The error is to treat a post-normal question as a normal one. Experts are asked for the answer, give a confident one and present value choices as if they were facts. When the answer turns out wrong, or the public sees the values hidden inside it, trust in science itself takes the blow. The better response is to say plainly where the facts end and the value choices begin, and to bring the people affected into judging the answer.
 
-This framework feeds the [Shared vs contested values](../axes/shared-vs-contested-values.md) and [Slack vs time pressure](../axes/slack-vs-time-pressure.md) axes.
+This framework feeds the [Shared vs contested values](../axes/shared-vs-contested-values.md) and [Ample time vs time pressure](../axes/ample-time-vs-time-pressure.md) axes.
 
 ## Examples
 

@@ -22,7 +22,7 @@ The mistake is to judge a repeated, compounding bet by its expected value. You l
 
 Popular writing often stretches "non-ergodic" to mean any risk of ruin, but that is a different trait, covered by [Survivable vs ruinous](../axes/survivable-vs-ruinous.md). The better response is to ask what happens to one player who keeps playing. That means looking at the growth rate over time, and staking only a share of what you have each round.
 
-This framework feeds the [Additive vs multiplicative](../axes/additive-vs-multiplicative.md) and [Survivable vs ruinous](../axes/survivable-vs-ruinous.md) axes.
+This framework feeds the [Additive vs multiplicative returns](../axes/additive-vs-multiplicative-returns.md) and [Survivable vs ruinous](../axes/survivable-vs-ruinous.md) axes.
 
 ## Examples
 

@@ -47,8 +47,8 @@ The same gap can open between practice and the real task. Robin Hogarth, Tomás 
 - [Small vs large world](small-vs-large-world.md) (logic). A drifting world keeps adding states nobody listed.
 - [General vs local knowledge](general-vs-local-knowledge.md) (logic). Hayek's point was that local circumstances change every day ([Use of knowledge in society](../frameworks/1945-use-of-knowledge-in-society.md)).
 - [Stable vs chaotic](stable-vs-chaotic.md) (independent). Both make forecasts go bad with time, so they get mixed up. Chaos means small errors grow while the rules stay fixed. Drift means the rules themselves change. Weather is chaotic, yet the physics behind it never moves. Slang drifts, but nothing about it is chaotic.
-- [Finite vs ongoing](finite-vs-ongoing.md) (logic). A drifting world is one reason a problem never ends, since every answer goes stale. But weeds grow back in a garden where nothing has changed.
-- [Still vs moving](still-vs-moving.md) (independent). Drift makes what you learnt go stale over months. A moving world makes what you saw go stale within one task. The rules of tennis haven't drifted in decades, yet every rally moves.
+- [Curable vs chronic](curable-vs-chronic.md) (logic). A drifting world is one reason a problem never ends, since every answer goes stale. But weeds grow back in a garden where nothing has changed.
+- [Static vs dynamic](static-vs-dynamic.md) (independent). Drift makes what you learnt go stale over months. A dynamic world makes what you saw go stale within one task. The rules of tennis haven't drifted in decades, yet every rally moves.
 - [Self-righting vs tipping](self-righting-vs-tipping.md) (independent). In drift the rules slowly change. In a tip the rules stay fixed and the state jumps. Slang drifts with no tipping point, and a shallow lake tips while its chemistry stays the same.
 - [Antifragile vs wears out](antifragile-vs-wears-out.md) (independent). Drift happens on its own, while wear and growth are caused by stress. A muscle you stop using shrinks, which looks like drift, but the cause is the missing load.
 

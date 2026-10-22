@@ -18,7 +18,7 @@ Think of a goalkeeper. Each kind of shot needs a different save. A keeper who on
 
 This is the law of the instrument seen from the controller's side. A person with one hammer has a variety of one. Faced with many problem shapes, they either bend every case to fit the hammer or let the misfits fail. The mistake is to judge a tool by how well it does on the cases it suits and ignore the cases it doesn't. The better response comes in two forms. You can add variety to the response, with more tools, people trained in different ways or more freedom for those close to the problem. Or you can cut the variety you face, by narrowing the job or splitting it so each part sees fewer kinds of case.
 
-This framework feeds the [Clustered vs scattered](../axes/clustered-vs-scattered.md) axis.
+This framework feeds the [Clustered vs scattered runs](../axes/clustered-vs-scattered-runs.md) axis.
 
 ## Examples
 

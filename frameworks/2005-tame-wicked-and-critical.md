@@ -18,7 +18,7 @@ Each style rests on a different kind of power. Command uses force or the threat 
 
 Grint's sharpest point is that these labels are chosen, not found. A leader who likes giving orders has every reason to call a problem a crisis. A manager who likes process will call a wicked problem tame and launch another target. The label then justifies the style, and the problem gets the wrong treatment. So when someone tells you what kind of problem you face, ask what that label lets them do.
 
-This framework feeds the [Finite vs ongoing](../axes/finite-vs-ongoing.md), [Slack vs time pressure](../axes/slack-vs-time-pressure.md) and [Winnable vs damage limitation](../axes/winnable-vs-damage-limitation.md) axes.
+This framework feeds the [Curable vs chronic](../axes/curable-vs-chronic.md), [Ample time vs time pressure](../axes/ample-time-vs-time-pressure.md) and [Winnable vs no-win](../axes/winnable-vs-no-win.md) axes.
 
 ## Examples
 

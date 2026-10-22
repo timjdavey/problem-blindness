@@ -1,6 +1,6 @@
 ---
 type: Axis
-title: Clustered vs scattered
+title: Clustered vs scattered runs
 description: "Clustered runs: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars). Scattered runs: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks)."
 group: world
 subgroup: randomness
@@ -16,7 +16,7 @@ sources:
   - resource: /frameworks/2023-cohesion.md
     title: Cohesion
 ---
-# Clustered vs scattered
+# Clustered vs scattered runs
 
 An axis in the [Randomness](index.md#randomness) set of the [world](index.md#the-world) group.
 
@@ -37,7 +37,7 @@ When runs disagree, do they fall into a few clear groups, so a few clues can tel
 
 ## Correlated with
 
-- [Coherent vs incoherent](coherent-vs-incoherent.md) (by definition). This axis only applies once runs disagree. In a coherent system every run draws from the same spread, so there are no groups to sort.
+- [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (by definition). This axis only applies once runs disagree. In a coherent system every run draws from the same spread, so there are no groups to sort.
 - [Small vs large world](small-vs-large-world.md) (logic). Clear groups let you list the ways things might turn out. Scattered runs leave outcomes nobody thought to list.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). With clear groups a few readings can rule a whole group out, so a little data goes a long way ([Cohesion](../frameworks/2023-cohesion.md)).
 - [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md) (logic). Clear groups give early signs of which path you are on. Scattered runs give signs that point nowhere in particular.

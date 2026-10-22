@@ -18,7 +18,7 @@ Keeney called the usual habit alternative-focused thinking. A problem turns up, 
 
 The mistake is to take the menu as given. You pick the least bad of what is on the table and never notice you could have built something else. The better response is to write down what you want, and why, before you compare anything. For each thing you want, ask which option would do best on that alone. Then try to build one that does well on several at once. Keep the old way for choices where the options truly are fixed, like a ballot paper.
 
-This framework feeds the [Choose vs design the options](../axes/choose-vs-design-the-options.md) axis.
+This framework feeds the [Given vs invented options](../axes/given-vs-invented-options.md) axis.
 
 ## Examples
 

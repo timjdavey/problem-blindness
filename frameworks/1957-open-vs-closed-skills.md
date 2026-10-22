@@ -20,7 +20,7 @@ The mistake is to train or judge an open skill as if it were closed. A player wh
 
 The motor learning researcher Ann Gentile later turned the split into a grid. She asked two questions about the setting. Is it still or moving while you act? And does it change from one attempt to the next? A billiards shot is still while you play it, but each shot starts from a different place on the table. That second question picks out skills that look closed but still need varied practice.
 
-This framework feeds the [Still vs moving](../axes/still-vs-moving.md) axis.
+This framework feeds the [Static vs dynamic](../axes/static-vs-dynamic.md) axis.
 
 ## Examples
 

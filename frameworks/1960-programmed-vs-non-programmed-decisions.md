@@ -18,7 +18,7 @@ He sorted decisions by how often they come round in the same form. Some repeat a
 
 The mistake runs both ways. Write a procedure for a decision that isn't routine and it will be confidently wrong on every case it didn't foresee. Treat a routine decision as special each time and you waste judgement and get different answers to the same question. Simon and James March had also warned in 1958 that daily routine drives out planning. The better response is to ask two questions. How often does this decision come round in the same form, and how costly is a wrong call? Programme what truly repeats and keep people on what doesn't.
 
-This framework feeds the [Choose vs design the options](../axes/choose-vs-design-the-options.md) and [Familiar vs novel to the solver](../axes/familiar-vs-novel-to-the-solver.md) axes.
+This framework feeds the [Given vs invented options](../axes/given-vs-invented-options.md) and [Familiar vs novel to the solver](../axes/familiar-vs-novel-to-the-solver.md) axes.
 
 ## Examples
 

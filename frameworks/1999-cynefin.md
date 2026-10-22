@@ -20,7 +20,7 @@ The trait it sorts on is how cause and effect relate. In a clear situation they 
 
 Snowden's warning is that people pick the domain they are used to, not the one they are in. Experts see every problem as complicated and reach for analysis. Managers want everything to be clear and reach for process. Treat a complex problem as complicated and you write a perfect plan for a world that won't stand still. The better response is to work out which domain you are in before you pick a method, and to expect parts of one problem to sit in different domains.
 
-This framework feeds the [Slack vs time pressure](../axes/slack-vs-time-pressure.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
+This framework feeds the [Ample time vs time pressure](../axes/ample-time-vs-time-pressure.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
 
 ## Examples
 

@@ -43,7 +43,7 @@ Watching is worse still when you only see how your own choices turned out. A hir
 - [Transparent vs opaque causes](transparent-vs-opaque-causes.md) (logic). A fair test is how you find a cause you can't trace. If you can only watch, you have to write down what you think causes what and hope the model is right.
 - [Reversible vs irreversible](reversible-vs-irreversible.md) (logic). You can't run a fair test of a one way door, because there is no going back to try the other side.
 - [Inert vs reflexive](inert-vs-reflexive.md) (study). The [Lucas critique](../frameworks/1976-lucas-critique.md) is a warning about answering a question on stepping in with data from watching. The Phillips curve held while nobody leaned on it and broke once policy did.
-- [Spread vs single bet](spread-vs-single-bet.md) (logic). A fair test needs you to do more than one thing at once. With only one economy there is no control group. But a portfolio spreads without testing anything.
+- [Diversifiable vs single bet](diversifiable-vs-single-bet.md) (logic). A fair test needs you to do more than one thing at once. With only one economy there is no control group. But a portfolio spreads without testing anything.
 
 ## Citations
 

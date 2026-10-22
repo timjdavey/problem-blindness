@@ -21,7 +21,7 @@ Later work found the same logic built into living things. In 2000 Martie Haselto
 
 The mistake is to judge a test or a person by how often they are right. When one error costs far more than the other, the most accurate rule can be the wrong one. A smoke alarm that never sounds is right on almost every day of the year, and it is useless. The better response is to ask two questions in turn. First, how well can you tell the cases apart? Then, what does each kind of error cost? Set the bar from those costs and from how common the real thing is.
 
-This framework feeds the [Even vs lopsided errors](../axes/even-vs-lopsided-errors.md) axis.
+This framework feeds the [Even vs lopsided mistakes](../axes/even-vs-lopsided-mistakes.md) axis.
 
 ## Examples
 

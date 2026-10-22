@@ -1,10 +1,10 @@
 ---
 type: Axis
-title: Spread vs single bet
-description: "Spread bets: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares). Single bet: you can only take one course of action, so everything rides on it (e.g. which job offer to accept)."
+title: Diversifiable vs single bet
+description: "Diversifiable: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares). Single bet: you can only take one course of action, so everything rides on it (e.g. which job offer to accept)."
 group: decision
 subgroup: stakes
-easy_end: Spread bets
+easy_end: Diversifiable
 hard_end: Single bet
 sources:
   - resource: /frameworks/1952-portfolio-selection.md
@@ -14,7 +14,7 @@ sources:
   - resource: /frameworks/1999-ecological-rationality.md
     title: Ecological rationality
 ---
-# Spread vs single bet
+# Diversifiable vs single bet
 
 An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
 
@@ -22,7 +22,7 @@ Can you split your stake across several options at once, or does everything ride
 
 ## Actions
 
-**Spread bets**: Back several and let the results pick.
+**Diversifiable**: Back several and let the results pick.
 - Run several prompts, models or agents side by side and keep the one that passes the checker.
 - Split live traffic between versions instead of switching all at once.
 - Barbell when the tails are fat. Most of the stake goes on the safe option and a small slice on a few wild ones ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).

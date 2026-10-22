@@ -48,8 +48,8 @@ At the far end sit systems with a tipping point. A shallow lake fed more and mor
 
 - [Stable vs chaotic](stable-vs-chaotic.md) (independent). Both are about small pushes growing, but in different ways. Chaos means small differences grow all the time, while the system stays the same kind of system. A tipping point means a system that holds steady until one threshold, then jumps. Day to day weather is chaotic, yet global temperature came back within a few years of the 1991 Pinatubo eruption cooling it by about half a degree. A shallow lake is easy to forecast on either side of its threshold and still tips.
 - [Reversible vs irreversible](reversible-vs-irreversible.md) (independent). That axis is about your undo button and this one is about the system. A Word document is reversible and malleable. A felled forest can't be un-felled, yet it grows back. A lake whose fertiliser you can stop at any time still stays murky.
-- [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). A system with two stable states sends runs that start close together to different places, so the average of the runs describes neither.
-- [Clustered vs scattered](clustered-vs-scattered.md) (logic). A tipping system has a few stable states, so its runs fall into a few clear groups.
+- [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (logic). A system with two stable states sends runs that start close together to different places, so the average of the runs describes neither.
+- [Clustered vs scattered runs](clustered-vs-scattered-runs.md) (logic). A tipping system has a few stable states, so its runs fall into a few clear groups.
 - [Loose vs tight coupling](loose-vs-tight-coupling.md) (logic). A cascade in a tight system is a tip that spreads from one part to the next.
 - [Stationary vs drifting](stationary-vs-drifting.md) (independent). In drift the rules slowly change. In a tip the rules stay fixed and the state jumps. Slang drifts with no tipping point, and the lake tips while the chemistry stays the same.
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (logic). A tip you can't climb back from is ruin for whoever depends on the old state.

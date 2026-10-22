@@ -17,11 +17,11 @@ Most of the time we sum up a system by its average and its spread. Run a simulat
 
 Davey's measure works on runs, not on single outcomes. A run is one whole go of a system, like a full simulation or a thousand rolls of a die. Every thousand rolls give the same spread, so by this measure a die is coherent. Other systems settle somewhere different each time you run them. Pool their runs and you get an average that none of them produced. Davey calls that incoherent, and he measures it with entropy. The pooled runs are more mixed than any single run, and the size of that gap shows how far the runs are from being draws from the same thing.
 
-Ordinary tests like ANOVA can tell you that runs differ, but not by how much. This measure gives the size, on a scale you can compare across systems. The trait this sorts on is whether repeated runs agree well enough to pool. The [Coherent vs incoherent](../axes/coherent-vs-incoherent.md) axis uses this same test.
+Ordinary tests like ANOVA can tell you that runs differ, but not by how much. This measure gives the size, on a scale you can compare across systems. The trait this sorts on is whether repeated runs agree well enough to pool. The [Coherent vs incoherent runs](../axes/coherent-vs-incoherent-runs.md) axis uses this same test.
 
 The mistake is to pool runs that disagree and plan for the average. The better response is to look at the runs one by one before you pool them. If they agree, the average is a fair guide. If they don't, plan for the outcomes that actually happen, and prefer options that hold up in all of them.
 
-This framework feeds the [Coherent vs incoherent](../axes/coherent-vs-incoherent.md) axis.
+This framework feeds the [Coherent vs incoherent runs](../axes/coherent-vs-incoherent-runs.md) axis.
 
 ## Examples
 

@@ -1,6 +1,6 @@
 ---
 type: Axis
-title: Additive vs multiplicative
+title: Additive vs multiplicative returns
 description: "Additive returns: gains and losses add up, so the average is what you can expect (e.g. betting the same £10 every round). Multiplicative returns: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round)."
 group: decision
 subgroup: stakes
@@ -10,7 +10,7 @@ sources:
   - resource: /frameworks/2016-ergodicity.md
     title: Ergodicity
 ---
-# Additive vs multiplicative
+# Additive vs multiplicative returns
 
 An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
 
@@ -33,7 +33,7 @@ Do gains and losses add up, so the average outcome is what you can expect, or do
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (by definition). Ruin is the extreme case, since a ruined player gets nothing over time whatever the crowd's average says. But the gap can open without ruin, and the coin game never wipes anyone out.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). Compounding piles the gains on a lucky few. In the coin game the crowd's average keeps rising only because a handful of players get vastly rich.
 - [Standalone vs sequential](standalone-vs-sequential.md) (by definition). Compounding is a sequential problem, since each bet's result sets the stake for the next. Bet the same fixed sum each round and the rounds stand alone, so the crowd's average is a fair guide.
-- [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). Compounding splits players' paths apart, so the crowd's average describes almost nobody. That is incoherence across players over time.
+- [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (logic). Compounding splits players' paths apart, so the crowd's average describes almost nobody. That is incoherence across players over time.
 
 ## Citations
 

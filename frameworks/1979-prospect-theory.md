@@ -19,7 +19,7 @@ The theory says people don't judge an outcome by where it leaves them. They judg
 
 The trait this sorts on is whether every option sits below where you stand, so the best on offer is still a loss. Above the reference point people are careful. Below it they gamble. The mistake is to let the person carrying the loss decide whether to keep betting, since they are the one most tempted to double up. The better response is to set the limit on losses before anything goes wrong, and to judge each option against what doing nothing would cost rather than against getting back to even.
 
-This framework feeds the [Winnable vs damage limitation](../axes/winnable-vs-damage-limitation.md) axis.
+This framework feeds the [Winnable vs no-win](../axes/winnable-vs-no-win.md) axis.
 
 ## Examples
 

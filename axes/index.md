@@ -6,13 +6,13 @@
 
 ## Randomness
 
-* [Deterministic vs statistical](deterministic-vs-statistical.md)
+* [Deterministic vs stochastic](deterministic-vs-stochastic.md)
   * **Deterministic**: the same inputs always give exactly the same output (e.g. a sum).
-  * **Statistical**: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter).
-* [Coherent vs incoherent](coherent-vs-incoherent.md)
+  * **Stochastic**: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter).
+* [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md)
   * **Coherent runs**: every run of the system gives the same spread of results, so the pooled average stands for any run (e.g. a die).
   * **Incoherent runs**: each run settles somewhere different, so the pooled average describes none of them (e.g. climate model runs that split into warm and cold futures).
-* [Clustered vs scattered](clustered-vs-scattered.md)
+* [Clustered vs scattered runs](clustered-vs-scattered-runs.md)
   * **Clustered runs**: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars).
   * **Scattered runs**: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks).
 * [Thin vs fat tails](thin-vs-fat-tails.md)
@@ -30,9 +30,9 @@
 * [Stationary vs drifting](stationary-vs-drifting.md)
   * **Stationary**: the patterns in past data still hold today (e.g. gravity).
   * **Drifting**: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang).
-* [Still vs moving](still-vs-moving.md)
-  * **Still world**: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword).
-  * **Moving world**: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).
+* [Static vs dynamic](static-vs-dynamic.md)
+  * **Static world**: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword).
+  * **Dynamic world**: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).
 
 ## Stimulus
 
@@ -71,7 +71,7 @@
 ## Uncertainty
 
 * [Risk vs Knightian uncertainty](risk-vs-knightian-uncertainty.md)
-  * **Risk**: you can put a number you trust on each outcome (e.g. a dice roll).
+  * **Measurable risk**: you can put a number you trust on each outcome (e.g. a dice roll).
   * **Knightian uncertainty**: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off).
 * [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md)
   * **Reducible uncertainty**: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test).
@@ -128,27 +128,27 @@
   * **Optimising**: each extra bit of quality still pays off, so you need the best you can find (e.g. the dose of a strong drug).
 * [Verifiable vs unverifiable](verifiable-vs-unverifiable.md)
   * **Verifiable**: you can check an answer quickly and cheaply before you act on it (e.g. a solved sudoku).
-  * **Unverifiable**: there is no quick or cheap way to check an answer before you act on it (e.g. a business strategy).
+  * **Unverifiable**: checking an answer costs about as much as finding it, or more, so in practice you can't check it before you act (e.g. a business strategy).
 * [Direct vs proxy measure](direct-vs-proxy-measure.md)
   * **Direct measure**: the thing you measure is everything you want (e.g. sorting letters by postcode).
   * **Proxy measure**: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. fairness in hiring).
-* [Finite vs ongoing](finite-vs-ongoing.md)
-  * **Finite**: there is a point where the problem is solved and you can stop (e.g. wiping out smallpox).
-  * **Ongoing**: there is no solved state, only a level you have to keep up (e.g. keeping malaria down).
+* [Curable vs chronic](curable-vs-chronic.md)
+  * **Curable**: there is a point where the problem is solved and you can stop (e.g. wiping out smallpox).
+  * **Chronic**: there is no solved state, only a level you have to keep up (e.g. keeping malaria down).
 
 ## Options
 
-* [Choose vs design the options](choose-vs-design-the-options.md)
-  * **Choose the options**: the options are handed to you to pick from (e.g. a mortgage from a bank's list).
-  * **Design the options**: you have to invent the options first (e.g. saving a dying high street).
+* [Given vs invented options](given-vs-invented-options.md)
+  * **Given options**: the options are handed to you to pick from (e.g. a mortgage from a bank's list).
+  * **Invented options**: you have to invent the options first (e.g. saving a dying high street).
 * [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md)
   * **Yours to fix**: you hold the levers yourself (e.g. a surgeon unblocking an artery).
   * **Needs others to change**: the fix depends on other people changing what they do (e.g. a patient giving up smoking).
 * [Standalone vs sequential](standalone-vs-sequential.md)
   * **Standalone**: each choice stands alone, so one doesn't change the next (e.g. checking invoices for fraud).
   * **Sequential**: each choice shapes the next, so it is hard to tell which one caused the result (e.g. treating a long illness).
-* [Slack vs time pressure](slack-vs-time-pressure.md)
-  * **Slack**: you have time to gather facts and think before things change (e.g. a pension plan).
+* [Ample time vs time pressure](ample-time-vs-time-pressure.md)
+  * **Ample time**: you have time to gather facts and think before things change (e.g. a pension plan).
   * **Time pressure**: you must act in seconds or minutes (e.g. a pilot with a failed engine).
 
 ## Stakes
@@ -156,21 +156,21 @@
 * [Reversible vs irreversible](reversible-vs-irreversible.md)
   * **Reversible**: if it goes wrong you can undo it cheaply and try again (e.g. a new recipe).
   * **Irreversible**: once it is done you are stuck with it (e.g. selling the family home).
-* [Spread vs single bet](spread-vs-single-bet.md)
-  * **Spread bets**: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares).
+* [Diversifiable vs single bet](diversifiable-vs-single-bet.md)
+  * **Diversifiable**: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares).
   * **Single bet**: you can only take one course of action, so everything rides on it (e.g. which job offer to accept).
 * [Survivable vs ruinous](survivable-vs-ruinous.md)
   * **Survivable**: no single loss can knock you out, so good odds pay off over many tries (e.g. a casino taking many small bets).
   * **Ruinous**: one bad outcome can take you out of the game for good (e.g. Russian roulette).
-* [Additive vs multiplicative](additive-vs-multiplicative.md)
+* [Additive vs multiplicative returns](additive-vs-multiplicative-returns.md)
   * **Additive returns**: gains and losses add up, so the average is what you can expect (e.g. betting the same £10 every round).
   * **Multiplicative returns**: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round).
-* [Even vs lopsided errors](even-vs-lopsided-errors.md)
-  * **Even error costs**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
-  * **Lopsided error costs**: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire).
-* [Winnable vs damage limitation](winnable-vs-damage-limitation.md)
+* [Even vs lopsided mistakes](even-vs-lopsided-mistakes.md)
+  * **Even mistakes**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
+  * **Lopsided mistakes**: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire).
+* [Winnable vs no-win](winnable-vs-no-win.md)
   * **Winnable**: a clean win is possible, so you can come out ahead (e.g. proving a famous theorem).
-  * **Damage limitation**: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with no engines).
+  * **No-win**: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with no engines).
 
 ## People
 

@@ -1,16 +1,16 @@
 ---
 type: Axis
-title: Even vs lopsided errors
-description: "Even error costs: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella). Lopsided error costs: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire)."
+title: Even vs lopsided mistakes
+description: "Even mistakes: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella). Lopsided mistakes: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire)."
 group: decision
 subgroup: stakes
-easy_end: Even error costs
-hard_end: Lopsided error costs
+easy_end: Even mistakes
+hard_end: Lopsided mistakes
 sources:
   - resource: /frameworks/1954-signal-detection-theory.md
     title: Signal detection theory
 ---
-# Even vs lopsided errors
+# Even vs lopsided mistakes
 
 An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
 
@@ -18,11 +18,11 @@ Do a false alarm and a miss cost about the same, or is one mistake far worse tha
 
 ## Actions
 
-**Even error costs**: Maximise accuracy.
+**Even mistakes**: Maximise accuracy.
 - Use the default threshold. A false alarm and a miss cost the same.
 - Report one accuracy figure. It tells you all you need when both errors weigh the same.
 
-**Lopsided error costs**: Set the threshold from the costs.
+**Lopsided mistakes**: Set the threshold from the costs.
 - Put a price on each kind of error. Ask what a miss costs and what a false alarm costs, in the same units.
 - Tune the threshold to those prices. A cancer screen should flag far more than it misses.
 - Report the two error rates separately, never accuracy alone. A model can score 99% on a rare disease by never flagging anyone.

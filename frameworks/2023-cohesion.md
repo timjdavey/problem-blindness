@@ -21,7 +21,7 @@ To measure this, Davey runs a system many times and joins every pair of runs wit
 
 The mistake is to treat every spread of results as one fuzzy cloud. The better response is to check whether the runs fall into groups. If they do, plan for each group and watch for the signs that tell them apart. Davey puts it this way. Incoherence tells you how far you can trust frequentist statistics, which pool the runs. Cohesion tells you how far you can trust Bayesian statistics, which update your belief about which group you are in as evidence comes in.
 
-This framework feeds the [Clustered vs scattered](../axes/clustered-vs-scattered.md) axis.
+This framework feeds the [Clustered vs scattered runs](../axes/clustered-vs-scattered-runs.md) axis.
 
 ## Examples
 

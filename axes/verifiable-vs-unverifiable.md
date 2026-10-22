@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Verifiable vs unverifiable
-description: "Verifiable: you can check an answer quickly and cheaply before you act on it (e.g. a solved sudoku). Unverifiable: there is no quick or cheap way to check an answer before you act on it (e.g. a business strategy)."
+description: "Verifiable: you can check an answer quickly and cheaply before you act on it (e.g. a solved sudoku). Unverifiable: checking an answer costs about as much as finding it, or more, so in practice you can't check it before you act (e.g. a business strategy)."
 group: decision
 subgroup: goal
 easy_end: Verifiable
@@ -18,7 +18,7 @@ sources:
 
 An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision) group.
 
-Once you have an answer, can you check it quickly and cheaply before you act on it? A solved sudoku takes seconds to check. A business strategy has no such check, and the world may take years to grade it. Unverifiable here means there is no cheap check before you act, not that the answer can never be judged. Computer scientists use the word this way too. A problem in NP is one whose answers are verifiable fast, however long they take to find, and AI labs now train models on tasks with verifiable rewards for the same reason.
+Once you have an answer, can you check it quickly and cheaply before you act on it? A solved sudoku takes seconds to check. A business strategy has no such check, and the world may take years to grade it. Unverifiable here doesn't mean the answer can never be judged. It means a check before you act would cost about as much as finding the answer, or more, and a check that dear is no check at all. Computer scientists draw the line in the same place. A problem in NP is one whose answers are verifiable fast, however long they take to find. Proving a delivery route is the shortest is not, since no known method checks it much faster than solving the whole problem again. AI labs now train models on tasks with verifiable rewards for the same reason.
 
 ## Actions
 
@@ -44,7 +44,7 @@ Once you have an answer, can you check it quickly and cheaply before you act on 
 - [Direct vs proxy measure](direct-vs-proxy-measure.md) (independent). A score can be quick to check and still miss what you want. Amazon could test its star ratings for job applicants against past hires, but fairness was never in the score ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)).
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). One right answer can be checked against a key. Good answers that differ in kind can't share one key, so someone has to judge them.
 - [Smooth vs rugged](smooth-vs-rugged.md) (logic). On smooth ground a quick look tells you if an answer is close to good. On rugged ground looking close proves nothing, so you need a check that tests every detail.
-- [Finite vs ongoing](finite-vs-ongoing.md) (logic). With no end there is no final answer to check, only the level so far.
+- [Curable vs chronic](curable-vs-chronic.md) (logic). With no end there is no final answer to check, only the level so far.
 - [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md) (logic). Bounded skills tend to come with an answer key, since the whole set is known. An open-ended skill often has no key, so checking an answer takes another expert.
 
 ## Citations

@@ -39,13 +39,13 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 
 **Irreducible uncertainty**: Stop paying for more data and hedge instead.
 - Report a spread, not a single answer. More training won't shrink the doubt, so hiding it only misleads.
-- Make the decision cope with either result instead of staking it on one. Where you can, back several options at once, as under [Spread vs single bet](spread-vs-single-bet.md).
+- Make the decision cope with either result instead of staking it on one. Where you can, back several options at once, as under [Diversifiable vs single bet](diversifiable-vs-single-bet.md).
 - Use an ensemble to tell the two kinds of doubt apart. Models that disagree point to doubt more data could fix. Models that agree on a wide spread point to doubt it can't.
 - Check where the doubt comes from. If it hangs on a choice nobody has made yet, no data will settle it, so plan for each way the choice could go.
 
 ## Correlated with
 
-- [Deterministic vs statistical](deterministic-vs-statistical.md) (logic). Pure chance is one kind of doubt that no new data can shrink. But Russell and Norvig note that a deterministic world you can only half see looks random ([Task environment properties](../frameworks/1995-task-environment-properties.md)). Doubt that looks like chance may be a hidden fact you could find.
+- [Deterministic vs stochastic](deterministic-vs-stochastic.md) (logic). Pure chance is one kind of doubt that no new data can shrink. But Russell and Norvig note that a deterministic world you can only half see looks random ([Task environment properties](../frameworks/1995-task-environment-properties.md)). Doubt that looks like chance may be a hidden fact you could find.
 - [Stable vs chaotic](stable-vs-chaotic.md) (logic). Past the horizon more data barely moves the forecast.
 - [Shared vs contested values](shared-vs-contested-values.md) (bundled). Treverton's mysteries and Daft and Lengel's [equivocality](../frameworks/1986-uncertainty-vs-equivocality.md) are doubts that more facts won't settle, because people read the facts differently or haven't yet chosen what to do. His [puzzles](../frameworks/2001-puzzles-vs-mysteries.md) are the other end, hidden facts that someone could find.
 - [Risk vs Knightian uncertainty](risk-vs-knightian-uncertainty.md) (independent). Reducible asks whether more data would shrink your doubt, while Knightian uncertainty is about whether you can put a number on it. A coin toss has known odds and irreducible doubt. A new drug has unknown odds and reducible doubt, because you can run a trial.

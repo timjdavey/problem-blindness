@@ -18,7 +18,7 @@ Rice broke the question into four parts. There is the set of problems you might 
 
 This is the law of the instrument turned into a question you can answer with data. [No free lunch](1997-no-free-lunch.md) says no method wins on every problem, and the [law of requisite variety](1956-law-of-requisite-variety.md) says one tool can't cover many kinds of case. Rice says what to do about it. The mistake is to rank methods by their average score and then use the winner everywhere. That winner is called the single best solver. The better response is to measure each case first and pick the method its features point to. Then check how far the single best solver falls short of picking the best method for every case. If the gap is small, one tool is fine and you can stop. If it is large, it pays to learn the rule.
 
-This framework feeds the [Clustered vs scattered](../axes/clustered-vs-scattered.md) axis.
+This framework feeds the [Clustered vs scattered runs](../axes/clustered-vs-scattered-runs.md) axis.
 
 ## Examples
 

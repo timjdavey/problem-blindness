@@ -47,7 +47,7 @@ The other side doesn't have to be an enemy. It only needs goals that differ from
 - [Direct vs proxy measure](direct-vs-proxy-measure.md) (study). By [Goodhart's law](../frameworks/1975-goodharts-law.md) people work on whatever the score leaves out. In 1902 Hanoi paid a bounty for each rat tail, so people cut off the tails and let the rats go to breed.
 - [Private vs accountable](private-vs-accountable.md) (study). [Campbell's law](../frameworks/1976-campbells-law.md) says the more a number decides people's fate, the more they bend it.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (independent). A chess opponent works against you, but every move you need is yours to make. Two firms in a [non-zero-sum game](../frameworks/1944-zero-sum-vs-non-zero-sum-games.md) want the same deal and still need each other to close it.
-- [Still vs moving](still-vs-moving.md) (bundled). Russell and Norvig's harder worlds have other agents in them, and an opponent is the most common reason the world won't wait. But a surfer's wave moves and isn't trying to beat anyone.
+- [Static vs dynamic](static-vs-dynamic.md) (bundled). Russell and Norvig's harder worlds have other agents in them, and an opponent is the most common reason the world won't wait. But a surfer's wave moves and isn't trying to beat anyone.
 - [Antifragile vs wears out](antifragile-vs-wears-out.md) (logic). Bacteria have no aim, yet each course of antibiotics leaves them harder to kill. An adversary is a system that gains from your rule on purpose.
 
 ## Citations

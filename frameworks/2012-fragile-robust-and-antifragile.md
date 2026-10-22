@@ -22,7 +22,7 @@ What decides which group you are in is the shape of the harm. Jumping from one m
 
 The sorting matters because it changes the question you ask. Most planning tries to forecast the next shock and prepare for it. Taleb argues that in a fat-tailed world the forecast will often be wrong, so you should look at the shape of your exposure instead. Ask what happens to you if things go very badly or very well. If a big surprise would ruin you, you are fragile no matter how good the forecast is. Cutting that exposure is safer than sharpening the prediction.
 
-This framework feeds the [Antifragile vs wears out](../axes/antifragile-vs-wears-out.md), [Self-righting vs tipping](../axes/self-righting-vs-tipping.md), [Spread vs single bet](../axes/spread-vs-single-bet.md), [Survivable vs ruinous](../axes/survivable-vs-ruinous.md) and [Thin vs fat tails](../axes/thin-vs-fat-tails.md) axes.
+This framework feeds the [Antifragile vs wears out](../axes/antifragile-vs-wears-out.md), [Self-righting vs tipping](../axes/self-righting-vs-tipping.md), [Diversifiable vs single bet](../axes/diversifiable-vs-single-bet.md), [Survivable vs ruinous](../axes/survivable-vs-ruinous.md) and [Thin vs fat tails](../axes/thin-vs-fat-tails.md) axes.
 
 ## Examples
 

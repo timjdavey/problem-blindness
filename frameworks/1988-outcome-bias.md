@@ -19,7 +19,7 @@ This is different from hindsight bias, where you think you knew all along how th
 
 The trait this sorts on is whether a decision gets judged by how it was made or by how it turned out. Over many decisions the two line up, since good choices win more often. On a single decision luck can swamp skill. The mistake is to grade people, and models, on outcomes alone. That punishes good calls in a bad spot and rewards reckless calls that got lucky. The better response is to write down what was known and why each choice was made at the time, and to judge the choice against that record. Annie Duke, a professional poker player, calls the mistake "resulting" in *Thinking in Bets* (2018).
 
-This framework feeds the [Winnable vs damage limitation](../axes/winnable-vs-damage-limitation.md) axis.
+This framework feeds the [Winnable vs no-win](../axes/winnable-vs-no-win.md) axis.
 
 ## Examples
 

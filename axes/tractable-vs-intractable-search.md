@@ -35,11 +35,11 @@ Are there few enough options to check them all, or so many that no computer coul
 - [Smooth vs rugged](smooth-vs-rugged.md) (study). Stepping downhill on rugged land stops at a false bottom ([Convex vs non-convex optimisation](../frameworks/1970-convex-vs-non-convex-optimisation.md)). Edward Weinberger proved in 1996 that finding the top of a general NK landscape is NP-complete.
 - [Decomposable vs tangled](decomposable-vs-tangled.md) (logic). A problem that splits into parts can be searched one part at a time, like Simon's [watchmakers](../frameworks/1962-near-decomposability.md).
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). Needing the best answer from a search too big to finish is the hardest case.
-- [Slack vs time pressure](slack-vs-time-pressure.md) (tension). A search too big to finish, done against the clock, is the worst case.
+- [Ample time vs time pressure](ample-time-vs-time-pressure.md) (tension). A search too big to finish, done against the clock, is the worst case.
 - [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (independent). [NP problems](../frameworks/1971-np-problems.md) are hard to find and easy to check.
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (independent). Go hides nothing, so there is no fact left to find, and it still can't be searched in full.
 - [Small vs large world](small-vs-large-world.md) (independent). Search size assumes a procedure generates the options. More computing power can finish a big search in principle. It can't search outcomes nobody can generate.
-- [Choose vs design the options](choose-vs-design-the-options.md) (independent). Search size assumes the options already exist. A design problem can have only three options once someone has thought of them.
+- [Given vs invented options](given-vs-invented-options.md) (independent). Search size assumes the options already exist. A design problem can have only three options once someone has thought of them.
 - [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md) (independent). Knowing how the pieces move in chess is bounded and playing chess well is open-ended, in one and the same game. Research taste has no ceiling and no list of options to search.
 
 ## Citations

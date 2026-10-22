@@ -18,7 +18,7 @@ Carse's finite game bundles two traits. It ends, and it can be won. This project
 
 The trait this sorts on is whether there is a point where the play stops and the result is settled. The mistake is to play an infinite game as if it were finite. You set a target, hit it, declare victory and move the people and money elsewhere. The problem then grows back, often worse than before. The better response is to measure the level you keep up over time, not a single win, and to fund the work as something that never stops.
 
-This framework feeds the [Finite vs ongoing](../axes/finite-vs-ongoing.md) axis.
+This framework feeds the [Curable vs chronic](../axes/curable-vs-chronic.md) axis.
 
 ## Examples
 

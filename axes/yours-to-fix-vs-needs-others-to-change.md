@@ -37,7 +37,7 @@ Do you hold the levers, or does the fix depend on other people changing what the
 ## Correlated with
 
 - [Shared vs contested values](shared-vs-contested-values.md) (bundled). [Heifetz](../frameworks/1994-technical-vs-adaptive-challenges.md) says adaptive work often means people giving up something they value. [Super wicked problems](../frameworks/2007-super-wicked-problems.md) have nobody in charge to settle whose interests count.
-- [Slack vs time pressure](slack-vs-time-pressure.md) (bundled). Super wicked problems join a clock to a world with nobody in charge, so each actor has a reason to wait while time runs out.
+- [Ample time vs time pressure](ample-time-vs-time-pressure.md) (bundled). Super wicked problems join a clock to a world with nobody in charge, so each actor has a reason to wait while time runs out.
 - [Decomposable vs tangled](decomposable-vs-tangled.md) (bundled). In Ackoff's [messes](../frameworks/1974-messes.md) the fix for one department becomes the next department's problem, so nobody holds the levers for the whole.
 - [Inert vs reflexive](inert-vs-reflexive.md) (logic). Both put other people inside the problem. Once a fix depends on others changing, how they react to it becomes part of the problem.
 - [Neutral vs adversarial](neutral-vs-adversarial.md) (independent). A chess opponent works against you, but every move you need is yours to make. Two firms in a [non-zero-sum game](../frameworks/1944-zero-sum-vs-non-zero-sum-games.md) want the same deal and still need each other to close it.

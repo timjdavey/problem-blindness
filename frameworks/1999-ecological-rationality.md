@@ -20,7 +20,7 @@ Their boldest claim is that ignoring information can make you more accurate. A c
 
 The mistake is to bring tools built for long records and known odds to a problem with little data and unknown odds. The reverse mistake is to trust a rule of thumb in a stable, data rich world where a proper model would do better.
 
-This framework feeds the [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md), [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md), [Satisficing vs optimising](../axes/satisficing-vs-optimising.md) and [Spread vs single bet](../axes/spread-vs-single-bet.md) axes.
+This framework feeds the [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md), [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md), [Satisficing vs optimising](../axes/satisficing-vs-optimising.md) and [Diversifiable vs single bet](../axes/diversifiable-vs-single-bet.md) axes.
 
 ## Examples
 
