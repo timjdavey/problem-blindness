@@ -54,6 +54,7 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). Go hides nothing and still can't be searched in full.
 - [Small vs large world](small-vs-large-world.md) (independent). Every possible poker hand is known in advance, and you still can't see the one in front of you.
 - [General vs local knowledge](general-vs-local-knowledge.md) (logic). Local facts are often out of sight for anyone far away. But the shop manager can see the stock levels that head office can't, so the gap is about who holds the facts.
+- [Symmetric vs asymmetric information](symmetric-vs-asymmetric-information.md) (logic). When someone across the deal already holds the facts, the doubt is reducible, but they decide what it costs you to find them.
 
 ## Citations
 

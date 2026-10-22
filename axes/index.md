@@ -94,6 +94,9 @@
 * [Plentiful vs scarce data](plentiful-vs-scarce-data.md)
   * **Plentiful data**: there are many past cases like this one to learn from (e.g. card fraud).
   * **Scarce data**: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident).
+* [Symmetric vs asymmetric information](symmetric-vs-asymmetric-information.md)
+  * **Symmetric information**: everyone in the deal sees the same facts (e.g. a game of chess).
+  * **Asymmetric information**: the other side knows things you don't and chooses what reaches you (e.g. buying a used car).
 
 ## Know-how
 

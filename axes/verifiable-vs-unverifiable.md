@@ -46,6 +46,7 @@ Once you have an answer, can you check it quickly and cheaply before you act on 
 - [Smooth vs rugged](smooth-vs-rugged.md) (logic). On smooth ground a quick look tells you if an answer is close to good. On rugged ground looking close proves nothing, so you need a check that tests every detail.
 - [Curable vs chronic](curable-vs-chronic.md) (logic). With no end there is no final answer to check, only the level so far.
 - [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md) (logic). Bounded skills tend to come with an answer key, since the whole set is known. An open-ended skill often has no key, so checking an answer takes another expert.
+- [Symmetric vs asymmetric information](symmetric-vs-asymmetric-information.md) (logic). A cheap check closes the gap between what the seller knows and what you know. A mechanic's inspection turns a market for lemons back into a market for cars.
 
 ## Citations
 

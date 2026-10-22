@@ -33,6 +33,7 @@ Does whoever makes the call bear the cost if it goes wrong, or does it land on s
 - [Private vs accountable](private-vs-accountable.md) (independent). Accountable means you must explain the choice. Skin in the game means you pay for it. A judge must give reasons and loses nothing if wrong. A gambler pays for every bad bet and explains nothing to anyone.
 - [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md) (logic). If the cost lands on someone else, news of it reaches the decider late or never, so they can't learn from it.
 - [Direct vs proxy measure](direct-vs-proxy-measure.md) (logic). The agent is scored on something of their own, like fees or loans signed, and the owner's loss is left out of that score.
+- [Symmetric vs asymmetric information](symmetric-vs-asymmetric-information.md) (logic). It is the other half of the agency problem. This axis is what the other side does after the deal, when the cost lands on someone else. Asymmetric information is what they know before it.
 
 ## Citations
 

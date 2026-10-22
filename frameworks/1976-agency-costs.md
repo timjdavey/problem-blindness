@@ -19,7 +19,7 @@ The person who decides is called the agent. The person who bears the result is c
 
 The trait this sorts on is whether whoever decides bears the cost of being wrong. This is not the same as [accountability](1999-accountability.md), which asks whether you must explain a choice. Here the question is whether you pay for it. A banker can write a careful memo for every loan and still keep his bonus when the loans go bad. The mistake is to treat a decision or a forecast as if the person making it shared your stakes. The better response is to ask who pays if it goes wrong. If it isn't the person deciding, give them a stake, check their work harder or keep the decision yourself. An AI agent is the extreme case. It never bears the cost of being wrong, because it loses no money, no job and no sleep. All the checking has to come from the people who will pay.
 
-This framework feeds the [Skin in the game vs none](../axes/skin-in-the-game-vs-none.md) axis.
+This framework feeds the [Skin in the game vs none](../axes/skin-in-the-game-vs-none.md) and [Symmetric vs asymmetric information](../axes/symmetric-vs-asymmetric-information.md) axes.
 
 ## Examples
 
