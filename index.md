@@ -8,7 +8,7 @@ okf_version: "0.2"
 
 # Axes
 
-* [Axes](axes/) - Scales with an easy end and a hard end that describe the shape of a problem, in three groups: the world, the knower and the decision.
+* [Axes](axes/) - Scales with an easy end and a hard end that describe the shape of a problem, in five groups: environment, information, actions, performance and agent.
 * [Reading the axes](axes/reading-the-axes.md) - How the axes are grouped, what the correlation labels mean and what changes at the hard end.
 
 # Frameworks

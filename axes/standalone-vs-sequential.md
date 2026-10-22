@@ -2,7 +2,7 @@
 type: Axis
 title: Standalone vs sequential
 description: "Standalone: each choice stands alone, so one doesn't change the next (e.g. checking invoices for fraud). Sequential: each choice shapes the next, so it is hard to tell which one caused the result (e.g. treating a long illness)."
-group: decision
+group: actions
 subgroup: options
 easy_end: Standalone
 hard_end: Sequential
@@ -16,7 +16,7 @@ sources:
 ---
 # Standalone vs sequential
 
-An axis in the [Options](index.md#options) set of the [decision](index.md#the-decision) group.
+An axis in the [Options](index.md#options) set of the [actions](index.md#actions) group.
 
 Does each choice stand alone, or does it shape the ones that follow? Checking invoices for fraud is standalone. Flagging one invoice doesn't change the next, so each can be judged on its own. Treating a long illness is sequential. Each drug changes what the next one does, and it's hard to tell which early move caused the final result. Russell and Norvig call the first kind episodic ([Task environment properties](../frameworks/1995-task-environment-properties.md)).
 

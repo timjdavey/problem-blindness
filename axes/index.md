@@ -2,7 +2,7 @@
 
 * [Reading the axes](reading-the-axes.md): how the axes are grouped, what the correlation labels mean and what changes at the hard end.
 
-# The world
+# Environment
 
 ## Randomness
 
@@ -21,9 +21,6 @@
 
 ## Change
 
-* [Smooth vs rugged](smooth-vs-rugged.md)
-  * **Smooth landscape**: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup).
-  * **Rugged landscape**: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code).
 * [Stable vs chaotic](stable-vs-chaotic.md)
   * **Lyapunov stable**: small errors in what you know today stay small, so you can forecast far ahead (e.g. the tides).
   * **Chaotic**: tiny errors grow fast, so a forecast soon becomes useless (e.g. the weather two weeks out).
@@ -48,7 +45,7 @@
   * **Loose coupling**: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest).
   * **Tight coupling**: a fault spreads to other parts before anyone can react (e.g. a power grid).
 
-## Response
+## Reactivity
 
 * [Inert vs reflexive](inert-vs-reflexive.md)
   * **Inert**: the system behaves the same whether or not you model it (e.g. a rock).
@@ -62,11 +59,14 @@
 * [Decomposable vs tangled](decomposable-vs-tangled.md)
   * **Decomposable**: you can solve each part on its own and put them back together (e.g. a car engine).
   * **Tangled**: each part only makes sense in light of the others (e.g. a company culture).
+* [Smooth vs rugged](smooth-vs-rugged.md)
+  * **Smooth landscape**: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup).
+  * **Rugged landscape**: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code).
 * [Tractable vs intractable search](tractable-vs-intractable-search.md)
   * **Tractable search**: you know every option and there are few enough to check them all (e.g. noughts and crosses).
   * **Intractable search**: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions).
 
-# The knower
+# Information
 
 ## Uncertainty
 
@@ -88,32 +88,46 @@
 * [Interventional vs observational](interventional-vs-observational.md)
   * **Interventional**: you can set the cause yourself and let chance decide who gets it (e.g. a drug trial).
   * **Observational**: people's own choices or nature set the cause, so you can only watch what follows and guess (e.g. a study of nurses who chose hormone therapy).
-* [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md)
-  * **Immediate feedback**: you find out soon whether you were right (e.g. throwing darts).
-  * **Delayed feedback**: the result arrives years later or never, so you get few chances to learn (e.g. planting an orchard).
-* [Plentiful vs scarce data](plentiful-vs-scarce-data.md)
-  * **Plentiful data**: there are many past cases like this one to learn from (e.g. card fraud).
-  * **Scarce data**: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident).
 * [Symmetric vs asymmetric information](symmetric-vs-asymmetric-information.md)
   * **Symmetric information**: everyone in the deal sees the same facts (e.g. a game of chess).
   * **Asymmetric information**: the other side knows things you don't and chooses what reaches you (e.g. buying a used car).
+* [Plentiful vs scarce data](plentiful-vs-scarce-data.md)
+  * **Plentiful data**: there are many past cases like this one to learn from (e.g. card fraud).
+  * **Scarce data**: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident).
+* [Verifiable vs unverifiable](verifiable-vs-unverifiable.md)
+  * **Verifiable**: you can check an answer quickly and cheaply before you act on it (e.g. a solved sudoku).
+  * **Unverifiable**: checking an answer costs about as much as finding it, or more, so in practice you can't check it before you act (e.g. a business strategy).
+* [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md)
+  * **Immediate feedback**: you find out soon whether you were right (e.g. throwing darts).
+  * **Delayed feedback**: the result arrives years later or never, so you get few chances to learn (e.g. planting an orchard).
 
-## Know-how
+# Actions
 
-* [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md)
-  * **Explicit know-how**: the know-how can be written down as rules (e.g. a tax rule).
-  * **Tacit know-how**: the know-how lives in experts' hands and gut feel, so it can only be learnt from examples (e.g. a nurse sensing a patient is about to crash).
-* [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md)
-  * **Familiar to the solver**: the solver has met this kind of problem many times before (e.g. a doctor seeing a common cold).
-  * **Novel to the solver**: the problem is new to the solver, even if others have solved it (e.g. a question outside a model's training data).
-* [General vs local knowledge](general-vs-local-knowledge.md)
-  * **General knowledge**: the answer rests on facts anyone could look up (e.g. how insulin works).
-  * **Local knowledge**: the answer rests on facts that only people close to it know (e.g. whether this patient takes their insulin).
-* [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md)
-  * **Bounded skill**: the know-how is a small, closed set that anyone competent masters fully (e.g. the alphabet).
-  * **Open-ended skill**: the know-how has no ceiling, so solvers keep improving and differ widely (e.g. knowing which research questions are worth asking).
+## Options
 
-# The decision
+* [Given vs invented options](given-vs-invented-options.md)
+  * **Given options**: the options are handed to you to pick from (e.g. a mortgage from a bank's list).
+  * **Invented options**: you have to invent the options first (e.g. saving a dying high street).
+* [Diversifiable vs single bet](diversifiable-vs-single-bet.md)
+  * **Diversifiable**: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares).
+  * **Single bet**: you can only take one course of action, so everything rides on it (e.g. which job offer to accept).
+* [Standalone vs sequential](standalone-vs-sequential.md)
+  * **Standalone**: each choice stands alone, so one doesn't change the next (e.g. checking invoices for fraud).
+  * **Sequential**: each choice shapes the next, so it is hard to tell which one caused the result (e.g. treating a long illness).
+
+## Control
+
+* [Reversible vs irreversible](reversible-vs-irreversible.md)
+  * **Reversible**: if it goes wrong you can undo it cheaply and try again (e.g. a new recipe).
+  * **Irreversible**: once it is done you are stuck with it (e.g. selling the family home).
+* [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md)
+  * **Yours to fix**: you hold the levers yourself (e.g. a surgeon unblocking an artery).
+  * **Needs others to change**: the fix depends on other people changing what they do (e.g. a patient giving up smoking).
+* [Ample time vs time pressure](ample-time-vs-time-pressure.md)
+  * **Ample time**: you have time to gather facts and think before things change (e.g. a pension plan).
+  * **Time pressure**: you must act in seconds or minutes (e.g. a pilot with a failed engine).
+
+# Performance
 
 ## Goal
 
@@ -126,12 +140,12 @@
 * [Single objective vs trade-offs](single-objective-vs-trade-offs.md)
   * **Single objective**: there is one thing to get right (e.g. the fastest route home).
   * **Trade-offs**: several goals pull against each other, so a gain on one costs you on another (e.g. price against safety in a new car).
+* [Shared vs contested values](shared-vs-contested-values.md)
+  * **Shared values**: everyone affected ranks the possible results the same way, or one person owns the choice (e.g. a bridge should stay up).
+  * **Contested values**: the people affected rank the results differently, and nobody has the standing to settle it alone (e.g. where to build the bridge).
 * [Satisficing vs optimising](satisficing-vs-optimising.md)
   * **Satisficing**: any answer that clears the bar will do (e.g. a lunch spot).
   * **Optimising**: each extra bit of quality still pays off, so you need the best you can find (e.g. the dose of a strong drug).
-* [Verifiable vs unverifiable](verifiable-vs-unverifiable.md)
-  * **Verifiable**: you can check an answer quickly and cheaply before you act on it (e.g. a solved sudoku).
-  * **Unverifiable**: checking an answer costs about as much as finding it, or more, so in practice you can't check it before you act (e.g. a business strategy).
 * [Direct vs proxy measure](direct-vs-proxy-measure.md)
   * **Direct measure**: the thing you measure is everything you want (e.g. sorting letters by postcode).
   * **Proxy measure**: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. fairness in hiring).
@@ -139,29 +153,8 @@
   * **Curable**: there is a point where the problem is solved and you can stop (e.g. wiping out smallpox).
   * **Chronic**: there is no solved state, only a level you have to keep up (e.g. keeping malaria down).
 
-## Options
-
-* [Given vs invented options](given-vs-invented-options.md)
-  * **Given options**: the options are handed to you to pick from (e.g. a mortgage from a bank's list).
-  * **Invented options**: you have to invent the options first (e.g. saving a dying high street).
-* [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md)
-  * **Yours to fix**: you hold the levers yourself (e.g. a surgeon unblocking an artery).
-  * **Needs others to change**: the fix depends on other people changing what they do (e.g. a patient giving up smoking).
-* [Standalone vs sequential](standalone-vs-sequential.md)
-  * **Standalone**: each choice stands alone, so one doesn't change the next (e.g. checking invoices for fraud).
-  * **Sequential**: each choice shapes the next, so it is hard to tell which one caused the result (e.g. treating a long illness).
-* [Ample time vs time pressure](ample-time-vs-time-pressure.md)
-  * **Ample time**: you have time to gather facts and think before things change (e.g. a pension plan).
-  * **Time pressure**: you must act in seconds or minutes (e.g. a pilot with a failed engine).
-
 ## Stakes
 
-* [Reversible vs irreversible](reversible-vs-irreversible.md)
-  * **Reversible**: if it goes wrong you can undo it cheaply and try again (e.g. a new recipe).
-  * **Irreversible**: once it is done you are stuck with it (e.g. selling the family home).
-* [Diversifiable vs single bet](diversifiable-vs-single-bet.md)
-  * **Diversifiable**: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares).
-  * **Single bet**: you can only take one course of action, so everything rides on it (e.g. which job offer to accept).
 * [Survivable vs ruinous](survivable-vs-ruinous.md)
   * **Survivable**: no single loss can knock you out, so good odds pay off over many tries (e.g. a casino taking many small bets).
   * **Ruinous**: one bad outcome can take you out of the game for good (e.g. Russian roulette).
@@ -175,14 +168,28 @@
   * **Winnable**: a clean win is possible, so you can come out ahead (e.g. proving a famous theorem).
   * **No-win**: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with no engines).
 
-## People
+# Agent
 
-* [Shared vs contested values](shared-vs-contested-values.md)
-  * **Shared values**: everyone affected ranks the possible results the same way, or one person owns the choice (e.g. a bridge should stay up).
-  * **Contested values**: the people affected rank the results differently, and nobody has the standing to settle it alone (e.g. where to build the bridge).
-* [Private vs accountable](private-vs-accountable.md)
-  * **Private choice**: the choice is yours alone (e.g. picking a film).
-  * **Accountable choice**: you must explain and defend the choice to others (e.g. a bank refusing a loan).
+## Know-how
+
+* [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md)
+  * **Explicit know-how**: the know-how can be written down as rules (e.g. a tax rule).
+  * **Tacit know-how**: the know-how lives in experts' hands and gut feel, so it can only be learnt from examples (e.g. a nurse sensing a patient is about to crash).
+* [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md)
+  * **Bounded skill**: the know-how is a small, closed set that anyone competent masters fully (e.g. the alphabet).
+  * **Open-ended skill**: the know-how has no ceiling, so solvers keep improving and differ widely (e.g. knowing which research questions are worth asking).
+* [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md)
+  * **Familiar to the solver**: the solver has met this kind of problem many times before (e.g. a doctor seeing a common cold).
+  * **Novel to the solver**: the problem is new to the solver, even if others have solved it (e.g. a question outside a model's training data).
+* [General vs local knowledge](general-vs-local-knowledge.md)
+  * **General knowledge**: the answer rests on facts anyone could look up (e.g. how insulin works).
+  * **Local knowledge**: the answer rests on facts that only people close to it know (e.g. whether this patient takes their insulin).
+
+## Incentives
+
 * [Skin in the game vs none](skin-in-the-game-vs-none.md)
   * **Skin in the game**: whoever makes the call bears the cost if it goes wrong (e.g. a shopkeeper pricing their own stock).
   * **No skin in the game**: the cost lands on someone else (e.g. a broker paid for each loan whether or not it is repaid).
+* [Private vs accountable](private-vs-accountable.md)
+  * **Private choice**: the choice is yours alone (e.g. picking a film).
+  * **Accountable choice**: you must explain and defend the choice to others (e.g. a bank refusing a loan).

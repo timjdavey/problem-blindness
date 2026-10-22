@@ -2,7 +2,7 @@
 type: Axis
 title: Direct vs proxy measure
 description: "Direct measure: the thing you measure is everything you want (e.g. sorting letters by postcode). Proxy measure: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. fairness in hiring)."
-group: decision
+group: performance
 subgroup: goal
 easy_end: Direct measure
 hard_end: Proxy measure
@@ -16,7 +16,7 @@ sources:
 ---
 # Direct vs proxy measure
 
-An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision) group.
+An axis in the [Goal](index.md#goal) set of the [performance](index.md#performance) group.
 
 Is the thing you measure the thing you want, or only a stand-in for it that leaves out goals, such as fairness, that are hard to write down? A machine that sorts letters by postcode has a direct measure, since reading the code right is the whole job. From 2014 Amazon built a tool that rated job applicants by learning from CVs sent to the company over ten years. Most came from men, so it learnt to mark down CVs with the word "women's". Nothing in the score said that was wrong, because fairness was never in it. A measure that stands in for what you want is called a proxy. Finale Doshi-Velez and Been Kim call the gap between the two incompleteness. The goal in your head may be whole. It is the score that leaves things out.
 

@@ -2,7 +2,7 @@
 type: Axis
 title: Symmetric vs asymmetric information
 description: "Symmetric information: everyone in the deal sees the same facts (e.g. a game of chess). Asymmetric information: the other side knows things you don't and chooses what reaches you (e.g. buying a used car)."
-group: knower
+group: information
 subgroup: evidence
 easy_end: Symmetric information
 hard_end: Asymmetric information
@@ -14,7 +14,7 @@ sources:
 ---
 # Symmetric vs asymmetric information
 
-An axis in the [Evidence](index.md#evidence) set of the [knower](index.md#the-knower) group.
+An axis in the [Evidence](index.md#evidence) set of the [information](index.md#information) group.
 
 Does the other side of the deal see the same facts you do, or do they know more? In chess both players see the whole board. A used car seller knows whether the car is a lemon and the buyer doesn't. George Akerlof showed what follows. Owners of good cars won't sell at an average price, so the cars on offer are worse than average ([Market for lemons](../frameworks/1970-market-for-lemons.md)). The fact that something reaches you is itself evidence about it. This is called adverse selection. Where a problem sits depends on who you are. The same deal is symmetric for the seller and asymmetric for the buyer.
 

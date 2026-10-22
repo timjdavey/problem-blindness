@@ -2,7 +2,7 @@
 type: Axis
 title: Decomposable vs tangled
 description: "Decomposable: you can solve each part on its own and put them back together (e.g. a car engine). Tangled: each part only makes sense in light of the others (e.g. a company culture)."
-group: world
+group: environment
 subgroup: structure
 easy_end: Decomposable
 hard_end: Tangled
@@ -20,7 +20,7 @@ sources:
 ---
 # Decomposable vs tangled
 
-An axis in the [Structure](index.md#structure) set of the [world](index.md#the-world) group.
+An axis in the [Structure](index.md#structure) set of the [environment](index.md#environment) group.
 
 Can you split the problem into parts, solve each one on its own and put them back together, or does each part only make sense in light of the others? A car engine mostly can. A family, an ecosystem or a company culture can't, because the parts only make sense together. Herbert Simon called the first kind nearly decomposable ([Near decomposability](../frameworks/1962-near-decomposability.md)).
 

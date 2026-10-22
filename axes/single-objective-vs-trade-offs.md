@@ -2,7 +2,7 @@
 type: Axis
 title: Single objective vs trade-offs
 description: "Single objective: there is one thing to get right (e.g. the fastest route home). Trade-offs: several goals pull against each other, so a gain on one costs you on another (e.g. price against safety in a new car)."
-group: decision
+group: performance
 subgroup: goal
 easy_end: Single objective
 hard_end: Trade-offs
@@ -20,7 +20,7 @@ sources:
 ---
 # Single objective vs trade-offs
 
-An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision) group.
+An axis in the [Goal](index.md#goal) set of the [performance](index.md#performance) group.
 
 Is there one thing to get right, or several goals that pull against each other, so a gain on one costs you on another? The fastest route home is one objective. A new car trades price against safety, comfort and running costs. The best cars form a front, where you can't gain on one goal without losing on another, and a car between two of them is usually on or near it too. What matters is the clash, not the count. A cook who wants a soup that is hot, cheap and quick has three goals, but if none costs the others anything they act as one.
 

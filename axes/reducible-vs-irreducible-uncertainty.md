@@ -2,7 +2,7 @@
 type: Axis
 title: Reducible vs irreducible uncertainty
 description: "Reducible uncertainty: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test). Irreducible uncertainty: no amount of fact finding would settle it (e.g. whether a rival cuts prices next year)."
-group: knower
+group: information
 subgroup: uncertainty
 easy_end: Reducible uncertainty
 hard_end: Irreducible uncertainty
@@ -22,7 +22,7 @@ sources:
 ---
 # Reducible vs irreducible uncertainty
 
-An axis in the [Uncertainty](index.md#uncertainty) set of the [knower](index.md#the-knower) group.
+An axis in the [Uncertainty](index.md#uncertainty) set of the [information](index.md#information) group.
 
 Is your doubt a gap that more data or research could close, or would no amount of fact finding settle it? Waiting on a blood test is reducible doubt, since the result will settle it. The most common reducible doubt is a fact that already exists but is hidden from you, like the other hands in poker. When nothing that matters is hidden, as on a chess board, you have no doubt of this kind and can act on what you see.
 

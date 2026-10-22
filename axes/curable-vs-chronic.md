@@ -2,7 +2,7 @@
 type: Axis
 title: Curable vs chronic
 description: "Curable: there is a point where the problem is solved and you can stop (e.g. wiping out smallpox). Chronic: there is no solved state, only a level you have to keep up (e.g. keeping malaria down)."
-group: decision
+group: performance
 subgroup: goal
 easy_end: Curable
 hard_end: Chronic
@@ -16,7 +16,7 @@ sources:
 ---
 # Curable vs chronic
 
-An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision) group.
+An axis in the [Goal](index.md#goal) set of the [performance](index.md#performance) group.
 
 Is there a point where the problem is solved and you can stop, or only a level you have to keep up for good? Smallpox ended. The last natural case was in Somalia in 1977, and in 1980 the World Health Assembly declared it gone. Malaria looked like it might go the same way. Sri Lanka began spraying homes with DDT in 1946, and by 1963 it recorded just 17 cases. Most of the spraying stopped that year, and by 1969 there were over half a million cases again. Malaria was treated as a job that could be finished, so it came back as soon as the work stopped.
 

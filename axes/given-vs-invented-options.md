@@ -2,7 +2,7 @@
 type: Axis
 title: Given vs invented options
 description: "Given options: the options are handed to you to pick from (e.g. a mortgage from a bank's list). Invented options: you have to invent the options first (e.g. saving a dying high street)."
-group: decision
+group: actions
 subgroup: options
 easy_end: Given options
 hard_end: Invented options
@@ -14,7 +14,7 @@ sources:
 ---
 # Given vs invented options
 
-An axis in the [Options](index.md#options) set of the [decision](index.md#the-decision) group.
+An axis in the [Options](index.md#options) set of the [actions](index.md#actions) group.
 
 Are the options handed to you to pick from, or do you have to invent them first? Picking a mortgage from a bank's list is choosing. Deciding what to do about a dying high street means making up the options first, and the best one may be something nobody has tried. Herbert Simon split decision making into finding the problem, designing options and choosing among them.
 

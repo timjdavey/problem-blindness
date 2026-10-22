@@ -2,7 +2,7 @@
 type: Axis
 title: Transparent vs opaque causes
 description: "Transparent causes: you can follow how one thing leads to another and predict what a change will do (e.g. a lever). Opaque causes: you can see every part but can't follow the whole chain (e.g. a trained neural network)."
-group: knower
+group: information
 subgroup: evidence
 easy_end: Transparent causes
 hard_end: Opaque causes
@@ -24,7 +24,7 @@ sources:
 ---
 # Transparent vs opaque causes
 
-An axis in the [Evidence](index.md#evidence) set of the [knower](index.md#the-knower) group.
+An axis in the [Evidence](index.md#evidence) set of the [information](index.md#information) group.
 
 Even when you can see every part, can you follow how one thing leads to another well enough to predict what a change will do? A lever is transparent. A trained neural network is opaque. You can read every one of its weights, and it follows fixed rules, yet nobody can say why it gave a particular answer. A large codebase is not the same, because a stack trace lets you follow a bug back step by step. Nothing like a stack trace exists for the weights.
 

@@ -2,7 +2,7 @@
 type: Axis
 title: Familiar vs novel to the solver
 description: "Familiar to the solver: the solver has met this kind of problem many times before (e.g. a doctor seeing a common cold). Novel to the solver: the problem is new to the solver, even if others have solved it (e.g. a question outside a model's training data)."
-group: knower
+group: agent
 subgroup: know-how
 easy_end: Familiar to the solver
 hard_end: Novel to the solver
@@ -16,7 +16,7 @@ sources:
 ---
 # Familiar vs novel to the solver
 
-An axis in the [Know-how](index.md#know-how) set of the [knower](index.md#the-knower) group.
+An axis in the [Know-how](index.md#know-how) set of the [agent](index.md#agent) group.
 
 Has the solver, person or model, met this kind of problem before, or is it new to them even if others have solved it? A doctor sees a common cold every day but a rare disease once in a career. For an AI model the question is whether the problem sits inside its training data, which affects whether it can recall an answer or has to work one out.
 

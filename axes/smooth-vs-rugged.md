@@ -2,8 +2,8 @@
 type: Axis
 title: Smooth vs rugged
 description: "Smooth landscape: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup). Rugged landscape: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code)."
-group: world
-subgroup: change
+group: environment
+subgroup: structure
 easy_end: Smooth landscape
 hard_end: Rugged landscape
 sources:
@@ -18,7 +18,7 @@ sources:
 ---
 # Smooth vs rugged
 
-An axis in the [Change](index.md#change) set of the [world](index.md#the-world) group.
+An axis in the [Structure](index.md#structure) set of the [environment](index.md#environment) group.
 
 If you change the inputs a little, does the result change a little, so rough answers and rules of thumb get you close, or can a small change make a big difference, so every detail matters and small steps stall? Seasoning a soup to taste is smooth. A pinch more salt makes it a little saltier, so a cook who is roughly right still serves a good soup. Code is rugged. One wrong character can stop it running, so an answer that looks almost right can be worth nothing. Tim Davey frames ruggedness this way, as how far a small change in the inputs can move the result.
 

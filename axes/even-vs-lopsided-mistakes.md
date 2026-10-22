@@ -2,7 +2,7 @@
 type: Axis
 title: Even vs lopsided mistakes
 description: "Even mistakes: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella). Lopsided mistakes: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire)."
-group: decision
+group: performance
 subgroup: stakes
 easy_end: Even mistakes
 hard_end: Lopsided mistakes
@@ -12,7 +12,7 @@ sources:
 ---
 # Even vs lopsided mistakes
 
-An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
+An axis in the [Stakes](index.md#stakes) set of the [performance](index.md#performance) group.
 
 Do a false alarm and a miss cost about the same, or is one mistake far worse than the other? A smoke alarm that goes off over toast costs you a minute. One that stays quiet in a fire can cost your life, so it should be set to cry wolf. A court leans the other way and would rather free the guilty than jail the innocent. Where to set the bar for saying yes depends on what each mistake costs, not just on how often you're right.
 

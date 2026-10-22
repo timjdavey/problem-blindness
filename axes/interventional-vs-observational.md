@@ -2,7 +2,7 @@
 type: Axis
 title: Interventional vs observational
 description: "Interventional: you can set the cause yourself and let chance decide who gets it (e.g. a drug trial). Observational: people's own choices or nature set the cause, so you can only watch what follows and guess (e.g. a study of nurses who chose hormone therapy)."
-group: knower
+group: information
 subgroup: evidence
 easy_end: Interventional
 hard_end: Observational
@@ -18,7 +18,7 @@ sources:
 ---
 # Interventional vs observational
 
-An axis in the [Evidence](index.md#evidence) set of the [knower](index.md#the-knower) group.
+An axis in the [Evidence](index.md#evidence) set of the [information](index.md#information) group.
 
 Can you set the cause yourself and let chance decide who gets it, or do people's own choices or nature set it, so you can only watch what follows? A drug trial gives the pill to some people and a dummy to others at random, so any gap comes from the pill. In 1991 a study of nearly 50,000 nurses found women on hormone therapy had about half the heart disease. That was watching, and the women who chose hormones were healthier to start with. A 2002 trial found the hormones raised heart disease. Judea Pearl puts seeing and doing on the bottom two rungs of his ladder of causation. Evidence from the first is called observational, and evidence from the second interventional.
 

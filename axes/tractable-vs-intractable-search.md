@@ -2,7 +2,7 @@
 type: Axis
 title: Tractable vs intractable search
 description: "Tractable search: you know every option and there are few enough to check them all (e.g. noughts and crosses). Intractable search: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions)."
-group: world
+group: environment
 subgroup: structure
 easy_end: Tractable search
 hard_end: Intractable search
@@ -14,7 +14,7 @@ sources:
 ---
 # Tractable vs intractable search
 
-An axis in the [Structure](index.md#structure) set of the [world](index.md#the-world) group.
+An axis in the [Structure](index.md#structure) set of the [environment](index.md#environment) group.
 
 Are there few enough options to check them all, or so many that no computer could, even when the rules are clear and everything is in view? Noughts and crosses has so few possible games that you can check every one. Go is fully visible, fixed and rule bound, yet it has about 10¹⁷⁰ legal board positions, far more than there are atoms in the universe, so you can't. The hardest problems whose answers are quick to check are called NP-complete. Nobody knows a method for them that stays fast as the problem grows.
 

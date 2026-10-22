@@ -2,7 +2,7 @@
 type: Axis
 title: Satisficing vs optimising
 description: "Satisficing: any answer that clears the bar will do (e.g. a lunch spot). Optimising: each extra bit of quality still pays off, so you need the best you can find (e.g. the dose of a strong drug)."
-group: decision
+group: performance
 subgroup: goal
 easy_end: Satisficing
 hard_end: Optimising
@@ -16,7 +16,7 @@ sources:
 ---
 # Satisficing vs optimising
 
-An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision) group.
+An axis in the [Goal](index.md#goal) set of the [performance](index.md#performance) group.
 
 Will any answer that clears the bar do, or does each extra bit of quality still pay off, so you need the best you can find? For a lunch spot, any decent place will do. Setting the dose of a strong drug, or tuning a racing car, is worth every extra bit of care.
 

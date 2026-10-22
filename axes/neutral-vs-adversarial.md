@@ -2,8 +2,8 @@
 type: Axis
 title: Neutral vs adversarial
 description: "Neutral: your mistakes are accidents, because the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella). Adversarial: someone whose goals differ from yours hunts for the cases your rule gets wrong (e.g. fraudsters)."
-group: world
-subgroup: response
+group: environment
+subgroup: reactivity
 easy_end: Neutral
 hard_end: Adversarial
 sources:
@@ -18,7 +18,7 @@ sources:
 ---
 # Neutral vs adversarial
 
-An axis in the [Response](index.md#response) set of the [world](index.md#the-world) group.
+An axis in the [Reactivity](index.md#reactivity) set of the [environment](index.md#environment) group.
 
 Are your mistakes accidents, or is someone picking them for you? Rain doesn't try to beat your umbrella, so the cases you meet are a fair sample and your errors fall where chance puts them. Fraudsters, hackers and rival traders are different. They study your rule, find the cases it gets wrong and send you more of those.
 

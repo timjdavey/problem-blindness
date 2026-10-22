@@ -2,7 +2,7 @@
 type: Axis
 title: Static vs dynamic
 description: "Static world: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword). Dynamic world: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve)."
-group: world
+group: environment
 subgroup: change
 easy_end: Static world
 hard_end: Dynamic world
@@ -14,7 +14,7 @@ sources:
 ---
 # Static vs dynamic
 
-An axis in the [Change](index.md#change) set of the [world](index.md#the-world) group.
+An axis in the [Change](index.md#change) set of the [environment](index.md#environment) group.
 
 Does the world wait while you act, or does it keep changing even if you do nothing? A crossword sits on the table until you finish it. A tennis serve is on you in half a second, so you have to watch the ball and predict where it will be. The psychologist E. C. Poulton called skills like the first closed and skills like the second open ([Open vs closed skills](../frameworks/1957-open-vs-closed-skills.md)). Russell and Norvig asked the same question of AI agents, and called the two ends static and dynamic ([Task environment properties](../frameworks/1995-task-environment-properties.md)).
 

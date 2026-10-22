@@ -2,8 +2,8 @@
 type: Axis
 title: Skin in the game vs none
 description: "Skin in the game: whoever makes the call bears the cost if it goes wrong (e.g. a shopkeeper pricing their own stock). No skin in the game: the cost lands on someone else (e.g. a broker paid for each loan whether or not it is repaid)."
-group: decision
-subgroup: people
+group: agent
+subgroup: incentives
 easy_end: Skin in the game
 hard_end: No skin in the game
 sources:
@@ -12,7 +12,7 @@ sources:
 ---
 # Skin in the game vs none
 
-An axis in the [People](index.md#people) set of the [decision](index.md#the-decision) group.
+An axis in the [Incentives](index.md#incentives) set of the [agent](index.md#agent) group.
 
 Does whoever makes the call bear the cost if it goes wrong, or does it land on someone else? A shopkeeper pricing their own stock does. A broker paid for each loan they sign, whether or not it is repaid, does not, and will sign worse loans. Michael Jensen and William Meckling called the cost of this gap an agency cost. An AI model never pays for its own mistakes, so ask whether the team that ships it does.
 

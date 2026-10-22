@@ -2,7 +2,7 @@
 type: Axis
 title: Clustered vs scattered runs
 description: "Clustered runs: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars). Scattered runs: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks)."
-group: world
+group: environment
 subgroup: randomness
 easy_end: Clustered runs
 hard_end: Scattered runs
@@ -18,7 +18,7 @@ sources:
 ---
 # Clustered vs scattered runs
 
-An axis in the [Randomness](index.md#randomness) set of the [world](index.md#the-world) group.
+An axis in the [Randomness](index.md#randomness) set of the [environment](index.md#environment) group.
 
 When runs disagree, do they fall into a few clear groups, so a few clues can tell you which one you are in, or do they scatter with no pattern to latch onto? No two snowflakes are alike, yet each is a plate, a column or a star. Climate runs for the UK split into a warm group and a cold one, where the Atlantic current fails. Tim Davey measures how tightly runs group and calls it cohesion.
 

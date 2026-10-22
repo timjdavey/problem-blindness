@@ -2,7 +2,7 @@
 type: Axis
 title: Deterministic vs stochastic
 description: "Deterministic: the same inputs always give exactly the same output (e.g. a sum). Stochastic: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter)."
-group: world
+group: environment
 subgroup: randomness
 easy_end: Deterministic
 hard_end: Stochastic
@@ -18,7 +18,7 @@ sources:
 ---
 # Deterministic vs stochastic
 
-An axis in the [Randomness](index.md#randomness) set of the [world](index.md#the-world) group.
+An axis in the [Randomness](index.md#randomness) set of the [environment](index.md#environment) group.
 
 Do the same inputs always give the same result, or only the same spread of results, so you can predict the rate but not the single case? A sum is deterministic. Which boiler breaks down this winter is statistical, though the rate across many boilers is steady.
 

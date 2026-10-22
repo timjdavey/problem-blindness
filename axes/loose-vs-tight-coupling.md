@@ -2,7 +2,7 @@
 type: Axis
 title: Loose vs tight coupling
 description: "Loose coupling: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest). Tight coupling: a fault spreads to other parts before anyone can react (e.g. a power grid)."
-group: world
+group: environment
 subgroup: stimulus
 easy_end: Loose coupling
 hard_end: Tight coupling
@@ -14,7 +14,7 @@ sources:
 ---
 # Loose vs tight coupling
 
-An axis in the [Stimulus](index.md#stimulus) set of the [world](index.md#the-world) group.
+An axis in the [Stimulus](index.md#stimulus) set of the [environment](index.md#environment) group.
 
 When one part fails, is there slack and time to step in, or does the fault spread to other parts before anyone can react? A delayed parcel rarely stops the rest of the post. In a tightly coupled system, like a power grid or a nuclear plant, one fault can cascade before anyone reacts.
 

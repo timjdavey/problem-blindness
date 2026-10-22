@@ -2,7 +2,7 @@
 type: Axis
 title: Plentiful vs scarce data
 description: "Plentiful data: there are many past cases like this one to learn from (e.g. card fraud). Scarce data: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident)."
-group: knower
+group: information
 subgroup: evidence
 easy_end: Plentiful data
 hard_end: Scarce data
@@ -20,7 +20,7 @@ sources:
 ---
 # Plentiful vs scarce data
 
-An axis in the [Evidence](index.md#evidence) set of the [knower](index.md#the-knower) group.
+An axis in the [Evidence](index.md#evidence) set of the [information](index.md#information) group.
 
 Have there been enough past cases like this one to learn the pattern from, or so few that you have almost nothing to go on? Card fraud happens millions of times a year. A nuclear accident or a once in a century flood gives you almost nothing to go on.
 

@@ -2,7 +2,7 @@
 type: Axis
 title: Well vs ill-structured
 description: "Well-structured: the problem is clearly stated, with a known goal, known moves and a clear end (e.g. a maths exam question). Ill-structured: working out what the problem is, or how to attack it, becomes part of the job (e.g. \"fix homelessness\")."
-group: decision
+group: performance
 subgroup: goal
 easy_end: Well-structured
 hard_end: Ill-structured
@@ -24,7 +24,7 @@ sources:
 ---
 # Well vs ill-structured
 
-An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision) group.
+An axis in the [Goal](index.md#goal) set of the [performance](index.md#performance) group.
 
 Is the problem clearly stated, with a known goal, known moves to get there and a clear point where you are done? Or is working out the problem, or how to attack it, part of the job? A maths exam question is well structured. "Fix homelessness" is not, so working out what the problem actually is becomes part of the job. The terms come from Herbert Simon. Don't mix them up with a "well-posed" problem in maths, which Jacques Hadamard defined as one with a single answer that moves only a little when the inputs do. That idea is closer to [Smooth vs rugged](smooth-vs-rugged.md).
 

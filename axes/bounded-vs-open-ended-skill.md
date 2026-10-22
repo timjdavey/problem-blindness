@@ -2,7 +2,7 @@
 type: Axis
 title: Bounded vs open-ended skill
 description: "Bounded skill: the know-how is a small, closed set that anyone competent masters fully (e.g. the alphabet). Open-ended skill: the know-how has no ceiling, so solvers keep improving and differ widely (e.g. knowing which research questions are worth asking)."
-group: knower
+group: agent
 subgroup: know-how
 easy_end: Bounded skill
 hard_end: Open-ended skill
@@ -12,7 +12,7 @@ sources:
 ---
 # Bounded vs open-ended skill
 
-An axis in the [Know-how](index.md#know-how) set of the [knower](index.md#the-knower) group.
+An axis in the [Know-how](index.md#know-how) set of the [agent](index.md#agent) group.
 
 Can the know-how the task needs be learnt in full, or does it have no ceiling? There are 26 letters, and once you know them all there is nothing left to learn. Interpreting a poem is different. Readers find more in the same sonnet at sixty than they did at sixteen. Research taste is the same. Knowing which questions are worth asking keeps improving over a whole career, and the best researchers are far ahead of the merely good. Scott Paris called the first kind constrained and the second unconstrained ([Constrained vs unconstrained skills](../frameworks/2005-constrained-vs-unconstrained-skills.md)).
 

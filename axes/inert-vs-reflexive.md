@@ -2,8 +2,8 @@
 type: Axis
 title: Inert vs reflexive
 description: "Inert: the system behaves the same whether or not you model it (e.g. a rock). Reflexive: people believe or follow your forecasts and scores, and that changes the outcome, with nobody aiming at you (e.g. a forecast that a bank will fail sets off a run on it)."
-group: world
-subgroup: response
+group: environment
+subgroup: reactivity
 easy_end: Inert
 hard_end: Reflexive
 sources:
@@ -20,7 +20,7 @@ sources:
 ---
 # Inert vs reflexive
 
-An axis in the [Response](index.md#response) set of the [world](index.md#the-world) group.
+An axis in the [Reactivity](index.md#reactivity) set of the [environment](index.md#environment) group.
 
 Does the system behave the same whether or not you model it, or does the way people respond to your forecasts, scores and actions change the outcome? A rock doesn't care if you measure it. Publish a forecast that a bank will fail and people pull their money out, which makes it fail. A forecast can also defeat itself. Warn that a road will jam and drivers take another route, so it flows freely. Both are reflexive, because in each case the forecast changed the outcome. Actions do it too. A recommender changes what people click, then learns from those clicks as if they were the world.
 

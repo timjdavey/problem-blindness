@@ -2,7 +2,7 @@
 type: Axis
 title: Stable vs chaotic
 description: "Lyapunov stable: small errors in what you know today stay small, so you can forecast far ahead (e.g. the tides). Chaotic: tiny errors grow fast, so a forecast soon becomes useless (e.g. the weather two weeks out)."
-group: world
+group: environment
 subgroup: change
 easy_end: Lyapunov stable
 hard_end: Chaotic
@@ -14,7 +14,7 @@ sources:
 ---
 # Stable vs chaotic
 
-An axis in the [Change](index.md#change) set of the [world](index.md#the-world) group.
+An axis in the [Change](index.md#change) set of the [environment](index.md#environment) group.
 
 How far ahead can you forecast before tiny errors in what you know today grow too large for the forecast to be any use? The tides can be forecast years ahead. The weather two weeks out can't, even though the physics is well understood. Systems where small errors grow this fast are called chaotic. Edward Lorenz found this in 1961, when rounding one number in his weather model to three decimal places gave a different forecast. Systems where small errors stay small are called Lyapunov stable, after the Russian mathematician Aleksandr Lyapunov. Stable here means the errors stay small, not that the world stays the same. A stable system can still drift, as [Stationary vs drifting](stationary-vs-drifting.md) explains.
 

@@ -2,7 +2,7 @@
 type: Axis
 title: Additive vs multiplicative returns
 description: "Additive returns: gains and losses add up, so the average is what you can expect (e.g. betting the same £10 every round). Multiplicative returns: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round)."
-group: decision
+group: performance
 subgroup: stakes
 easy_end: Additive returns
 hard_end: Multiplicative returns
@@ -12,7 +12,7 @@ sources:
 ---
 # Additive vs multiplicative returns
 
-An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
+An axis in the [Stakes](index.md#stakes) set of the [performance](index.md#performance) group.
 
 Do gains and losses add up, so the average outcome is what you can expect, or do they compound, so one player over time can do far worse than the average? In Ole Peters' coin game heads grows your wealth by 50% and tails shrinks it by 40%. The crowd's average rises 5% a round, while a typical player loses about 5% a round. When the crowd's average and one player's long run result differ like this, the game is called non-ergodic.
 

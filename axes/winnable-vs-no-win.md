@@ -2,7 +2,7 @@
 type: Axis
 title: Winnable vs no-win
 description: "Winnable: a clean win is possible, so you can come out ahead (e.g. proving a famous theorem). No-win: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with no engines)."
-group: decision
+group: performance
 subgroup: stakes
 easy_end: Winnable
 hard_end: No-win
@@ -18,7 +18,7 @@ sources:
 ---
 # Winnable vs no-win
 
-An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
+An axis in the [Stakes](index.md#stakes) set of the [performance](index.md#performance) group.
 
 Can you come out ahead, or is the best outcome on offer still a loss? In 2002 and 2003 Grigori Perelman posted a proof of the Poincaré conjecture, one of the Millennium Prize problems. It was done, with nothing left to regret. On 15 January 2009 US Airways Flight 1549 hit a flock of geese about two minutes after leaving LaGuardia and lost both engines. Chesley Sullenberger and Jeffrey Skiles put it down on the Hudson, and all 155 people on board survived. That is about as good as the outcome could have been, and the plane was still lost.
 

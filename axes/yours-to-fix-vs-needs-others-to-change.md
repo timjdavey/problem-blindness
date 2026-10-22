@@ -2,8 +2,8 @@
 type: Axis
 title: Yours to fix vs needs others to change
 description: "Yours to fix: you hold the levers yourself (e.g. a surgeon unblocking an artery). Needs others to change: the fix depends on other people changing what they do (e.g. a patient giving up smoking)."
-group: decision
-subgroup: options
+group: actions
+subgroup: control
 easy_end: Yours to fix
 hard_end: Needs others to change
 sources:
@@ -18,7 +18,7 @@ sources:
 ---
 # Yours to fix vs needs others to change
 
-An axis in the [Options](index.md#options) set of the [decision](index.md#the-decision) group.
+An axis in the [Control](index.md#control) set of the [actions](index.md#actions) group.
 
 Do you hold the levers, or does the fix depend on other people changing what they do? A surgeon can unblock a man's arteries on his own. Whether the man lives another twenty years depends on whether he stops smoking, and no surgeon can do that for him. Climate change is harder still, because nobody is in charge and the people trying to fix it are also causing it. Ronald Heifetz calls the first kind of problem technical and the second adaptive.
 

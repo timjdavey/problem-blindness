@@ -2,8 +2,8 @@
 type: Axis
 title: Private vs accountable
 description: "Private choice: the choice is yours alone (e.g. picking a film). Accountable choice: you must explain and defend the choice to others (e.g. a bank refusing a loan)."
-group: decision
-subgroup: people
+group: agent
+subgroup: incentives
 easy_end: Private choice
 hard_end: Accountable choice
 sources:
@@ -14,7 +14,7 @@ sources:
 ---
 # Private vs accountable
 
-An axis in the [People](index.md#people) set of the [decision](index.md#the-decision) group.
+An axis in the [Incentives](index.md#incentives) set of the [agent](index.md#agent) group.
 
 Is the choice yours alone, or must you explain and defend it to others, such as a regulator, a court or the person affected? A hunch is fine for picking a film. A loan refusal, a court ruling or a medical decision may have to be explained, audited or defended in law, which rules out some methods even when they would work better.
 

@@ -2,7 +2,7 @@
 type: Axis
 title: Thin vs fat tails
 description: "Thin tails: results stay close to the average, so the average tells you a lot (e.g. people's heights). Fat tails: one extreme case can outweigh all the rest put together (e.g. floods or startup returns)."
-group: world
+group: environment
 subgroup: randomness
 easy_end: Thin tails
 hard_end: Fat tails
@@ -16,7 +16,7 @@ sources:
 ---
 # Thin vs fat tails
 
-An axis in the [Randomness](index.md#randomness) set of the [world](index.md#the-world) group.
+An axis in the [Randomness](index.md#randomness) set of the [environment](index.md#environment) group.
 
 When results vary, do they stay close to the average, or can one extreme case outweigh all the rest put together? Heights are thin tailed, so the average tells you a lot. Floods, pandemics and startup returns are fat tailed, so one outlier can outweigh everything else and past averages mislead you.
 

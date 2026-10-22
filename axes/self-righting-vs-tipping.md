@@ -2,7 +2,7 @@
 type: Axis
 title: Self-righting vs tipping
 description: "Self-righting: after a push the system goes back to where it was, like a ball in a bowl (e.g. body temperature). Tipping point: past some push the system flips into a new state and stays there, like a ball on a hilltop (e.g. a clear lake turning murky)."
-group: world
+group: environment
 subgroup: stimulus
 easy_end: Self-righting
 middle: Malleable
@@ -17,7 +17,7 @@ sources:
 ---
 # Self-righting vs tipping
 
-An axis in the [Stimulus](index.md#stimulus) set of the [world](index.md#the-world) group.
+An axis in the [Stimulus](index.md#stimulus) set of the [environment](index.md#environment) group.
 
 When something pushes the system, does it go back to where it was or stay where it was pushed? Or does it flip into a new state and stay there? Picture a ball. In a bowl it rolls back to the bottom. On a flat table it stays wherever you leave it. On a hilltop a small nudge sends it off the edge, and it won't roll back up. Materials show the same three cases. Elastic things spring back, plastic things stay bent and brittle things snap.
 

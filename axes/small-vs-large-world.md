@@ -2,7 +2,7 @@
 type: Axis
 title: Small vs large world
 description: "Small world: a fixed procedure generates every way things might turn out, so you can compute or sample the outcomes before you choose, even when there are too many to list (e.g. a lottery ticket). Large world: no procedure generates the outcomes, so you can't sample them and the result could be something nobody thought to list (e.g. a new product hit by a change in the law)."
-group: knower
+group: information
 subgroup: uncertainty
 easy_end: Small world
 hard_end: Large world
@@ -16,7 +16,7 @@ sources:
 ---
 # Small vs large world
 
-An axis in the [Uncertainty](index.md#uncertainty) set of the [knower](index.md#the-knower) group.
+An axis in the [Uncertainty](index.md#uncertainty) set of the [information](index.md#information) group.
 
 Is there a fixed procedure that generates every way things might turn out, so you can work out or sample the outcomes before you choose? Or could the result be something nobody thought to list? A lottery ticket wins or loses, and nothing else can happen. A new product can fail in ways nobody thought to list, like a rival's launch or a change in the law. Go has more positions than anyone could list, yet its rules generate every one. A large world has no such procedure, so there is nothing to sample from. Leonard Savage called the first a small world and the second a large one, and said his theory of rational choice only works in the small one.
 

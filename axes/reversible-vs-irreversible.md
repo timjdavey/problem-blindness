@@ -2,8 +2,8 @@
 type: Axis
 title: Reversible vs irreversible
 description: "Reversible: if it goes wrong you can undo it cheaply and try again (e.g. a new recipe). Irreversible: once it is done you are stuck with it (e.g. selling the family home)."
-group: decision
-subgroup: stakes
+group: actions
+subgroup: control
 easy_end: Reversible
 hard_end: Irreversible
 sources:
@@ -14,7 +14,7 @@ sources:
 ---
 # Reversible vs irreversible
 
-An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
+An axis in the [Control](index.md#control) set of the [actions](index.md#actions) group.
 
 If it goes wrong, can you undo it cheaply and try again, or are you stuck with it? Trying a new recipe is a two way door. Selling the family home or cutting off a leg is a one way door.
 

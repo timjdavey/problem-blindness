@@ -2,7 +2,7 @@
 type: Axis
 title: Risk vs Knightian uncertainty
 description: "Measurable risk: you can put a number you trust on each outcome (e.g. a dice roll). Knightian uncertainty: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off)."
-group: knower
+group: information
 subgroup: uncertainty
 easy_end: Measurable risk
 hard_end: Knightian uncertainty
@@ -26,7 +26,7 @@ sources:
 ---
 # Risk vs Knightian uncertainty
 
-An axis in the [Uncertainty](index.md#uncertainty) set of the [knower](index.md#the-knower) group.
+An axis in the [Uncertainty](index.md#uncertainty) set of the [information](index.md#information) group.
 
 Can you put a number you trust on how likely each outcome is, or do you only know that things are uncertain? A dice roll has known odds. Whether a new technology takes off does not, and pretending it does gives you false confidence. In 1921 the economist Frank Knight called doubt you can put a number on risk, and doubt you can't put a number on uncertainty. Since "uncertainty" now gets used for both, the second kind is called Knightian uncertainty.
 

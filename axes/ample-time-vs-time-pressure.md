@@ -2,8 +2,8 @@
 type: Axis
 title: Ample time vs time pressure
 description: "Ample time: you have time to gather facts and think before things change (e.g. a pension plan). Time pressure: you must act in seconds or minutes (e.g. a pilot with a failed engine)."
-group: decision
-subgroup: options
+group: actions
+subgroup: control
 easy_end: Ample time
 hard_end: Time pressure
 sources:
@@ -18,7 +18,7 @@ sources:
 ---
 # Ample time vs time pressure
 
-An axis in the [Options](index.md#options) set of the [decision](index.md#the-decision) group.
+An axis in the [Control](index.md#control) set of the [actions](index.md#actions) group.
 
 Do you have time to gather facts and think before things change, or must you act in seconds or minutes? A pension plan gives you months. A pilot with a failed engine has seconds.
 

@@ -2,7 +2,7 @@
 type: Axis
 title: Immediate vs delayed feedback
 description: "Immediate feedback: you find out soon whether you were right (e.g. throwing darts). Delayed feedback: the result arrives years later or never, so you get few chances to learn (e.g. planting an orchard)."
-group: knower
+group: information
 subgroup: evidence
 easy_end: Immediate feedback
 hard_end: Delayed feedback
@@ -18,7 +18,7 @@ sources:
 ---
 # Immediate vs delayed feedback
 
-An axis in the [Evidence](index.md#evidence) set of the [knower](index.md#the-knower) group.
+An axis in the [Evidence](index.md#evidence) set of the [information](index.md#information) group.
 
 How long after you act do you find out whether you were right? A darts player sees where each dart lands a second after throwing it, and adjusts the next one. Someone planting an apple orchard waits years for the first real crop, so a working life gives them a few dozen tries at most. Slow feedback means few tries to learn from. By the time the result comes in, the world may have moved on and you may have forgotten why you chose what you did.
 

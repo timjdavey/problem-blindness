@@ -2,8 +2,8 @@
 type: Axis
 title: Diversifiable vs single bet
 description: "Diversifiable: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares). Single bet: you can only take one course of action, so everything rides on it (e.g. which job offer to accept)."
-group: decision
-subgroup: stakes
+group: actions
+subgroup: options
 easy_end: Diversifiable
 hard_end: Single bet
 sources:
@@ -16,7 +16,7 @@ sources:
 ---
 # Diversifiable vs single bet
 
-An axis in the [Stakes](index.md#stakes) set of the [decision](index.md#the-decision) group.
+An axis in the [Options](index.md#options) set of the [actions](index.md#actions) group.
 
 Can you split your stake across several options at once, or does everything ride on one? A pension fund holds hundreds of shares, so no single one has to be right. You can only accept one job offer, and a bridge can only be built in one town. Being able to undo a choice is another way to avoid staking everything on one guess. That spreads your tries across time, and this axis spreads them across options. But spreading only helps when the bets can fail on their own. Harry Markowitz showed that bets which rise and fall together are close to one bet ([Portfolio selection](../frameworks/1952-portfolio-selection.md)).
 

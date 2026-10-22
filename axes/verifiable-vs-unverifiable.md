@@ -2,8 +2,8 @@
 type: Axis
 title: Verifiable vs unverifiable
 description: "Verifiable: you can check an answer quickly and cheaply before you act on it (e.g. a solved sudoku). Unverifiable: checking an answer costs about as much as finding it, or more, so in practice you can't check it before you act (e.g. a business strategy)."
-group: decision
-subgroup: goal
+group: information
+subgroup: evidence
 easy_end: Verifiable
 hard_end: Unverifiable
 sources:
@@ -16,7 +16,7 @@ sources:
 ---
 # Verifiable vs unverifiable
 
-An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision) group.
+An axis in the [Evidence](index.md#evidence) set of the [information](index.md#information) group.
 
 Once you have an answer, can you check it quickly and cheaply before you act on it? A solved sudoku takes seconds to check. A business strategy has no such check, and the world may take years to grade it. Unverifiable here doesn't mean the answer can never be judged. It means a check before you act would cost about as much as finding the answer, or more, and a check that dear is no check at all. Computer scientists draw the line in the same place. A problem in NP is one whose answers are verifiable fast, however long they take to find. Proving a delivery route is the shortest is not, since no known method checks it much faster than solving the whole problem again. AI labs now train models on tasks with verifiable rewards for the same reason.
 

@@ -2,7 +2,7 @@
 type: Axis
 title: Antifragile vs wears out
 description: "Antifragile: each stress leaves the system stronger than before, up to a point (e.g. a muscle after a workout). Wears out: each stress uses up some of the system's life, until it fails (e.g. metal fatigue in an aircraft)."
-group: world
+group: environment
 subgroup: stimulus
 easy_end: Antifragile
 middle: Robust
@@ -13,7 +13,7 @@ sources:
 ---
 # Antifragile vs wears out
 
-An axis in the [Stimulus](index.md#stimulus) set of the [world](index.md#the-world) group.
+An axis in the [Stimulus](index.md#stimulus) set of the [environment](index.md#environment) group.
 
 After many pushes, has the system itself changed for the better or for the worse? A muscle comes back from a workout a little stronger. Bone does the same, and it withers without load. Astronauts lose 1 to 1.5% of their bone density for every month they spend in space. Nassim Nicholas Taleb called things that gain from stress antifragile ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)). In the middle sit robust things, which stress leaves the same. A computer program is the same after a billion runs as after one.
 

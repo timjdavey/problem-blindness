@@ -2,8 +2,8 @@
 type: Axis
 title: Shared vs contested values
 description: "Shared values: everyone affected ranks the possible results the same way, or one person owns the choice (e.g. a bridge should stay up). Contested values: the people affected rank the results differently, and nobody has the standing to settle it alone (e.g. where to build the bridge)."
-group: decision
-subgroup: people
+group: performance
+subgroup: goal
 easy_end: Shared values
 hard_end: Contested values
 sources:
@@ -26,7 +26,7 @@ sources:
 ---
 # Shared vs contested values
 
-An axis in the [People](index.md#people) set of the [decision](index.md#the-decision) group.
+An axis in the [Goal](index.md#goal) set of the [performance](index.md#performance) group.
 
 Do all the people affected rank the possible results the same way, or do they want different things, with nobody who can settle it alone? A bridge should stay up, and nobody argues. Where to build the bridge, and whose homes it passes, depends on whose interests count.
 

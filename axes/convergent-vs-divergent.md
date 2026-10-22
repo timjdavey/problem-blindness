@@ -2,7 +2,7 @@
 type: Axis
 title: Convergent vs divergent
 description: "Convergent: the good answers sit together, so a blend of two good ones is also good (e.g. a sum, or a phone trading battery life for size). Divergent: the good answers differ in kind, so halfway between two is worse than either (e.g. a funny wedding speech and a moving one)."
-group: decision
+group: performance
 subgroup: goal
 easy_end: Convergent
 hard_end: Divergent
@@ -12,7 +12,7 @@ sources:
 ---
 # Convergent vs divergent
 
-An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision) group.
+An axis in the [Goal](index.md#goal) set of the [performance](index.md#performance) group.
 
 Do the good answers sit together, or in separate places that differ in kind? A sum has one right answer. A wedding speech, a logo or a sonnet about autumn has many, and two very different ones can both be excellent. J. P. Guilford called the thinking for the first kind convergent and for the second divergent.
 

@@ -2,7 +2,7 @@
 type: Axis
 title: Coherent vs incoherent runs
 description: "Coherent runs: every run of the system gives the same spread of results, so the pooled average stands for any run (e.g. a die). Incoherent runs: each run settles somewhere different, so the pooled average describes none of them (e.g. climate model runs that split into warm and cold futures)."
-group: world
+group: environment
 subgroup: randomness
 easy_end: Coherent runs
 hard_end: Incoherent runs
@@ -16,7 +16,7 @@ sources:
 ---
 # Coherent vs incoherent runs
 
-An axis in the [Randomness](index.md#randomness) set of the [world](index.md#the-world) group.
+An axis in the [Randomness](index.md#randomness) set of the [environment](index.md#environment) group.
 
 Run the same system several times. Does each run give the same spread of results, so the pooled average stands for any of them? Or does each run settle somewhere different, so the pooled average describes none of them? A run here is a whole outcome with many parts, like one simulation, one week of trips or one snowflake. A die is coherent, since a thousand rolls on Monday look like a thousand on Tuesday. Climate model runs for the UK are incoherent. Most end 7 to 9 degrees warmer, while a few have the Atlantic current fail and end colder than today. Pool them and you get a mild future no run produced. Tim Davey measures how far runs disagree with entropy and calls it incoherence ([Incoherence](../frameworks/2024-incoherence.md)).
 

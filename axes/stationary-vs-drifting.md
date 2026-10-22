@@ -2,7 +2,7 @@
 type: Axis
 title: Stationary vs drifting
 description: "Stationary: the patterns in past data still hold today (e.g. gravity). Drifting: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang)."
-group: world
+group: environment
 subgroup: change
 easy_end: Stationary
 hard_end: Drifting
@@ -18,7 +18,7 @@ sources:
 ---
 # Stationary vs drifting
 
-An axis in the [Change](index.md#change) set of the [world](index.md#the-world) group.
+An axis in the [Change](index.md#change) set of the [environment](index.md#environment) group.
 
 Do the patterns in your past data still hold, or does the world keep shifting so that what you learnt goes stale? Gravity stays put. Music tastes, fashion and slang keep moving, so old data goes stale.
 
