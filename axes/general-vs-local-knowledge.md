@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: General vs local knowledge
-description: "General: the answer rests on facts anyone could look up (e.g. how insulin works). Local: the answer rests on facts that only people close to it know (e.g. whether this patient takes their insulin)."
+description: "General knowledge: the answer rests on facts anyone could look up (e.g. how insulin works). Local knowledge: the answer rests on facts that only people close to it know (e.g. whether this patient takes their insulin)."
 group: knower
 subgroup: know-how
-easy_end: General
-hard_end: Local
+easy_end: General knowledge
+hard_end: Local knowledge
 sources:
   - resource: /frameworks/1945-use-of-knowledge-in-society.md
     title: Use of knowledge in society
@@ -18,11 +18,11 @@ Does the answer rest on facts anyone could look up, or on facts about this place
 
 ## Actions
 
-**General**: Let the model answer from what it knows.
+**General knowledge**: Let the model answer from what it knows.
 - Trust its training data. Facts anyone could look up are already in it.
 - Skip the search step. Feeding in documents adds cost, and can add noise when the model already knows the answer.
 
-**Local**: Feed in the local facts or ask someone who has them.
+**Local knowledge**: Feed in the local facts or ask someone who has them.
 - Search your own records. That puts facts in front of the model that no training data holds.
 - Give the model live data. Local facts change daily, so a snapshot goes stale.
 - Treat the person on the ground as the source of truth. When the model and the shop manager disagree about the shop, the manager wins.

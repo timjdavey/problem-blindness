@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Explicit vs tacit know-how
-description: "Explicit: the know-how can be written down as rules (e.g. a tax rule). Tacit: the know-how lives in experts' hands and gut feel, so it can only be learnt from examples (e.g. a nurse sensing a patient is about to crash)."
+description: "Explicit know-how: the know-how can be written down as rules (e.g. a tax rule). Tacit know-how: the know-how lives in experts' hands and gut feel, so it can only be learnt from examples (e.g. a nurse sensing a patient is about to crash)."
 group: knower
 subgroup: know-how
-easy_end: Explicit
-hard_end: Tacit
+easy_end: Explicit know-how
+hard_end: Tacit know-how
 sources:
   - resource: /frameworks/1967-routine-vs-non-routine-technology.md
     title: Routine vs non-routine technology
@@ -24,11 +24,11 @@ Can the know-how be written down as rules, or does it live in experts' hands and
 
 ## Actions
 
-**Explicit**: Write it down and hand it over.
+**Explicit know-how**: Write it down and hand it over.
 - Put the rules in the prompt, the code or a checklist. If an expert can say it, a model can be told it.
 - Test the model against the written rules. Each rule becomes a test case.
 
-**Tacit**: Learn from examples and judges, not instructions.
+**Tacit know-how**: Learn from examples and judges, not instructions.
 - Collect demonstrations. Showing the model good work teaches what words can't.
 - Gather expert ratings. Experts can tell good from bad even when they can't say why.
 - Keep experts in the loop to grade outputs. Their judgement is the only check you have.

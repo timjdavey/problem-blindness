@@ -1,10 +1,10 @@
 ---
 type: Axis
 title: Spread vs single bet
-description: "Spread: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares). Single bet: you can only take one course of action, so everything rides on it (e.g. which job offer to accept)."
+description: "Spread bets: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares). Single bet: you can only take one course of action, so everything rides on it (e.g. which job offer to accept)."
 group: decision
 subgroup: stakes
-easy_end: Spread
+easy_end: Spread bets
 hard_end: Single bet
 sources:
   - resource: /frameworks/1952-portfolio-selection.md
@@ -22,7 +22,7 @@ Can you split your stake across several options at once, or does everything ride
 
 ## Actions
 
-**Spread**: Back several and let the results pick.
+**Spread bets**: Back several and let the results pick.
 - Run several prompts, models or agents side by side and keep the one that passes the checker.
 - Split live traffic between versions instead of switching all at once.
 - Barbell when the tails are fat. Most of the stake goes on the safe option and a small slice on a few wild ones ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
@@ -41,7 +41,7 @@ Can you split your stake across several options at once, or does everything ride
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (logic). Spreading is the main cure for ruin, since no one loss can knock you out. But they aren't the same. Mortgage bonds in 2008 looked spread across thousands of loans and still failed together ([Portfolio selection](../frameworks/1952-portfolio-selection.md)), and a single bet on lunch harms nobody.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). When the tails are fat a few wild bets carry most of the upside, so you need to be able to back several. A barbell puts a small slice on them and keeps the rest safe ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). Spreading is not blending. Halfway between a funny speech and a moving one is a bad speech, but you can draft both and keep one. A barbell beats the middling option because it spreads across a fork instead of blending it.
-- [Test vs watch](test-vs-watch.md) (logic). A fair test needs you to do more than one thing at once. With only one economy there is no control group. But the two come apart, since a portfolio spreads without testing anything.
+- [Interventional vs observational](interventional-vs-observational.md) (logic). A fair test needs you to do more than one thing at once. With only one economy there is no control group. But the two come apart, since a portfolio spreads without testing anything.
 - [Standalone vs sequential](standalone-vs-sequential.md) (independent). This axis asks whether you can back several options at once. That one asks whether each choice shapes the next. A [bandit](../frameworks/1933-multi-armed-bandit.md) makes one pull at a time and each pull shapes what it tries next, while a fund can back a hundred shares and treat each as its own call.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). A budget can be split between rival groups, so each gets some of what it wants. A bridge can't, so someone has to lose.
 

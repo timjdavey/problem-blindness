@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Loose vs tight coupling
-description: "Loose: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest). Tight: a fault spreads to other parts before anyone can react (e.g. a power grid)."
+description: "Loose coupling: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest). Tight coupling: a fault spreads to other parts before anyone can react (e.g. a power grid)."
 group: world
 subgroup: structure
-easy_end: Loose
-hard_end: Tight
+easy_end: Loose coupling
+hard_end: Tight coupling
 sources:
   - resource: /frameworks/1976-loosely-coupled-systems.md
     title: Loosely coupled systems
@@ -20,11 +20,11 @@ When one part fails, is there slack and time to step in, or does the fault sprea
 
 ## Actions
 
-**Loose**: Let things fail and fix them.
+**Loose coupling**: Let things fail and fix them.
 - Rely on review after the fact. There is time to spot an error and step in before it spreads.
 - Automate early. A mistake costs a fix, not a cascade.
 
-**Tight**: Build in slack and breaks before you automate.
+**Tight coupling**: Build in slack and breaks before you automate.
 - Put circuit breakers, rate limits and kill switches between a model and anything it can trigger. Automated trading learnt this in the 2010 flash crash, when US shares fell about 9% in minutes.
 - Don't let models feed each other without a check in between. One model's error becomes the next one's input and grows at each step.
 - Add slack where you can. Queues, buffers and delays give people time to see a fault before it spreads.

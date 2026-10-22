@@ -47,9 +47,9 @@ Two things go wrong at this end. First, people facing a sure loss will gamble to
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (independent). That axis is about how bad the worst case is, and this one is about how good the best case is. A tightrope walk has ruin as its worst case and a clean win as its best. Choosing which of two friends to let down is no-win but small.
 - [Private vs accountable](private-vs-accountable.md) (logic). Anyone who must defend a no-win choice will be judged by the loss. A record of what was known at the time is the main defence against [outcome bias](../frameworks/1988-outcome-bias.md).
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). When a loss has to land somewhere, people fight over where. Every line in a budget cut has someone who loses. But everyone on Flight 1549 wanted the same thing.
-- [Single vs multiple objectives](single-vs-multiple-objectives.md) (bundled). Tetlock's tragic trade-offs, such as choosing which of two sick boys to treat, set one sacred value against another, so some loss is certain ([Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)). But Sullenberger had one objective and still couldn't win.
-- [Complete vs incomplete score](complete-vs-incomplete-score.md) (logic). A score measured from zero makes every damage limitation outcome look like failure. What would have happened anyway has to be part of the score.
-- [Ends vs never-ending](ends-vs-never-ending.md) (independent). Carse's finite game both ends and can be won, but the two traits come apart. A crash landing is over in minutes and can't be won. A farm never finishes, yet it can have a good harvest every year.
+- [Single objective vs trade-offs](single-objective-vs-trade-offs.md) (bundled). Tetlock's tragic trade-offs, such as choosing which of two sick boys to treat, set one sacred value against another, so some loss is certain ([Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)). But Sullenberger had one objective and still couldn't win.
+- [Direct vs proxy measure](direct-vs-proxy-measure.md) (logic). A score measured from zero makes every damage limitation outcome look like failure. What would have happened anyway has to be part of the score.
+- [Finite vs ongoing](finite-vs-ongoing.md) (independent). Carse's finite game both ends and can be won, but the two traits come apart. A crash landing is over in minutes and can't be won. A farm never finishes, yet it can have a good harvest every year.
 
 ## Citations
 

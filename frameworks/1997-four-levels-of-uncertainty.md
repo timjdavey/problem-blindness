@@ -20,7 +20,7 @@ At the first level the future is clear enough. You can make one forecast and it 
 
 The authors saw managers make two opposite errors. Some treat every problem as level one, build a single forecast and are blindsided. Others decide the future is unknowable and give up on analysis entirely. Both are wrong. A level two problem calls for a plan for each outcome and a way to spot which one is coming. A level four problem calls for small bets and options you can grow later.
 
-This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md) axis.
+This framework feeds the [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) axis.
 
 ## Examples
 

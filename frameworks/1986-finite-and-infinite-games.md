@@ -18,10 +18,10 @@ Carse's finite game bundles two traits. It ends, and it can be won. This project
 
 The trait this sorts on is whether there is a point where the play stops and the result is settled. The mistake is to play an infinite game as if it were finite. You set a target, hit it, declare victory and move the people and money elsewhere. The problem then grows back, often worse than before. The better response is to measure the level you keep up over time, not a single win, and to fund the work as something that never stops.
 
-This framework feeds the [Ends vs never-ending](../axes/ends-vs-never-ending.md) axis.
+This framework feeds the [Finite vs ongoing](../axes/finite-vs-ongoing.md) axis.
 
 ## Examples
 
-**Painting the Forth Bridge.** The Forth Bridge in Scotland opened in 1890. For decades a team of painters worked their way along it, and "like painting the Forth Bridge" became a British saying for a job that never ends. From 2002 to 2011 Network Rail spent about £130 million stripping it to bare metal and coating it in a paint designed to last about 25 years. That didn't make the problem finite. It made each round of work last longer, which is often the best you can do with a never-ending problem.
+**Painting the Forth Bridge.** The Forth Bridge in Scotland opened in 1890. For decades a team of painters worked their way along it, and "like painting the Forth Bridge" became a British saying for a job that never ends. From 2002 to 2011 Network Rail spent about £130 million stripping it to bare metal and coating it in a paint designed to last about 25 years. That didn't make the problem finite. It made each round of work last longer, which is often the best you can do with an ongoing problem.
 
 **Mission Accomplished.** On 1 May 2003 George W. Bush stood on an aircraft carrier under a banner reading "Mission Accomplished" and said major combat in Iraq had ended. The invasion was a finite game, and it had been won. Keeping Iraq stable was an infinite one. About 140 American troops had died by that day. More than 4,000 died after it.

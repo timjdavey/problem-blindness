@@ -1,11 +1,11 @@
 ---
 type: Axis
-title: Test vs watch
-description: "Test: you can run a fair test where chance decides who gets what (e.g. a drug trial). Watch: you can only watch what happens and guess at the cause (e.g. a study of nurses who chose hormone therapy)."
+title: Interventional vs observational
+description: "Interventional: you can set the cause yourself and let chance decide who gets it (e.g. a drug trial). Observational: people's own choices or nature set the cause, so you can only watch what follows and guess (e.g. a study of nurses who chose hormone therapy)."
 group: knower
 subgroup: evidence
-easy_end: Test
-hard_end: Watch
+easy_end: Interventional
+hard_end: Observational
 sources:
   - resource: /frameworks/1933-multi-armed-bandit.md
     title: Multi-armed bandit
@@ -16,21 +16,21 @@ sources:
   - resource: /frameworks/2001-kind-vs-wicked-learning-environments.md
     title: Kind vs wicked learning environments
 ---
-# Test vs watch
+# Interventional vs observational
 
 An axis in the [Evidence](index.md#evidence) set of the [knower](index.md#the-knower) group.
 
-Can you run a fair test, where chance decides who gets what, or can you only watch what happens and guess at the cause? A drug trial gives the pill to some people and a dummy to others at random, so any gap comes from the pill. In 1991 a study of nearly 50,000 nurses found women on hormone therapy had about half the heart disease. That was watching, and the women who chose hormones were healthier to start with. A 2002 trial found the hormones raised heart disease. Judea Pearl calls watching and testing the bottom two rungs of his ladder of causation.
+Can you set the cause yourself and let chance decide who gets it, or do people's own choices or nature set it, so you can only watch what follows? A drug trial gives the pill to some people and a dummy to others at random, so any gap comes from the pill. In 1991 a study of nearly 50,000 nurses found women on hormone therapy had about half the heart disease. That was watching, and the women who chose hormones were healthier to start with. A 2002 trial found the hormones raised heart disease. Judea Pearl puts seeing and doing on the bottom two rungs of his ladder of causation. Evidence from the first is called observational, and evidence from the second interventional.
 
 Watching is worse still when you only see how your own choices turned out. A hiring manager sees how the people they took on did, but never the ones they turned away. A model trained on repaid loans has the same blind spot, because the people it refused never got the chance to repay. Robin Hogarth counts this as one way a [learning environment turns wicked](../frameworks/2001-kind-vs-wicked-learning-environments.md), since years of results can confirm a bad rule.
 
 ## Actions
 
-**Test**: Run the experiment.
+**Interventional**: Run the experiment.
 - Randomise, A/B test or use a bandit. A fair test tells you what works, not just what goes with what. A bandit tests as it goes. In 1933 William Thompson proposed giving each new patient a treatment at random, weighted towards whichever looked better so far ([Multi-armed bandit](../frameworks/1933-multi-armed-bandit.md)).
 - Let the result decide. A fair test should beat anyone's opinion of the outcome.
 
-**Watch**: Treat logged data as biased until shown otherwise.
+**Observational**: Treat logged data as biased until shown otherwise.
 - Remember what the logs teach. A model trained on what happened learns who chose what, not what works.
 - Write down what you assume causes what. Then use methods that adjust for it, so others can see and challenge your guesses.
 - Check against any small test you can run. Even a little random data can show if the logs mislead you.

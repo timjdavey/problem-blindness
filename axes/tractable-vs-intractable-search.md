@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Tractable vs intractable search
-description: "Tractable: you know every option and there are few enough to check them all (e.g. noughts and crosses). Intractable: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions)."
+description: "Tractable search: you know every option and there are few enough to check them all (e.g. noughts and crosses). Intractable search: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions)."
 group: world
 subgroup: structure
-easy_end: Tractable
-hard_end: Intractable
+easy_end: Tractable search
+hard_end: Intractable search
 sources:
   - resource: /frameworks/1956-satisficing.md
     title: Satisficing
@@ -20,11 +20,11 @@ Are there few enough options to check them all, or so many that no computer coul
 
 ## Actions
 
-**Tractable**: Search the lot.
+**Tractable search**: Search the lot.
 - Check every option if you can. A full search is exact and needs no tuning.
 - Use a model only to speed things up. The search already gives the right answer, so the model shouldn't change it.
 
-**Intractable**: Use the model to guide the search, not to finish it.
+**Intractable search**: Use the model to guide the search, not to finish it.
 - Let the model suggest which branches to try. AlphaGo works this way, with a learned guess steering a search too big to finish.
 - Prune hard. Drop weak looking branches early, and accept you will sometimes drop a good one.
 - Accept good enough and cap the time spent. Set a budget up front, since the search will never tell you it is done.
@@ -36,7 +36,7 @@ Are there few enough options to check them all, or so many that no computer coul
 - [Decomposable vs tangled](decomposable-vs-tangled.md) (logic). A problem that splits into parts can be searched one part at a time, like Simon's [watchmakers](../frameworks/1962-near-decomposability.md).
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). Needing the best answer from a search too big to finish is the hardest case.
 - [Slack vs time pressure](slack-vs-time-pressure.md) (tension). A search too big to finish, done against the clock, is the worst case.
-- [Easy vs hard to verify](easy-vs-hard-to-verify.md) (independent). [NP problems](../frameworks/1971-np-problems.md) are hard to find and easy to check.
+- [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (independent). [NP problems](../frameworks/1971-np-problems.md) are hard to find and easy to check.
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (independent). Go hides nothing, so there is no fact left to find, and it still can't be searched in full.
 - [Small vs large world](small-vs-large-world.md) (independent). Search size assumes a procedure generates the options. More computing power can finish a big search in principle. It can't search outcomes nobody can generate.
 - [Choose vs design the options](choose-vs-design-the-options.md) (independent). Search size assumes the options already exist. A design problem can have only three options once someone has thought of them.

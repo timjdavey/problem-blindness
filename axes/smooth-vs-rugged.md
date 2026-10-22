@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Smooth vs rugged
-description: "Smooth: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup). Rugged: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code)."
+description: "Smooth landscape: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup). Rugged landscape: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code)."
 group: world
 subgroup: change
-easy_end: Smooth
-hard_end: Rugged
+easy_end: Smooth landscape
+hard_end: Rugged landscape
 sources:
   - resource: /frameworks/1970-convex-vs-non-convex-optimisation.md
     title: Convex vs non-convex optimisation
@@ -26,12 +26,12 @@ Two things follow on rugged ground. Rules of thumb stop working, because being c
 
 ## Actions
 
-**Smooth**: Tweak and climb, and trust rough answers.
+**Smooth landscape**: Tweak and climb, and trust rough answers.
 - Keep small changes to prompts, features or settings that help. On smooth ground each gain is a step towards the best answer.
 - Use plain gradient methods or greedy search. They will get you near the top without anything fancier.
 - Accept an answer that is close. Nearly right is nearly as good here, so a loose check will do and weeks of fine tuning buy little.
 
-**Rugged**: Check every detail, and search wide before you search deep.
+**Rugged landscape**: Check every detail, and search wide before you search deep.
 - Test for exact correctness, not a close look. Run it, compile it or check it against the source, because an answer that looks almost right can be wholly wrong.
 - Don't trust a rule of thumb, or a model's sense that it is close. Looking like a good answer says little about being one.
 - Start from many different points. Restarts and population methods such as evolutionary search stop one bad start from deciding the result.
@@ -44,8 +44,8 @@ Two things follow on rugged ground. Rules of thumb stop working, because being c
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (study). Stepping downhill on rugged land stops at a false bottom ([Convex vs non-convex optimisation](../frameworks/1970-convex-vs-non-convex-optimisation.md)). Edward Weinberger proved in 1996 that finding the top of a general NK landscape is NP-complete.
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). Needing the best answer on rugged land is the worst case, because small steps stop on the nearest peak. On a [flat maximum](../frameworks/1973-flat-maximum.md) the clash goes away, since good enough is nearly as good as best.
 - [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). On a rugged landscape each run stalls on whichever peak is nearest, so runs that start in different places settle in different places.
-- [Easy vs hard to verify](easy-vs-hard-to-verify.md) (logic). On smooth ground a quick look tells you if an answer is close to good. On rugged ground looking close proves nothing, so you need a check that tests every detail.
-- [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) (independent). Both are about small differences growing large, but in different places. The horizon is about errors growing over time as a system runs. Rugged is about a small change to an answer making a big change to how good it is, at one fixed moment. A rugged design problem can give each design a fixed score that never drifts.
+- [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (logic). On smooth ground a quick look tells you if an answer is close to good. On rugged ground looking close proves nothing, so you need a check that tests every detail.
+- [Stable vs chaotic](stable-vs-chaotic.md) (independent). Both are about small differences growing large, but in different places. The horizon is about errors growing over time as a system runs. Rugged is about a small change to an answer making a big change to how good it is, at one fixed moment. A rugged design problem can give each design a fixed score that never drifts.
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). Good answers that differ in kind are separate peaks, and the ground between them is a valley.
 - [Clustered vs scattered](clustered-vs-scattered.md) (logic). A rugged landscape with a few big peaks gives one cluster per peak, as runs stall on whichever is nearest.
 

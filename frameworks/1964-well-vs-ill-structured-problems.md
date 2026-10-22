@@ -20,7 +20,7 @@ Simon's point was that the tidy kind is rare outside games and textbooks. Design
 
 The usual mistake is to treat an ill-structured problem as if it were well-structured. You write a full specification and fix the budget and the date. Then you act surprised when the real goal turns up halfway through. The reverse mistake also happens. People treat a problem with a clear answer as if it were open to endless debate, and so never sit down and work it out. The better response is to check which parts are missing (the goal, the moves or the test) and to pin down what you can before you plan the rest.
 
-This framework feeds the [Easy vs hard to verify](../axes/easy-vs-hard-to-verify.md) and [Well vs ill-structured](../axes/well-vs-ill-structured.md) axes.
+This framework feeds the [Verifiable vs unverifiable](../axes/verifiable-vs-unverifiable.md) and [Well vs ill-structured](../axes/well-vs-ill-structured.md) axes.
 
 ## Examples
 

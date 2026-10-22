@@ -18,7 +18,7 @@ He sorted not knowing with two questions. Do you know what outcomes are possible
 
 The mistake is to force all four into the risk corner, because only that corner gives a single answer. Uncertainty gets made up odds. Ambiguity gets one group's values built quietly into the sums. Ignorance gets left out, since you can't put a number on a thing nobody has thought of. The better response is to match the tool to the corner. Use ranges and scenarios for uncertainty, and open up the question of what counts for ambiguity. For ignorance, keep watching and prefer choices you can undo.
 
-This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md) axis.
+This framework feeds the [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) axis.
 
 ## Examples
 

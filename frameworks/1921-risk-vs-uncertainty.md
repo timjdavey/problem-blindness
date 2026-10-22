@@ -18,7 +18,7 @@ Other unknowns have no odds at all. There is no long record of similar cases, an
 
 The trait this sorts problems on is whether the odds are knowable. The common mistake is to treat uncertainty as if it were risk. You give a number to something that has no number, and the number makes you feel safe. Models built on past data then look precise while being wrong about the thing that matters. The reverse mistake also happens. People refuse to use odds even when good records exist, and trust a hunch over an actuarial table. The better response is to ask whether a long record of like cases exists. If it does, use the odds. If it doesn't, drop the false precision and keep enough slack to survive being wrong.
 
-This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md) axis.
+This framework feeds the [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) axis.
 
 ## Examples
 

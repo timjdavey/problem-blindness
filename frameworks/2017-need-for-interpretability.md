@@ -19,7 +19,7 @@ In February 2017 Finale Doshi-Velez and Been Kim set this out in a paper called 
 
 The mistake runs both ways. Demanding an explanation from a well tested system can cost accuracy for nothing. Trusting a model you can't see inside because it scores well is worse, when part of the goal never made it into the score. The better response is to ask what the score leaves out. If nothing that matters is missing, trust the score. If safety, fairness or the law is missing, a person needs a way to look inside.
 
-This framework feeds the [Complete vs incomplete score](../axes/complete-vs-incomplete-score.md), [Private vs accountable](../axes/private-vs-accountable.md) and [Single vs multiple objectives](../axes/single-vs-multiple-objectives.md) axes.
+This framework feeds the [Direct vs proxy measure](../axes/direct-vs-proxy-measure.md), [Private vs accountable](../axes/private-vs-accountable.md) and [Single objective vs trade-offs](../axes/single-objective-vs-trade-offs.md) axes.
 
 ## Examples
 

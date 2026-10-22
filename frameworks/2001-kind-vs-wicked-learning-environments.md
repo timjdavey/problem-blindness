@@ -25,11 +25,11 @@ Wicked is a bundle, not one trait. In the 2015 paper the three authors split lea
 
 - The grade comes late or never ([Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md)).
 - The grade is noisy, so luck passes for skill ([Deterministic vs statistical](../axes/deterministic-vs-statistical.md)).
-- You only see how your own choices turned out, never the road not taken ([Test vs watch](../axes/test-vs-watch.md)).
+- You only see how your own choices turned out, never the road not taken ([Interventional vs observational](../axes/interventional-vs-observational.md)).
 - Your own action causes the result you take as proof ([Inert vs reflexive](../axes/inert-vs-reflexive.md)).
 - Practice doesn't look like the real task ([Stationary vs drifting](../axes/stationary-vs-drifting.md)).
 
-This framework feeds the [Deterministic vs statistical](../axes/deterministic-vs-statistical.md), [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md), [Inert vs reflexive](../axes/inert-vs-reflexive.md), [Stationary vs drifting](../axes/stationary-vs-drifting.md) and [Test vs watch](../axes/test-vs-watch.md) axes.
+This framework feeds the [Deterministic vs statistical](../axes/deterministic-vs-statistical.md), [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md), [Inert vs reflexive](../axes/inert-vs-reflexive.md), [Stationary vs drifting](../axes/stationary-vs-drifting.md) and [Interventional vs observational](../axes/interventional-vs-observational.md) axes.
 
 ## Examples
 

@@ -55,6 +55,10 @@ The pilot was tagged by nine Claude subagents in October 2026, three for each pa
 
 **What to do next.** Ask METR for the full task text. The pipeline is ready for it, and the tagger check shows it can reproduce their result when it has the real prompt.
 
+## Old axis names
+
+The tags and results use the axis names from when the pilot ran. Since then Long vs short predictability horizon has become [Stable vs chaotic](../../axes/stable-vs-chaotic.md), Known vs unknown odds [Risk vs Knightian uncertainty](../../axes/risk-vs-knightian-uncertainty.md) and Test vs watch [Interventional vs observational](../../axes/interventional-vs-observational.md). Single vs multiple objectives is now [Single objective vs trade-offs](../../axes/single-objective-vs-trade-offs.md), Easy vs hard to verify [Verifiable vs unverifiable](../../axes/verifiable-vs-unverifiable.md) and Complete vs incomplete score [Direct vs proxy measure](../../axes/direct-vs-proxy-measure.md). The slugs in `tags.csv` still use the old names.
+
 ## Limits
 
 - About 74 families can only show large effects. A null result for one axis is weak evidence.

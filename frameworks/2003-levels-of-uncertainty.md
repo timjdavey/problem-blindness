@@ -21,7 +21,7 @@ The same paper asked a second question. Where does the uncertainty sit? It might
 
 The trap is to treat a high level as a low one. Analysts like probabilities, so they put odds on futures that nobody can rank and report a single number with a neat error bar. That number looks scientific but hides the chance that the model or the framing is wrong. The better response is to name the level and the location first. They tell you whether to forecast, to plan for a few scenarios or to build in the ability to change course.
 
-This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md) axis.
+This framework feeds the [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) axis.
 
 ## Examples
 

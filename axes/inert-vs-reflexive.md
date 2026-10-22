@@ -46,9 +46,9 @@ The worst case is when your own action makes the result you take as proof. Robin
 - [Thin vs fat tails](thin-vs-fat-tails.md) (study). [Reflexivity](../frameworks/1987-reflexivity.md) and the [bank run](../frameworks/1948-self-fulfilling-prophecy.md) show beliefs and facts feeding each other into booms and crashes.
 - [Stationary vs drifting](stationary-vs-drifting.md) (study). Under the [Lucas critique](../frameworks/1976-lucas-critique.md) acting on a model changes the behaviour it was fitted to.
 - [Neutral vs adversarial](neutral-vs-adversarial.md) (logic). Both are about people reacting to you, so they often turn up together, as in a market. What splits them is whether anyone is aiming at your rule. A bank run is reflexive with no adversary in it. A chess opponent hunts for your weakest line, but the board doesn't change because someone forecast the result. If someone studies your rule to find its gaps, it is adversarial. If the outcome moves with nobody aiming at anything, it is reflexive.
-- [Test vs watch](test-vs-watch.md) (study). The [Lucas critique](../frameworks/1976-lucas-critique.md) is a warning about answering a question on stepping in with data from watching. The Phillips curve held while nobody leaned on it and broke once policy did.
+- [Interventional vs observational](interventional-vs-observational.md) (study). The [Lucas critique](../frameworks/1976-lucas-critique.md) is a warning about answering a question on stepping in with data from watching. The Phillips curve held while nobody leaned on it and broke once policy did.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (logic). Both put other people inside the problem. Once a fix depends on others changing, how they react to it becomes part of the problem.
-- [Ends vs never-ending](ends-vs-never-ending.md) (logic). When people react to your fix, the fix becomes part of the next problem, so there is no point where you are done.
+- [Finite vs ongoing](finite-vs-ongoing.md) (logic). When people react to your fix, the fix becomes part of the next problem, so there is no point where you are done.
 
 ## Citations
 

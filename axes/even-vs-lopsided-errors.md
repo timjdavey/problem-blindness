@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Even vs lopsided errors
-description: "Even: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella). Lopsided: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire)."
+description: "Even error costs: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella). Lopsided error costs: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire)."
 group: decision
 subgroup: stakes
-easy_end: Even
-hard_end: Lopsided
+easy_end: Even error costs
+hard_end: Lopsided error costs
 sources:
   - resource: /frameworks/1954-signal-detection-theory.md
     title: Signal detection theory
@@ -18,11 +18,11 @@ Do a false alarm and a miss cost about the same, or is one mistake far worse tha
 
 ## Actions
 
-**Even**: Maximise accuracy.
+**Even error costs**: Maximise accuracy.
 - Use the default threshold. A false alarm and a miss cost the same.
 - Report one accuracy figure. It tells you all you need when both errors weigh the same.
 
-**Lopsided**: Set the threshold from the costs.
+**Lopsided error costs**: Set the threshold from the costs.
 - Put a price on each kind of error. Ask what a miss costs and what a false alarm costs, in the same units.
 - Tune the threshold to those prices. A cancer screen should flag far more than it misses.
 - Report the two error rates separately, never accuracy alone. A model can score 99% on a rare disease by never flagging anyone.
@@ -31,7 +31,7 @@ Do a false alarm and a miss cost about the same, or is one mistake far worse tha
 ## Correlated with
 
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (logic). When one kind of mistake can ruin you and the other can't, the costs are as lopsided as they get.
-- [Complete vs incomplete score](complete-vs-incomplete-score.md) (logic). A score that counts every mistake the same leaves the costs out. A model tuned for plain accuracy treats a missed cancer and a false scare as equal.
+- [Direct vs proxy measure](direct-vs-proxy-measure.md) (logic). A score that counts every mistake the same leaves the costs out. A model tuned for plain accuracy treats a missed cancer and a false scare as equal.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). How much worse a miss is than a false alarm is a value judgement, so people fight over where to set the bar.
 
 ## Citations

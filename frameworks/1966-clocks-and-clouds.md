@@ -18,7 +18,7 @@ Clocks stand for systems that are regular and orderly, so you can predict them f
 
 The mistake is to treat clouds as if they were clocks. Clocks reward careful models and precise forecasts, so an expert trained on clocks keeps building them. Point that skill at an economy, an election or a war and it produces confident numbers that miss. The better response is to ask first how cloudlike the system is. For clocks, predict and plan. For clouds, give ranges rather than single numbers, watch closely and keep plans easy to change.
 
-This framework feeds the [Deterministic vs statistical](../axes/deterministic-vs-statistical.md) and [Long vs short predictability horizon](../axes/long-vs-short-predictability-horizon.md) axes.
+This framework feeds the [Deterministic vs statistical](../axes/deterministic-vs-statistical.md) and [Stable vs chaotic](../axes/stable-vs-chaotic.md) axes.
 
 ## Examples
 

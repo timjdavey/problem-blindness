@@ -18,7 +18,7 @@ That second harm is what sets Campbell apart from [Goodhart](1975-goodharts-law.
 
 The framework sorts problems by how much is riding on a number and whether the people it judges can move it. A number used only for research can stay honest. A number that decides pay or funding or jobs won't for long. The mistake is to treat a social measure as a neutral reading when it has become a target. You then reward the gaming and punish the people who refuse to take part. Campbell's own advice was to use several measures and to keep some judgement that no number can replace.
 
-This framework feeds the [Complete vs incomplete score](../axes/complete-vs-incomplete-score.md) and [Neutral vs adversarial](../axes/neutral-vs-adversarial.md) axes.
+This framework feeds the [Direct vs proxy measure](../axes/direct-vs-proxy-measure.md) and [Neutral vs adversarial](../axes/neutral-vs-adversarial.md) axes.
 
 ## Examples
 

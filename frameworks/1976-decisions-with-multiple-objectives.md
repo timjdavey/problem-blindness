@@ -19,7 +19,7 @@ Decision analysis used to pick one number to maximise, usually money. In 1976 Ra
 
 The mistake comes in two forms. One is to chase a single goal and ignore the rest, like buying the cheapest house and then spending two hours a day on a train. The other is to fold all the goals into one score too early, so the trade-offs get made inside a formula nobody looks at. The better response is to name each objective and measure it on its own terms. Then make the trade-offs out loud, where people can see them and argue.
 
-This framework feeds the [Single vs multiple objectives](../axes/single-vs-multiple-objectives.md) axis.
+This framework feeds the [Single objective vs trade-offs](../axes/single-objective-vs-trade-offs.md) axis.
 
 ## Examples
 

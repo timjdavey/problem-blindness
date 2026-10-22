@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Yours to fix vs needs others to change
-description: "Yours to fix: you hold the levers yourself (e.g. a surgeon unblocking an artery). Needs others: the fix depends on other people changing what they do (e.g. a patient giving up smoking)."
+description: "Yours to fix: you hold the levers yourself (e.g. a surgeon unblocking an artery). Needs others to change: the fix depends on other people changing what they do (e.g. a patient giving up smoking)."
 group: decision
 subgroup: options
 easy_end: Yours to fix
-hard_end: Needs others
+hard_end: Needs others to change
 sources:
   - resource: /frameworks/1944-zero-sum-vs-non-zero-sum-games.md
     title: Zero-sum vs non-zero-sum games
@@ -28,7 +28,7 @@ Do you hold the levers, or does the fix depend on other people changing what the
 - Build the tool and ship it. You hold the levers.
 - Measure the model directly. If it works, the problem is solved.
 
-**Needs others**: Design for take up, not just accuracy.
+**Needs others to change**: Design for take up, not just accuracy.
 - Involve the people who must change early. A tool built for them without them tends to sit unused.
 - Make the change easy. Fit the model into what people already do rather than asking them to learn a new habit.
 - Measure what people do, not model scores. A perfect model nobody uses fixes nothing.

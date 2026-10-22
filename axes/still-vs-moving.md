@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Still vs moving
-description: "Still: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword). Moving: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve)."
+description: "Still world: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword). Moving world: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve)."
 group: world
 subgroup: change
-easy_end: Still
-hard_end: Moving
+easy_end: Still world
+hard_end: Moving world
 sources:
   - resource: /frameworks/1957-open-vs-closed-skills.md
     title: Open vs closed skills
@@ -22,11 +22,11 @@ For an AI agent the question is whether its picture of the world goes stale whil
 
 ## Actions
 
-**Still**: Plan it, then run the plan.
+**Still world**: Plan it, then run the plan.
 - Let the model write the whole plan up front and carry it out. Nothing will change between steps to make it stale.
 - Test on a saved snapshot. A replay of fixed inputs tells you how the model will do for real.
 
-**Moving**: Look again before every move.
+**Moving world**: Look again before every move.
 - Work in short loops of look, act, look. A plan written at the start goes stale before the end.
 - Read the state just before you change it, and only make the change if nothing has moved since. The gap between checking and acting is a known source of bugs, called time of check to time of use.
 - Test in a world that moves during the run, live or simulated. A replay freezes the world, so it hides every failure that comes from acting on old information.
@@ -39,7 +39,7 @@ For an AI agent the question is whether its picture of the world goes stale whil
 - [Stationary vs drifting](stationary-vs-drifting.md) (independent). Drift is about what you learnt going stale over months. This axis is about what you saw going stale within one task. The rules of tennis haven't drifted in decades, yet every rally moves.
 - [Standalone vs sequential](standalone-vs-sequential.md) (logic). In a sequential problem your own choices change what comes next. In a moving world things change even if you do nothing. Catching one ball is a single choice in a moving world. Chess by post is a long chain of choices, and the board waits for you.
 - [Neutral vs adversarial](neutral-vs-adversarial.md) (bundled). Russell and Norvig's harder worlds have other agents in them, and an opponent is the most common reason the world won't wait ([Task environment properties](../frameworks/1995-task-environment-properties.md)). But a surfer's wave moves and isn't trying to beat anyone.
-- [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) (independent). A ball in flight follows simple physics and is easy to predict, yet you still have to act before it lands. Poulton's paper was about exactly this, the prediction a skilled movement needs ([Open vs closed skills](../frameworks/1957-open-vs-closed-skills.md)).
+- [Stable vs chaotic](stable-vs-chaotic.md) (independent). A ball in flight follows simple physics and is easy to predict, yet you still have to act before it lands. Poulton's paper was about exactly this, the prediction a skilled movement needs ([Open vs closed skills](../frameworks/1957-open-vs-closed-skills.md)).
 - [Loose vs tight coupling](loose-vs-tight-coupling.md) (logic). In a tightly coupled system a fault spreads faster than you can react, so the world moves on while you are still working out what happened.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). Gentile split out settings that are still during each attempt but differ from one attempt to the next, like a billiards table. That variety is the "count by kind of case" problem, and it needs varied practice even when the world waits ([Open vs closed skills](../frameworks/1957-open-vs-closed-skills.md)).
 

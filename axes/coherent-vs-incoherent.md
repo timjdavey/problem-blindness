@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Coherent vs incoherent
-description: "Coherent: every run of the system gives the same spread of results, so the pooled average stands for any run (e.g. a die). Incoherent: each run settles somewhere different, so the pooled average describes none of them (e.g. climate model runs that split into warm and cold futures)."
+description: "Coherent runs: every run of the system gives the same spread of results, so the pooled average stands for any run (e.g. a die). Incoherent runs: each run settles somewhere different, so the pooled average describes none of them (e.g. climate model runs that split into warm and cold futures)."
 group: world
 subgroup: randomness
-easy_end: Coherent
-hard_end: Incoherent
+easy_end: Coherent runs
+hard_end: Incoherent runs
 sources:
   - resource: /frameworks/1963-sensitive-dependence-chaos.md
     title: Sensitive dependence (chaos)
@@ -24,11 +24,11 @@ This is a test of the runs, not of one spread. A trip with a tight train connect
 
 ## Actions
 
-**Coherent**: Trust the average.
+**Coherent runs**: Trust the average.
 - Report the mean and spread. Every run draws from the same spread, so the pooled figures are a fair guide to the next run.
 - A few runs are enough to judge the model. More runs only tighten the error bar.
 
-**Incoherent**: Compare the runs before you pool them.
+**Incoherent runs**: Compare the runs before you pool them.
 - Rerun the same eval or agent task with different seeds, and compare the runs, not just one score. If they disagree, a single benchmark number hides it.
 - Plot each run on its own before you take an average. If the runs settle in different places, the pooled average may be a result no run produced.
 - Plan for the outcomes the runs actually reach, not the pooled average.
@@ -37,7 +37,7 @@ This is a test of the runs, not of one spread. A trip with a tight train connect
 ## Correlated with
 
 - [Deterministic vs statistical](deterministic-vs-statistical.md) (by definition). A deterministic problem gives the same result every run, so it is always coherent. But statistical doesn't mean incoherent. A die varies roll to roll, yet every thousand rolls look alike.
-- [Long vs short predictability horizon](long-vs-short-predictability-horizon.md) (logic). Chaos pulls runs that start almost alike far apart. Weather forecasters run the same model many times and read the spread, because no single run can be trusted ([Sensitive dependence](../frameworks/1963-sensitive-dependence-chaos.md)).
+- [Stable vs chaotic](stable-vs-chaotic.md) (logic). Chaos pulls runs that start almost alike far apart. Weather forecasters run the same model many times and read the spread, because no single run can be trusted ([Sensitive dependence](../frameworks/1963-sensitive-dependence-chaos.md)).
 - [Smooth vs rugged](smooth-vs-rugged.md) (logic). On a rugged landscape each run stalls on whichever peak is nearest, so runs settle in different places.
 - [Additive vs multiplicative](additive-vs-multiplicative.md) (logic). Compounding splits paths apart, so the crowd's average describes almost nobody. That is incoherence across players over time.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). With fat tails one extreme case can dominate a run, so two runs of the same system can look very different. But thin tails don't make a system coherent. Each climate run has thin tails, yet the runs still split into a warm group and a cold one.

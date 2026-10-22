@@ -20,7 +20,7 @@ The bottom rung is seeing. You notice that two things go together, such as a fal
 
 The mistake is reading causes straight off patterns. Most data we have is bottom rung, because it records what people chose to do. Those who chose differently also differ in other ways, so the pattern mixes the effect of the choice with the effect of who chose it. The better response is to name the rung of your question first. If it is a doing question, run a fair test where you can. Where you can't, write down what you think causes what and see which links the answer rests on.
 
-This framework feeds the [Test vs watch](../axes/test-vs-watch.md) axis.
+This framework feeds the [Interventional vs observational](../axes/interventional-vs-observational.md) axis.
 
 ## Examples
 

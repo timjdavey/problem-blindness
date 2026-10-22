@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Choose vs design the options
-description: "Choose: the options are handed to you to pick from (e.g. a mortgage from a bank's list). Design: you have to invent the options first (e.g. saving a dying high street)."
+description: "Choose the options: the options are handed to you to pick from (e.g. a mortgage from a bank's list). Design the options: you have to invent the options first (e.g. saving a dying high street)."
 group: decision
 subgroup: options
-easy_end: Choose
-hard_end: Design
+easy_end: Choose the options
+hard_end: Design the options
 sources:
   - resource: /frameworks/1960-programmed-vs-non-programmed-decisions.md
     title: Programmed vs non-programmed decisions
@@ -20,11 +20,11 @@ Are the options handed to you to pick from, or do you have to invent them first?
 
 ## Actions
 
-**Choose**: Compare and pick.
+**Choose the options**: Compare and pick.
 - Score the given list against your goal. This is a job a model does well.
 - Spend the effort on the scoring. With the options fixed, the quality of the choice comes down to how well you weigh them.
 
-**Design**: Make many options before you choose.
+**Design the options**: Make many options before you choose.
 - Start from what you value, not from the obvious options. Ralph Keeney's point is that the best option is often one nobody listed ([Value-focused thinking](../frameworks/1992-value-focused-thinking.md)).
 - Use a model to widen the set. It can draft dozens of options in the time a team drafts three.
 - Keep making and choosing apart. Judging too early kills odd ideas before anyone understands them.

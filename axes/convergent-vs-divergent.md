@@ -16,7 +16,7 @@ An axis in the [Goal](index.md#goal) set of the [decision](index.md#the-decision
 
 Is there one right answer that everyone would agree on, or many good answers that differ in kind? A sum has one. A wedding speech, a logo or a sonnet about autumn has many, and two very different ones can both be excellent. J. P. Guilford called the thinking for the first kind convergent and for the second divergent.
 
-Many good answers come in two shapes. Some lie along one trade off and differ only in degree. A phone can swap battery life for size, and any phone between two good ones is also a good phone, so you can split the difference. [Single vs multiple objectives](single-vs-multiple-objectives.md) covers that case. Others differ in kind, and that is the hard end of this axis. Halfway between a funny speech and a moving one is a speech that is neither, so averaging and compromise land in the gap.
+Many good answers come in two shapes. Some lie along one trade off and differ only in degree. A phone can swap battery life for size, and any phone between two good ones is also a good phone, so you can split the difference. [Single objective vs trade-offs](single-objective-vs-trade-offs.md) covers that case. Others differ in kind, and that is the hard end of this axis. Halfway between a funny speech and a moving one is a speech that is neither, so averaging and compromise land in the gap.
 
 ## Actions
 
@@ -35,10 +35,10 @@ Many good answers come in two shapes. Some lie along one trade off and differ on
 ## Correlated with
 
 - [Well vs ill-structured](well-vs-ill-structured.md) (independent). "Write a sonnet about autumn" is well structured. You know what is wanted and when you're done, yet there are endless good answers.
-- [Easy vs hard to verify](easy-vs-hard-to-verify.md) (logic). One right answer can be checked against a key. Many good answers need someone to judge them.
+- [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (logic). One right answer can be checked against a key. Many good answers need someone to judge them.
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (independent). Many good answers don't settle whether extra quality pays. A wedding speech only needs to be good. An advert has just as many good answers, yet each extra bit of quality still pays off in sales.
 - [Choose vs design the options](choose-vs-design-the-options.md) (logic). Options you invent rarely line up to one right answer.
-- [Single vs multiple objectives](single-vs-multiple-objectives.md) (logic). A trade off between goals gives many good answers that differ only in degree. There a blend of two good answers is also good.
+- [Single objective vs trade-offs](single-objective-vs-trade-offs.md) (logic). A trade off between goals gives many good answers that differ only in degree. There a blend of two good answers is also good.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). When the options differ in kind there is no middle ground to settle on. Two towns that each want the bridge can't have half of it each, so someone has to lose.
 - [Smooth vs rugged](smooth-vs-rugged.md) (logic). Good answers that differ in kind are separate peaks, and the ground between them is a valley.
 - [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). It is the same trap on the answer side. Runs that split into groups average to a result none of them produced, and good answers that differ in kind blend into one nobody would choose.

@@ -22,7 +22,7 @@ Together these traits create what the authors call a tragedy. Everyone can see t
 
 Their answer is to stop hoping for one big fix. Instead you look for small steps that are hard to reverse and that build support for themselves over time. Once a policy creates jobs or habits that depend on it, it tends to stick. This is called path dependence. The aim is to bind our future selves, who will always be tempted to put things off.
 
-This framework feeds the [Single vs multiple objectives](../axes/single-vs-multiple-objectives.md), [Slack vs time pressure](../axes/slack-vs-time-pressure.md) and [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md) axes.
+This framework feeds the [Single objective vs trade-offs](../axes/single-objective-vs-trade-offs.md), [Slack vs time pressure](../axes/slack-vs-time-pressure.md) and [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md) axes.
 
 ## Examples
 

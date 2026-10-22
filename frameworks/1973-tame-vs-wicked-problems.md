@@ -19,7 +19,7 @@ They wrote in 1973, after a decade in which planners had hoped the methods that 
 
 The mistake is to treat a wicked problem as tame. You pick one definition and set a target, then build the fix as if it could be tested and rolled back. When it fails, the situation has moved and the people affected have paid. The label has a weakness too. The ten traits mix up separate ideas, such as disagreement over goals, the lack of a stopping point and the lack of trial and error. That is why "wicked" feels strong but is hard to act on. The better response is to ask which of those traits your problem really has, and to deal with each one on its own terms.
 
-This framework feeds the [Easy vs hard to verify](../axes/easy-vs-hard-to-verify.md), [Ends vs never-ending](../axes/ends-vs-never-ending.md), [Reversible vs irreversible](../axes/reversible-vs-irreversible.md), [Shared vs contested values](../axes/shared-vs-contested-values.md) and [Well vs ill-structured](../axes/well-vs-ill-structured.md) axes.
+This framework feeds the [Verifiable vs unverifiable](../axes/verifiable-vs-unverifiable.md), [Finite vs ongoing](../axes/finite-vs-ongoing.md), [Reversible vs irreversible](../axes/reversible-vs-irreversible.md), [Shared vs contested values](../axes/shared-vs-contested-values.md) and [Well vs ill-structured](../axes/well-vs-ill-structured.md) axes.
 
 ## Examples
 

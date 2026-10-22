@@ -20,7 +20,7 @@ In 1971 Stephen Cook showed that some problems in NP are the hardest of the lot.
 
 The mistake is to treat a problem that is hard to solve as if it were easy, just because the answer is easy to recognise. You promise the best possible delivery route or the perfect school timetable. Then the search blows up as the problem grows. The better response is to aim for a good answer rather than the best one, using rules of thumb, and to lean on the cheap check to compare the options you find.
 
-This framework feeds the [Easy vs hard to verify](../axes/easy-vs-hard-to-verify.md) and [Tractable vs intractable search](../axes/tractable-vs-intractable-search.md) axes.
+This framework feeds the [Verifiable vs unverifiable](../axes/verifiable-vs-unverifiable.md) and [Tractable vs intractable search](../axes/tractable-vs-intractable-search.md) axes.
 
 ## Examples
 

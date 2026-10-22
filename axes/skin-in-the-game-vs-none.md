@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Skin in the game vs none
-description: "Skin in the game: whoever makes the call bears the cost if it goes wrong (e.g. a shopkeeper pricing their own stock). None: the cost lands on someone else (e.g. a broker paid for each loan whether or not it is repaid)."
+description: "Skin in the game: whoever makes the call bears the cost if it goes wrong (e.g. a shopkeeper pricing their own stock). No skin in the game: the cost lands on someone else (e.g. a broker paid for each loan whether or not it is repaid)."
 group: decision
 subgroup: people
 easy_end: Skin in the game
-hard_end: None
+hard_end: No skin in the game
 sources:
   - resource: /frameworks/1976-agency-costs.md
     title: Agency costs
@@ -22,7 +22,7 @@ Does whoever makes the call bear the cost if it goes wrong, or does it land on s
 - Trust their judgement. Someone who pays for mistakes learns from them and has the right reasons to care.
 - Keep oversight light. Their own loss is the check.
 
-**None**: Tie the model to someone who pays.
+**No skin in the game**: Tie the model to someone who pays.
 - Put a named person or team on the hook for the model's outputs. A model never bears its own losses.
 - Judge that team on outcomes. Ask what happened to the people the model affected, not how often it ran.
 - Watch the incentives of whoever tunes the model. They are often scored on use, so add harm avoided to how they are judged.
@@ -32,7 +32,7 @@ Does whoever makes the call bear the cost if it goes wrong, or does it land on s
 
 - [Private vs accountable](private-vs-accountable.md) (independent). Accountable means you must explain the choice. Skin in the game means you pay for it. A judge must give reasons and loses nothing if wrong. A gambler pays for every bad bet and explains nothing to anyone.
 - [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md) (logic). If the cost lands on someone else, news of it reaches the decider late or never, so they can't learn from it.
-- [Complete vs incomplete score](complete-vs-incomplete-score.md) (logic). The agent is scored on something of their own, like fees or loans signed, and the owner's loss is left out of that score.
+- [Direct vs proxy measure](direct-vs-proxy-measure.md) (logic). The agent is scored on something of their own, like fees or loans signed, and the owner's loss is left out of that score.
 
 ## Citations
 

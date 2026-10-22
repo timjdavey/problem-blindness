@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Additive vs multiplicative
-description: "Additive: gains and losses add up, so the average is what you can expect (e.g. betting the same £10 every round). Multiplicative: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round)."
+description: "Additive returns: gains and losses add up, so the average is what you can expect (e.g. betting the same £10 every round). Multiplicative returns: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round)."
 group: decision
 subgroup: stakes
-easy_end: Additive
-hard_end: Multiplicative
+easy_end: Additive returns
+hard_end: Multiplicative returns
 sources:
   - resource: /frameworks/2016-ergodicity.md
     title: Ergodicity
@@ -18,11 +18,11 @@ Do gains and losses add up, so the average outcome is what you can expect, or do
 
 ## Actions
 
-**Additive**: Judge by the average across cases.
+**Additive returns**: Judge by the average across cases.
 - Use expected value per decision as the test. Gains and losses sum, so the average is what you get.
 - Compare models on mean return. One bad case costs only itself.
 
-**Multiplicative**: Judge by what one path does over time.
+**Multiplicative returns**: Judge by what one path does over time.
 - Simulate long runs of the model's decisions compounding, not one step. A trading model that wins on average per trade can still drain the account.
 - Size each bet so a run of losses can't sink you. The Kelly rule sets each stake as a share of what you have, so you never bet the lot.
 - Report the typical path, not the average one. The average is pulled up by a lucky few, while the median shows what a typical run gets.

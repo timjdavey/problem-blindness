@@ -20,7 +20,7 @@ Robert Lempert, Steven Popper and Steven Bankes worked at RAND, an American poli
 
 The mistake this framework warns against is treating a deep problem as one of plain risk. If you force a single best guess onto a question nobody can agree on, you get a precise plan that breaks easily. Arguments about whose forecast is right also stall the decision. The better response is to test plans against many futures, which lets people who disagree about the future still agree on what to do.
 
-This framework feeds the [Clustered vs scattered](../axes/clustered-vs-scattered.md), [Known vs unknown odds](../axes/known-vs-unknown-odds.md) and [Shared vs contested values](../axes/shared-vs-contested-values.md) axes.
+This framework feeds the [Clustered vs scattered](../axes/clustered-vs-scattered.md), [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) and [Shared vs contested values](../axes/shared-vs-contested-values.md) axes.
 
 ## Examples
 

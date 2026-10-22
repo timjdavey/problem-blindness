@@ -1,11 +1,11 @@
 ---
 type: Axis
 title: Familiar vs novel to the solver
-description: "Familiar: the solver has met this kind of problem many times before (e.g. a doctor seeing a common cold). Novel: the problem is new to the solver, even if others have solved it (e.g. a question outside a model's training data)."
+description: "Familiar to the solver: the solver has met this kind of problem many times before (e.g. a doctor seeing a common cold). Novel to the solver: the problem is new to the solver, even if others have solved it (e.g. a question outside a model's training data)."
 group: knower
 subgroup: know-how
-easy_end: Familiar
-hard_end: Novel
+easy_end: Familiar to the solver
+hard_end: Novel to the solver
 sources:
   - resource: /frameworks/1960-programmed-vs-non-programmed-decisions.md
     title: Programmed vs non-programmed decisions
@@ -22,11 +22,11 @@ Has the solver, person or model, met this kind of problem before, or is it new t
 
 ## Actions
 
-**Familiar**: Trust recall.
+**Familiar to the solver**: Trust recall.
 - Accept a quick answer. A problem like those in training is one the model has seen solved.
 - Spend less on reasoning. Long chains of working add cost and little accuracy on a problem the model knows.
 
-**Novel**: Make the solver reason, and check the result.
+**Novel to the solver**: Make the solver reason, and check the result.
 - Ask for working. A step by step answer shows where the reasoning went wrong.
 - Break the task into steps and verify each one. Errors on a new problem stack up, so catch them early.
 - Test the model on problems written after its training cutoff. A benchmark it has seen measures memory, not skill.

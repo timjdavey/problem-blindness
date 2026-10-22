@@ -35,10 +35,10 @@ Will any answer that clears the bar do, or does each extra bit of quality still 
 
 - [Smooth vs rugged](smooth-vs-rugged.md) and [Tractable vs intractable search](tractable-vs-intractable-search.md) (tension). Needing the best answer when the land is rugged or the search is too big is the hardest case. Small steps stop on the nearest peak, and the [NP problems](../frameworks/1971-np-problems.md) note advises settling for a good answer.
 - [Slack vs time pressure](slack-vs-time-pressure.md) (tension). Needing the best answer with no time to look for it is a clash. Simon's point was that limited time and attention push people to good enough, and Klein's fire commanders took the first plan that would work rather than compare options ([Satisficing](../frameworks/1956-satisficing.md)).
-- [Single vs multiple objectives](single-vs-multiple-objectives.md) (opposite). Simon's own model of satisficing works this way. With several goals, people set a floor on each and take the first option that clears them all ([Satisficing](../frameworks/1956-satisficing.md)).
-- [Easy vs hard to verify](easy-vs-hard-to-verify.md) (tension). You can't claim you found the best answer if you can't check it.
+- [Single objective vs trade-offs](single-objective-vs-trade-offs.md) (opposite). Simon's own model of satisficing works this way. With several goals, people set a floor on each and take the first option that clears them all ([Satisficing](../frameworks/1956-satisficing.md)).
+- [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (tension). You can't claim you found the best answer if you can't check it.
 - [Convergent vs divergent](convergent-vs-divergent.md) (independent). Many good answers don't settle whether extra quality pays. A wedding speech only needs to be good. An advert has just as many good answers, yet each extra bit of quality still pays off in sales.
-- [Ends vs never-ending](ends-vs-never-ending.md) (independent). Optimising can feel endless, but a drug dose gets tuned once and stays tuned. A lawn only needs to look fine, yet it needs mowing every week.
+- [Finite vs ongoing](finite-vs-ongoing.md) (independent). Optimising can feel endless, but a drug dose gets tuned once and stays tuned. A lawn only needs to look fine, yet it needs mowing every week.
 - [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md) (independent). This axis asks whether the payoff has a ceiling. That one asks whether the skill does. A thank you note only needs to be warm, though writing well has no ceiling.
 
 ## Citations

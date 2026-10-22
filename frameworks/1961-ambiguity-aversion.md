@@ -18,7 +18,7 @@ That makes no sense if you think in odds alone. If you avoid the second jar for 
 
 The trait this picks out is whether the odds of a problem are known or missing. That is the line Frank Knight drew in 1921 between risk and uncertainty, and Ellsberg showed that people feel it sharply. The danger is that the feeling leaks into choices where it doesn't belong. People treat missing odds as if they were bad odds, so they pay too much to stick with the familiar. They avoid new options that are no worse and might be far better. The opposite mistake is to ignore the gap and plug in a made-up number as if it were known.
 
-This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md) axis.
+This framework feeds the [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) axis.
 
 ## Examples
 

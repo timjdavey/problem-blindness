@@ -19,7 +19,7 @@ Kay is an economist, and King was governor of the Bank of England through the 20
 
 Their advice is to stop making up numbers. When the odds can't be known, ask "what is going on here?" Build the best story you can that explains the facts, test it against what others think and choose actions that would survive if the story is wrong. Putting a precise probability on a large world event gives false comfort. It can lead to worse choices than honest doubt would.
 
-This framework feeds the [Known vs unknown odds](../axes/known-vs-unknown-odds.md) and [Small vs large world](../axes/small-vs-large-world.md) axes.
+This framework feeds the [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) and [Small vs large world](../axes/small-vs-large-world.md) axes.
 
 ## Examples
 

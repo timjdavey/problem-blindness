@@ -18,7 +18,7 @@ He listed eleven kinds of problem. At the tidy end are logic puzzles, algorithms
 
 The mistake Jonassen saw was schools teaching almost only the tidy kinds. Students learn to spot a pattern, plug in numbers and get the one right answer. Then they leave and meet problems with no single answer, where the hard part is working out what the problem is. A student trained only on tidy problems tries to find the formula. Often there isn't one. The better response is to name the kind of problem first, then use the method that suits it.
 
-This framework feeds the [Single vs multiple objectives](../axes/single-vs-multiple-objectives.md) and [Well vs ill-structured](../axes/well-vs-ill-structured.md) axes.
+This framework feeds the [Single objective vs trade-offs](../axes/single-objective-vs-trade-offs.md) and [Well vs ill-structured](../axes/well-vs-ill-structured.md) axes.
 
 ## Examples
 

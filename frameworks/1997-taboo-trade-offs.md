@@ -21,7 +21,7 @@ The trait this sorts on is whether every value at stake can be priced in one cur
 
 The mistake runs both ways. One is to price the sacred value out loud and expect people to accept the sum because the maths is sound. The other is to refuse to trade at all, which hides the trade-off rather than removing it, since the money still runs out somewhere. The better response is to admit the trade-off and frame it in terms that respect the sacred value. In the same study people accepted a choice between two sick boys, a tragic trade-off of life against life, and they judged Robert better when he took his time over it.
 
-This framework feeds the [Single vs multiple objectives](../axes/single-vs-multiple-objectives.md) and [Winnable vs damage limitation](../axes/winnable-vs-damage-limitation.md) axes.
+This framework feeds the [Single objective vs trade-offs](../axes/single-objective-vs-trade-offs.md) and [Winnable vs damage limitation](../axes/winnable-vs-damage-limitation.md) axes.
 
 ## Examples
 
