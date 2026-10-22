@@ -3,13 +3,12 @@ type: Guide
 title: Reading the axes
 description: How the axes are grouped, how to read one and what to do when a problem sits at the hard end.
 ---
-# Reading the axes
 
-Each axis names one way a problem can break the usual playbook of testing offline and then automating. The easy end always comes first, so in [Stationary vs drifting](stationary-vs-drifting.md) the drifting world is the harder case. The [index](index.md) lists every axis. This page explains how to read one, how to place a problem on it and what to do when the problem lands at the hard end.
+See [index](index.md) for full list.
 
 ## The five groups
 
-Stuart Russell and Peter Norvig sum up any task an AI agent faces as PEAS: its performance measure, environment, actuators and sensors ([Task environment properties](../frameworks/1995-task-environment-properties.md)). The groups follow them, with actions and information in place of actuators and sensors, and add a fifth for the agent itself.
+There is no single "correct" way to collate or break the space of all problems into. Therefore we've chosen to use Stuart Russell and Peter Norvig method as a practical start. They sum up any task an AI agent faces as PEAS: its performance measure, environment, actuators and sensors ([Task environment properties](../frameworks/1995-task-environment-properties.md)). The groups follow them, with actions and information in place of actuators and sensors for everyday readability. The sub-groups are our own.
 
 - [Environment](index.md#environment). How does the system behave, whoever is looking at it?
   - [Randomness](index.md#randomness): what the spread of outcomes looks like.
@@ -34,8 +33,8 @@ Stuart Russell and Peter Norvig sum up any task an AI agent faces as PEAS: its p
 
 Every axis page has the same four parts.
 
-- **The two ends.** The easy end comes first. A few axes also name a middle when it is a case of its own. In [Self-righting vs tipping](self-righting-vs-tipping.md) a Word document neither springs back nor flips. It stays wherever you push it.
-- **Actions.** What to do differently at each end, easy end first. Each opens with a plain rule that holds for anyone. A list then says what that rule means when you build or deploy an AI model.
+- **The two ends.** We have tried to order these axes so that the "easy end" comes first (as it can be argued that a deterministic system is easier to deal with than a stochastic one), however these are obviously subjective. A few axes also name a middle when it is a case of its own e.g. [Self-righting vs tipping](self-righting-vs-tipping.md).
+- **Actions.** What to do differently at each end. Each opens with a plain rule that holds for anyone.
 - **Correlated with.** The other axes this one tends to move with, each with a tag in brackets.
 - **Citations.** The frameworks the axis came from.
 
@@ -61,7 +60,7 @@ Three checks stop the same problem getting tagged two different ways.
 
 ## What changes at the hard end
 
-Read down the actions and the same move keeps turning up. Near the easy ends you can trust the test you ran before launch. Towards the hard ends that test stops being enough, and what replaces it comes in a set order.
+Near the easy ends you can trust the test you ran before launch. Towards the hard ends that test stops being enough.
 
 1. **Trust the offline test.** A held-out test set predicts how the model will do in production. Automate fully, monitor lightly and plan the project like normal engineering.
 2. **Add a checker.** Pair the model with tests, a rules engine or an expert. Let it act alone only where the checker can confirm the output.
