@@ -55,7 +55,7 @@ Correlated means a problem near the hard end of one axis tends to sit near the h
 Three checks stop the same problem getting tagged two different ways.
 
 1. **Say the scale and timescale.** Where a problem sits on most axes depends on how closely you look and over what time. One boiler breaking down is random, but a fleet of ten thousand breaks down at a steady rate.
-2. **Split the task into its decisions.** The cardiology story in the [overview](../README.md) is two problems in one task. Putting in a stent is a practised skill with fast, clear feedback. Deciding whether to is a slow, statistical call where your gut misleads you. Tag the whole task and you average them into a problem that doesn't exist.
+2. **Split the task into its decisions.** The cardiology story in the [motivation](../MOTIVATION.md) is two problems in one task. Putting in a stent is a practised skill with fast, clear feedback. Deciding whether to is a slow, statistical call where your gut misleads you. Tag the whole task and you average them into a problem that doesn't exist.
 3. **Ask whether it's one case or a policy.** In 1990 Donald Redelmeier and Amos Tversky gave doctors the same case in two forms ([Individual vs group decisions](../frameworks/1990-individual-vs-group-decisions.md)). Seen as one patient, a student with fatigue got an extra $20 blood test 30% of the time. Seen as one of a group just like them, the figure was 17%. A doctor who sees that kind of patient every week is setting a policy whether they mean to or not, and should judge the choice that way.
 
 ## What changes at the hard end
@@ -71,7 +71,7 @@ The steps don't cover every axis. Some ask other things, like whose goal counts,
 
 A real problem sits near the hard end of several axes at once, and their actions can pull against each other. A drifting world says relearn often and move fast, while a ruinous one says set hard limits and keep a fallback ready. **When actions clash, the step furthest down the list wins.**
 
-Both stories in the [overview](../README.md) show someone running the easy end playbook on a hard end problem. The reverse is a mistake too, just a cheaper one. Building live trials and stop buttons for a stable task you can check in seconds wastes months you could have spent getting it done.
+Both stories in the [motivation](../MOTIVATION.md) show someone running the easy end playbook on a hard end problem. The reverse is a mistake too, just a cheaper one. Building live trials and stop buttons for a stable task you can check in seconds wastes months you could have spent getting it done.
 
 ## Telling look-alike axes apart
 

@@ -1,100 +1,148 @@
 ---
 type: Overview
 title: Problem Blindness
-description: A shared vocabulary for the shape of a problem, built from a century of frameworks, so people and AI models can pick the right tool for it.
+description: A shared vocabulary for the shape of a problem, built from a century of frameworks, so people and AI models can tell what kind of expert a task needs.
 ---
+<div align="center">
+
 # Problem Blindness
 
-Treating every problem the same way leads to mistakes. People have noticed this again and again over the last hundred years, in economics, town planning, psychology, physics, management and computer science. Each of them came at it from their own field and their own experience, so each gave the idea their own names. The result is a vocabulary that grew up on its own, with dozens of overlapping terms and no map between them.
+**A shared vocabulary for the shape of a problem, so people and AI models
+can tell what kind of expert a task needs before they hand it over.**
 
-Because the terms are fuzzy, they also drift. A word gets a precise meaning in one field, then someone borrows it for another and stretches it until it means something else.
+[![47 axes](https://img.shields.io/badge/axes-47-8A2BE2?style=flat-square)](axes/index.md)
+[![95 frameworks](https://img.shields.io/badge/frameworks-95-008080?style=flat-square)](frameworks/index.md)
+[![Motivation](https://img.shields.io/badge/read-the_motivation-FBFAF7?style=flat-square&labelColor=333)](MOTIVATION.md)
+[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md)
 
-"Wicked" is the clearest case. In 1973 Horst Rittel and Melvin Webber, two planners at Berkeley, called a problem [wicked](frameworks/1973-tame-vs-wicked-problems.md) when people can't agree what the problem even is. In 2001 the psychologist Robin Hogarth called a learning environment [wicked](frameworks/2001-kind-vs-wicked-learning-environments.md) when feedback is missing or misleading, so experience teaches you the wrong lesson. The word is the same but the traits are different.
+</div>
 
-Ergodicity has drifted even further. The word comes from 19th century physics, where a system is ergodic if its average over time matches its average across many copies at one moment. In 2016 Ole Peters and Murray Gell-Mann brought the idea into [economics](frameworks/2016-ergodicity.md) to show why a bet that looks good on average can still make most players poorer. Since then popular writing has stretched "non-ergodic" to mean any risk of ruin. But Peters' own coin game never ruins anyone. It just makes the typical player a little poorer each round.
+<br>
 
-Elsewhere two names cover the same ground. [Cynefin's](frameworks/1999-cynefin.md) "complex" domain overlaps much of [deep uncertainty](frameworks/2003-deep-uncertainty.md), yet neither mentions the other.
+## Start here
 
-## What this project does
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="MOTIVATION.md">Why this exists</a></h3>
+      <p>Why the best cardiologists did more harm than the ones they left behind, and why experts and AI models bring the same hammer to every problem.</p>
+      <p>📖 <a href="MOTIVATION.md">Read the motivation</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="axes/README.md">The axes</a></h3>
+      <p>47 traits that set one problem apart from another, each with what to do at either end and the sources behind it.</p>
+      <p>🧭 <a href="axes/README.md">Read the guide</a> · <a href="axes/index.md">See the list</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="frameworks/README.md">The frameworks</a></h3>
+      <p>95 attempts to sort problems by what they are like, from Knight's risk and uncertainty in 1921 to incoherence in 2024.</p>
+      <p>📚 <a href="frameworks/README.md">Read the guide</a> · <a href="frameworks/index.md">See the list</a></p>
+    </td>
+  </tr>
+</table>
 
-This project pulls those attempts together into one consistent vocabulary. The [frameworks folder](frameworks/index.md) collects more than eighty of them, from Frank Knight's split of risk and uncertainty in 1921 to Tim Davey's measure of incoherence in 2024. The [axes](axes/index.md) pull out the traits underneath. Each axis is a scale with two ends, such as whether you can undo a mistake or whether feedback comes quickly and honestly. Each one lists the frameworks it came from and how it links to the other axes.
+## What is this?
 
-The starting point was Stuart Russell and Peter Norvig's list of task environment properties in [*Artificial Intelligence: A Modern Approach*](https://aima.cs.berkeley.edu/). Every trait on it is plain and testable, which is why it works so well. But it was built to design agents, not to judge when to trust one, so the axes add the traits the other frameworks keep coming back to.
+Experts and AI models get good at one kind of problem, then bring the same tools to problems they don't suit. No single method wins on every problem ([no free lunch](frameworks/1997-no-free-lunch.md)), so the first job is to see what kind of problem you have. Economists, planners, psychologists and computer scientists have each named the differences, but in their own words and with no map between them.
 
-The first use is for people. A precise, shared vocabulary gives you something to reason with, and it shows you when two people mean different things by the same word.
+This repo pulls out the traits under those frameworks as **axes**. The easy end always comes first, so in [Immediate vs delayed feedback](axes/immediate-vs-delayed-feedback.md) delayed is the harder case. Each axis page says what to do at either end and cites a source for every move.
 
-The bigger use is for LLMs. A person can read around a clash in meaning. A model mostly can't, and it will happily treat Rittel's wicked and Hogarth's wicked as one idea. Give it a consistent set of axes, with clear conditions for when two labels match, and it has a second brain to reason with. It can place a problem on every axis in far more detail than a person has patience for, then work out which tools fit.
+## A quick taste
 
-## Why it has to be practical
+Treating a heart attack is two problems in one task, and they land at opposite ends.
 
-A neat scheme nobody uses is useless. There is already proof that tagging tasks this way pays off. In 2025 [METR](https://arxiv.org/abs/2503.14499) scored its tasks for "messiness", meaning how far they sit from a clean test and how close to real work. Even after allowing for how long a task took, a one-point increase in messiness on their scale cut mean success rates by about 8.1%.
+| Axis | Putting in the stent | Deciding whether to |
+|---|---|---|
+| [Immediate vs delayed feedback](axes/immediate-vs-delayed-feedback.md) | **Immediate.** You see the artery open on the screen | **Delayed.** Whether it helped shows up only in death rates across many patients |
+| [Verifiable vs unverifiable](axes/verifiable-vs-unverifiable.md) | **Verifiable.** The scan shows whether blood flows | **Unverifiable.** You can't check whether this patient would have lived without it |
+| [Explicit vs tacit know-how](axes/explicit-vs-tacit-know-how.md) | **Tacit.** The skill lives in trained hands | **Explicit.** Trial data and risk scores can be written down |
 
-That is a single, crude axis, and it already predicts how well a model will do. A richer set of axes, checked against real results, could do far more. We want the same thing when building expert systems. Before you hand a task to a model or a person, you should be able to say what shape it is, what kind of expert it needs and how far to trust the answer. The aim is for this project to work as a skill an AI agent can load, or at least as a reference guide.
+Each end tells you what to do. This is the explicit end, [as it appears](axes/explicit-vs-tacit-know-how.md#actions) on the axis page:
 
-### Testing the axes against METR
+> **Explicit know-how**: Write it down and hand it over.
+> - Put the rules in a manual, a checklist or a prompt. Work with clear methods and few surprises runs well on rules, so a new hire or a model can simply be told them. [1]
+> - Follow the written rule rather than gut feel. On a task with a clear rule, gut feel only adds noise to what a formula would get right every time. [3]
 
-We planned to check the axes against METR's results. A model would tag each task on every axis without seeing how agents did. Then we would see which axes split the tasks agents pass from the ones they fail, after allowing for length, and whether they predict better than METR's messiness score.
+Cardiologists trained to trust their gut on the procedure brought the same gut to the decision, and their patients did worse for it. The [motivation](MOTIVATION.md#problem-blindness) tells the full story.
 
-That needs the full text of each task. METR keeps most of it private so that models aren't trained on it. Only 23 tasks from 11 families are public in full. The rest have a one or two sentence summary.
+## Why the words need pinning down
 
-We ran a prototype on what is public, and it wasn't strong enough to trust. On the 23 full tasks our tagger matched METR's messiness result, with each point cutting success by 8.5% against their 8.1%. On the summaries it found almost nothing, because one sentence is too little to tag from. Eleven families can only show very large effects. Every tag also came from a Claude model, which may share the blind spots of the agents being tested. [Verifiable vs unverifiable](axes/verifiable-vs-unverifiable.md) came out strongest, as we had predicted, but it didn't survive once we allowed for testing 25 axes at once.
+A word gets a precise meaning in one field, then another field borrows it and stretches it. People can read around the clash, but a model will treat the two meanings as one. The axes give each meaning its own place.
 
-We'd love to work with METR, or any lab that holds private task text, to run the test properly. The tagging can run on their side, so the task text never leaves their hands.
+| Term | First meant | Later stretched to | Axes it feeds |
+|---|---|---|---|
+| Wicked | Rittel and Webber, 1973: a [planning problem](frameworks/1973-tame-vs-wicked-problems.md) where people can't agree what the problem is | Hogarth, 2001: a [learning environment](frameworks/2001-kind-vs-wicked-learning-environments.md) where feedback is missing or misleading | [Shared vs contested values](axes/shared-vs-contested-values.md) for the first, [Immediate vs delayed feedback](axes/immediate-vs-delayed-feedback.md) for the second |
+| Non-ergodic | Peters and Gell-Mann, 2016: a [bet](frameworks/2016-ergodicity.md) that pays on average yet leaves the typical player poorer | Popular writing: any risk of ruin | [Additive vs multiplicative returns](axes/additive-vs-multiplicative-returns.md) and [Survivable vs ruinous](axes/survivable-vs-ruinous.md), kept apart |
+| Infinite game | Carse, 1986: a [game](frameworks/1986-finite-and-infinite-games.md) played to keep play going, not to win | Sinek, 2019: thinking long term in business | [Curable vs chronic](axes/curable-vs-chronic.md) |
 
-## How to contribute
+## The five groups
 
-This is an open source project and we'd love your help. It is not a finished analysis and never will be. People will keep finding new axes, and there are surely frameworks we have missed. If you spot a gap, a wrong link or a better example, please open a pull request.
+The groups follow Russell and Norvig's [task environment properties](frameworks/1995-task-environment-properties.md). An agent is anything that senses and acts, whether a person, a firm or a program.
 
-The project is written in the [Open Knowledge Format](https://okf.md) (OKF), so an agent can read it without special tools. Every framework and axis file starts with a block of YAML front matter, and every block needs a `type`. Each folder has an `index.md` that lists what is in it, and a `README.md` that explains how to read it. GitHub shows the `README.md` when you open the folder. [log.md](log.md) records big changes.
+| Group | The question it asks | Sets |
+|---|---|---|
+| Environment | How does the system behave, whoever is looking at it? | [Randomness](axes/index.md#randomness), [Change](axes/index.md#change), [Stimulus](axes/index.md#stimulus), [Reactivity](axes/index.md#reactivity), [Structure](axes/index.md#structure) |
+| Information | What can you find out, and how fast? | [Uncertainty](axes/index.md#uncertainty), [Evidence](axes/index.md#evidence) |
+| Actions | What moves do you have? | [Options](axes/index.md#options), [Control](axes/index.md#control) |
+| Performance | What counts as good, and what does a miss cost? | [Goal](axes/index.md#goal), [Stakes](axes/index.md#stakes) |
+| Agent | What does the task ask of whoever solves it? | [Know-how](axes/index.md#know-how), [Incentives](axes/index.md#incentives) |
 
-A new framework goes in `frameworks/` as a file named by year and title, like `1973-tame-vs-wicked-problems.md`. Give it `type: Framework`, a `title`, a short `description`, the `date`, its `creators` and a `sources` entry for the original paper. Add a line for it to the [frameworks index](frameworks/index.md).
+## How to tag a task
 
-A new axis goes in `axes/` as its own file, named like `thin-vs-fat-tails.md`. Give it `type: Axis`, a `title`, a `description` that gives each end in one line with a short example, its `group` and `subgroup`, its `easy_end` and `hard_end`, and a `sources` entry for each framework it came from. Each end label has to make sense on its own, so write "Fat tails" rather than "Fat" ([Naming an axis](axes/README.md#naming-rules)). Add a line for it to the [axes index](axes/index.md) under its subgroup, and link it to the existing axes it moves with. Each action ends with a number that points at its source under Citations, so an action nothing backs doesn't go in.
+1. **Split the task into its decisions.** Tag the stent and the choice to use one together and you average them into a problem that doesn't exist.
+2. **Say the scale and timescale.** One boiler breaking down is random, but a fleet of ten thousand breaks down at a steady rate.
+3. **Ask whether it's one case or a policy.** A doctor who sees the same kind of patient every week is setting a policy, and should judge the choice that way.
+4. **Place each decision on every axis**, then read the actions at the ends it lands on. When actions clash, follow [What changes at the hard end](axes/README.md#what-changes-at-the-hard-end).
 
-Most ideas for a new axis turn out to be an old one in new words, so a new axis has to pass three tests. First, name a problem at its hard end that sits at the easy end of the axes closest to it. Second, its hard end must call for actions those axes don't already list. Third, no mix of two or three existing axes can land the same problems at the hard end and call for the same actions. If it fails the first test it is a copy. If it fails the second or third, add it as a note to the axis that covers it. [Reading the axes](axes/README.md#three-tests-for-a-new-axis) works through an example.
+[Before you tag a problem](axes/README.md#before-you-tag-a-problem) gives the full checks. The whole repo is plain Markdown in the [Open Knowledge Format](https://okf.md), so an AI agent can load it as a skill or a reference with no special tools.
 
-## Why does treating one problem as another matter?
+## Does it predict anything?
 
-The two stories below show the same mistake. In each, someone used a tool that suited one kind of problem on a problem of a different kind.
+In 2025 [METR](https://arxiv.org/abs/2503.14499) scored its tasks for "messiness", meaning how far each sits from a clean test. After allowing for task length, each point cut AI agents' mean success by about 8.1%. That is one crude axis, so we tried the full set on METR's public tasks.
 
-### Example 1: Using fast thinking on slow tasks
+| Data | What we found |
+|---|---|
+| 23 tasks from 11 families with full text | Our tagger matched METR's messiness result, at 8.5% per point against their 8.1% |
+| The rest, with a one or two sentence summary | Almost nothing, since a sentence is too little to tag from |
 
-Cardiologists used to tell a joke at their conventions: the safest place to have a heart attack is at a cardiology convention. Once you stop laughing, the flip side starts to worry you. What happens to patients back home while thousands of the best heart doctors are away?
+[Verifiable vs unverifiable](axes/verifiable-vs-unverifiable.md) came out strongest, as predicted, but didn't survive correction for testing 25 axes at once.
 
-In 2015 a [study](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2038979) looked at ten years of American hospital admissions to find out. Patients did better while the experts were away. At teaching hospitals, 17.5% of high-risk heart failure patients died within a month during the conventions, against 24.8% the rest of the year.
+> [!NOTE]
+> **Hold private task text? Let's run the real test.**
+> METR keeps most task text private so models aren't trained on it. We'd love to work with METR or any lab in the same position. The tagging can run on your side.
 
-Heart attacks tell you why. During the conventions, high-risk heart attack patients at teaching hospitals were less likely to get a stent put in to open a blocked artery (20.8% against 28.2%), yet no more of them died. The experts weren't worse at their craft. They were worse at deciding when to use it. When they were at work they reached for a risky procedure more often than the doctors who stayed behind, and they saved no more lives for it.
+## What's in the repo
 
-Treating a heart attack is two problems, not one. Doing the procedure rewards the [fast, trained intuition](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) that years of practice build. Deciding whether to do it is a slow, statistical problem where your gut is the wrong tool. The experts had spent years learning to trust their gut, so they brought the same hammer to both.
+```text
+README.md                    this page
+MOTIVATION.md                why the project exists, told through the cardiologists and the typhoid doctor
+index.md                     the Open Knowledge Format index of the whole project
+log.md                       big changes, newest first
+axes/
+├── README.md                how to read an axis page, what the tags mean and how to tag a task
+├── index.md                 every axis by group, with both ends in one line
+└── thin-vs-fat-tails.md     one file per axis, 47 in all
+frameworks/
+├── README.md                what the frameworks share and how they feed the axes
+├── index.md                 every framework by date, oldest first
+└── 1921-risk-vs-uncertainty.md   one file per framework, 95 in all
+```
 
-### Example 2: Mistaking a neat story for the truth
+## Contributing
 
-This example comes from [a talk on judging businesses](https://www.youtube.com/watch?v=KDWfsxfRKXc).
+This will never be finished. If you spot a missing framework, a wrong link or a better example, please open a pull request. Every file starts with YAML front matter that needs a `type`.
 
-In January you invest in an electronics firm. For six months its sales are so-so. In July it rebrands, and over the next three months sales fall off a cliff. In October a new chief executive arrives. By November things are picking up, and December is the best month of the year.
+| Adding | File | Front matter | Then |
+|---|---|---|---|
+| A framework | `frameworks/1973-tame-vs-wicked-problems.md` | `type: Framework`, `title`, `description`, `date`, `creators`, `sources` | Add it to the [frameworks index](frameworks/index.md) |
+| An axis | `axes/thin-vs-fat-tails.md` | `type: Axis`, `title`, `description` (each end in one line), `group`, `subgroup`, `easy_end`, `hard_end`, `sources` | Add it to the [axes index](axes/index.md) under its set, and link the axes it moves with |
 
-The lessons look obvious. Rebrands are risky, and a new leader can turn a business round fast.
+Each end label must make sense on its own, so write "Fat tails" rather than "Fat" ([Naming rules](axes/README.md#naming-rules)). Each action must cite a source, so an action nothing backs doesn't go in.
 
-Now look wider. In July a worldwide supply chain problem hit every firm in the industry, so the rebrand had nothing to do with the fall. The old chief executive wasn't fired. They retired in a handover planned years before. And over the last ten years, sales have picked up every December because the business is seasonal.
+Most new axes turn out to be an old one in new words, so a new axis has to pass [three tests](axes/README.md#three-tests-for-a-new-axis).
 
-Every lesson was wrong. You treated one year of one firm as the whole story, and your gut filled in the causes. A business is tangled and hard to read, so this type of problem needs a long history and a look at everyone else before you learn anything from it.
+1. **Corner test.** Name a problem at its hard end that sits at the easy end of the axes closest to it.
+2. **Action test.** Its hard end calls for actions those axes don't already list.
+3. **Combination test.** No mix of two or three existing axes lands the same problems at the hard end and calls for the same actions.
 
-### Why it keeps happening
-
-> "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail." Abraham Maslow, 1966
-
-The philosopher Abraham Kaplan made the same point two years earlier and called it the [law of the instrument](https://en.wikipedia.org/wiki/Law_of_the_instrument). Most people know it in a shorter form: if all you have is a hammer, everything looks like a nail.
-
-In England a hammer is sometimes called a [Birmingham screwdriver](https://www.urbandictionary.com/define.php?term=birmingham%20screwdriver). The usual story is that the joke goes back generations. Southerners liked to cast the workers of Birmingham as simpletons who would just hammer in any screw you handed them. It's a neat picture of the clumsy amateur next to the skilled expert.
-
-The irony is that this is how most of us treat expertise and problems.
-
-Ever since Adam Smith described his pin factory in 1776, specialisation has slowly come to mean the same thing as expertise. We train people to go deeper into one thing. Then we seek out and promote whoever has the best hammer, so every problem gets treated as a nail.
-
-It's easy to forgive any one expert for leaning on their training. The problem is we've built around that expertise, rewarding that habit because we picture expertise as a single ladder you climb.
-
-There is a proof that no single hammer can win. In 1997 David Wolpert and William Macready showed that, averaged over every possible problem, all search methods do exactly as well as each other. This is called the [no free lunch](frameworks/1997-no-free-lunch.md) theorem. A method only beats the rest by fitting the shape of the problem in front of it. So the first job is to work out what shape the problem has, and only then pick the tool.
-
-The same point turns up in control theory and in the study of organisations. In 1956 Ross Ashby showed that a controller needs at least as many responses as there are disturbances to handle. He called this the [law of requisite variety](frameworks/1956-law-of-requisite-variety.md), and it means one hammer can only ever cover a narrow range of problems. In 1972 Michael Cohen, James March and Johan Olsen found that organisations often work backwards. Their [garbage can model](frameworks/1972-garbage-can-model.md) shows solutions going looking for problems they can be the answer to, which is the law of the instrument at the scale of a whole firm.
-
-AI models seem more subtle and nuanced in their thinking, but they are still expert systems. So a lot of what we know about human experts carries over, and we can use it to work out when to trust these systems at scale.
+An idea that fails the second or third test goes in as a note on the axis that covers it. Record big changes in [log.md](log.md).

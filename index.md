@@ -3,7 +3,7 @@ okf_version: "0.2"
 ---
 # Problem Blindness
 
-* [Overview](README.md) - Why treating every problem the same way leads to mistakes, and what this project does about it.
+* [Overview](README.md) - What the project is, how to tag a task with the axes and how to contribute.
 * [Motivation](MOTIVATION.md) - Why experts bring the same hammer to every problem, and why people and AI agents need a shared way to name the problem in front of them.
 * [Update log](log.md) - Big changes to the project, newest first.
 
