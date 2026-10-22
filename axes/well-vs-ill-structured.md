@@ -31,15 +31,17 @@ Is the problem clearly stated, with a known goal, known moves to get there and a
 ## Actions
 
 **Well-structured**: Solve it.
-- Let whoever does the work aim straight at the test. With a clear goal and a test for done, a new hire, a contractor or a model needs nobody watching.
-- Make the check mechanical. The test for done needs no judgement, so it can run on every answer, as when a teacher marks a quiz against the key.
+- Work it out rather than debate it. Treating a problem with a clear answer as open to endless argument means nobody sits down and solves it. [1]
+- Let whoever does the work aim straight at the test, whether a new hire, a contractor or a model. With the goal, the moves and the test all fixed, search alone can get there. That is how Deep Blue beat Kasparov at chess in 1997. [1]
+- Make the check mechanical. The test for done needs no judgement, so it can run on every answer. [1]
 
 **Ill-structured**: Work out the problem before solving it.
-- Draft several framings of the goal. Each one points to a different solution, so compare them before you pick. A council can treat homelessness as a housing problem, a jobs problem or a health problem, and each leads somewhere else.
-- Write down what done looks like and agree it before you start. Otherwise every review turns into an argument about the goal.
-- Expect to revise the goal once people see a first version, and budget for it. A client often learns what they want from the architect's first sketch, not from their own brief.
-- Use helpers to explore, not to finish. Ask a consultant, a colleague or a model for framings and questions rather than an answer.
-- Check that the problem came before the solution. If the tool was picked first, the problem gets described in its terms and the fit only holds on paper. MD Anderson spent about $62 million building a cancer adviser on IBM's Watson, and it was not in clinical use ([Garbage can model](../frameworks/1972-garbage-can-model.md)).
+- Draft several framings of the problem before you pick one. Each points to a different fix. Crime blamed on poverty calls for jobs, while crime blamed on weak policing calls for more officers. [3, 4]
+- Treat each framing as a trial. Try one, watch how the situation responds and change it when it doesn't fit. [6]
+- Pin down what you can before you plan the rest. Check which of the goal, the moves and the test is missing. The Sydney Opera House was budgeted at about A$7 million as if its plan were fixed, and it cost A$102 million. [1]
+- Expect the goal to change once people see a first version, and budget for it. A client often learns what they want from the architect's first sketch, not from their own brief. [1]
+- When results stay poor, question the goal as well as the method. A call centre that trains staff to keep calls short can end up with more people ringing back about problems left unfixed. [5]
+- Check that the problem came before the solution. A consultant, a vendor or a model with a ready method tends to describe the problem in its own terms, so the fit only holds on paper. MD Anderson spent about $62 million on a cancer adviser built on IBM's Watson, and it was not in clinical use. [2, 6]
 
 ## Correlated with
 

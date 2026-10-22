@@ -23,13 +23,14 @@ Will any answer that clears the bar do, or does each extra bit of quality still 
 ## Actions
 
 **Satisficing**: Set a bar and stop when you clear it.
-- Take the first option that meets the need. More polish past the bar is waste, so pick the first decent lunch spot and eat.
-- Write the bar down before you start. Without it, a house hunt or a redesign drags on because better always seems possible.
+- Take the first option that meets the need. Searching for the very best costs more than it is worth in most settings, so pick the first decent lunch spot and eat. [1, 2]
+- Write the bar down before you start, and lower it if nothing clears it for a long time. Without a bar, a house hunt or a redesign drags on because better always seems possible. [1]
+- Don't polish the weights. Near the best answer the payoff is often flat, so any sensible weights do about as well. When Robyn Dawes predicted how faculty would rate graduate students, adding three scores with equal weights did better than fitted weights. [2]
 
 **Optimising**: Spend on the last few percent, and check you got it.
-- Search wider and tune with care. Here the small gains are the whole point, as when a racing team spends weeks on a tenth of a second.
-- Confirm the gain on cases you didn't tune on. A recipe tweaked until one panel of tasters loves it may just suit that panel.
-- Check the gain is real before you pay for it. Small gaps between two options often vanish when you run the trial again.
+- Search wider and tune with care. Where the payoff has a sharp peak, a small miss costs a lot. Patients on the blood thinner warfarin have regular blood tests because the safe dose window is narrow. [2]
+- Confirm the gain on cases you didn't tune on. Tuning fits noise as well as signal. In a contest across 20 data sets, regression came first on data it had already seen, then lost the most on new data. [3]
+- Price the last step before you pay for it. Ask what the gap between good and best is worth and what it costs to close. Many payoffs are flat near the top, and there a long hunt wastes effort. [1, 2]
 
 ## Correlated with
 

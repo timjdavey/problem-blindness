@@ -13,6 +13,8 @@ sources:
     title: Skill, rule and knowledge-based behaviour
   - resource: /frameworks/1987-cognitive-continuum.md
     title: Cognitive continuum
+  - resource: /frameworks/1988-moravecs-paradox.md
+    title: Moravec's paradox
   - resource: /frameworks/2009-conditions-for-intuitive-expertise.md
     title: Conditions for intuitive expertise
 ---
@@ -25,13 +27,16 @@ Can the know-how be written down as rules, or does it live in experts' hands and
 ## Actions
 
 **Explicit know-how**: Write it down and hand it over.
-- Put the rules in a manual, a checklist or a prompt. If an expert can say it, a new hire or a model can be told it.
-- Check the work against the written rules. Each rule becomes a test, the way a building inspector ticks off each regulation.
+- Put the rules in a manual, a checklist or a prompt. Work with clear methods and few surprises runs well on rules, so a new hire or a model can simply be told them. [1]
+- Follow the written rule rather than gut feel. On a task with a clear rule, gut feel only adds noise to what a formula would get right every time. [3]
+- Check the work against the written rules. Each rule becomes a test, the way a building inspector ticks off each regulation. [1]
 
 **Tacit know-how**: Learn from examples and judges, not instructions.
-- Learn by watching good work. An apprentice picks up from a master baker what no recipe says.
-- Have experts grade the work rather than write rules for it. They can tell good from bad even when they can't say why, and their verdict is the only check you have.
-- Expect a long tail of cases that written guidance misses. Plan to review the odd ones rather than add more rules.
+- Learn from many cases with quick, clear feedback. Intuition is pattern matching, so it is only as good as the patterns the learner has had a chance to learn. An apprentice baker learns when bread is done by baking many loaves, not by reading a recipe. [5]
+- Have experts judge the work rather than write rules for it. Klein's fire lieutenant got his crew out before he could say why. Trust only judges who learnt in a regular setting with quick, clear feedback, since confidence is no guide. [5]
+- Leave the odd cases to skilled people with the power to decide. Forcing cases that don't fit through procedures built for routine work is the usual mistake. [1]
+- Don't force a formula onto a task full of cues. You end up scoring the few cues you can measure, and you do worse than a trained gut call. [3]
+- Don't judge how hard a skill is for one solver by how it feels to another. Tesla's robot kept failing to place soft mats on its battery packs, a job human hands did easily. Test the dull parts of a job as well as the clever ones. [4]
 
 ## Correlated with
 
@@ -51,4 +56,6 @@ Can the know-how be written down as rules, or does it live in experts' hands and
 
 [3] [Cognitive continuum](../frameworks/1987-cognitive-continuum.md)
 
-[4] [Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)
+[4] [Moravec's paradox](../frameworks/1988-moravecs-paradox.md)
+
+[5] [Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)

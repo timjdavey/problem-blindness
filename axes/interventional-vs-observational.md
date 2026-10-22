@@ -15,6 +15,10 @@ sources:
     title: Ladder of causation
   - resource: /frameworks/2001-kind-vs-wicked-learning-environments.md
     title: Kind vs wicked learning environments
+  - resource: https://doi.org/10.1056/NEJM199109123251102
+    title: "Postmenopausal estrogen therapy and cardiovascular disease: ten-year follow-up from the Nurses' Health Study (Stampfer, 1991)"
+  - resource: https://doi.org/10.1001/jama.288.3.321
+    title: "Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results from the Women's Health Initiative randomized controlled trial (Rossouw, 2002)"
 ---
 # Interventional vs observational
 
@@ -27,15 +31,17 @@ Watching is worse still when you only see how your own choices turned out. A hir
 ## Actions
 
 **Interventional**: Run the experiment.
-- Randomise, A/B test or use a bandit. A fair test tells you what works. Watching only tells you what goes with what. A bandit tests as it goes. In 1933 William Thompson proposed giving each new patient a treatment at random, weighted towards whichever looked better so far ([Multi-armed bandit](../frameworks/1933-multi-armed-bandit.md)).
-- Let the result decide. A fair test should beat anyone's opinion of the outcome.
+- Run a fair test where you can. When chance decides who gets the change, any gap comes from the change, while watching only tells you what goes with what. [3]
+- Shift towards what is winning while the test runs. A fixed trial keeps sending half its patients or users to an option that is plainly losing. In 1933 William Thompson proposed giving each new patient a treatment at random, weighted towards whichever looked better so far. [1]
+- Keep testing now and then after a winner emerges. An early lead can be luck, and only fresh tests will show it. [1]
+- Give tests their own budget. They pay back slowly, so this year's results will starve them otherwise. [2]
 
 **Observational**: Treat past records as biased until shown otherwise.
-- Remember what records teach: who chose what, not what works. A head teacher who sees tutored pupils do better has learnt who pays for tutors, not whether tutoring helps.
-- Write down what you assume causes what. Then use methods that adjust for it, so others can see and challenge your guesses.
-- Check against any small test you can run. Even a little random data can show if the records mislead you.
-- Never read a pattern in the records as the effect of acting on it. The nurses study did, and got hormone therapy backwards.
-- Say yes at random to a few cases you would have turned away. A lender or a recruiter has no other way to see how the road not taken turns out.
+- Ask who chose each option before you read a pattern. Records mix the effect of a choice with the kind of person who made it. Keen gym members may sign up for classes and lose weight whatever the classes do. [3]
+- Write down what you assume causes what, and see which links your answer rests on. Others can then check and challenge those guesses. [3]
+- Check the records against a fair test wherever you can run one, however small. It shows whether the pattern holds once you step in. [3]
+- Never read a pattern in the records as the effect of acting on it. Nurses who took hormones had about half the heart disease, so doctors gave hormones to protect the heart. A 2002 trial found they raised it instead. [3, 5, 6]
+- Say yes at random to a few cases you would have turned away. A lender or a recruiter otherwise never sees how the people it refused would have done. [1, 4]
 
 ## Correlated with
 
@@ -54,3 +60,7 @@ Watching is worse still when you only see how your own choices turned out. A hir
 [3] [Ladder of causation](../frameworks/2000-ladder-of-causation.md)
 
 [4] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)
+
+[5] [Postmenopausal estrogen therapy and cardiovascular disease: ten-year follow-up from the Nurses' Health Study (Stampfer, 1991)](https://doi.org/10.1056/NEJM199109123251102)
+
+[6] [Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results from the Women's Health Initiative randomized controlled trial (Rossouw, 2002)](https://doi.org/10.1001/jama.288.3.321)

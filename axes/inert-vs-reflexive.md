@@ -17,6 +17,8 @@ sources:
     title: Reflexivity
   - resource: /frameworks/2001-kind-vs-wicked-learning-environments.md
     title: Kind vs wicked learning environments
+  - resource: https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html
+    title: Hidden technical debt in machine learning systems (Sculley, 2015)
 ---
 # Inert vs reflexive
 
@@ -31,15 +33,17 @@ The worst case is when your own action makes the result you take as proof. Robin
 ## Actions
 
 **Inert**: Measure and act freely.
-- Learn from the record as it stands. Your forecast won't change the thing you forecast, so the record is a fair one.
-- Publish scores and forecasts openly. A rock doesn't move because you said where it was.
+- Learn from the record as it stands. Your forecast won't change the thing you forecast, so the record is a fair one. [2, 3]
+- Publish scores and forecasts openly. A rock doesn't move because you said where it was. [2]
+- Judge the thing itself. Treating a plain question of fact as a guess about what others think just has you chasing fashion. [1]
 
 **Reflexive**: Expect what you put out to change the world you learnt it from.
-- Ask what people will do once they see your forecast, score or decision. A central bank chooses its words with care, because markets move on them.
-- Leave a small group, picked at random, that your rule doesn't touch. It shows you what would have happened without the rule. A council trialling a parking scheme can keep a few streets, chosen by lot, as they were.
-- Watch for loops that feed on themselves. A bookshop that only puts its best sellers in the window keeps them best sellers, and narrows until it sells the same few books.
-- Update with care. Results gathered after people began acting on your forecast carry its effect, so they are no longer a clean picture of the world.
-- Get a check from outside the loop. Audits and outside review give a view your own record can't.
+- Ask what people will do once they see your forecast, score or decision, and build on what that won't change. A shop that holds a sale every week soon finds shoppers wait for it. [3]
+- When the payoff rests on what others think, study them and how long you can wait. You can be right about the facts and still lose, because the crowd can stay wrong longer than you can hold out. [1]
+- Leave a small group, picked at random, that your rule doesn't touch. It shows you what would have happened without the rule. A lender trying a new credit score can approve a few applicants at random, whatever the score says, and see how they repay. [6]
+- Watch for loops that feed on themselves, and for the point where they turn. A bookshop that only puts its best sellers in the window keeps them best sellers, and narrows until it sells the same few books. [4, 6]
+- Break the loop where you can. Once the government guaranteed all deposits, the 2007 run on Northern Rock stopped, because the rumour had nothing left to feed on. [2]
+- Don't read the results as proof you were right. Once people act on your forecast the results carry its effect, so get a check from outside the loop. [2, 4, 5]
 
 ## Correlated with
 
@@ -61,3 +65,5 @@ The worst case is when your own action makes the result you take as proof. Robin
 [4] [Reflexivity](../frameworks/1987-reflexivity.md)
 
 [5] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)
+
+[6] [Hidden technical debt in machine learning systems (Sculley, 2015)](https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html)

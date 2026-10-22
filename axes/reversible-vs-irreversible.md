@@ -11,6 +11,8 @@ sources:
     title: Tame vs wicked problems
   - resource: /frameworks/2015-one-way-vs-two-way-doors.md
     title: One-way vs two-way doors
+  - resource: https://doi.org/10.1056/NEJMsa0810119
+    title: A surgical safety checklist to reduce morbidity and mortality in a global population (Haynes, 2009)
 ---
 # Reversible vs irreversible
 
@@ -21,14 +23,15 @@ If it goes wrong, can you undo it cheaply and try again, or are you stuck with i
 ## Actions
 
 **Reversible**: Move fast and let whoever is doing the work act alone.
-- Make small changes often and learn from what breaks. You can roll back.
-- Skip the sign off, whether a junior chef or an AI agent is doing the work. A mistake costs an undo, not a disaster.
+- Make small changes often and learn from what breaks. You can roll back. [2]
+- Skip the sign off, whether a new hire or an AI agent is doing the work. Bezos warns that putting every call through the heavy process makes a large firm slow and timid, so it tries too few new things. [2]
 
 **Irreversible**: Slow down and put a second pair of eyes at the door.
-- Ask for sign off before any move that can't be undone. Sending money, felling a tree and deleting records are the usual ones.
-- Rehearse before you act. A surgeon talks the team through the plan and a builder pegs out the walls. Each shows what they would do, so someone else can stop it before it is real.
-- Turn one way doors into two way ones where you can. A trial period, a cooling off period and a delay before a message sends all buy you an undo.
-- Gate only the moves that are hard to undo. Gating everything trains people to approve without reading.
+- Ask for sign off before any move that can't be undone. Sending money, felling a tree and deleting records are the usual ones. [2]
+- Say the plan out loud just before the step you can't take back, so someone can stop it. Before the first cut, the WHO surgical checklist has the surgeon talk the team through the critical steps. In eight hospitals that took up the checklist, deaths after surgery fell from 1.5% to 0.8%. [3]
+- Turn one way doors into two way ones where you can. Coca-Cola kept its old recipe when it launched New Coke in 1985, so it could bring the old drink back within three months. A trial period or a delay before a message sends buys the same undo. [2]
+- Don't plan a fix you can't undo as if you could test it and roll it back. Boston's elevated Central Artery opened in 1959, and undoing it took the Big Dig, which ran from 1991 to 2007 and cost about $14.6 billion. [1]
+- Gate only the moves that are hard to undo. Sorting the doors first saves time on the small calls and care for the big ones. [2]
 
 ## Correlated with
 
@@ -46,3 +49,5 @@ If it goes wrong, can you undo it cheaply and try again, or are you stuck with i
 [1] [Tame vs wicked problems](../frameworks/1973-tame-vs-wicked-problems.md)
 
 [2] [One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)
+
+[3] [A surgical safety checklist to reduce morbidity and mortality in a global population (Haynes, 2009)](https://doi.org/10.1056/NEJMsa0810119)

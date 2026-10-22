@@ -9,14 +9,18 @@ hard_end: Trade-offs
 sources:
   - resource: /frameworks/1976-decisions-with-multiple-objectives.md
     title: Decisions with multiple objectives
-  - resource: /frameworks/2000-problem-typology.md
-    title: Problem typology
-  - resource: /frameworks/2017-need-for-interpretability.md
-    title: Need for interpretability
   - resource: /frameworks/1997-taboo-trade-offs.md
     title: Taboo trade-offs
+  - resource: /frameworks/2000-problem-typology.md
+    title: Problem typology
   - resource: /frameworks/2007-super-wicked-problems.md
     title: Super wicked problems
+  - resource: /frameworks/2017-need-for-interpretability.md
+    title: Need for interpretability
+  - resource: https://doi.org/10.2307/1884852
+    title: A behavioral model of rational choice (Simon, 1955)
+  - resource: https://doi.org/10.1111/j.0956-7976.2005.01559.x
+    title: "Constructed criteria: redefining merit to justify discrimination (Uhlmann, 2005)"
 ---
 # Single objective vs trade-offs
 
@@ -33,15 +37,17 @@ This axis asks how many parts the goal has. It doesn't ask who sets the weights,
 ## Actions
 
 **Single objective**: Optimise the one number.
-- Use it as both the target and the test. When there is one goal, the score and the job are the same. A sprinter trains for the clock and is judged by it.
-- Compare options on it directly. The faster route wins, so there is nothing to argue about.
+- Use it as both the target and the test. When there is one goal, the score and the job are the same. A sprinter trains for the clock and is judged by it. [1, 5]
+- Compare options on it directly. The faster route wins, so there is nothing to argue about. [1]
 
 **Trade-offs**: Make the trade offs plain.
-- Track each goal as its own number. One blended score hides which goal was given up. A single star rating can't tell a restaurant whether it lost marks on the food or on the service.
-- Lay out the trade offs and let the owner set the weights. Show only the options where you can't gain on one goal without losing on another. A car buyer should see the best car at each price, not every car on the forecourt.
-- Agree the weights before you see the results. Weights set afterwards tend to favour the option you already like, such as the candidate a hiring panel warmed to.
-- Set a floor for each goal. No gain on one should push another below what is acceptable. A cheap car still has to pass its crash test.
-- Treat sacred values as rules you can't break, not weights you can trade. A figure that puts a price on a life will be found and quoted, whether it sits in a hospital budget or in the goal a model is trained on.
+- Track each goal as its own number. One blended score hides which goal was given up. A single star rating can't tell a restaurant whether it lost marks on the food or on the service. [1, 5]
+- Let the owner set the weights, and show how the ranking moves as they change. Keeney and Nair did this for nuclear plant sites in Washington, and advised studying three sites rather than crowning one. [1]
+- Agree the weights before you see the options. In a 2005 study, people choosing a police chief changed what counted as merit to suit the male candidate. Agreeing the criteria first removed the bias. [7]
+- Set a floor for each goal, and take only the options that clear them all. Herbert Simon proposed this for goals with no common measure, such as salary, climate and prestige when comparing two jobs. [6]
+- Admit a trade-off that touches a sacred value rather than refuse it. Refusing only moves the cost out of sight. England's Cancer Drugs Fund paid for many drugs NICE had turned down, and its overspend left less money for other services. [2]
+- Frame it in terms that respect the sacred value, never as a price. Mock jurors were no easier on a carmaker that had weighed a safety fix against a value for a human life. The higher the value it used, the bigger the penalty. [2]
+- Bind your future self when the trade is between now and later. Today's costs always seem to matter more than tomorrow's harms. The UK's 2008 Climate Change Act set five year carbon budgets that later governments find hard to drop. [4]
 
 ## Correlated with
 
@@ -59,10 +65,14 @@ This axis asks how many parts the goal has. It doesn't ask who sets the weights,
 
 [1] [Decisions with multiple objectives](../frameworks/1976-decisions-with-multiple-objectives.md)
 
-[2] [Problem typology](../frameworks/2000-problem-typology.md)
+[2] [Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)
 
-[3] [Need for interpretability](../frameworks/2017-need-for-interpretability.md)
+[3] [Problem typology](../frameworks/2000-problem-typology.md)
 
-[4] [Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)
+[4] [Super wicked problems](../frameworks/2007-super-wicked-problems.md)
 
-[5] [Super wicked problems](../frameworks/2007-super-wicked-problems.md)
+[5] [Need for interpretability](../frameworks/2017-need-for-interpretability.md)
+
+[6] [A behavioral model of rational choice (Simon, 1955)](https://doi.org/10.2307/1884852)
+
+[7] [Constructed criteria: redefining merit to justify discrimination (Uhlmann, 2005)](https://doi.org/10.1111/j.0956-7976.2005.01559.x)

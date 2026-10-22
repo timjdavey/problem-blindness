@@ -33,14 +33,17 @@ Can you put a number you trust on how likely each outcome is, or do you only kno
 ## Actions
 
 **Measurable risk**: Compute and optimise.
-- Use expected value as the test. With odds you trust, the best choice is the one that does best on average.
-- Let a calibrated forecast make the call. If a forecaster's seven in ten chance of rain comes true on seven days in ten, the odds mean what they say.
+- Use expected value as the test. With odds you trust, the best choice is the one that does best on average. [1]
+- Let a calibrated forecast make the call. If a forecaster's seven in ten chance of rain comes true on seven days in ten, trust it over a hunch. [1, 4]
 
 **Knightian uncertainty**: Don't trust a forecast's odds just because they are precise.
-- Test several plausible scenarios rather than one forecast. A council planning flood defences asks what it would do if the sea rose a little or a lot, not which is more likely.
-- Favour choices that hold up across all of them. A choice that is fine everywhere beats one that is best in one world and bad in the rest.
-- Keep a margin of safety. Assume your estimate of the odds is wrong and leave room for it. A founder keeps more cash than the plan says they need.
-- Don't read past calibration as future calibration. Calibration on past data says nothing about a case with no past.
+- Test plans against several plausible futures, not one forecast. A choice that is fine in all of them beats one that is best in one and bad in the rest. [5, 6, 7, 8]
+- Set signs to watch, and be ready to switch. London's Thames Estuary 2100 plan, published in 2012, moves to a bigger flood defence sooner if the sea rises faster than expected. [5, 6, 7]
+- Keep a margin of safety. Assume your estimate of the odds is wrong and leave room for it. A founder keeps more cash than the plan says they need. [1]
+- Make small bets you can grow. In the early days of the web, firms that kept many small stakes could grow the ones that worked, while most that bet on one guess lost. [3]
+- Prefer simple rules to finely tuned models. In a 2009 test none of 14 tuned investment models reliably beat splitting the money equally. [4]
+- Don't treat unknown odds as bad odds. Shunning an option only because its odds are a blank means paying to stick with the familiar, as savers do when they keep most of their money in home shares. [2]
+- Ask what is going on before you ask for odds. Past calibration says nothing about a case with no past, so build the best story that fits the facts and test it against what others think. [1, 8]
 
 ## Correlated with
 

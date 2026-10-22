@@ -27,14 +27,16 @@ Can you split the problem into parts, solve each one on its own and put them bac
 ## Actions
 
 **Decomposable**: Split, solve and recombine.
-- Give each part its own owner and its own test. Small parts are easier to build, check and swap out, as a carmaker buys brakes from one supplier and seats from another.
-- Trust the whole if the parts pass. When the parts don't affect each other, good parts make a good whole.
+- Give each part its own owner and its own test. Small parts are easier to build, check and swap out, as a carmaker buys brakes from one supplier and seats from another. [2]
+- Build in small units that hold together on their own. In Simon's parable the watchmaker who built each watch in one go lost the lot whenever the phone rang. [2]
+- Trust the whole if the parts pass. When the parts don't affect each other, good parts make a good whole. [2, 3]
 
-**Tangled**: Test the whole system, not just the parts.
-- Run the whole thing end to end before you trust it. Every part can pass its own check while the whole fails.
-- Watch for one part's gain turning into another's loss. Track a measure for the whole as well as one for each part.
-- Give the whole problem to one person or small team, not a chain of specialists. A chain cuts the problem where it doesn't split, as a patient with several conditions passed from one consultant to the next can find.
-- Change one part at a time and retest the whole. In a tangled system a small fix can break something far away.
+**Tangled**: Test the whole system.
+- Run the whole thing end to end before you trust it. Every part can pass its own check while the whole fails. [2, 3]
+- Map the strong links before you split the work, and give each link that crosses a split an owner. NASA lost its Mars Climate Orbiter in 1999 because one team's software gave imperial units and the team using it expected metric. [1, 2]
+- Watch for one part's gain turning into another's loss. Track a measure for the whole as well as one for each part. [3]
+- Give the whole problem to one person or small team, and design from what the whole should be. A chain of specialists cuts the problem where it doesn't split, as a patient with several conditions passed from one consultant to the next can find. [2, 3]
+- Change one part at a time and retest the whole. In a tangled system a small fix can break something far away. [2, 4, 5]
 
 ## Correlated with
 

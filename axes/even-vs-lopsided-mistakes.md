@@ -19,14 +19,15 @@ Do a false alarm and a miss cost about the same, or is one mistake far worse tha
 ## Actions
 
 **Even mistakes**: Maximise accuracy.
-- Set the bar at even odds. A false alarm and a miss cost the same, so take the umbrella when rain is more likely than not.
-- Keep one score: how often you're right. It tells you all you need when both errors weigh the same.
+- Set the bar at even odds. A false alarm and a miss cost the same, so take the umbrella when rain is more likely than not. [1]
+- Keep one score: how often you're right. It tells you all you need when both errors weigh the same. [1]
 
 **Lopsided mistakes**: Set the threshold from the costs.
-- Put a price on each kind of error. Ask what a miss costs and what a false alarm costs, in the same units.
-- Tune the threshold to those prices. A cancer screen should flag far more than it misses.
-- Count the two kinds of mistake separately, never accuracy alone. A doctor, a lab test or a model can be right 99% of the time on a rare disease by never flagging anyone.
-- Plan for the false alarms. If you choose to cry wolf, make sure someone can check each alarm quickly, as airport staff do with each bag the scanner flags.
+- Put a price on each kind of error, in the same units. Blackstone judged it better that ten guilty people go free than that one innocent suffers. [1]
+- Set the bar from those prices and from how common the real thing is. A cancer screen should accept many false alarms to avoid missing a cancer. [1]
+- Check that a lower bar still catches more. A 2003 study found American breast screening called back far more women than British screening, yet found about the same number of cancers. [1]
+- Count the two kinds of mistake separately, never accuracy alone. A doctor, a lab test or a model can be right 99% of the time on a rare disease by never flagging anyone. [1]
+- Plan for the false alarms. Crying wolf pays only while each alarm is cheap to check, as with each bag the airport scanner flags. [1]
 
 ## Correlated with
 

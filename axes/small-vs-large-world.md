@@ -13,6 +13,8 @@ sources:
     title: Known and unknown unknowns
   - resource: /frameworks/2020-radical-uncertainty.md
     title: Radical uncertainty
+  - resource: https://doi.org/10.1080/01621459.1949.10483310
+    title: The Monte Carlo method (Metropolis, 1949)
 ---
 # Small vs large world
 
@@ -23,16 +25,16 @@ Is there a fixed procedure that generates every way things might turn out, so yo
 ## Actions
 
 **Small world**: List the outcomes and optimise over them.
-- Score each outcome and pick. Every state is known, so you can weigh them all.
-- Test against the full list. There are only so many cases, so you can check your plan handles each one.
-- Simulate when the list is too long. Run the procedure many times and count how often each outcome comes up.
+- Score each outcome and pick. Every state is known, so you can weigh them all, as Edward Thorp did in 1961 for every mix of cards left in a blackjack deck. [1, 3]
+- Test against the full list. The list is complete, so a plan that handles every case on it won't meet a surprise. [1]
+- Simulate when the list is too long. Run the procedure many times and count how often each outcome comes up, as you might deal many games of solitaire to learn the odds of winning. [4]
 
 **Large world**: Leave room for what nobody listed.
-- Make "none of these" an answer. Anyone forced to pick from a list will pick wrong with confidence, whether a nurse with a triage chart or a model with fixed labels.
-- Don't trust a simulation to cover it. A war game or a stress test can only produce the outcomes someone built into it.
-- Hand the cases that fit nothing to someone who can think afresh. That is where the unlisted states show up first.
-- Prefer actions that keep options open. The one that scores best on the list you have may do badly on the outcome you didn't list.
-- Revisit the list as you go. Note the cases that fit none of your categories and add them.
+- Make "none of these" an answer. A nurse with a triage chart or a model with fixed labels has to put every case somewhere, so a case off the list gets filed wrong. [1]
+- Don't trust a simulation to cover it. A war game or a stress test can only produce the outcomes someone built into it. [1, 3]
+- Treat a case that fits nothing as news. Ask what is going on, build the best story that explains it and test it against what others think. [3]
+- Prefer actions that keep options open. The one that scores best on the list you have may do badly on the outcome you didn't list. [1, 2, 3]
+- Leave slack, and people who can improvise. Apollo 13's crew survived in 1970 because engineers on the ground built a filter adapter from bags, cardboard and tape. [1, 2]
 
 ## Correlated with
 
@@ -51,3 +53,5 @@ Is there a fixed procedure that generates every way things might turn out, so yo
 [2] [Known and unknown unknowns](../frameworks/2002-known-and-unknown-unknowns.md)
 
 [3] [Radical uncertainty](../frameworks/2020-radical-uncertainty.md)
+
+[4] [The Monte Carlo method (Metropolis, 1949)](https://doi.org/10.1080/01621459.1949.10483310)

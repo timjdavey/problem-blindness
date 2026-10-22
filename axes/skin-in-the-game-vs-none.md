@@ -19,14 +19,13 @@ Does whoever makes the call bear the cost if it goes wrong, or does it land on s
 ## Actions
 
 **Skin in the game**: Let the decider decide.
-- Trust their judgement. Someone who pays for mistakes learns from them and has the right reasons to care.
-- Keep oversight light. Their own loss is the check.
+- Trust their judgement. Someone who bears the whole cost of a mistake has every reason to avoid it. [1]
+- Keep oversight light. Watching a decider costs money, and when they bear the loss themselves it buys little. [1]
 
 **No skin in the game**: Tie the decision to someone who pays.
-- Make the decider share the loss. A broker who keeps part of each loan on their own books cares whether it is repaid.
-- Where the decider can't pay, name someone who can. A committee never bears its own losses, and nor does an AI model, so put a named person on the hook.
-- Judge the decider on outcomes, not volume. Ask what happened to the people affected, not how many loans were signed.
-- Make sure the losses get reported back. A cost that lands on someone else is one the decider never hears about.
+- Make the decider share the loss. Whoever gains when things go well should also lose when they go wrong. Hammurabi's laws made a builder whose house fell rebuild it at his own cost. [1]
+- Reward outcomes, not volume. US lenders checked borrowers less carefully on loans they could easily sell on, and those loans defaulted 10 to 25% more often. [1]
+- Where the decider can't pay, check their work harder or keep the decision yourself. A committee bears little of its own losses, and an AI model bears none. [1]
 
 ## Correlated with
 

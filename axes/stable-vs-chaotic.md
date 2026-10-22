@@ -23,14 +23,15 @@ How far ahead a forecast stays useful is called the predictability horizon. It i
 ## Actions
 
 **Lyapunov stable**: Forecast and plan.
-- Act on a single best forecast. It holds well enough to schedule and commit ahead, as a port does with its tide tables.
-- Check the horizon now and then. Measure how accuracy falls with distance, so you notice if it starts to shrink.
+- Act on a single best forecast. It holds well enough to schedule and commit ahead, as a port does with its tide tables. [2]
+- Spend effort on a sharper model. Where small errors stay small, better data and a finer model buy a better forecast. [1]
+- Check the horizon now and then. Measure how accuracy falls with distance, since many systems taken for clocks are more cloudlike than they look. [2]
 
 **Chaotic**: Forecast only as far as it holds, then forecast again.
-- Find the horizon first. Plot forecast error against how far ahead you look, and stop where it is no better than a naive guess.
-- Give a spread of outcomes instead of one number. A single forecast past the horizon is confident noise, however expert the forecaster.
-- Score forecasts on the short range. A score that blends near and far hides where a forecaster stops being any use.
-- Act in small steps and update as new data arrives. Weather services rerun their models several times a day for this reason.
+- Find the horizon first. Plot forecast error against how far ahead you look, and stop where it is no better than a naive guess. A single score that blends near and far hides that point. [1]
+- Give a spread of outcomes instead of one number. A single forecast past the horizon is confident noise, however expert the forecaster. [1, 2]
+- Don't buy a bigger model to see further. Past the horizon a bigger computer and a finer model barely move the forecast. [1]
+- Act in small steps you can change, and update as new data arrives. Past the horizon a plan built on an old forecast is a guess. [2]
 
 ## Correlated with
 

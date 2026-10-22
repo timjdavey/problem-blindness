@@ -15,6 +15,8 @@ sources:
     title: Technical vs adaptive challenges
   - resource: /frameworks/2007-super-wicked-problems.md
     title: Super wicked problems
+  - resource: https://doi.org/10.1162/003355301753265543
+    title: "The power of suggestion: inertia in 401(k) participation and savings behavior (Madrian, 2001)"
 ---
 # Yours to fix vs needs others to change
 
@@ -25,14 +27,16 @@ Do you hold the levers, or does the fix depend on other people changing what the
 ## Actions
 
 **Yours to fix**: Fix it.
-- Make the fix and put it in place. You hold the levers, as a plumber mending a leak does.
-- Judge the fix directly. If it works, the problem is solved.
+- Make the fix and put it in place. In a technical problem the work sits with whoever has the know-how, as with a plumber mending a leak. [3]
+- Judge the fix by whether the problem stays fixed. If it keeps coming back, someone else has to change too. A team that keeps missing deadlines gets new tracking software, and the deadlines keep slipping. The real cause is that nobody will tell the boss a date is unrealistic. [3]
 
-**Needs others to change**: Design for take up, not just accuracy.
-- Involve the people who must change early. A plan made for them without them tends to sit unused, like a school timetable drawn up without asking the teachers.
-- Make the change easy. Fit it into what people already do rather than asking them to learn a new habit. Put the recycling bin next to the rubbish bin, not at the end of the street.
-- Measure what people do, not how good the fix looks on paper. A perfect diet plan nobody follows fixes nothing, and nor does a perfect model nobody uses.
-- Plan for the people who lose out. If the change costs someone something they value, expect them to push back.
+**Needs others to change**: Design for take up.
+- Put the work with the people who must change. No expert can change their habits for them, and a quick technical fix only lets everyone put off the painful part. [3]
+- Make the change the easy path. When a large US firm enrolled new staff in its pension plan unless they opted out, far more of them took part than when they had to sign up. Put the recycling bin next to the rubbish bin, not at the end of the street. [5]
+- Measure what people do, not how good the fix looks on paper. A perfect diet plan nobody follows fixes nothing, and nor does a perfect model nobody uses. [3]
+- Plan for the people who lose out. The change often asks them to give up something they value, so expect them to push back. [3]
+- Look for a deal that leaves both sides better off. Two sisters who split an orange down the middle each lost half of what they could have had, since one wanted the fruit and the other the peel. [1]
+- Where nobody is in charge, take small steps that build their own support. Once a policy creates jobs or habits that depend on it, it tends to stick. [4]
 
 ## Correlated with
 
@@ -52,3 +56,5 @@ Do you hold the levers, or does the fix depend on other people changing what the
 [3] [Technical vs adaptive challenges](../frameworks/1994-technical-vs-adaptive-challenges.md)
 
 [4] [Super wicked problems](../frameworks/2007-super-wicked-problems.md)
+
+[5] [The power of suggestion: inertia in 401(k) participation and savings behavior (Madrian, 2001)](https://doi.org/10.1162/003355301753265543)

@@ -18,7 +18,7 @@ The trait that sorts them is how cheaply you can undo the choice. A one-way door
 
 He warned that large firms tend to use the heavy one-way process for every decision. The result is slowness and fear of risk, and too little trying of new things. The opposite mistake is rarer but worse. Treating a one-way door as if it were two-way means rushing through something you can't take back. Getting the label right first saves time on the small calls and care for the big ones.
 
-This framework feeds the [Reversible vs irreversible](../axes/reversible-vs-irreversible.md) axis.
+This framework feeds the [Reversible vs irreversible](../axes/reversible-vs-irreversible.md) and [Self-righting vs tipping](../axes/self-righting-vs-tipping.md) axes.
 
 ## Examples
 

@@ -11,6 +11,12 @@ sources:
     title: Satisficing
   - resource: /frameworks/1971-np-problems.md
     title: NP problems
+  - resource: https://doi.org/10.1515/9783110800647
+    title: Thought and choice in chess (de Groot, 1965)
+  - resource: https://doi.org/10.1016/0004-3702%2875%2990019-3
+    title: An analysis of alpha-beta pruning (Knuth, 1975)
+  - resource: https://doi.org/10.1038/nature16961
+    title: Mastering the game of Go with deep neural networks and tree search (Silver, 2016)
 ---
 # Tractable vs intractable search
 
@@ -21,14 +27,14 @@ Are there few enough options to check them all, or so many that no computer coul
 ## Actions
 
 **Tractable search**: Search the lot.
-- Check every option if you can. A full search is exact and needs no tuning.
-- Use shortcuts and hunches only to speed things up. The full search already gives the right answer, so a hunch shouldn't change it.
+- Check every option if you can. A full search is exact and needs no tuning. [1]
+- Let hunches set the order of the search, not its answer. Trying the likeliest option first makes a full search finish sooner, and what it finds stays the same. [4]
 
 **Intractable search**: Use judgement to guide the search, not to finish it.
-- Let an expert's eye pick which branches to try. A chess master looks hard at only a few of the possible moves. AlphaGo works the same way, letting a guess it learnt from past games steer a search too big to finish.
-- Prune hard. Drop weak looking branches early, and accept you will sometimes drop a good one.
-- Accept good enough and cap the time spent. Set a budget up front, since the search will never tell you it is done.
-- Check the answer separately where you can. Many hard searches have answers that are quick to check. A school timetable is hard to build, yet easy to check for clashes.
+- Let an expert's eye pick which branches to try. Adriaan de Groot found chess masters looked at no more moves than weaker players, but chose better ones to look at. AlphaGo works the same way, letting a guess it learnt from past games steer a search too big to finish. [3, 5]
+- Prune hard. Drop weak looking branches early, and accept you will sometimes drop a good one. [2, 5]
+- Accept good enough and cap the time spent. Set a budget up front, since the search will never tell you it is done. [1, 2]
+- Use a quick check to compare the answers you find. Many hard searches have answers that are quick to check. A courier can't find the best route for 20 drops, but can add up the miles on any route in seconds. [2]
 
 ## Correlated with
 
@@ -47,3 +53,9 @@ Are there few enough options to check them all, or so many that no computer coul
 [1] [Satisficing](../frameworks/1956-satisficing.md)
 
 [2] [NP problems](../frameworks/1971-np-problems.md)
+
+[3] [Thought and choice in chess (de Groot, 1965)](https://doi.org/10.1515/9783110800647)
+
+[4] [An analysis of alpha-beta pruning (Knuth, 1975)](https://doi.org/10.1016/0004-3702%2875%2990019-3)
+
+[5] [Mastering the game of Go with deep neural networks and tree search (Silver, 2016)](https://doi.org/10.1038/nature16961)

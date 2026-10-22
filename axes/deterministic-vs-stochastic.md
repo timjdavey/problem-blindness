@@ -9,8 +9,12 @@ hard_end: Stochastic
 sources:
   - resource: /frameworks/1948-simplicity-disorganised-and-organised-complexity.md
     title: Simplicity, disorganised complexity and organised complexity
+  - resource: /frameworks/1954-clinical-vs-statistical-prediction.md
+    title: Clinical vs statistical prediction
   - resource: /frameworks/1966-clocks-and-clouds.md
     title: Clocks and clouds
+  - resource: /frameworks/1988-outcome-bias.md
+    title: Outcome bias
   - resource: /frameworks/1995-task-environment-properties.md
     title: Task environment properties
   - resource: /frameworks/2001-kind-vs-wicked-learning-environments.md
@@ -27,15 +31,15 @@ A statistical world grades you with noise. A fund manager can beat the market fi
 ## Actions
 
 **Deterministic**: Write the rule down and test it like code.
-- Don't go by feel where you could state the rule. A rule that is right most of the time is a bug. A payroll clerk who works out overtime by eye will get some payslips wrong.
-- Let anyone draft the rule, then check it against cases where you already know the answer. The check decides if it is right, not how sure the drafter is. That goes for a junior's spreadsheet and a model's code alike.
-- Check for the exact answer. The same input should give the same answer every time, so any variation is a fault to fix.
+- Don't go by feel where you could state the rule. A rule that is right most of the time is a bug. A payroll clerk who works out overtime by eye will get some payslips wrong. [1, 2]
+- Check the rule against cases where you already know the answer, whoever wrote it. The same input should give the same answer every time, so any miss or any variation is a fault to fix. [1, 5]
+- Predict and plan far ahead. A system that runs like a clock can be forecast precisely, as Halley timed the 1715 eclipse to within about four minutes. [3]
 
 **Stochastic**: Judge the spread, not single cases.
-- Test on many fresh cases, not a few you remember. A few good examples tell you nothing when any one case can go either way, so a head teacher can't judge a reading scheme by the three pupils who shone.
-- Keep score of how often you are right, and of your calibration. Calibration means that when you say 70%, you are right about 70% of the time.
-- Decide as a policy over many cases. Ask what rule gives the best results across the whole group, not what suits this one.
-- Don't judge a call on one bad outcome. A poker player can bet right and still lose the hand, so look at the rate across many calls.
+- Test on many fresh cases, not a few you remember. A few good examples tell you nothing when any one case can go either way, so a head teacher can't judge a reading scheme by the three pupils who shone. [1, 6]
+- Give odds, not certainties, and keep a record of how they turn out. Things you call 70% likely should happen about 70% of the time. [3, 5, 6]
+- Decide as a policy over many cases. Ask what rule gives the best results across the whole group, not what suits this one. In repeated, noisy calls, simple formulas matched or beat expert judgement in nearly every study Meehl gathered. [1, 2]
+- Don't judge a call by one outcome. A poker player can bet right and still lose the hand. Judge the call by what was known when it was made, and the caller by the rate across many calls. [4]
 
 ## Correlated with
 
@@ -48,8 +52,12 @@ A statistical world grades you with noise. A fund manager can beat the market fi
 
 [1] [Simplicity, disorganised complexity and organised complexity](../frameworks/1948-simplicity-disorganised-and-organised-complexity.md)
 
-[2] [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md)
+[2] [Clinical vs statistical prediction](../frameworks/1954-clinical-vs-statistical-prediction.md)
 
-[3] [Task environment properties](../frameworks/1995-task-environment-properties.md)
+[3] [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md)
 
-[4] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)
+[4] [Outcome bias](../frameworks/1988-outcome-bias.md)
+
+[5] [Task environment properties](../frameworks/1995-task-environment-properties.md)
+
+[6] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)

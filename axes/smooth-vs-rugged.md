@@ -15,6 +15,8 @@ sources:
     title: Rugged fitness landscapes
   - resource: https://timjdavey.com
     title: Tim Davey
+  - resource: https://arxiv.org/abs/2110.14168
+    title: Training verifiers to solve math word problems (Cobbe, 2021)
 ---
 # Smooth vs rugged
 
@@ -27,16 +29,16 @@ Two things follow on rugged ground. Rules of thumb stop working, because being c
 ## Actions
 
 **Smooth landscape**: Tweak and climb, and trust rough answers.
-- Keep any small change that helps. On smooth ground each gain is a step towards the best answer, so a cyclist can find the right saddle height a few millimetres at a time.
-- Use simple trial and improvement. It will get you near the top without anything fancier.
-- Accept an answer that is close. Nearly right is nearly as good here, so a loose check will do and weeks of polishing buy little.
+- Keep any small change that helps. On smooth ground each gain is a step towards the best answer, so a cyclist can find the right saddle height a few millimetres at a time. [1, 3]
+- Trust simple methods to get you close. In 1945 George Stigler worked out a cheap diet that met an adult's needs by careful guesswork. The exact answer, found in 1947, saved less than a dollar a year. [1]
+- Accept an answer that is close. Near a flat top any sensible choice does about as well as the best, so a loose check will do and weeks of polishing buy little. [2]
 
 **Rugged landscape**: Check every detail, and search wide before you search deep.
-- Test for exact correctness, not a close look. Run the code, try the key in the lock or check the quote against the source, because an answer that looks almost right can be wholly wrong.
-- Don't trust a rule of thumb, or anyone's feeling that they are close. Looking like a good answer says little about being one.
-- Start from many different points. A firm that backs several early designs, rather than polishing one, stops a bad start from deciding the result.
-- Don't read a plateau as the top. When progress stops, try a big jump before you decide you're done, and keep some poor looking candidates alive in case they sit at the foot of a higher peak.
-- Keep coming up with options apart from judging them. One side supplies the range and a separate judge supplies the judgement, as with a brainstorm and a tough review, or a model that drafts many answers and a test that scores them.
+- Test for exact correctness, not a close look. Run the code, try the key in the lock or check the quote against the source, because an answer that looks almost right can be wholly wrong. [2]
+- Don't trust a rule of thumb, or anyone's feeling that they are close. In 1993 Continental Lite copied some of Southwest's parts and kept others from its old business. Close to Southwest on paper, it lost an estimated $100 million in its first full year. [3]
+- Start from many different points. A firm that backs several early designs, rather than polishing one, stops a bad start from deciding the result. [1, 3]
+- Don't read a plateau as the top. When small changes stop helping, try a big jump that changes many linked parts at once, and expect most jumps to fail. [1, 3]
+- Keep coming up with options apart from judging them. One side supplies the range and a separate judge chooses, as with a brainstorm and a tough review, or a model that drafts many answers and a checker that picks one. [5]
 
 ## Correlated with
 
@@ -58,3 +60,5 @@ Two things follow on rugged ground. Rules of thumb stop working, because being c
 [3] [Rugged fitness landscapes](../frameworks/1987-rugged-fitness-landscapes.md)
 
 [4] [Tim Davey](https://timjdavey.com)
+
+[5] [Training verifiers to solve math word problems (Cobbe, 2021)](https://arxiv.org/abs/2110.14168)

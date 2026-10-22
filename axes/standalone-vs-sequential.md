@@ -9,6 +9,8 @@ hard_end: Sequential
 sources:
   - resource: /frameworks/1933-multi-armed-bandit.md
     title: Multi-armed bandit
+  - resource: /frameworks/1990-detail-vs-dynamic-complexity.md
+    title: Detail vs dynamic complexity
   - resource: /frameworks/1991-exploration-vs-exploitation.md
     title: Exploration vs exploitation
   - resource: /frameworks/1995-task-environment-properties.md
@@ -25,16 +27,16 @@ Standalone doesn't mean one-shot. A single choice you can't repeat or take back 
 ## Actions
 
 **Standalone**: Judge each case on its own.
-- Treat each case as fresh. A clerk checking invoices needs no memory of the last one, which makes the job simpler to teach and to check.
-- Score your work case by case. How many you get right in a fair sample of single cases is the whole story.
-- Take cases in any order, or split them among several people. Nothing carries over between them.
+- Treat each case as fresh. A clerk checking invoices needs no memory of the last one, which makes the job simpler to teach and to check. [4]
+- Score your work case by case. How many you get right in a fair sample of single cases is the whole story. [4]
+- Take cases in any order, or split them among several people. Nothing carries over between them. [4]
 
 **Sequential**: Act, watch and adjust.
-- Balance trying new moves against repeating the ones that worked. A chef who only cooks the best seller never finds the next one, and one who keeps changing the menu never learns which dish works.
-- Credit each move with its share of the final result. Otherwise the last move gets the blame for what an early one caused.
-- Watch for effects that show up late. Judge a move by where it led, not by the next step.
-- Keep room to change course. Each step should leave the next one open.
-- Judge whole runs, not single steps. A negotiator can win every point and still lose the deal. An AI agent can get every step right and still end up somewhere useless.
+- Balance trying new moves against repeating the ones that worked. Stick with the first option that pays and you lock in a guess that was mostly luck. Keep switching and you never stay long enough to profit. [1, 3]
+- Give trying new things its own budget and its own measure of success. Each success makes repeating look better, so without that protection this year's results will starve it. [3]
+- Look for the cause of today's result in earlier moves. In the beer game, players blame the customers or each other, when the cause is the delays in the chain they share. [2]
+- Make small moves and wait long enough to see what each one did. If you push harder because nothing seems to happen, the delayed effect lands on top of the extra push. [2]
+- Judge whole runs, not single steps. From 1935 the US Forest Service aimed to have every fire under control by the next morning, and each fire put out looked like a win. Meanwhile dead wood piled up, and the fires that escaped burned hotter. [2, 4]
 
 ## Correlated with
 
@@ -50,6 +52,8 @@ Standalone doesn't mean one-shot. A single choice you can't repeat or take back 
 
 [1] [Multi-armed bandit](../frameworks/1933-multi-armed-bandit.md)
 
-[2] [Exploration vs exploitation](../frameworks/1991-exploration-vs-exploitation.md)
+[2] [Detail vs dynamic complexity](../frameworks/1990-detail-vs-dynamic-complexity.md)
 
-[3] [Task environment properties](../frameworks/1995-task-environment-properties.md)
+[3] [Exploration vs exploitation](../frameworks/1991-exploration-vs-exploitation.md)
+
+[4] [Task environment properties](../frameworks/1995-task-environment-properties.md)

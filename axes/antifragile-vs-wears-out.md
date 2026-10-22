@@ -10,6 +10,14 @@ hard_end: Wears out
 sources:
   - resource: /frameworks/2012-fragile-robust-and-antifragile.md
     title: Fragile, robust and antifragile
+  - resource: https://www.faa.gov/lessons_learned/transport_airplane/accidents/G-ALYV
+    title: De Havilland DH-106 Comet 1 (FAA)
+  - resource: https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116
+    title: The Netflix Simian Army (Izrailevsky, 2011)
+  - resource: https://digitalassets.jointcommission.org/api/public/content/f65e5c9df2b94000a99445e0a7877007
+    title: Medical device alarm safety in hospitals (The Joint Commission, 2013)
+  - resource: https://doi.org/10.1126/science.aaa9375
+    title: "The reusable holdout: preserving validity in adaptive data analysis (Dwork, 2015)"
 ---
 # Antifragile vs wears out
 
@@ -26,15 +34,21 @@ Better for the system is not always better for you. Bacteria are antifragile to 
 ## Actions
 
 **Antifragile**: Let small stresses in and feed them back.
-- Turn every failure into a check that catches it next time. Flying gets safer with each crash because the findings change the rules for every airline, and a codebase gets stronger when each bug adds a test.
-- Don't shield the system from every small shock. Netflix built a tool called Chaos Monkey that switches off its own servers at random during working hours, so engineers find the weak spots while they are at their desks.
-- Watch the dose. A workout builds muscle and too heavy a lift tears it, so the gain only holds up to a point.
+- Turn every failure into a check that catches it next time. Flying gets safer with each crash because the findings change the rules for every airline, and a codebase gets stronger when each bug adds a test. [1]
+- Don't shield the system from every small shock. Netflix built a tool called Chaos Monkey that switches off its own servers at random during working hours, so engineers find the weak spots while they are at their desks. [1, 3]
+- Keep spare cash or capacity ready to use when a shock comes. A household with cash to invest can buy cheaply in a crash and end up better off. [1]
+- Watch the dose. A workout builds muscle and too heavy a lift tears it, so the gain only holds up to a point. [1]
+
+**Robust**: Rely on it, within the limits it was built for.
+- Keep a buffer that absorbs the shocks you expect. A household with six months of cash keeps the house after a lost job and ends up about where it started. [1]
+- Check it once and rely on the result. A robust thing is the same after many stresses, so a check passed on the first day still holds after the thousandth use. [1]
+- Know the biggest shock it was built for, because past that it may simply break. Fukushima's sea wall was built for a tsunami of under six metres, and in 2011 a wave of about 14 metres flooded the backup generators. [1]
 
 **Wears out**: Budget the stress and count the cycles.
-- Count uses, not time. The Comet's life was set by how many flights it made, not by how many years it had flown.
-- Treat a test as something that wears. Each time you check against it and adjust, it tells you a little less about new cases. A chef who keeps tuning a dish to the same three tasters ends up cooking for those three, so keep a fresh taster back.
-- Count the load on the people who check. Each false alarm wears down whoever answers it, until a nurse on a ward full of beeping monitors starts to wave real ones through. Cap the alarms each person sees.
-- Plan the upkeep and retire things before they fail, not after.
+- Count uses, not time. The Comet that broke up off Elba had flown for less than two years, but its 1,290 pressurised flights had worn out its fuselage. [2]
+- Set a life in cycles from tests that match the real thing, and repair or replace before it runs out. The Comet's fatigue test used a fuselage already strengthened by an earlier overload test. It lasted 16,000 cycles, while planes in service cracked at about 1,000. [2]
+- Treat a test as something that wears. Each time you check against it and adjust, it tells you a little less about new cases. A student who keeps resitting the same mock paper learns that paper, so keep a fresh one back. [5]
+- Count the load on the people who check, and cut the alarms that ask nothing of them. An estimated 85 to 99% of hospital alarms need no action, so staff grow numb and miss real ones. [4]
 
 ## Correlated with
 
@@ -46,3 +60,11 @@ Better for the system is not always better for you. Bacteria are antifragile to 
 ## Citations
 
 [1] [Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)
+
+[2] [De Havilland DH-106 Comet 1 (FAA)](https://www.faa.gov/lessons_learned/transport_airplane/accidents/G-ALYV)
+
+[3] [The Netflix Simian Army (Izrailevsky, 2011)](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
+
+[4] [Medical device alarm safety in hospitals (The Joint Commission, 2013)](https://digitalassets.jointcommission.org/api/public/content/f65e5c9df2b94000a99445e0a7877007)
+
+[5] [The reusable holdout: preserving validity in adaptive data analysis (Dwork, 2015)](https://doi.org/10.1126/science.aaa9375)

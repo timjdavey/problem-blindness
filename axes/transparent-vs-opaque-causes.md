@@ -19,6 +19,8 @@ sources:
     title: Stacey matrix
   - resource: /frameworks/1999-cynefin.md
     title: Cynefin
+  - resource: /frameworks/2000-ladder-of-causation.md
+    title: Ladder of causation
   - resource: /frameworks/2002-simple-complicated-and-complex.md
     title: Simple, complicated and complex
 ---
@@ -31,14 +33,16 @@ Even when you can see every part, can you follow how one thing leads to another 
 ## Actions
 
 **Transparent causes**: Model the mechanism.
-- Write the known cause and effect into your rules. An engineer sizing a beam works from the physics, not from a pile of past beams that held.
-- Fix faults by following the chain. When something goes wrong you can trace it to the step that failed, as an electrician does along a circuit.
+- Write the known cause and effect into your rules. An engineer sizing a beam works from the physics, not from a pile of past beams that held. [1, 5, 6]
+- Fix faults by following the chain. When something goes wrong you can trace it to the step that failed, as an electrician does along a circuit. [2, 6]
+- Repeat what worked. When the parts behave the same each time, a solution carries over. NASA landed on the moon five more times after Apollo 11. [8]
 
 **Opaque causes**: Don't trust explanations, trust experiments.
-- Treat any story of why as a guess. An expert's account of why sales fell, or a model's account of its own answer, will sound right and may be wrong.
-- Change one thing at a time and measure the effect. That is how you find a cause you can't trace.
-- Use patterns to predict, and hold back claims about cause. Test a claim before you build a decision on it.
-- Expect a fix to have side effects. When you can't see the chain, you can't see what else it touches.
+- Treat any story of why as a guess. An expert's account of why sales fell, or a model's account of its own answer, will sound right and may be wrong. [3, 6]
+- Change one thing at a time, and wait long enough to see what it did. Then grow what works and drop what doesn't. [3, 5, 6, 8]
+- Use patterns to predict, but test a claim about cause before you act on it. A falling barometer predicts rain well, yet pushing its needle down won't bring rain. [7]
+- When experts disagree on what causes what, weigh the evidence together and don't split the difference. Splitting it gives a plan that matches neither view of the facts. [1]
+- Expect a fix to have side effects. The US Forest Service ruled in 1935 that every fire be under control by the next morning, and the dead wood that piled up made later fires burn hotter. [2, 3]
 
 ## Correlated with
 
@@ -62,4 +66,6 @@ Even when you can see every part, can you follow how one thing leads to another 
 
 [6] [Cynefin](../frameworks/1999-cynefin.md)
 
-[7] [Simple, complicated and complex](../frameworks/2002-simple-complicated-and-complex.md)
+[7] [Ladder of causation](../frameworks/2000-ladder-of-causation.md)
+
+[8] [Simple, complicated and complex](../frameworks/2002-simple-complicated-and-complex.md)

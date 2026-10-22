@@ -35,14 +35,16 @@ This axis asks who owns the goal, not how many parts it has. [Single objective v
 ## Actions
 
 **Shared values**: Go straight to the technical work.
-- Let experts build it and judge it. Everyone agrees what good looks like, so engineers can set the load a bridge must carry without a public meeting.
-- Keep the review inside the team. There is no outside group whose view you are missing.
+- Let experts build it and judge it. Everyone agrees what good looks like, so engineers can set the load a bridge must carry without a public meeting. [1, 3, 6]
+- Keep the review inside the team. Opening up a goal everyone already agrees on only wastes time. [3]
 
 **Contested values**: Settle whose values count before you build, and do it in the open.
-- Bring the affected groups in early. Their objections are cheaper to hear while the plan is on paper than once the diggers arrive.
-- Say whose weights the choice uses and who set them. If people can see whose side the weights take, they can argue with them.
-- Let people outside the team challenge the choices. An outside review catches the side you didn't know you took.
-- Don't pass off one side's view as neutral fact. A report, a map or a model that nobody questions does just that.
+- Find where the disagreement sits before you choose how to decide. If people agree on the facts but want different things, no expert sum will settle it, so they have to bargain. [1, 7]
+- Bring the affected groups in early. A clever plan still gets rejected if half the people never agreed it was the right question. [3, 4]
+- Say whose weights the choice uses and who set them. If people can see whose side the weights take, they can argue with them. [4]
+- Let people outside the team challenge the choices. Where values clash, no expert can settle the question alone, so a wider group has to judge the answer. [4]
+- Don't pass off a value choice as settled fact. In 1990 a British minister fed his daughter a burger on camera to reassure people about mad cow disease. In 1996 the government linked it to a new human disease. [4]
+- Look for a plan each side can accept without agreeing on the future. Testing plans against many possible futures lets people who disagree about what will happen still agree on what to do. [8]
 
 ## Correlated with
 

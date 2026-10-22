@@ -9,6 +9,10 @@ hard_end: Local knowledge
 sources:
   - resource: /frameworks/1945-use-of-knowledge-in-society.md
     title: Use of knowledge in society
+  - resource: https://doi.org/10.1016/0010-0285(81)90010-4
+    title: "The dilution effect: nondiagnostic information weakens the implications of diagnostic information (Nisbett, 1981)"
+  - resource: https://arxiv.org/abs/2302.00093
+    title: Large language models can be easily distracted by irrelevant context (Shi, 2023)
 ---
 # General vs local knowledge
 
@@ -19,14 +23,15 @@ Does the answer rest on facts anyone could look up, or on facts about this place
 ## Actions
 
 **General knowledge**: Answer from what you already know.
-- Trust what you were taught. Facts anyone could look up hold everywhere, so an outsider knows them as well as a local.
-- Skip the research. Digging through files adds cost, and can add noise when you already know the answer.
+- Trust what you were taught. Facts anyone could look up hold everywhere, so an outsider knows them as well as a local. [1]
+- Skip the research. Facts that don't bear on the question still weaken the ones that do. People make weaker predictions when useless details are mixed in, and language models make more mistakes. [2, 3]
 
 **Local knowledge**: Feed in the local facts or ask someone who has them.
-- Search your own records first. They hold facts no textbook or training data does.
-- Use today's figures, not last month's. Local facts change daily, so a snapshot goes stale.
-- Treat the person on the ground as the source of truth. When head office, a consultant or a model disagrees with the shop manager about the shop, the manager wins.
-- Say when you are falling back on general knowledge. An adviser who answers a local question from general knowledge gives a plausible answer about some other shop.
+- Search your own records first. They hold facts no textbook or training data does. Walmart's till data showed strawberry Pop-Tarts selling at about seven times their normal rate before a hurricane. [1]
+- Use today's figures, not last month's. Local facts change daily, so a snapshot goes stale. [1]
+- Treat the person on the ground as the source of truth. When head office, a consultant or a model disagrees with the shop manager about the shop, the manager wins. [1]
+- Ask whose facts the answer rests on before you answer. An adviser who answers a local question from general knowledge gives a plausible answer about some other shop. [1]
+- Where you can't gather the facts, use a signal that sums them up. When tin gets scarce its price rises, and users everywhere cut back without needing to know why. [1]
 
 ## Correlated with
 
@@ -39,3 +44,7 @@ Does the answer rest on facts anyone could look up, or on facts about this place
 ## Citations
 
 [1] [Use of knowledge in society](../frameworks/1945-use-of-knowledge-in-society.md)
+
+[2] [The dilution effect: nondiagnostic information weakens the implications of diagnostic information (Nisbett, 1981)](https://doi.org/10.1016/0010-0285(81)90010-4)
+
+[3] [Large language models can be easily distracted by irrelevant context (Shi, 2023)](https://arxiv.org/abs/2302.00093)

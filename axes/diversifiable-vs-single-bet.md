@@ -9,10 +9,12 @@ hard_end: Single bet
 sources:
   - resource: /frameworks/1952-portfolio-selection.md
     title: Portfolio selection
-  - resource: /frameworks/2012-fragile-robust-and-antifragile.md
-    title: Fragile, robust and antifragile
   - resource: /frameworks/1999-ecological-rationality.md
     title: Ecological rationality
+  - resource: /frameworks/2012-fragile-robust-and-antifragile.md
+    title: Fragile, robust and antifragile
+  - resource: https://doi.org/10.1145/1879831.1879836
+    title: Parallel prototyping leads to better design results, more divergence, and increased self-efficacy (Dow, 2010)
 ---
 # Diversifiable vs single bet
 
@@ -23,17 +25,15 @@ Can you split your stake across several options at once, or does everything ride
 ## Actions
 
 **Diversifiable**: Back several and let the results pick.
-- Run several attempts side by side and keep what works. A publisher signs many books because it can't tell which will sell.
-- Split the real work between versions instead of switching all at once. A chain can trial a new layout in a few shops while the rest keep the old one.
-- Barbell when the tails are fat. Most of the stake goes on the safe option and a small slice on a few wild ones ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
-- Check that the bets aren't secretly one bet. Loans in one housing market fail together. So do advisers who all read the same report, or answers drawn from one model.
-- Split evenly when you can't tell the options apart. With little data, equal shares beat clever weights ([Ecological rationality](../frameworks/1999-ecological-rationality.md)).
+- Run several attempts side by side, so no one of them has to be right. A publisher signs many books because it can't tell which will sell. [1]
+- Check that the bets aren't secretly one bet. Loans in one housing market fail together. So do advisers who all read the same report, or answers drawn from one model. [1]
+- Barbell when the tails are fat. Put most of the stake on the safe option and a small slice on a few wild ones. The safe part caps the loss and the wild slice keeps the chance of a big win. [3]
+- Split evenly when you can't tell the options apart. In a 2009 test, none of 14 optimising models was reliably better than equal shares. [2]
 
 **Single bet**: Put the effort into choosing, and make the bet smaller where you can.
-- Spend the effort before you commit. Nothing else in the portfolio will cover a miss.
-- Pick the option that holds up across scenarios, not the one with the best forecast.
-- Turn one big bet into several small ones where you can, such as a pilot in one region first.
-- Spread the drafts and commit to one action. An architect can sketch ten designs, but only one gets built.
+- Spread the drafts, then commit to one action. Designers who made several ads side by side before any feedback made better ads than those who refined one at a time. An architect can sketch ten designs, but only one gets built. [4]
+- Pick the option that holds up across scenarios, not the one with the best forecast. Ask what happens if things go very badly or very well. If a big surprise would ruin you, a good forecast won't save you. [3]
+- Turn one big bet into several small ones where you can, such as a pilot in one region first. Harm grows faster than the shock. Ten jumps from one metre do no harm, but one jump from ten metres can break your legs. [3]
 
 ## Correlated with
 
@@ -49,6 +49,8 @@ Can you split your stake across several options at once, or does everything ride
 
 [1] [Portfolio selection](../frameworks/1952-portfolio-selection.md)
 
-[2] [Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)
+[2] [Ecological rationality](../frameworks/1999-ecological-rationality.md)
 
-[3] [Ecological rationality](../frameworks/1999-ecological-rationality.md)
+[3] [Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)
+
+[4] [Parallel prototyping leads to better design results, more divergence, and increased self-efficacy (Dow, 2010)](https://doi.org/10.1145/1879831.1879836)

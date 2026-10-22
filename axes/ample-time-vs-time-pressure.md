@@ -7,6 +7,10 @@ subgroup: control
 easy_end: Ample time
 hard_end: Time pressure
 sources:
+  - resource: /frameworks/1956-satisficing.md
+    title: Satisficing
+  - resource: /frameworks/1983-skill-rule-and-knowledge-based-behaviour.md
+    title: Skill, rule and knowledge-based behaviour
   - resource: /frameworks/1993-post-normal-science.md
     title: Post-normal science
   - resource: /frameworks/1999-cynefin.md
@@ -25,14 +29,16 @@ Do you have time to gather facts and think before things change, or must you act
 ## Actions
 
 **Ample time**: Take your time.
-- Use your most careful method, even if it is slow. An actuary can run the numbers twice and a model can reason for longer. The extra time costs nothing here.
-- Get a second opinion. There is time for someone else to catch a mistake.
+- Use your most careful method, even if it is slow. An actuary can run the numbers twice and a model can reason for longer. The usual case for settling on the first option that will do is that search costs time, and here time is cheap. [1]
+- Ask others what the problem really is before you act. A boss who calls every project urgent skips this slow work, so the hard questions never get asked. [5]
 
 **Time pressure**: Decide the playbook in advance.
-- Work out answers and fallbacks ahead of time. In the moment you should pick from a plan, not write one. That is why a pilot with a failed engine reaches for a checklist.
-- Use quick methods and a hard time limit. A slow good answer is useless after the deadline, so a triage nurse sorts patients by a few signs, not a full exam.
-- Take the first good enough action. Klein found that expert fire commanders do this rather than compare options.
-- Check the deadline is real. A false crisis is a common excuse to skip review.
+- Work out answers and fallbacks ahead of time. In the moment, matching the case to a stored rule is fast and reasoning from scratch is slow. That is why a pilot with a failed engine reaches for a checklist. [2]
+- Check the plan fits the time you will really have. Flight 1549's checklist for losing both engines assumed a jet at cruising height. At under 3,000 feet the crew could run only part of it. [2]
+- Take the first plan that will work rather than compare options. Klein found that expert fire commanders pictured the first plan that came to mind and used it if it seemed to work. That pays off because they have years of practice in a setting they know. [1]
+- Act first to make things stable, and look for causes later. Waiting for the evidence to settle is itself a decision, and often a costly one. [3, 4]
+- Check the deadline is real. A leader who likes giving orders has every reason to call a problem a crisis, since a crisis leaves little room for debate. [5]
+- When the clock runs for years, take small steps now that are hard to reverse. Each actor has a reason to wait, so pick steps that build their own support. The UK's carbon budgets set a path that later governments found hard to drop. [6]
 
 ## Correlated with
 
@@ -47,10 +53,14 @@ Do you have time to gather facts and think before things change, or must you act
 
 ## Citations
 
-[1] [Post-normal science](../frameworks/1993-post-normal-science.md)
+[1] [Satisficing](../frameworks/1956-satisficing.md)
 
-[2] [Cynefin](../frameworks/1999-cynefin.md)
+[2] [Skill, rule and knowledge-based behaviour](../frameworks/1983-skill-rule-and-knowledge-based-behaviour.md)
 
-[3] [Tame, wicked and critical](../frameworks/2005-tame-wicked-and-critical.md)
+[3] [Post-normal science](../frameworks/1993-post-normal-science.md)
 
-[4] [Super wicked problems](../frameworks/2007-super-wicked-problems.md)
+[4] [Cynefin](../frameworks/1999-cynefin.md)
+
+[5] [Tame, wicked and critical](../frameworks/2005-tame-wicked-and-critical.md)
+
+[6] [Super wicked problems](../frameworks/2007-super-wicked-problems.md)

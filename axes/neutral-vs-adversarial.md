@@ -15,6 +15,12 @@ sources:
     title: Campbell's law
   - resource: /frameworks/1995-task-environment-properties.md
     title: Task environment properties
+  - resource: https://doi.org/10.1145/1014052.1014066
+    title: Adversarial classification (Dalvi, 2004)
+  - resource: https://doi.org/10.1609/aies.v7i1.31647
+    title: "Red-teaming for generative AI: silver bullet or security theater? (Feffer, 2024)"
+  - resource: https://doi.org/10.6028/NIST.SP.800-63B-4
+    title: "Digital identity guidelines: authentication and authenticator management (Temoshok, 2025)"
 ---
 # Neutral vs adversarial
 
@@ -27,15 +33,16 @@ The other side doesn't have to be an enemy. It only needs goals that differ from
 ## Actions
 
 **Neutral**: Optimise for the typical case.
-- Test on typical cases. Errors are accidents, so a random sample of real cases is a fair test.
-- Publish your rules if that helps people use them. Nobody is reading them to find a way round.
+- Test on typical cases. Errors are accidents, so a random sample of real cases is a fair test. [5]
+- Publish your rules if that helps people use them. Guarding them from people who aren't against you only leaves both sides worse off. [1]
 
 **Adversarial**: Assume someone is probing for your weak spots.
-- Red team your own rule. Pay people to break it before it goes live, as armies do in war games and AI labs do with new models. Then test on those attacks, not on typical cases.
-- Update fast as attackers adapt. A drop in the attacks you catch may mean they found a way round, not that they gave up.
-- Keep part of the rule hidden or changing. A fixed public rule is one an attacker only has to beat once.
-- Judge people on more than one number. Anyone scored on a single measure will learn to move it, so keep some judgement that no number can replace.
-- Layer your defences. Beating one check should not be enough to get through, which is why a bank asks for a code from your phone as well as a password.
+- Red team your rule before it goes live. Pay people to play the attacker and break it, as armies have long done and AI labs do before they release a model. Then test on those attacks, not on typical cases. [4, 5, 6]
+- Expect attackers to adapt, and update fast. A drop in the attacks you catch may mean they found a way round, not that they gave up. [1, 5]
+- Keep part of the rule hidden or changing. A fixed public rule is one an attacker only has to beat once. [1, 2]
+- Judge people on more than one number. Anyone scored on a single measure will learn to move it, so keep some judgement that no number can replace. [3]
+- Learn from a different number than the one you reward. Once a number is a target, it shows how well people can hit it. [2]
+- Layer your defences. Beating one check should not be enough to get through, which is why a bank asks for a code from your phone as well as a password. [7]
 
 ## Correlated with
 
@@ -60,3 +67,9 @@ The other side doesn't have to be an enemy. It only needs goals that differ from
 [3] [Campbell's law](../frameworks/1976-campbells-law.md)
 
 [4] [Task environment properties](../frameworks/1995-task-environment-properties.md)
+
+[5] [Adversarial classification (Dalvi, 2004)](https://doi.org/10.1145/1014052.1014066)
+
+[6] [Red-teaming for generative AI: silver bullet or security theater? (Feffer, 2024)](https://doi.org/10.1609/aies.v7i1.31647)
+
+[7] [Digital identity guidelines: authentication and authenticator management (Temoshok, 2025)](https://doi.org/10.6028/NIST.SP.800-63B-4)

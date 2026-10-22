@@ -21,7 +21,7 @@ Ordinary tests like ANOVA can tell you that runs differ, but not by how much. Th
 
 The mistake is to pool runs that disagree and plan for the average. The better response is to look at the runs one by one before you pool them. If they agree, the average is a fair guide. If they don't, plan for the outcomes that actually happen, and prefer options that hold up in all of them.
 
-This framework feeds the [Coherent vs incoherent runs](../axes/coherent-vs-incoherent-runs.md) axis.
+This framework feeds the [Coherent vs incoherent runs](../axes/coherent-vs-incoherent-runs.md) and [Clustered vs scattered runs](../axes/clustered-vs-scattered-runs.md) axes.
 
 ## Examples
 

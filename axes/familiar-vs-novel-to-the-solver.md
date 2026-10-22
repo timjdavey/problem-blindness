@@ -13,6 +13,10 @@ sources:
     title: Routine vs non-routine technology
   - resource: /frameworks/1983-skill-rule-and-knowledge-based-behaviour.md
     title: Skill, rule and knowledge-based behaviour
+  - resource: /frameworks/1988-moravecs-paradox.md
+    title: Moravec's paradox
+  - resource: https://arxiv.org/abs/2405.00332
+    title: A careful examination of large language model performance on grade school arithmetic (Zhang, 2024)
 ---
 # Familiar vs novel to the solver
 
@@ -23,14 +27,15 @@ Has the solver, person or model, met this kind of problem before, or is it new t
 ## Actions
 
 **Familiar to the solver**: Trust recall.
-- Accept a quick answer. A mechanic who has heard a rattle a hundred times knows the fault before opening the bonnet.
-- Spend less on reasoning. Long chains of working add cost and little accuracy on a problem the solver knows.
+- Accept a quick answer. A mechanic who has heard a rattle a hundred times knows the fault before opening the bonnet. [3]
+- Spend less on reasoning. Treating a routine case as special each time wastes judgement and gives different answers to the same question. [1]
 
 **Novel to the solver**: Make the solver reason, and check the result.
-- Ask for working, as a maths teacher does. A step by step answer shows where the reasoning went wrong.
-- Break the task into steps and verify each one. Errors on a new problem stack up, so catch them early.
-- Test the solver on problems they can't have seen. An exam needs fresh questions and a model needs problems newer than its training data, or you measure memory, not skill.
-- Watch for a familiar answer to the wrong problem. People and models alike will match a new problem to an old one it looks like.
+- Judge novelty for the solver in front of you, not for yourself. What is routine for people and what is routine for machines barely overlap. AlphaGo beat Lee Sedol in 2016 but needed a person to place its stones. [4]
+- Watch for a familiar answer to the wrong problem. A rule that worked last time gets used on a case that only looks the same. Build in a pause when the usual fix isn't working, so the solver steps up to reasoning. [3]
+- Ask for the working and check it for gaps. Reasoning from scratch goes wrong because the solver is slow, misses facts and stops too early. [3]
+- Don't run a new case through a procedure built for old ones. It will be confidently wrong on every case it didn't foresee, as Australia's Robodebt scheme was for about 400,000 people. Leave the call to someone with the skill and the power to decide. [1, 2]
+- Test the solver on problems they can't have seen, or you measure memory, not skill. When researchers wrote fresh maths problems like those in a popular benchmark, some models scored up to 8% lower. An exam needs fresh questions for the same reason. [5]
 
 ## Correlated with
 
@@ -48,3 +53,7 @@ Has the solver, person or model, met this kind of problem before, or is it new t
 [2] [Routine vs non-routine technology](../frameworks/1967-routine-vs-non-routine-technology.md)
 
 [3] [Skill, rule and knowledge-based behaviour](../frameworks/1983-skill-rule-and-knowledge-based-behaviour.md)
+
+[4] [Moravec's paradox](../frameworks/1988-moravecs-paradox.md)
+
+[5] [A careful examination of large language model performance on grade school arithmetic (Zhang, 2024)](https://arxiv.org/abs/2405.00332)

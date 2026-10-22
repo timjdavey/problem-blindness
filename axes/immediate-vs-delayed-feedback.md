@@ -7,6 +7,8 @@ subgroup: evidence
 easy_end: Immediate feedback
 hard_end: Delayed feedback
 sources:
+  - resource: /frameworks/1988-outcome-bias.md
+    title: Outcome bias
   - resource: /frameworks/1990-detail-vs-dynamic-complexity.md
     title: Detail vs dynamic complexity
   - resource: /frameworks/1992-task-characteristics-of-expertise.md
@@ -15,6 +17,8 @@ sources:
     title: Kind vs wicked learning environments
   - resource: /frameworks/2009-conditions-for-intuitive-expertise.md
     title: Conditions for intuitive expertise
+  - resource: https://doi.org/10.1056/NEJM198908103210629
+    title: "Preliminary report: effect of encainide and flecainide on mortality in a randomized trial of arrhythmia suppression after myocardial infarction (CAST Investigators, 1989)"
 ---
 # Immediate vs delayed feedback
 
@@ -29,16 +33,17 @@ Delay comes apart from all of these. A drug trial can be fair, stable and blind 
 ## Actions
 
 **Immediate feedback**: Learn from results.
-- Adjust after every result. Grades come in fast, so you can keep up with what you get wrong, like a cook tasting as they go.
-- Change things in small steps. Each try is cheap to grade, so many small changes beat one big plan.
-- Trust experience, as long as the grade was honest too. Someone who has seen many quick results has had many chances to learn.
+- Adjust after every result. Grades come in fast, so you can keep up with what you get wrong, like a cook tasting as they go. [4]
+- Change things in small steps and watch what each one does. Small moves show you their effect, and here you don't wait long to see it. [2]
+- Trust experience, as long as the grade was honest too. An anaesthetist sees each decision play out within minutes, so years in the job build real skill. [3, 5]
 
 **Delayed feedback**: Find an early signal, and check that it tracks the real one.
-- Use a signal you can measure soon, then test that it moves with the outcome you care about. In the 1980s doctors gave heart attack patients drugs that calmed irregular heartbeats on the ECG. The CAST trial reported in 1989 that the drugs raised deaths.
-- Judge your method on the long term result once it arrives, not only the early signal. Clicks today can hide lost customers next year.
-- Don't react to the latest reading while earlier moves are still working through. In the beer game a single rise in demand sets orders swinging up the chain, because players keep ordering beer that is already on its way ([Detail vs dynamic complexity](../frameworks/1990-detail-vs-dynamic-complexity.md)).
-- Write down why you chose at the time. When the result arrives years later you need the reasons to learn from, not your memory of them.
-- Lean on other people's results when your own tries are few. Base rates stand in for feedback you won't live to see.
+- Use a signal you can measure soon, then test that it moves with the outcome you care about. After a heart attack, extra heartbeats warn of sudden death. Two drugs calmed them, yet the CAST trial reported in 1989 that the drugs more than doubled deaths. [6]
+- Judge your method on the long term result once it arrives, not only the early signal. From 1935 the US Forest Service aimed to have every fire under control by the next morning. For decades that looked like success, while dead wood piled up and later fires burned hotter. [2]
+- Don't react to the latest reading while earlier moves are still working through. In the beer game a single rise in demand sets orders swinging up the chain. Beer takes weeks to arrive, so players order more while earlier orders are still on their way. [2]
+- Write down what you knew and why you chose, at the time. When the result arrives years later, you can learn from the reasons instead of judging the choice by how it turned out. [1]
+- Don't take years of experience as proof of skill. A radiologist often never learns whether a reading was right, so long practice can leave them sure and still wrong. [3, 5]
+- Lean on other people's results when your own tries are few. Base rates stand in for feedback you won't live to see. [4]
 
 ## Correlated with
 
@@ -53,10 +58,14 @@ Delay comes apart from all of these. A drug trial can be fair, stable and blind 
 
 ## Citations
 
-[1] [Detail vs dynamic complexity](../frameworks/1990-detail-vs-dynamic-complexity.md)
+[1] [Outcome bias](../frameworks/1988-outcome-bias.md)
 
-[2] [Task characteristics of expertise](../frameworks/1992-task-characteristics-of-expertise.md)
+[2] [Detail vs dynamic complexity](../frameworks/1990-detail-vs-dynamic-complexity.md)
 
-[3] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)
+[3] [Task characteristics of expertise](../frameworks/1992-task-characteristics-of-expertise.md)
 
-[4] [Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)
+[4] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)
+
+[5] [Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)
+
+[6] [Preliminary report: effect of encainide and flecainide on mortality in a randomized trial of arrhythmia suppression after myocardial infarction (CAST Investigators, 1989)](https://doi.org/10.1056/NEJM198908103210629)

@@ -10,10 +10,14 @@ hard_end: Tipping point
 sources:
   - resource: /frameworks/1973-resilience-and-stability.md
     title: Resilience and stability
+  - resource: /frameworks/1984-normal-accidents.md
+    title: Normal accidents
   - resource: /frameworks/2001-critical-transitions.md
     title: Critical transitions
   - resource: /frameworks/2012-fragile-robust-and-antifragile.md
     title: Fragile, robust and antifragile
+  - resource: /frameworks/2015-one-way-vs-two-way-doors.md
+    title: One-way vs two-way doors
 ---
 # Self-righting vs tipping
 
@@ -30,19 +34,21 @@ At the far end sit systems with a tipping point. A shallow lake fed more and mor
 ## Actions
 
 **Self-righting**: Let small errors wash out.
-- Delegate freely, whether to a junior or a machine. The system absorbs a bad move and returns to normal, so one mistake costs little.
-- Measure your errors directly, not by watching the system. A system that absorbs your mistakes also hides them, so you can be wrong for a long time without seeing it.
+- Delegate freely, whether to a junior or a machine. The system absorbs a bad move and returns to normal, so one mistake costs little. [1, 4]
+- Measure your errors directly, not by watching the system. A system that absorbs your mistakes also hides them, so you can be wrong for a long time without seeing it. [1]
+- Don't damp every swing. Holding a system steady can wear away its resilience without anyone noticing. [1]
 
-**Malleable**: Check the state, not just the action.
-- Nothing will fix a bad change for you, so look at what the system holds after each step. A misfiled box in an archive, or a wrong edit a model makes to a file, stays wrong until someone finds it.
-- Keep an undo trail. The system won't recover, so recovery has to come from you.
+**Malleable**: Check the state after each action.
+- Check what the system holds after each step, not what you told it to do. At Three Mile Island a light showed that a valve had been told to close, not that it had closed, and coolant drained for over two hours. [2]
+- Keep an undo trail. The system won't recover, so recovery has to come from you. Coca-Cola could bring back its old drink in 1985 because it had kept the recipe. [5]
 
 **Tipping point**: Stay well clear of the edge.
-- Find the thresholds before you push. Ask what level of load, traffic or nudging has flipped this kind of system before.
-- Keep a wide margin. The flip is fast and the way back is long, so the cost of getting close is far bigger than it looks.
-- Watch how fast the system recovers from small pushes. Recovery slows as a system nears its tipping point, and that slowing is one of the few warnings you get ([Critical transitions](../frameworks/2001-critical-transitions.md)).
-- Don't plan on reversing the input. Trust that a manager has lost won't come back the day the bad policy goes, and a habit an app has nudged people into won't end when the nudge stops.
-- Judge many small pushes together, not one at a time. Each extra demand on a stretched team looks small on its own. The flip comes from the sum.
+- Find the thresholds before you push. A system near its edge can look just as it always has, so ask what level of load, traffic or nudging has flipped this kind of system before. [1, 3]
+- Keep a wide margin. The flip is fast and the way back is long, so the cost of getting close is far bigger than it looks. [3]
+- Watch how fast the system recovers from small pushes. Recovery slows as a system nears its tipping point, and that slowing is one of the few warnings you get. [3]
+- Don't plan on reversing the input. Trust that a manager has lost won't come back the day the bad policy goes, and a habit an app has nudged people into won't end when the nudge stops. [3]
+- Budget for a far bigger push to get back, often of a new kind. Some lakes in the Netherlands and Denmark only cleared once managers also removed the fish that stir up the mud. [3]
+- Judge many small pushes together, not one at a time. Each extra demand on a stretched team looks small on its own. The flip comes from the sum. [1, 3]
 
 ## Correlated with
 
@@ -59,6 +65,10 @@ At the far end sit systems with a tipping point. A shallow lake fed more and mor
 
 [1] [Resilience and stability](../frameworks/1973-resilience-and-stability.md)
 
-[2] [Critical transitions](../frameworks/2001-critical-transitions.md)
+[2] [Normal accidents](../frameworks/1984-normal-accidents.md)
 
-[3] [Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)
+[3] [Critical transitions](../frameworks/2001-critical-transitions.md)
+
+[4] [Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)
+
+[5] [One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)

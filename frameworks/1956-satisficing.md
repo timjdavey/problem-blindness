@@ -18,7 +18,7 @@ A satisficer sets a bar for good enough, looks at options one at a time and stop
 
 The mistake runs both ways. Some people optimise where it doesn't pay, like spending a week comparing kettles. Others settle for good enough where the best answer matters, like a rough guess at a drug dose. The better response is to ask what the gap between good and best is worth, and what it costs to close it, before you decide how hard to search.
 
-This framework feeds the [Satisficing vs optimising](../axes/satisficing-vs-optimising.md) and [Tractable vs intractable search](../axes/tractable-vs-intractable-search.md) axes.
+This framework feeds the [Satisficing vs optimising](../axes/satisficing-vs-optimising.md), [Tractable vs intractable search](../axes/tractable-vs-intractable-search.md) and [Ample time vs time pressure](../axes/ample-time-vs-time-pressure.md) axes.
 
 ## Examples
 

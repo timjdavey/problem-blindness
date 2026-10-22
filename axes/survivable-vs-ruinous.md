@@ -23,14 +23,14 @@ Could one bad outcome take you out of the game for good, so that good odds over 
 ## Actions
 
 **Survivable**: Maximise the average.
-- Back whatever wins on average. Losses can be absorbed, so the average is what counts. An insurer with thousands of small policies lives by this.
-- Accept some big misses. You will be around to learn from them.
+- Back whatever wins on average. Losses can be absorbed, so the average is what counts. An insurer with thousands of small policies lives by this. [3]
+- Accept some big misses. You will be around to learn from them. [2]
 
 **Ruinous**: Avoid ruin first and optimise second.
-- Set hard limits on what you will do, however sure you feel. Limits hold when your judgement is wrong, and confidence doesn't. A climber fixes a time to turn back before setting out for the summit.
-- Have a fallback ready. When the main plan fails, something safe should take over, like a reserve parachute.
-- Never let a good average justify a small chance of disaster. A trading strategy or a pilot's shortcut that is 99.9% right and can wipe you out will get there given enough tries.
-- Count tries, not just odds. A one in ten thousand chance per decision is close to certain across a million decisions.
+- Set hard limits on what you will risk, however sure you feel. Cutting your exposure is safer than sharpening the forecast. A climber fixes a time to turn back before setting out for the summit. [1, 2]
+- Keep a reserve for when the main plan fails. A household with six months of cash keeps its house after a lost job, while one with no savings and a big mortgage may not. [1, 2]
+- Never let a good average justify a small chance of disaster. Count the tries as well as the odds, since a one in ten thousand chance per decision is close to certain across a million decisions. [1, 3]
+- Stake only a share of what you have, and keep debt low. A bet of everything, or on borrowed money, can end the game in one loss. [1, 3]
 
 ## Correlated with
 

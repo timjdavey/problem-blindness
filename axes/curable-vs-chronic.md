@@ -13,6 +13,14 @@ sources:
     title: Finite and infinite games
   - resource: /frameworks/2005-tame-wicked-and-critical.md
     title: Tame, wicked and critical
+  - resource: https://doi.org/10.1109/PROC.1980.11805
+    title: Programs, life cycles, and laws of software evolution (Lehman, 1980)
+  - resource: https://www.who.int/publications/i/item/9789241504454
+    title: Progress towards elimination in Sri Lanka (World Health Organization, 2012)
+  - resource: https://www.who.int/news-room/feature-stories/detail/post-eradication
+    title: Post-eradication (World Health Organization, 2016)
+  - resource: https://arxiv.org/abs/2502.15840
+    title: "Vending-Bench: a benchmark for long-term coherence of autonomous agents (Backlund, 2025)"
 ---
 # Curable vs chronic
 
@@ -27,16 +35,17 @@ Watch the grain. An ongoing problem is usually a chain of tasks that each end. A
 ## Actions
 
 **Curable**: Define the finish and stop when you reach it.
-- Write the test for done before you start. Then whoever does the work can aim at it and stop, as a plumber stops once the drip does.
-- Fund it as a project. Once it is done the people can move on.
+- Write the test for done before you start. Then whoever does the work can aim at it and stop, as a plumber stops once the drip does. [1]
+- Fund it as a project, and move the people on once it is done. After smallpox was declared gone in 1980, WHO recommended ending vaccination against it for all but researchers at special risk. [2, 6]
 
 **Chronic**: Plan for the level you hold, not the finish.
-- Define success as a level held over time, such as cases a year or the share of trains that run on time. Measure the trend, not a single pass.
-- Budget for running costs before you start. Upkeep costs money every year, whether it is a sea wall to mend or a bus fleet to service.
-- Expect the fix itself to need changes forever. Meir Lehman's first law of software evolution, from 1974, says a program used in the real world must keep changing or grow less useful. A tax code or a school timetable is no different.
-- Give it an owner who stays. A team that builds and leaves hands over a problem nobody holds. A park needs a keeper, not just a builder.
-- Test whoever takes it on over a long run. A one-off task ends when the solver says it is done, so it never checks whether they can keep something working. A trial shift has this gap, and so does a benchmark for AI agents.
-- Be wary of anyone declaring victory, person or model. Stopping the work is how malaria came back.
+- Define success as a level held over time, such as cases a year or the share of trains that run on time. Measure the trend, not a single pass. [2]
+- Budget for running costs before you start. Upkeep costs money every year, whether it is a sea wall to mend or a bus fleet to service. [2]
+- Make each round of upkeep last longer, since you can't make it stop. From 2002 to 2011 the Forth Bridge was stripped to bare metal and given paint meant to last about 25 years. [2]
+- Expect the fix itself to need changing for good. Meir Lehman found that large programs are never finished. A program used in the real world must keep changing or grow less useful. [4]
+- Give it an owner who stays. Moving the people elsewhere once a target is hit lets the problem grow back. A park needs a keeper as well as a builder. [2]
+- Test whoever takes it on over a long run. A one-off task never checks whether they can keep something working, and a trial shift has the same gap. When AI models were left to run a simulated vending business, every one had runs that went off the rails. [2, 7]
+- Be wary of anyone declaring victory, person or model. Sri Lanka had just 17 malaria cases in 1963. It disbanded its spray teams in 1964, and by 1969 it had about 538,000 cases. [2, 5]
 
 ## Correlated with
 
@@ -56,3 +65,11 @@ Watch the grain. An ongoing problem is usually a chain of tasks that each end. A
 [2] [Finite and infinite games](../frameworks/1986-finite-and-infinite-games.md)
 
 [3] [Tame, wicked and critical](../frameworks/2005-tame-wicked-and-critical.md)
+
+[4] [Programs, life cycles, and laws of software evolution (Lehman, 1980)](https://doi.org/10.1109/PROC.1980.11805)
+
+[5] [Progress towards elimination in Sri Lanka (World Health Organization, 2012)](https://www.who.int/publications/i/item/9789241504454)
+
+[6] [Post-eradication (World Health Organization, 2016)](https://www.who.int/news-room/feature-stories/detail/post-eradication)
+
+[7] [Vending-Bench: a benchmark for long-term coherence of autonomous agents (Backlund, 2025)](https://arxiv.org/abs/2502.15840)

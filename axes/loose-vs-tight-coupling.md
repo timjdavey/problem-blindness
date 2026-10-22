@@ -11,6 +11,10 @@ sources:
     title: Loosely coupled systems
   - resource: /frameworks/1984-normal-accidents.md
     title: Normal accidents
+  - resource: https://www.sec.gov/news/studies/2010/marketevents-report.pdf
+    title: Findings regarding the market events of May 6, 2010 (CFTC and SEC, 2010)
+  - resource: https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116
+    title: The Netflix Simian Army (Izrailevsky, 2011)
 ---
 # Loose vs tight coupling
 
@@ -21,14 +25,16 @@ When one part fails, is there slack and time to step in, or does the fault sprea
 ## Actions
 
 **Loose coupling**: Let things fail and fix them.
-- Rely on review after the fact. There is time to spot an error and step in before it spreads.
-- Hand work over early. A mistake costs a fix, not a cascade.
+- Rely on review after the fact. There is time to spot an error and step in before it spreads. [1, 2]
+- Hand work over early. A mistake stays in one part, so it costs a fix, not a cascade. [1]
+- Keep the slack. Tightening the links for control or efficiency loses the buffer that keeps one failure local. [1]
 
 **Tight coupling**: Build in slack and breaks before you hand over control.
-- Put a break between each part and whatever it can set off. Fuses, spending limits and off switches stop one fault from running on. Automated trading learnt this in the 2010 flash crash, when US shares fell about 9% in minutes.
-- Don't let one step feed the next without a check in between. A wrong figure in one team's report becomes the next team's input and grows at each step.
-- Add slack where you can. Queues, buffers and delays give people time to see a fault before it spreads.
-- Practise the failure. Run drills where a part breaks, so you know the breaks work before you need them.
+- Put a break between each part and whatever it can set off. Fuses, spending limits and off switches stop one fault from running on. In the 2010 flash crash US share prices plunged 5 to 6% in about four minutes. Regulators then added circuit breakers that pause trading in any share that moves 10% in five minutes. [2, 3]
+- Don't let one step feed the next without a check in between. A wrong figure in one team's report becomes the next team's input and grows at each step. [1, 2]
+- Add slack before you add safety devices. Queues, buffers and delays give people time to see a fault before it spreads, while each new device is one more link that can fail. [2]
+- If the parts are tangled as well as tight, ask whether the system is worth running at all. There, accidents are built in, whatever safety devices you add. [2]
+- Practise the failure. Run drills where a part breaks, so you know the breaks work before you need them. [4]
 
 ## Correlated with
 
@@ -44,3 +50,7 @@ When one part fails, is there slack and time to step in, or does the fault sprea
 [1] [Loosely coupled systems](../frameworks/1976-loosely-coupled-systems.md)
 
 [2] [Normal accidents](../frameworks/1984-normal-accidents.md)
+
+[3] [Findings regarding the market events of May 6, 2010 (CFTC and SEC, 2010)](https://www.sec.gov/news/studies/2010/marketevents-report.pdf)
+
+[4] [The Netflix Simian Army (Izrailevsky, 2011)](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)

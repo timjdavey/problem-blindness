@@ -15,6 +15,8 @@ sources:
     title: Kind vs wicked learning environments
   - resource: /frameworks/2009-conditions-for-intuitive-expertise.md
     title: Conditions for intuitive expertise
+  - resource: https://doi.org/10.1145/2523813
+    title: A survey on concept drift adaptation (Gama, 2014)
 ---
 # Stationary vs drifting
 
@@ -27,14 +29,16 @@ The same gap can open between practice and the real task. Robin Hogarth, Tomás 
 ## Actions
 
 **Stationary**: Learn once and check in now and then.
-- Trust last year's results. In a stable world they predict this year well, so a bridge engineer doesn't relearn the physics each spring.
-- Update slowly. Relearning often costs effort and buys you little.
+- Trust last year's results. In a stable world they predict this year well, so a bridge engineer doesn't relearn the physics each spring. [2, 4]
+- Update slowly and keep a long memory. When the world isn't moving, reacting fast to each new case mostly chases noise. [5]
+- Lean on experts who learnt in this setting. Long practice with quick, clear feedback in a stable world is what builds real skill, as in weather forecasting and chess. [2, 4]
 
 **Drifting**: Plan for what you know to go stale.
-- Judge your method on the latest cases, not on a mix of old and new. A mix lets patterns that have since faded flatter you, as when a trader tests a strategy on years the market has left behind.
-- Give recent cases more weight than old ones. The older a case, the less it says about today.
-- Watch for the cases in front of you to stop looking like the ones you learnt on. A buyer who sees last season's best sellers stop selling has spotted drift, and so has a team whose model starts seeing inputs it never trained on.
-- Plan to relearn on a schedule, and budget for it from the start. A rule, a habit or a model that was right at the start will go wrong later without anyone touching it.
+- Judge your method on the latest cases, not on a mix of old and new. A mix lets patterns that have since faded flatter you, as when a trader tests a strategy on years the market has left behind. [5]
+- Give recent cases more weight than old ones. The older a case, the less it says about today. [5]
+- Watch for the cases in front of you to stop looking like the ones you learnt on. A buyer who sees last season's best sellers stop selling has spotted drift, and so has a team whose model starts seeing inputs it never trained on. [3, 5]
+- Plan to relearn on a schedule, and budget for it from the start. A rule, a habit or a model that was right at the start will go wrong later without anyone touching it. [5]
+- Don't trust confidence built in a world that has since moved. Experience feels like expertise even after its lessons go stale. Ask whether the expert's setting still matches today's, not how sure they are. [2, 3, 4]
 
 ## Correlated with
 
@@ -61,3 +65,5 @@ The same gap can open between practice and the real task. Robin Hogarth, Tomás 
 [3] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)
 
 [4] [Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)
+
+[5] [A survey on concept drift adaptation (Gama, 2014)](https://doi.org/10.1145/2523813)

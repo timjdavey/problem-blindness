@@ -9,6 +9,14 @@ hard_end: Open-ended skill
 sources:
   - resource: /frameworks/2005-constrained-vs-unconstrained-skills.md
     title: Constrained vs unconstrained skills
+  - resource: https://doi.org/10.1080/09585176.2013.817347
+    title: An analysis of the GCE A* grade (Acquah, 2013)
+  - resource: https://arxiv.org/abs/2009.03300
+    title: Measuring massive multitask language understanding (Hendrycks, 2020)
+  - resource: https://arxiv.org/abs/2406.01574
+    title: "MMLU-Pro: a more robust and challenging multi-task language understanding benchmark (Wang, 2024)"
+  - resource: https://arxiv.org/abs/2503.14499
+    title: Measuring AI ability to complete long software tasks (Kwa, 2025)
 ---
 # Bounded vs open-ended skill
 
@@ -21,15 +29,15 @@ The axis matters most when you test a solver. On a bounded skill a test can cove
 ## Actions
 
 **Bounded skill**: Test all of it, then check it off.
-- Test the whole set, not a sample. With a closed list, like unit conversions or a house style guide, you can check every case.
-- Once a solver passes, use the test as a gate and stop using it to rank. At the ceiling everyone competent scores the same, so a driving test says who may drive, not who drives best.
+- Test the whole set, not a sample. With a closed list, like unit conversions or a house style guide, you can check every case. [1]
+- Once a solver passes, use the test as a gate and stop using it to rank. At the ceiling everyone competent scores the same, so a driving test says who may drive, not who drives best. [1]
 
 **Open-ended skill**: No test covers it, so keep measuring.
-- Treat any pass as a sample, not proof. A finite test covers a sliver of a skill with no edge.
-- Use measures with no ceiling. Head to head ratings, where judges pick the better of two answers, keep separating solvers long after percent correct has filled up. So does the size of job a solver can finish alone, which is how a firm judges an apprentice and how METR's time horizons judge AI models.
-- Don't read mastery of the bounded part as mastery of the whole. A score on a bounded part only tracks the whole skill while solvers are still learning that part. Once they all have it, the link vanishes, and so do the gains from drilling it.
-- Raise the bar or replace the test once scores bunch at the top. England added an A* grade at A level to tell apart the many pupils getting an A. MMLU spread AI models out in 2020 and barely told the best apart by 2024.
-- Expect slow gains and wide gaps between solvers. Pay for the best where the task rewards it, since the gap between good and great never closes.
+- Treat any pass as a sample, not proof. A full score on a test with a ceiling shows the solver has that slice, not how far their skill goes beyond it. [1]
+- Use measures with no ceiling. A head to head rating, where judges pick the better of two answers, has no top score. Nor does the length of task a solver can finish alone, which is how a firm judges an apprentice and how METR rates AI models. [1, 5]
+- Don't read mastery of the bounded part as mastery of the whole. A score on a bounded part only tracks the whole skill while solvers are still learning that part. Once they all have it, the link vanishes, and so do the gains from drilling it. [1]
+- Raise the bar or replace the test once scores bunch at the top. England's A levels added an A* grade in 2010 to help universities tell the top pupils apart. MMLU spread AI models out in 2020, but by 2024 scores had levelled off near the top and labs moved to harder tests. [1, 2, 3, 4]
+- Plan for slow gains and gaps that last. An open-ended skill needs years of steady growth, and there is no ceiling where the others catch up. [1]
 
 ## Correlated with
 
@@ -43,3 +51,11 @@ The axis matters most when you test a solver. On a bounded skill a test can cove
 ## Citations
 
 [1] [Constrained vs unconstrained skills](../frameworks/2005-constrained-vs-unconstrained-skills.md)
+
+[2] [An analysis of the GCE A* grade (Acquah, 2013)](https://doi.org/10.1080/09585176.2013.817347)
+
+[3] [Measuring massive multitask language understanding (Hendrycks, 2020)](https://arxiv.org/abs/2009.03300)
+
+[4] [MMLU-Pro: a more robust and challenging multi-task language understanding benchmark (Wang, 2024)](https://arxiv.org/abs/2406.01574)
+
+[5] [Measuring AI ability to complete long software tasks (Kwa, 2025)](https://arxiv.org/abs/2503.14499)

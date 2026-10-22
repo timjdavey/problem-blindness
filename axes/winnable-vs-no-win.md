@@ -31,15 +31,15 @@ Two things go wrong at this end. First, people facing a sure loss will gamble to
 ## Actions
 
 **Winnable**: Aim for the win and score it plainly.
-- Score the work against the ideal answer. A clean win is on offer, so falling short of it is a real miss.
-- Judge by the result. When a clean win is possible, the result tells you a lot about the decision.
+- Check any claim that no clean win is possible. People pick the label that suits them, so ask what calling a problem no-win would excuse. [4]
+- Judge by results, over many decisions. Good choices win more often, so where a clean win was on offer the results show who decides well. [2]
 
 **No-win**: Set the baseline before you act, and score against it.
-- Write down what doing nothing would cost and what the best realistic outcome is, before you act. Score the decision on how much loss it avoided, not against a perfect result.
-- Cap losses in advance, and give the call to stop to someone who isn't carrying the loss. Nick Leeson kept raising his bets to win back what he had lost, and broke Barings Bank in 1995 ([Prospect theory](../frameworks/1979-prospect-theory.md)).
-- Keep a record of what was known and why each choice was made. Judge the decision against that, not against how it turned out ([Outcome bias](../frameworks/1988-outcome-bias.md)).
-- Check that whoever decides commits to the least bad option. A manager judged on good outcomes can hedge, or keep searching for a clean win that isn't there. So can a model rewarded the same way.
-- Expect blame whatever happens, and support the people who decide. They will hold themselves to the perfect result too.
+- Write down what doing nothing would cost and what the best realistic outcome is, before you act. Score the decision on how much loss it avoided, not against a perfect result or getting back to even. [1]
+- Cap losses in advance, and give the call to stop to someone who isn't carrying the loss. Nick Leeson kept raising his bets to win back what he had lost, and broke Barings Bank in 1995. [1]
+- Keep a record of what was known and why each choice was made, and judge the decision against it. Judged on outcomes alone, people dodge the hard cases. After New York published heart surgeons' death rates, 62% of those who replied to a 1999 survey said they had refused a high-risk patient. [2]
+- Commit to the least bad option, and say what it costs. Refusing to choose only moves the loss out of sight. England's Cancer Drugs Fund paid for drugs outside NICE's rules, and its overspend left less money for patients with other illnesses. [3]
+- Frame the loss as one thing people value against another, never as a price. People accepted a hospital head's choice between two sick boys, and judged him better when he took his time. [3]
 
 ## Correlated with
 

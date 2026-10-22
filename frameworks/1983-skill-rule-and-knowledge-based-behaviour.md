@@ -18,7 +18,7 @@ The trait this sorts on is how familiar the situation is. Rasmussen studied cont
 
 The worst errors come from a mismatch. A new situation that looks familiar gets handled by rule, and the rule makes it worse. Since the rule worked last time, nobody stops to check whether this really is last time. The better response is to build in moments that force a check, like a pause when a familiar rule isn't working, so people step up to reasoning when a case is new.
 
-This framework feeds the [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md) and [Familiar vs novel to the solver](../axes/familiar-vs-novel-to-the-solver.md) axes.
+This framework feeds the [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md), [Familiar vs novel to the solver](../axes/familiar-vs-novel-to-the-solver.md) and [Ample time vs time pressure](../axes/ample-time-vs-time-pressure.md) axes.
 
 ## Examples
 

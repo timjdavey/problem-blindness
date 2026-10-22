@@ -18,7 +18,7 @@ Put the two together and you get a grid. A university is complex but loose, so o
 
 The mistake is to treat these systems as ones where accidents come from bad parts or bad people. Then the fix is more safety devices and more rules. Perrow argued those can add new links and new ways to fail, which makes the system more complex still. Sometimes the honest answer is to add slack, or to decide the system isn't worth running.
 
-This framework feeds the [Loose vs tight coupling](../axes/loose-vs-tight-coupling.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
+This framework feeds the [Loose vs tight coupling](../axes/loose-vs-tight-coupling.md), [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) and [Self-righting vs tipping](../axes/self-righting-vs-tipping.md) axes.
 
 ## Examples
 

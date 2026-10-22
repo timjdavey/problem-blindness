@@ -7,10 +7,14 @@ subgroup: incentives
 easy_end: Private choice
 hard_end: Accountable choice
 sources:
+  - resource: /frameworks/1988-outcome-bias.md
+    title: Outcome bias
   - resource: /frameworks/1999-accountability.md
     title: Accountability
   - resource: /frameworks/2017-need-for-interpretability.md
     title: Need for interpretability
+  - resource: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+    title: General Data Protection Regulation (European Union, 2016)
 ---
 # Private vs accountable
 
@@ -21,14 +25,14 @@ Is the choice yours alone, or must you explain and defend it to others, such as 
 ## Actions
 
 **Private choice**: Use whatever works best.
-- Pick the most accurate method, even one nobody can explain. A hunch or a black box is fine when nobody needs to know why.
-- Keep light records. Notes are for fixing your own mistakes, not for defence.
+- Pick the most accurate method, even one nobody can explain. A hunch or a black box is fine when nobody needs to know why, and asking for reasons can cost accuracy for nothing. [2, 3]
+- Don't explain more than you must. Having to justify a choice often just pushes you to the option that is easiest to defend. [2]
 
 **Accountable choice**: Use a method you can explain and keep the records.
-- Prefer methods you can read, like a scorecard or a checklist. If you must use a hunch or a black box, be able to give a reason for each decision.
-- Record what you knew and what you decided. You can't defend a decision you can't rebuild.
-- Name a person who owns each decision. "The committee decided" and "the computer said no" are not answers anyone accepts.
-- Check the law first. Some decisions, like refusing credit, must come with a reason.
+- Prefer methods you can read, like a scorecard or a checklist. If you must use a hunch or a black box, be able to give a reason for each decision. [2, 3]
+- Record what you knew and why you chose, at the time. Without that record people get judged on how things turned out. After New York published heart surgeons' death rates, 62% of those who replied to a survey said they had turned away a high-risk patient. [1]
+- Ask who will judge the choice and what they want, before you decide. Knowing the answer an audience wants pulls you towards it. Deciding first turns the review into a defence. [2]
+- Check the law first. US lenders must give a refused applicant the main reasons. Under the EU's GDPR, people have a right not to face a decision with legal effects made by a machine alone. [2, 4]
 
 ## Correlated with
 
@@ -44,6 +48,10 @@ Is the choice yours alone, or must you explain and defend it to others, such as 
 
 ## Citations
 
-[1] [Accountability](../frameworks/1999-accountability.md)
+[1] [Outcome bias](../frameworks/1988-outcome-bias.md)
 
-[2] [Need for interpretability](../frameworks/2017-need-for-interpretability.md)
+[2] [Accountability](../frameworks/1999-accountability.md)
+
+[3] [Need for interpretability](../frameworks/2017-need-for-interpretability.md)
+
+[4] [General Data Protection Regulation (European Union, 2016)](https://eur-lex.europa.eu/eli/reg/2016/679/oj)

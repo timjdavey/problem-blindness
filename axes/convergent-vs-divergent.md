@@ -9,6 +9,10 @@ hard_end: Divergent
 sources:
   - resource: /frameworks/1956-convergent-vs-divergent-thinking.md
     title: Convergent vs divergent thinking
+  - resource: https://publications.aston.ac.uk/id/eprint/373
+    title: Mixture density networks (Bishop, 1994)
+  - resource: https://arxiv.org/abs/1406.6618
+    title: When is it better to compare than to score? (Shah, 2014)
 ---
 # Convergent vs divergent
 
@@ -23,17 +27,17 @@ This axis asks about the shape of the good answers, not about who wants them. A 
 ## Actions
 
 **Convergent**: Aim for the middle, and score against the key.
-- Where there is one right answer, mark against the key. It tells you who is right without anyone reading the working, as when a teacher checks sums against the answer sheet.
-- Aim for the same good answer every time, not variety. A baker wants each loaf of the house bread to come out alike.
-- Averaging is safe. Pool several good estimates and split the difference, whether they come from forecasters, surveyors or a set of models.
+- Where there is one right answer, mark against the key. It tells you who is right without anyone reading the working, as when a teacher checks sums against the answer sheet. [1]
+- Don't brainstorm when there is one right answer. A pile of ideas is no help when you needed the answer, and no vote will pick it out. [1]
+- Average freely. Pool several good estimates and split the difference, whether they come from forecasters, surveyors or a set of models. Here a blend of two good answers is still good. [1]
 
 **Divergent**: Commit to one answer, and judge it on quality, not match.
-- Commit to one answer, and don't blend two. Halfway between two good answers that differ in kind is often worse than either.
-- When you learn from examples, sample one to copy rather than averaging them. If half your instructors steer left round a tree and half steer right, a learner who copies the average drives straight into it.
-- Reward variety. Draft several and keep the best, rather than asking for one safe answer. The safe answer is often the blend.
-- Never score against one reference answer. Good answers that differ in kind can't share one key, so it punishes every good answer but one.
-- Judge against a clear rubric. It says what good looks like without fixing one answer, whether the judge is a panel, a teacher or a model.
-- Compare answers in pairs. People judge which of two is better more reliably than they give a score out of ten.
+- Commit to one answer, and don't blend two. The average of several right answers is not always itself a right answer. [1, 2]
+- When you learn from examples, copy one rather than their average. If half your instructors steer left round a tree and half steer right, a learner who copies the average drives straight into it. [2]
+- Reward range. Draft several answers and keep the best, rather than asking for one safe answer. Range and fresh ideas are what this kind of task pays for. [1]
+- Never score against one reference answer. Good answers that differ in kind can't share one key, so it punishes every good answer but one. [1]
+- Judge each answer on its merits, and check the marking hasn't drifted to what is easy to count. In the graded SAT essays Les Perelman studied, length alone predicted the score more than 90% of the time. [1]
+- Compare answers in pairs. In seven crowd tasks, asking which of two was better gave fewer errors than asking for a score, and took less time. [3]
 
 ## Correlated with
 
@@ -50,3 +54,7 @@ This axis asks about the shape of the good answers, not about who wants them. A 
 ## Citations
 
 [1] [Convergent vs divergent thinking](../frameworks/1956-convergent-vs-divergent-thinking.md)
+
+[2] [Mixture density networks (Bishop, 1994)](https://publications.aston.ac.uk/id/eprint/373)
+
+[3] [When is it better to compare than to score? (Shah, 2014)](https://arxiv.org/abs/1406.6618)

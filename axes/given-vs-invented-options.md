@@ -21,14 +21,14 @@ Are the options handed to you to pick from, or do you have to invent them first?
 ## Actions
 
 **Given options**: Compare and pick.
-- Score the given list against your goal. This is routine work, the kind a checklist can do.
-- Spend the effort on the scoring. With the options fixed, the quality of the choice comes down to how well you weigh them.
+- Score the given list against your goal. Ralph Keeney argues for inventing options, yet he keeps this way for a ballot paper and other truly fixed menus. [2]
+- If the same choice keeps coming round, write the scoring down once and follow it. Judging it afresh each time wastes judgement and gives different answers to the same question. [1]
 
 **Invented options**: Make many options before you choose.
-- Start from what you value, not from the obvious options. Ralph Keeney's point is that the best option is often one nobody listed ([Value-focused thinking](../frameworks/1992-value-focused-thinking.md)).
-- Widen the set on purpose. Ask outsiders, borrow from places that faced the same problem, or have a model draft dozens. A council that only weighs the two plans on the table never sees a third.
-- Keep making and choosing apart. Judging too early kills odd ideas before anyone understands them.
-- Only then narrow down. Score the full set against the values you started from.
+- Start from what you value, not from the options on the table. After the floods of the 1990s the Dutch could have raised their dikes again. They started instead from two goals: carry more water and make the riverside better. So they moved dikes back and dug side channels. [2]
+- Widen the set on purpose. For each thing you want, ask which option would do best on that alone. Then try to build one that does well on several at once. [2]
+- Keep inventing and choosing as separate steps. Simon split them into two phases, and most decision analysis only works on the second. [2]
+- Only then narrow down. Score the full set against the values you started from. [2]
 
 ## Correlated with
 

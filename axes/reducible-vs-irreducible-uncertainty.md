@@ -19,6 +19,8 @@ sources:
     title: Puzzles vs mysteries
   - resource: /frameworks/2002-known-and-unknown-unknowns.md
     title: Known and unknown unknowns
+  - resource: /frameworks/2003-levels-of-uncertainty.md
+    title: Levels of uncertainty
 ---
 # Reducible vs irreducible uncertainty
 
@@ -31,16 +33,17 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 ## Actions
 
 **Reducible uncertainty**: Go and get the data.
-- Look where you are least sure. A check on what you already know buys little, so a mechanic tests the parts they can't yet rule out.
-- Ask the missing question before acting. A builder who asks where the pipes run settles what no amount of guessing could.
-- Keep track of what you believe about the hidden facts. Update it as each new clue comes in, like a card player working out who holds the ace as the cards fall.
-- Say what you can't see. An adviser who answers as if they had the full picture hides the biggest weakness in their advice.
-- Judge your method on cases with some evidence missing, not only on complete ones. That is how many real cases arrive.
+- Ask the questions that narrow things down. A check on what you already know buys little, so a mechanic tests the parts they can't yet rule out. [2]
+- Ask the people who might know before acting. A builder who asks where the pipes run settles what no amount of guessing could. [1, 3]
+- Keep track of what you believe about the hidden facts. Update it as each new clue comes in, like a card player working out who holds the ace as the cards fall. [4]
+- Say what you can't see. A gap you name can be researched or planned round, and one you hide can't. [6]
+- Judge your method on cases with some evidence missing, not only on complete ones. A method tested where everything is in view can look brilliant, then fail on real cases. [4]
 
 **Irreducible uncertainty**: Stop paying for more data and hedge instead.
-- Report a spread, not a single answer. More research won't shrink the doubt, so hiding it only misleads.
-- Make the decision cope with either result instead of staking it on one. Where you can, back several options at once, as under [Diversifiable vs single bet](diversifiable-vs-single-bet.md).
-- Check where the doubt comes from. If it hangs on a choice nobody has made yet, no data will settle it, so plan for each way the choice could go.
+- Give odds or a range, not a single answer. Where chance plays a part, one answer claims a certainty nobody has. [4]
+- Make the decision cope with either result instead of staking it on one. Where you can, back several options at once, as under [Diversifiable vs single bet](diversifiable-vs-single-bet.md). [6]
+- Check where the doubt comes from. If it hangs on a choice nobody has made yet, no data will settle it, so think about what the people choosing want. [5, 7]
+- Where people read the same facts in different ways, get them in a room to argue it out. Another study only hands each side more proof of its own view. [2]
 
 ## Correlated with
 
@@ -68,3 +71,5 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 [5] [Puzzles vs mysteries](../frameworks/2001-puzzles-vs-mysteries.md)
 
 [6] [Known and unknown unknowns](../frameworks/2002-known-and-unknown-unknowns.md)
+
+[7] [Levels of uncertainty](../frameworks/2003-levels-of-uncertainty.md)

@@ -13,6 +13,12 @@ sources:
     title: NP problems
   - resource: /frameworks/1973-tame-vs-wicked-problems.md
     title: Tame vs wicked problems
+  - resource: /frameworks/2017-need-for-interpretability.md
+    title: Need for interpretability
+  - resource: https://doi.org/10.1258/jrsm.2008.080062
+    title: "What errors do peer reviewers detect, and does training improve their ability to detect them? (Schroter, 2008)"
+  - resource: https://arxiv.org/abs/2310.01798
+    title: Large language models cannot self-correct reasoning yet (Huang, 2023)
 ---
 # Verifiable vs unverifiable
 
@@ -23,14 +29,15 @@ Once you have an answer, can you check it quickly and cheaply before you act on 
 ## Actions
 
 **Verifiable**: Generate and check.
-- Try many answers and keep the one that passes the check. A puzzler can pencil in guesses and test each one, and a model writing code can run it against the tests.
-- Run the check on everything and let nothing through that fails. A cheap check can run on every answer, like the scale that weighs each packet at the end of a line.
+- Try many answers and keep the one that passes the check. A puzzler can pencil in guesses and test each one, and a model writing code can run it against the tests. [2, 3]
+- Check every answer before you use it, since checking costs little next to finding. RSA-129 was set as a puzzle in 1977 and not cracked until 1994, by about 600 volunteers. Checking their answer took one multiplication. [2]
+- Let the check settle it, without debate. Simon warned that people argue over problems with a clear test instead of working them out. Making a well tested system explain itself can cost accuracy for nothing. [1, 4]
 
 **Unverifiable**: Build a check before you trust the output.
-- Use expert review, spot audits or a slow real world check. Pick the cheapest one that still catches real errors.
-- Keep someone else signing off until you have one. Without a check, their judgement is the check.
-- Don't let anyone mark their own work where nobody else can. A writer misses their own typos, and a model tends to pass its own mistakes.
-- Check the checker. Plant known errors and see how many it catches.
+- Carve off parts you can check. Simon thought people cope with ill-structured problems by turning small pieces into well-structured ones as they go. [1]
+- Where no check covers the whole goal, let a person look at how the answer was reached. A score can't catch a goal that never made it into the score, like fairness. [4]
+- Don't let anyone mark their own work. A writer misses their own typos, and language models struggle to correct their own reasoning without outside feedback. [6]
+- Check the checker. Plant known errors and count how many it catches. The BMJ planted nine major errors in a test paper for its reviewers, and on average they found 2.6. [5]
 
 ## Correlated with
 
@@ -55,3 +62,9 @@ Once you have an answer, can you check it quickly and cheaply before you act on 
 [2] [NP problems](../frameworks/1971-np-problems.md)
 
 [3] [Tame vs wicked problems](../frameworks/1973-tame-vs-wicked-problems.md)
+
+[4] [Need for interpretability](../frameworks/2017-need-for-interpretability.md)
+
+[5] [What errors do peer reviewers detect, and does training improve their ability to detect them? (Schroter, 2008)](https://doi.org/10.1258/jrsm.2008.080062)
+
+[6] [Large language models cannot self-correct reasoning yet (Huang, 2023)](https://arxiv.org/abs/2310.01798)

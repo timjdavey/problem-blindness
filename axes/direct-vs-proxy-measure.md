@@ -13,6 +13,8 @@ sources:
     title: Campbell's law
   - resource: /frameworks/2017-need-for-interpretability.md
     title: Need for interpretability
+  - resource: https://arxiv.org/abs/1606.06565
+    title: Concrete problems in AI safety (Amodei, 2016)
 ---
 # Direct vs proxy measure
 
@@ -23,14 +25,15 @@ Is the thing you measure the thing you want, or only a stand-in for it that leav
 ## Actions
 
 **Direct measure**: Optimise the score.
-- Push the score up. If the score is the whole job, pushing it up is doing the job. A sorting office that reads more postcodes right is simply doing better.
-- Use it to decide what passes. A better score means better work, whoever or whatever did it.
+- Trust the score and push it up. When nothing that matters is missing from it, a better score is better work, whoever or whatever did it. A sorting office that reads more postcodes right is simply doing better. [3]
+- Don't ask for an explanation as well. Demanding one from a well tested system can cost accuracy for nothing. [3]
 
 **Proxy measure**: Watch what the score leaves out.
-- List the wants the score misses. Ask the people it serves and the people it affects what a high score could still get wrong.
-- Track those wants as guardrails. A guardrail is a measure you don't push up but won't let fall. A call centre timed on call length should still check that callers get their problem solved.
-- Look at the work itself for harms no number catches. Amazon's engineers only found the CV tool marking down women by looking inside it, since no score measured fairness.
-- Expect whoever is scored to find the gaps and exploit them. Sales staff paid per signature chase signatures, not good customers. When a model does it, it is called reward hacking.
+- List the wants the score misses. Ask the people it serves and the people it affects what a high score could still get wrong. [3]
+- Track those wants as guardrails. A guardrail is a measure you don't push up but won't let fall. A call centre timed on call length should still check that callers get their problem solved. [2]
+- Keep the number you reward apart from the number you learn from. Once a number becomes a target it stops telling you what is going on, so change targets before people learn to game them. [1]
+- Check the work itself for harms the score can't see. Amazon's CV tool learnt to mark down CVs with the word "women's", and nothing in its score measured fairness. Editing out such terms could not rule out other ways to discriminate. [3]
+- Expect whoever is scored to find the gaps and use them. Wells Fargo staff pushed to sell more products opened about two million accounts customers never asked for. When a model does the same, it is called reward hacking. [1, 4]
 
 ## Correlated with
 
@@ -53,3 +56,5 @@ Is the thing you measure the thing you want, or only a stand-in for it that leav
 [2] [Campbell's law](../frameworks/1976-campbells-law.md)
 
 [3] [Need for interpretability](../frameworks/2017-need-for-interpretability.md)
+
+[4] [Concrete problems in AI safety (Amodei, 2016)](https://arxiv.org/abs/1606.06565)

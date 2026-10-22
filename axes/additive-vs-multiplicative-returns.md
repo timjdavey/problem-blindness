@@ -19,14 +19,15 @@ Do gains and losses add up, so the average outcome is what you can expect, or do
 ## Actions
 
 **Additive returns**: Judge by the average across cases.
-- Use expected value per decision as the test. Gains and losses sum, so the average is what you get.
-- Compare options on their average return. One bad case costs only itself.
+- Use expected value per decision as the test. Gains and losses sum, so the average is what you get. [1]
+- Don't pay to insure a loss you can easily absorb. The insurer only signs if it expects to profit, so on average the buyer loses. [1]
 
 **Multiplicative returns**: Judge by what one path does over time.
-- Play out a long run of choices as they compound, not a single step. A trader who wins on average per trade can still drain the account.
-- Size each bet so a run of losses can't sink you. The Kelly rule sets each stake as a share of what you have, so you never bet the lot.
-- Report the typical path, not the average one. The average is pulled up by a lucky few, while the median shows what a typical run gets.
-- Watch for losses that shrink your base. Losing half needs a doubling to get back.
+- Play out a long run of choices as they compound, not a single step. A trader who wins on average per trade can still drain the account. [1]
+- Size each bet so a run of losses can't sink you. The Kelly rule sets each stake as a share of what you have, so you never bet the lot. [1]
+- Report the typical path, not the average one. In the coin game over 100 rounds the average ends near £13,150 from a £100 start, while the most likely result is about 52p. [1]
+- Watch for losses that shrink your base. In the coin game a 50% gain after a 40% loss still leaves you 10% down. [1]
+- Pay to insure against a loss that would cut deep, even at a price above its average cost. Peters and Adamou argued that a family a house fire would ruin grows richer over time by paying the premium. [1]
 
 ## Correlated with
 

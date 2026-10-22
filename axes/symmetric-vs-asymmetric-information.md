@@ -21,15 +21,16 @@ Does the other side of the deal see the same facts you do, or do they know more?
 ## Actions
 
 **Symmetric information**: Take what you're told at face value.
-- Use what you're given as it stands. When both sides see the same facts, nobody can pick which cases reach you.
-- Learn from the cases you have. They are a fair sample of the cases to come.
+- Use what you're given as it stands, and learn from it. When both sides see the same facts, nobody can pick which cases reach you, so they are a fair sample. [1]
+- Skip the checks and the proofs. Watching the other side and making them prove their claims both cost money, and here they tell you nothing new. [2]
 
 **Asymmetric information**: Ask why this is on offer to you, and make the other side prove what they know.
-- Ask who chose to send each case to you. A pool of loan applicants or insurance claims is filtered by people who know more than you.
-- Check who you attract once your terms are known. A lender that approves more easily than its rivals gets the applicants the rivals turned down, so last year's data no longer describes this year's pool.
-- Weight claims by what they cost to fake. What people say about themselves is cheap. A deposit, a warranty or a track record costs a cheat more than an honest party.
-- Offer choices that sort people. A cheap plan with a high excess draws the low risk customers, so their choice tells you what they know.
-- Note when a claim comes from someone with a stake in the answer. The writer of a CV or a sales listing chose what to put in it.
+- Ask who chose to send each case to you. A pool of loan applicants or insurance claims is filtered by people who know more than you. [1]
+- Check who you attract once your terms are known. A lender that approves more easily than its rivals gets the applicants the rivals turned down, so last year's data no longer describes this year's pool. [1]
+- Weight claims by what they cost to fake. What people say about themselves is cheap. A warranty or a degree works as proof because it costs a weak seller or a weak candidate more to get. [1]
+- Offer choices that sort people. A cheap plan with a high excess draws the low risk customers, so their choice tells you what they know. [1]
+- Make the side that knows more carry the cost of being wrong. Hammurabi's law made a builder pay if a house he built fell, since only he knew where the shortcuts were hidden. [2]
+- Note when a claim comes from someone with a stake in the answer. The writer of a CV or a sales listing chose what to put in it. [1, 2]
 
 ## Correlated with
 

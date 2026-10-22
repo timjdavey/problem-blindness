@@ -23,15 +23,16 @@ When results vary, do they stay close to the average, or can one extreme case ou
 ## Actions
 
 **Thin tails**: Trust the average.
-- Go by the average. With thin tails a few odd cases won't change the picture. A clothes shop can stock the usual sizes, because no customer is ten feet tall.
-- Size your sample by the usual rules. A few thousand cases pin the average down well, because no single case can drag it far.
+- Go by the average. With thin tails a few odd cases won't change the picture. A clothes shop can stock the usual sizes, because no customer is ten feet tall. [1]
+- Size your sample by the usual rules. A few thousand cases pin the average down well, because no single case can drag it far. [1, 2]
 
 **Fat tails**: Plan around the worst case, not the average.
-- Track the worst cases, like the worst 1% of results or the largest single loss. A good average over a calm stretch tells you nothing about the next crash.
-- Stress test with extreme cases you build on purpose. The real extremes are too rare to turn up in your records by chance.
-- Cap your exposure with limits on size or spend. No single bet, loan or order should be able to do unbounded harm.
-- Change your exposure when you can't change the world. The tails belong to the world, but how much a surprise costs you is up to you. Prefer the dull option with no rare failures, and try things small before you go big.
-- Don't read a long calm run as proof of safety. Banks in 2007 had years of quiet data, and it said nothing about 2008.
+- Track the worst cases, like the worst 1% of results or the largest single loss. A good average over a calm stretch tells you nothing about the next crash. [1]
+- Stress test with extreme cases you build on purpose. The real extremes are too rare to turn up in your records by chance. [1, 3]
+- Cap your exposure. Set limits on size or spend, and carry less debt and more slack. No single bet, loan or order should be able to wipe you out. [2]
+- Change your exposure, not your forecast. The tails belong to the world, but how much a surprise costs you is up to you. [2, 3]
+- Keep most of the stake safe and put a small slice on wild bets. The safe part caps the loss and the slice keeps the upside. Options that look only a little risky tend to hide their risk until a crash. [3]
+- Don't read a long calm run as proof of safety. The event that matters most may not have happened yet. In 2007 banks measured risk as if losses followed a bell curve, and that August Goldman Sachs saw moves the bell curve says should never happen. [1, 2]
 
 ## Correlated with
 

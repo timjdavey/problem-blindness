@@ -17,6 +17,8 @@ sources:
     title: Inside vs outside view
   - resource: /frameworks/1999-ecological-rationality.md
     title: Ecological rationality
+  - resource: https://doi.org/10.1109/TKDE.2009.191
+    title: A survey on transfer learning (Pan, 2010)
 ---
 # Plentiful vs scarce data
 
@@ -27,15 +29,17 @@ Have there been enough past cases like this one to learn the pattern from, or so
 ## Actions
 
 **Plentiful data**: Let the cases teach you the pattern.
-- Prefer a simple formula to expert judgement. Meehl found that formulas fitted to many cases beat clinicians.
-- Keep some cases back for testing. With data to spare you can judge your method on cases it never learnt from.
+- Prefer a formula to expert judgement on a decision that comes round often. Meehl found formulas matched or beat clinicians in nearly every study he gathered. [1]
+- Fit a full model when cases are many and the world holds still. A rule of thumb there throws away accuracy that a proper model would give. [5]
+- Keep some cases back for testing. In one contest regression came first on data it had already seen. On fresh data it dropped the most, and a simpler rule won. [5]
 
 **Scarce data**: Borrow knowledge from elsewhere.
-- Start from what was learnt on related problems. A vet seeing a rare breed draws on every dog they have treated, and a pre-trained model draws on other data. Either way you need far fewer cases of your own.
-- Use base rates from similar cases. This is called the outside view, and it beats reasoning from the details of one case.
-- Add expert judgement or simulation where you can. They fill the gaps your data leaves.
-- Give a wide range, and don't trust a track record of thirty cases. A lucky few can make a weak method look great, like a fund manager with three good years.
-- Count by kind of case, not in total. A support inbox can hold millions of tickets and still have only a handful of each odd kind. Charles Perrow called work where odd cases keep turning up non-routine ([Routine vs non-routine technology](../frameworks/1967-routine-vs-non-routine-technology.md)).
+- Borrow what was learnt on related problems. A vet seeing a rare breed draws on every dog they have treated, and a pre-trained model draws on other data. Either way you need far fewer cases of your own. [6]
+- Start from the spread of results in similar cases, then adjust for what is really different about yours. This is the outside view, and it is less hopeful than reasoning from one case's details. [4]
+- Prefer a simple rule to a model with many dials. With few cases, luck sets the dials and the forecasts swing about. [5]
+- Let judgement overrule the formula only for a fact the formula can't hold. Meehl's example is a formula that says a professor goes to the cinema every Tuesday. If he broke his leg this morning, overrule it. [1]
+- Don't trust a short track record. With few cases luck and skill look alike, like a fund manager after three good years. [3]
+- Count by kind of case, not in total. A support inbox can hold millions of tickets and still have only a handful of each odd kind. Charles Perrow warned against forcing such cases through a process built for the common ones. [2]
 
 ## Correlated with
 
@@ -61,3 +65,5 @@ Have there been enough past cases like this one to learn the pattern from, or so
 [4] [Inside vs outside view](../frameworks/1993-inside-vs-outside-view.md)
 
 [5] [Ecological rationality](../frameworks/1999-ecological-rationality.md)
+
+[6] [A survey on transfer learning (Pan, 2010)](https://doi.org/10.1109/TKDE.2009.191)

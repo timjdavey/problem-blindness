@@ -23,15 +23,16 @@ The question is whether your picture of the world goes stale while you work. A t
 ## Actions
 
 **Static world**: Plan it, then run the plan.
-- Write the whole plan up front and carry it out. Nothing will change between steps to make it stale, so a joiner can cut every piece of a bookcase before gluing any.
-- Practise on a copy of the task. When the world waits, a dry run tells you how you will do for real, as past papers do for a student.
+- Write the whole plan up front and carry it out. Nothing will change between steps to make it stale, so a joiner can cut every piece of a bookcase before gluing any. [1, 2]
+- Practise on a copy of the task until you do it the same way every time. When the world waits, a dry run tells you how you will do for real, as past papers do for a student. [1]
+- Vary the practice if each go starts from a new place. A billiards table sits still during a shot, but the balls are somewhere new for every shot. [1]
 
 **Dynamic world**: Look again before every move.
-- Work in short loops of look, act, look. A plan written at the start goes stale before the end.
-- Check again just before you act, and only go ahead if nothing has moved since. The gap between checking and acting is where mistakes creep in, as when two travel agents sell the same last seat.
-- Rehearse in a world that moves while you work, live or simulated. A replay freezes the world, so it hides every failure that comes from acting on old information.
-- Aim at where things will be, not where they are. A slow response lands on a world that has already moved on, so a fielder runs to where the ball will come down.
-- Practise from many different starts, not one. A routine tuned to one setup breaks when the world moves a different way.
+- Work in short loops of look, act, look. A plan written at the start goes stale before the end. [1]
+- Check again just before you act, and only go ahead if nothing has moved since. The gap between checking and acting is where mistakes creep in, as when two travel agents sell the same last seat. [1, 2]
+- Rehearse in a world that moves while you work, live or simulated. A replay freezes the world, so it hides every failure that comes from acting on old information. [1, 2]
+- Aim at where things will be, not where they are. Read the early cues of what is coming, since a fielder who waits to see where the ball lands is too late. [1]
+- Practise from many different starts, not one. A routine tuned to one setup breaks when the world moves a different way. [1]
 
 ## Correlated with
 

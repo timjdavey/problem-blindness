@@ -18,7 +18,7 @@ Later reviews of well over a hundred studies found the same thing. The tasks whe
 
 The trait this sorts on is whether a problem is a repeated, noisy prediction or a rare case with facts no formula could hold. The usual mistake is to treat the first kind as the second. Experts feel each case is special and trust their gut, so they throw away the gains a simple rule would give. Meehl also warned about the reverse. He imagined a formula that says a professor goes to the cinema every Tuesday. If you know he broke his leg this morning, you should overrule it. The skill is knowing which kind of problem you have.
 
-This framework feeds the [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md) axis.
+This framework feeds the [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md) and [Deterministic vs stochastic](../axes/deterministic-vs-stochastic.md) axes.
 
 ## Examples
 
