@@ -18,7 +18,7 @@ An axis in the [Change](index.md#change) set of the [environment](index.md#envir
 
 Does the world wait while you act, or does it keep changing even if you do nothing? A crossword sits on the table until you finish it. A tennis serve is on you in half a second, so you have to watch the ball and predict where it will be. The psychologist E. C. Poulton called skills like the first closed and skills like the second open ([Open vs closed skills](../frameworks/1957-open-vs-closed-skills.md)). Russell and Norvig asked the same question of AI agents, and called the two ends static and dynamic ([Task environment properties](../frameworks/1995-task-environment-properties.md)).
 
-For an AI agent the question is whether its picture of the world goes stale while it works. A model fixing a bug in a frozen copy of the code is in a static world. An agent that edits a shared repo, trades on a live market or browses sites that update is in a dynamic one. What it read a minute ago may no longer be true when it acts on it.
+The question is whether your picture of the world goes stale while you work. A trader's prices move while they think, and a chess player's board doesn't. The same holds for an AI agent. A model fixing a bug in a frozen copy of the code is in a static world. An agent that edits a shared repo or browses sites that update is in a dynamic one. What it read a minute ago may no longer be true when it acts on it.
 
 ## Actions
 

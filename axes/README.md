@@ -8,7 +8,7 @@ See [index](index.md) for full list.
 
 ## The five groups
 
-There is no single "correct" way to collate or break the space of all problems into. Therefore we've chosen to use Stuart Russell and Peter Norvig method as a practical start. They sum up any task an AI agent faces as PEAS: its performance measure, environment, actuators and sensors ([Task environment properties](../frameworks/1995-task-environment-properties.md)). The groups follow them, with actions and information in place of actuators and sensors for everyday readability. The sub-groups are our own.
+There is no single "correct" way to collate or break the space of all problems into. Therefore we've chosen to use Stuart Russell and Peter Norvig method as a practical start. They sum up any task an agent faces as PEAS: its performance measure, environment, actuators and sensors ([Task environment properties](../frameworks/1995-task-environment-properties.md)). An agent here is anything that senses and acts, whether a person, a firm or a program. The groups follow them, with actions and information in place of actuators and sensors for everyday readability. The sub-groups are our own.
 
 - [Environment](index.md#environment). How does the system behave, whoever is looking at it?
   - [Randomness](index.md#randomness): what the spread of outcomes looks like.
