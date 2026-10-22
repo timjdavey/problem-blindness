@@ -42,6 +42,7 @@ Can the know-how be written down as rules, or does it live in experts' hands and
 - [Private vs accountable](private-vs-accountable.md) (tension). Know-how you can't put into words is hard to defend in an audit. Meehl's [formulas](../frameworks/1954-clinical-vs-statistical-prediction.md) and the Apgar score show the usual fix, which is to write a rule down and give up some of the craft.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (independent). Both say an expert can't just hand over the fix, but for different reasons. Tacit know-how is hard to put into words. In an adaptive challenge the know-how is often plain, like stop smoking, and the hard part is getting people to act on it ([Technical vs adaptive challenges](../frameworks/1994-technical-vs-adaptive-challenges.md)).
 - [General vs local knowledge](general-vs-local-knowledge.md) (bundled). Scott's metis is both local and tacit ([Use of knowledge in society](../frameworks/1945-use-of-knowledge-in-society.md)). But today's stock levels are local and written down, and riding a bike is tacit and the same in every town.
+- [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md) (independent). Riding a bike is tacit and bounded, since once you can balance there is little more to learn. Vocabulary is explicit and open-ended, since every word has a written definition and there is always another word.
 
 ## Citations
 

@@ -18,7 +18,7 @@ Charles Goodhart, an economist at the Bank of England, put it this way in 1975. 
 
 The framework sorts problems by whether the thing you measure can react to being measured. Where it can't, more measurement gives a sharper picture. Where it can, every new target changes the problem. The mistake is to treat the second kind like the first. You pick a number and tie rewards to it, then trust the reports as if they were thermometer readings. What you get back is a measure of how well people can hit the number. [Campbell's law](1976-campbells-law.md) adds that the work itself gets bent, and the [Lucas critique](1976-lucas-critique.md) makes the same point about economic models. The better response is to keep the number you reward apart from the number you learn from, and to change targets before people learn to game them.
 
-This framework feeds the [Complete vs incomplete score](../axes/complete-vs-incomplete-score.md) and [Inert vs reflexive](../axes/inert-vs-reflexive.md) axes.
+This framework feeds the [Complete vs incomplete score](../axes/complete-vs-incomplete-score.md) and [Neutral vs adversarial](../axes/neutral-vs-adversarial.md) axes.
 
 ## Examples
 

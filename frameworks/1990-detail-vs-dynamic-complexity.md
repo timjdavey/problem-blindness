@@ -19,7 +19,7 @@ Senge split complexity into two kinds. Some problems have a huge number of parts
 
 Senge argued that most forecasting and planning tools are built for detail. They add more rows to the spreadsheet, which does nothing for a delay. The person in charge sees a symptom, pushes the nearest lever and waits. Nothing seems to happen, so they push harder. Then the delayed effect lands on top of the extra push. Senge summed it up as "today's problems come from yesterday's solutions". The better response is to map the loops and delays before acting. Then make small moves and wait long enough to see what they did.
 
-This framework feeds the [Kind vs wicked feedback](../axes/kind-vs-wicked-feedback.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
+This framework feeds the [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md) and [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) axes.
 
 ## Examples
 

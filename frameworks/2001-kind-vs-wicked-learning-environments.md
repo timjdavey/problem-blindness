@@ -21,7 +21,15 @@ In a kind environment you act and then quickly find out whether you were right. 
 
 The danger is that experience in a wicked environment still feels like expertise. You grow more confident with each year, and you have a long list of times you were right. But the lessons can be false. Treat a wicked environment as kind and you end up trusting a gut that was trained on bad data. The better response is to ask how an expert's gut was trained. Where the feedback was poor, lean on records, base rates and outside checks instead.
 
-This framework feeds the [Kind vs wicked feedback](../axes/kind-vs-wicked-feedback.md) axis.
+Wicked is a bundle, not one trait. In the 2015 paper the three authors split learning into two settings: the one where you learn and the one where you use what you learnt. An environment is kind when the two match and wicked when they don't, and they can fail to match in several ways. Each way has its own axis here:
+
+- The grade comes late or never ([Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md)).
+- The grade is noisy, so luck passes for skill ([Deterministic vs statistical](../axes/deterministic-vs-statistical.md)).
+- You only see how your own choices turned out, never the road not taken ([Test vs watch](../axes/test-vs-watch.md)).
+- Your own action causes the result you take as proof ([Inert vs reflexive](../axes/inert-vs-reflexive.md)).
+- Practice doesn't look like the real task ([Stationary vs drifting](../axes/stationary-vs-drifting.md)).
+
+This framework feeds the [Deterministic vs statistical](../axes/deterministic-vs-statistical.md), [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md), [Inert vs reflexive](../axes/inert-vs-reflexive.md), [Stationary vs drifting](../axes/stationary-vs-drifting.md) and [Test vs watch](../axes/test-vs-watch.md) axes.
 
 ## Examples
 

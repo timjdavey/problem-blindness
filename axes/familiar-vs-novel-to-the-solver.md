@@ -39,6 +39,7 @@ Has the solver, person or model, met this kind of problem before, or is it new t
 - [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md) (opposite). With no trained pattern to call on, the solver has to reason slowly from an explicit model ([Skill, rule and knowledge-based behaviour](../frameworks/1983-skill-rule-and-knowledge-based-behaviour.md)).
 - [Well vs ill-structured](well-vs-ill-structured.md) and [Reversible vs irreversible](reversible-vs-irreversible.md) (bundled). Simon's [non-programmed decisions](../frameworks/1960-programmed-vs-non-programmed-decisions.md) are new, messy and high stakes all at once.
 - [General vs local knowledge](general-vs-local-knowledge.md) (logic). Local facts are never in the training data, however common the type of problem. An AI model may know everything about stock control and nothing about this shop.
+- [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md) (logic). A bounded skill runs out of new cases, while an open-ended one keeps serving up cases the solver hasn't met. But a famous poem is familiar ground, and reading it well still has no ceiling.
 
 ## Citations
 

@@ -31,7 +31,7 @@ Does whoever makes the call bear the cost if it goes wrong, or does it land on s
 ## Correlated with
 
 - [Private vs accountable](private-vs-accountable.md) (independent). Accountable means you must explain the choice. Skin in the game means you pay for it. A judge must give reasons and loses nothing if wrong. A gambler pays for every bad bet and explains nothing to anyone.
-- [Kind vs wicked feedback](kind-vs-wicked-feedback.md) (logic). If the cost lands on someone else, the decider may never hear about it, so they can't learn from it.
+- [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md) (logic). If the cost lands on someone else, news of it reaches the decider late or never, so they can't learn from it.
 - [Complete vs incomplete score](complete-vs-incomplete-score.md) (logic). The agent is scored on something of their own, like fees or loans signed, and the owner's loss is left out of that score.
 
 ## Citations

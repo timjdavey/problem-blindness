@@ -40,6 +40,7 @@ Are there few enough options to check them all, or so many that no computer coul
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (independent). Go hides nothing, so there is no fact left to find, and it still can't be searched in full.
 - [Small vs large world](small-vs-large-world.md) (independent). Search size assumes a procedure generates the options. More computing power can finish a big search in principle. It can't search outcomes nobody can generate.
 - [Choose vs design the options](choose-vs-design-the-options.md) (independent). Search size assumes the options already exist. A design problem can have only three options once someone has thought of them.
+- [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md) (independent). Knowing how the pieces move in chess is bounded and playing chess well is open-ended, in one and the same game. Research taste has no ceiling and no list of options to search.
 
 ## Citations
 

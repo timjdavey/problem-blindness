@@ -18,7 +18,7 @@ He listed experts on each side. Weather forecasters, chess masters, test pilots 
 
 So the trait this sorts on is whether the task lets experience turn into skill. The danger is that experts in the poor fields feel just as sure as those in the good ones. Confidence and years of practice look the same from outside, so we trust a parole officer's gut as we would trust a pilot's. The better response is to judge an expert by their task, not their confidence. Before you trust their gut, ask whether the field has stable subjects, repeated decisions and quick feedback.
 
-This framework feeds the [Kind vs wicked feedback](../axes/kind-vs-wicked-feedback.md), [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md) and [Stationary vs drifting](../axes/stationary-vs-drifting.md) axes.
+This framework feeds the [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md), [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md) and [Stationary vs drifting](../axes/stationary-vs-drifting.md) axes.
 
 ## Examples
 

@@ -34,8 +34,8 @@ Once you have an answer, can you check it quickly and cheaply before you act on 
 
 ## Correlated with
 
-- [Inert vs reflexive](inert-vs-reflexive.md) (logic). By [Goodhart's law](../frameworks/1975-goodharts-law.md) a cheap check stops working once people are judged on it.
-- [Kind vs wicked feedback](kind-vs-wicked-feedback.md) (logic). Feedback is the world checking your answer for you, so a hard check means slow feedback. They still differ. Verifying is checking one answer before you act on it. Feedback is the world grading you after you act, over many tries. A sudoku is easy to check but teaches you little about the next one. You can't check tomorrow's weather forecast before you act on it, yet the next day grades it clearly.
+- [Neutral vs adversarial](neutral-vs-adversarial.md) (logic). By [Goodhart's law](../frameworks/1975-goodharts-law.md) a cheap check stops working once people are judged on it, because they learn to pass the check instead of doing the work.
+- [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md) (logic). Feedback is the world checking your answer for you, so an answer that is hard to check often gives slow feedback. They still differ. Verifying is checking one answer before you act on it. Feedback is the world grading you after you act, over many tries. A sudoku is easy to check but teaches you little about the next one. You can't check tomorrow's weather forecast before you act on it, yet the next day grades it clearly.
 - [Well vs ill-structured](well-vs-ill-structured.md) (by definition). A test for the answer is part of what Simon means by [well-structured](../frameworks/1964-well-vs-ill-structured-problems.md).
 - [Single vs multiple objectives](single-vs-multiple-objectives.md) (logic). With no single score there is no simple check.
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). You can't claim the best answer if you can't check it.
@@ -44,6 +44,8 @@ Once you have an answer, can you check it quickly and cheaply before you act on 
 - [Complete vs incomplete score](complete-vs-incomplete-score.md) (independent). A score can be quick to check and still miss what you want. Amazon could test its star ratings for job applicants against past hires, but fairness was never in the score ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)).
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). One right answer can be checked against a key. Many good answers need someone to judge them.
 - [Smooth vs rugged](smooth-vs-rugged.md) (logic). On smooth ground a quick look tells you if an answer is close to good. On rugged ground looking close proves nothing, so you need a check that tests every detail.
+- [Ends vs never-ending](ends-vs-never-ending.md) (logic). With no end there is no final answer to check, only the level so far.
+- [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md) (logic). Bounded skills tend to come with an answer key, since the whole set is known. An open-ended skill often has no key, so checking an answer takes another expert.
 
 ## Citations
 

@@ -30,15 +30,18 @@
 * [Stationary vs drifting](stationary-vs-drifting.md)
   * **Stationary**: the patterns in past data still hold today (e.g. gravity).
   * **Drifting**: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang).
+* [Still vs moving](still-vs-moving.md)
+  * **Still**: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword).
+  * **Moving**: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).
 
 ## Response
 
 * [Inert vs reflexive](inert-vs-reflexive.md)
   * **Inert**: the system behaves the same whether or not you model it (e.g. a rock).
-  * **Reflexive**: your forecasts, scores or actions change what people do and so change the outcome (e.g. a forecast that a bank will fail sets off a run on it).
+  * **Reflexive**: people believe or follow your forecasts and scores, and that changes the outcome, with nobody aiming at you (e.g. a forecast that a bank will fail sets off a run on it).
 * [Neutral vs adversarial](neutral-vs-adversarial.md)
-  * **Neutral**: the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella).
-  * **Adversarial**: someone studies your methods and changes their play to beat them (e.g. fraudsters).
+  * **Neutral**: your mistakes are accidents, because the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella).
+  * **Adversarial**: someone whose goals differ from yours hunts for the cases your rule gets wrong (e.g. fraudsters).
 
 ## Structure
 
@@ -74,9 +77,9 @@
 * [Test vs watch](test-vs-watch.md)
   * **Test**: you can run a fair test where chance decides who gets what (e.g. a drug trial).
   * **Watch**: you can only watch what happens and guess at the cause (e.g. a study of nurses who chose hormone therapy).
-* [Kind vs wicked feedback](kind-vs-wicked-feedback.md)
-  * **Kind**: you find out soon and clearly whether you were right (e.g. a game of chess).
-  * **Wicked**: feedback is slow, noisy or missing, so experience can teach the wrong lesson (e.g. a fund manager's results).
+* [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md)
+  * **Immediate**: you find out soon whether you were right (e.g. throwing darts).
+  * **Delayed**: the result arrives years later or never, so you get few chances to learn (e.g. planting an orchard).
 * [Plentiful vs scarce data](plentiful-vs-scarce-data.md)
   * **Plentiful**: there are many past cases like this one to learn from (e.g. card fraud).
   * **Scarce**: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident).
@@ -92,6 +95,9 @@
 * [General vs local knowledge](general-vs-local-knowledge.md)
   * **General**: the answer rests on facts anyone could look up (e.g. how insulin works).
   * **Local**: the answer rests on facts that only people close to it know (e.g. whether this patient takes their insulin).
+* [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md)
+  * **Bounded**: the know-how is a small, closed set that anyone competent masters fully (e.g. the alphabet).
+  * **Open-ended**: the know-how has no ceiling, so solvers keep improving and differ widely (e.g. knowing which research questions are worth asking).
 
 # The decision
 
@@ -115,6 +121,9 @@
 * [Complete vs incomplete score](complete-vs-incomplete-score.md)
   * **Complete**: the thing you measure captures everything you want (e.g. sorting letters by postcode).
   * **Incomplete**: some goals are left out because they are hard to write down (e.g. fairness in hiring).
+* [Ends vs never-ending](ends-vs-never-ending.md)
+  * **Ends**: there is a point where the problem is solved and you can stop (e.g. wiping out smallpox).
+  * **Never-ending**: there is no solved state, only a level you have to keep up (e.g. keeping malaria down).
 
 ## Options
 
@@ -148,6 +157,9 @@
 * [Even vs lopsided errors](even-vs-lopsided-errors.md)
   * **Even**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
   * **Lopsided**: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire).
+* [Winnable vs damage limitation](winnable-vs-damage-limitation.md)
+  * **Winnable**: a clean win is possible, so you can come out ahead (e.g. proving a famous theorem).
+  * **Damage limitation**: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with no engines).
 
 ## People
 

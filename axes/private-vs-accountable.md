@@ -34,12 +34,13 @@ Is the choice yours alone, or must you explain and defend it to others, such as 
 
 - [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md) (tension). Know-how you can't put into words is hard to defend in an audit, so accountability pushes towards written rules like Meehl's [formulas](../frameworks/1954-clinical-vs-statistical-prediction.md).
 - [Easy vs hard to verify](easy-vs-hard-to-verify.md) (tension). You can only defend a choice if someone can check it.
-- [Inert vs reflexive](inert-vs-reflexive.md) (study). [Campbell's law](../frameworks/1976-campbells-law.md) says the more a number decides people's fate, the more they bend it.
+- [Neutral vs adversarial](neutral-vs-adversarial.md) (study). [Campbell's law](../frameworks/1976-campbells-law.md) says the more a number decides people's fate, the more they bend it.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). A choice that picks winners has to be defended in public ([Post-normal science](../frameworks/1993-post-normal-science.md)).
 - [Reversible vs irreversible](reversible-vs-irreversible.md) (logic). One-way doors get the slow, careful process, and with it more scrutiny ([One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)).
 - [Complete vs incomplete score](complete-vs-incomplete-score.md) (bundled). Doshi-Velez and Kim say people need explanations when part of the goal, like fairness, safety or the law, never made it into the score ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)).
 - [Single vs multiple objectives](single-vs-multiple-objectives.md) (study). In Tetlock's hospital study, a manager who spent money on equipment instead of a child's transplant after long thought drew the most outrage of any version ([Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)). Even weighing a sacred value in public counts against you.
 - [Skin in the game vs none](skin-in-the-game-vs-none.md) (independent). Accountable means you must explain the choice, while skin in the game means you pay for it. A judge gives reasons and loses nothing if wrong. A gambler pays for every bad bet and explains nothing.
+- [Winnable vs damage limitation](winnable-vs-damage-limitation.md) (logic). Anyone who must defend a no-win choice will be judged by the loss. A record of what was known at the time is the main defence against [outcome bias](../frameworks/1988-outcome-bias.md).
 
 ## Citations
 

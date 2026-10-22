@@ -55,6 +55,7 @@ Do all the people affected agree on what a good result looks like, or do they wa
 - [Even vs lopsided errors](even-vs-lopsided-errors.md) (logic). How much worse a miss is than a false alarm is a value judgement, so people fight over where to set the bar.
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). When the options differ in kind there is no middle ground to settle on. Two towns that each want the bridge can't have half of it each, so someone has to lose.
 - [Spread vs single bet](spread-vs-single-bet.md) (logic). A budget can be split between rival groups, so each gets some of what it wants. A bridge can't, so someone has to lose.
+- [Winnable vs damage limitation](winnable-vs-damage-limitation.md) (logic). When a loss has to land somewhere, people fight over where. But everyone on Flight 1549 wanted the same thing and still couldn't win.
 
 ## Citations
 

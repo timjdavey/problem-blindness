@@ -34,7 +34,6 @@ If it goes wrong, can you undo it cheaply and try again, or are you stuck with i
 
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (by definition). All ruin is irreversible, but not every irreversible choice ruins you.
 - [Loose vs tight coupling](loose-vs-tight-coupling.md) (study). In [Normal accidents](../frameworks/1984-normal-accidents.md) faults cascade into damage that can't be undone before anyone can step in.
-- [Kind vs wicked feedback](kind-vs-wicked-feedback.md) (bundled). [Rittel and Webber](../frameworks/1973-tame-vs-wicked-problems.md) note you can't learn by trial and error when each try leaves a mark.
 - [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md) (bundled). Simon's [non-programmed decisions](../frameworks/1960-programmed-vs-non-programmed-decisions.md) are new and carry high stakes.
 - [Standalone vs sequential](standalone-vs-sequential.md) (independent). Standalone choices can each be final, like a stream of loans where each one is gone once paid out. A chain of edits to a document is sequential, yet every step can be undone. Rittel and Webber's "one-shot operation" means a choice that can't be undone, so it belongs here rather than on that axis.
 - [Private vs accountable](private-vs-accountable.md) (logic). Bezos argues one-way doors deserve a slow process with many views ([One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)), and that brings scrutiny.

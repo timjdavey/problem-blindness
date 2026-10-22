@@ -19,7 +19,7 @@ Their answer has two parts. First, the setting must be regular enough to learn. 
 
 When either part is missing, you get experts who feel sure and are often wrong. Confidence is a poor guide, because people feel just as sure in settings where there is nothing to learn. The test is not how confident the expert is. It is whether the task gave them a fair chance to learn. A surgeon's hands may deserve trust while the same surgeon's guess about whether to operate does not.
 
-This framework feeds the [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md), [Kind vs wicked feedback](../axes/kind-vs-wicked-feedback.md) and [Stationary vs drifting](../axes/stationary-vs-drifting.md) axes.
+This framework feeds the [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md), [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md) and [Stationary vs drifting](../axes/stationary-vs-drifting.md) axes.
 
 ## Examples
 

@@ -34,10 +34,11 @@ How far ahead can you forecast before tiny errors in what you know today grow to
 
 - [Deterministic vs statistical](deterministic-vs-statistical.md) (bundled). [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md) puts chance and unpredictability at the same cloud end.
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (logic). Past the horizon more data barely moves the forecast, so forecasters report a spread instead ([Sensitive dependence](../frameworks/1963-sensitive-dependence-chaos.md)).
-- [Kind vs wicked feedback](kind-vs-wicked-feedback.md) (study). Weather forecasters work inside the horizon and are well calibrated ([Task characteristics of expertise](../frameworks/1992-task-characteristics-of-expertise.md)). Tetlock's pundits made long range calls and did little better than chance ([Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)).
+- [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md) (study). Weather forecasters work inside the horizon and are well calibrated ([Task characteristics of expertise](../frameworks/1992-task-characteristics-of-expertise.md)). Tetlock's pundits made calls years ahead, which took years to grade, and did little better than chance ([Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)).
 - [Smooth vs rugged](smooth-vs-rugged.md) (independent). Both are about small differences growing large, but in different places. The horizon is about errors growing over time as a system runs. Rugged is about a small change to an answer making a big change to how good it is, at one fixed moment.
 - [Coherent vs incoherent](coherent-vs-incoherent.md) (logic). Chaos pulls runs that start almost alike far apart, so past the horizon the runs disagree and their average describes none of them.
 - [Stationary vs drifting](stationary-vs-drifting.md) (independent). Both make forecasts go bad with time, so they get mixed up. A short horizon means small errors grow while the rules stay fixed. Drift means the rules themselves change. Weather is chaotic, yet the physics behind it never moves. Slang drifts, but nothing about it is chaotic.
+- [Still vs moving](still-vs-moving.md) (independent). A ball in flight follows simple physics and is easy to predict, yet it won't wait while you work out where it will land.
 
 ## Citations
 

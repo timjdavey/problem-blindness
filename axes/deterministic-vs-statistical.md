@@ -13,12 +13,16 @@ sources:
     title: Clocks and clouds
   - resource: /frameworks/1995-task-environment-properties.md
     title: Task environment properties
+  - resource: /frameworks/2001-kind-vs-wicked-learning-environments.md
+    title: Kind vs wicked learning environments
 ---
 # Deterministic vs statistical
 
 An axis in the [Randomness](index.md#randomness) set of the [world](index.md#the-world) group.
 
 Do the same inputs always give the same result, or only the same spread of results, so you can predict the rate but not the single case? A sum is deterministic. Which boiler breaks down this winter is statistical, though the rate across many boilers is steady.
+
+A statistical world grades you with noise. A fund manager can beat the market five years running on luck alone, and each good year feels like proof of skill. Robin Hogarth counts this as one way a [learning environment turns wicked](../frameworks/2001-kind-vs-wicked-learning-environments.md). It gets worse when you only get a few graded tries, since a handful of results can't separate luck from skill.
 
 ## Actions
 
@@ -47,3 +51,5 @@ Do the same inputs always give the same result, or only the same spread of resul
 [2] [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md)
 
 [3] [Task environment properties](../frameworks/1995-task-environment-properties.md)
+
+[4] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)

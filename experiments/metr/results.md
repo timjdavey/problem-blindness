@@ -2,6 +2,8 @@
 
 Runs file: time horizon 1.1. SWAA and human runs dropped.
 
+These runs used kind-vs-wicked-feedback. That axis has since been narrowed to [Immediate vs delayed feedback](../../axes/immediate-vs-delayed-feedback.md), so its rows here tag the old, wider idea.
+
 ## 0. Baseline: METR's time horizons from public data
 
 Check these against METR's published numbers before trusting anything below.
