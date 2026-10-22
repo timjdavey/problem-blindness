@@ -5,7 +5,7 @@ description: How the axes are grouped, what the correlation labels mean and what
 ---
 # Reading the axes
 
-Each axis is a scale with two ends, and any problem sits somewhere along it. They fall into five groups, which follow the way Stuart Russell and Peter Norvig describe any task an AI agent faces. The first is the environment you act on. The second is the information you can get about it, and the third is the actions you can take. The fourth is the performance you are judged on, meaning what counts as good and what a miss costs. The last is the agent itself, meaning what the task asks of whoever solves it. Each group splits into a few smaller sets of axes that ask about the same thing.
+Each axis is a scale with two ends, and any problem sits somewhere along it. They fall into five groups, which follow the way Stuart Russell and Peter Norvig describe any task an AI agent faces. The first is the environment you act on. The second is the information you can get about it, and the third is the actions you can take. The fourth is the performance you are judged on, meaning what counts as good and what a miss costs. The last is the agent itself, meaning what the task asks of whoever solves it. Each group splits into a few smaller sets of axes that ask about the same thing. The [axes index](index.md) lists every axis under its group and set.
 
 The Correlated with list under each axis names the other axes it tends to move with. On every axis the first end is the easy one and the second is the hard one. A few axes also name their middle, when it is a case of its own. A Word document is neither self-righting nor tipping. It stays wherever you push it. So "correlated" means a problem near the hard end of one axis tends to sit near the hard end of the other. A few entries say "opposite" when the hard end of one goes with the easy end of the other. "Tension" marks two hard ends that clash when they meet, and "independent" marks two axes that look linked but aren't.
 
@@ -44,13 +44,13 @@ As a problem moves towards the hard ends, the offline test stops being enough to
 
 A real problem sits near the hard end of several axes at once, and their actions can pull against each other. A drifting world says retrain often and ship fast, while a ruinous one says put a person at the door. When they clash, the action furthest along that order wins. A fallback and a cap on losses come before any experiment, and an experiment comes before trust in the offline test.
 
-Both stories in the [README](../README.md) show someone running the easy end playbook on a hard end problem. The reverse is a mistake too, just a cheaper one. Building bandits and kill switches for a stable task you can check in seconds wastes months you could have spent shipping it.
+Both stories in the [overview](../README.md) show someone running the easy end playbook on a hard end problem. The reverse is a mistake too, just a cheaper one. Building bandits and kill switches for a stable task you can check in seconds wastes months you could have spent shipping it.
 
 ## Grain and horizon
 
 Where a problem sits on most axes depends on how closely you look and over what time. One boiler breaking down is random, but a fleet of ten thousand breaks down at a steady rate. Weather is chaotic two weeks out, while climate is steady over decades. So before you place a problem on any axis, say what scale and what timescale you mean, or the same problem will get tagged two different ways.
 
-Split a task into its separate decisions before you tag it. The cardiology story in the [README](../README.md) is one task with two problems inside it. Putting in a stent is a practised skill with fast, clear feedback. Deciding whether to put one in is a slow, statistical call where your gut misleads you. Tag the task as a whole and you average two different problems into one that doesn't exist.
+Split a task into its separate decisions before you tag it. The cardiology story in the [overview](../README.md) is one task with two problems inside it. Putting in a stent is a practised skill with fast, clear feedback. Deciding whether to put one in is a slow, statistical call where your gut misleads you. Tag the task as a whole and you average two different problems into one that doesn't exist.
 
 Also ask whether you are deciding one case or setting a policy for many. In 1990 Donald Redelmeier and Amos Tversky gave doctors the same case in two forms. Seen as one patient, a student with fatigue got an extra $20 blood test 30% of the time. Seen as one of a group of patients just like them, the figure was 17% ([Individual vs group decisions](../frameworks/1990-individual-vs-group-decisions.md)). A single case feels special, so it gets the extra test. But a doctor who sees the same kind of patient every week is setting a policy whether they mean to or not, and should judge the choice that way.
 

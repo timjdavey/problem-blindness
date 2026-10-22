@@ -21,7 +21,7 @@ from metr_factors import FACTORS
 
 HERE = Path(__file__).parent
 AXES = HERE.parent.parent / "axes"
-SKIP = {"index.md", "reading-the-axes.md"}
+SKIP = {"index.md", "README.md"}
 
 PREFACE = """You are tagging tasks from a benchmark for AI agents. Each task is given to an AI agent working alone in a sandboxed computer, with a time limit. Tag the task as the agent receives it. The solver is the AI agent, not a human expert.
 

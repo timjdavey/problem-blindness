@@ -1,8 +1,6 @@
 # Frameworks for defining problems
 
-These frameworks sort problems by what they are like, not by subject. Most split on one trait, such as how good the feedback is or whether the odds are known. A few, like wicked problems, bundle several traits under one label. They are listed by date, oldest first, so you can see which ideas grew out of which.
-
-Each framework has its own file with a fuller write up and examples. Where a date has a second year in brackets, the first is when the idea appeared and the second is the version most people cite.
+This lists every framework by date, oldest first. [Reading the frameworks](README.md) explains what they have in common and how they feed the axes. Where a date has a second year in brackets, the first is when the idea appeared and the second is the version most people cite.
 
 # Frameworks, oldest first
 
