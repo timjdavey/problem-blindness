@@ -20,10 +20,10 @@ Do gains and losses add up, so the average outcome is what you can expect, or do
 
 **Additive returns**: Judge by the average across cases.
 - Use expected value per decision as the test. Gains and losses sum, so the average is what you get.
-- Compare models on mean return. One bad case costs only itself.
+- Compare options on their average return. One bad case costs only itself.
 
 **Multiplicative returns**: Judge by what one path does over time.
-- Simulate long runs of the model's decisions compounding, not one step. A trading model that wins on average per trade can still drain the account.
+- Play out a long run of choices as they compound, not a single step. A trader who wins on average per trade can still drain the account.
 - Size each bet so a run of losses can't sink you. The Kelly rule sets each stake as a share of what you have, so you never bet the lot.
 - Report the typical path, not the average one. The average is pulled up by a lucky few, while the median shows what a typical run gets.
 - Watch for losses that shrink your base. Losing half needs a doubling to get back.

@@ -23,13 +23,13 @@ Once you have an answer, can you check it quickly and cheaply before you act on 
 ## Actions
 
 **Verifiable**: Generate and check.
-- Let the model try many answers and keep the one that passes the checker. This is why code with tests and maths with proofs suit models so well.
-- Automate the checker and let it gate releases. A cheap check can run on every output.
+- Try many answers and keep the one that passes the check. A puzzler can pencil in guesses and test each one, and a model writing code can run it against the tests.
+- Run the check on everything and let nothing through that fails. A cheap check can run on every answer, like the scale that weighs each packet at the end of a line.
 
 **Unverifiable**: Build a check before you trust the output.
 - Use expert review, spot audits or a slow real world check. Pick the cheapest one that still catches real errors.
-- Keep a person signing off until you have one. Without a check, the person is the check.
-- Don't let a model grade its own work where nobody else can. It tends to pass its own mistakes.
+- Keep someone else signing off until you have one. Without a check, their judgement is the check.
+- Don't let anyone mark their own work where nobody else can. A writer misses their own typos, and a model tends to pass its own mistakes.
 - Check the checker. Plant known errors and see how many it catches.
 
 ## Correlated with

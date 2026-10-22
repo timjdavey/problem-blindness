@@ -23,13 +23,13 @@ Will any answer that clears the bar do, or does each extra bit of quality still 
 ## Actions
 
 **Satisficing**: Set a bar and stop when you clear it.
-- Ship the first model that meets the need. More tuning past the bar is waste.
-- Write the bar down before you start. Without it, tuning drags on because better always seems possible.
+- Take the first option that meets the need. More polish past the bar is waste, so pick the first decent lunch spot and eat.
+- Write the bar down before you start. Without it, a house hunt or a redesign drags on because better always seems possible.
 
 **Optimising**: Spend on the last few percent, and check you got it.
-- Use larger searches, ensembles and careful tuning. Here the small gains are the whole point.
-- Confirm the gain on fresh data. Otherwise you may just be fitting the test set.
-- Check the gain is real before you pay for it. Small gaps between models often vanish when you rerun them.
+- Search wider and tune with care. Here the small gains are the whole point, as when a racing team spends weeks on a tenth of a second.
+- Confirm the gain on cases you didn't tune on. A recipe tweaked until one panel of tasters loves it may just suit that panel.
+- Check the gain is real before you pay for it. Small gaps between two options often vanish when you run the trial again.
 
 ## Correlated with
 

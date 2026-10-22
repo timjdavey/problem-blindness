@@ -26,15 +26,15 @@ The same gap can open between practice and the real task. Robin Hogarth, Tomás 
 
 ## Actions
 
-**Stationary**: Train once and monitor lightly.
-- Trust last year's test set. In a stable world it predicts this year well.
-- Use a slow release cycle. Retraining often costs effort and buys you little.
+**Stationary**: Learn once and check in now and then.
+- Trust last year's results. In a stable world they predict this year well, so a bridge engineer doesn't relearn the physics each spring.
+- Update slowly. Relearning often costs effort and buys you little.
 
-**Drifting**: Plan for the model to go stale.
-- Test on the most recent slice of time, not a random split. A random split leaks the future into training and flatters the model.
-- Weight recent data more heavily than old. The older a case, the less it says about today.
-- Watch live inputs for drift. Compare what the model sees now with what it was trained on, and raise an alert when they part.
-- Retrain on a schedule, and budget for it from the start. A model that was right at launch will go wrong later without anyone touching it.
+**Drifting**: Plan for what you know to go stale.
+- Judge your method on the latest cases, not on a mix of old and new. A mix lets patterns that have since faded flatter you, as when a trader tests a strategy on years the market has left behind.
+- Give recent cases more weight than old ones. The older a case, the less it says about today.
+- Watch for the cases in front of you to stop looking like the ones you learnt on. A buyer who sees last season's best sellers stop selling has spotted drift, and so has a team whose model starts seeing inputs it never trained on.
+- Plan to relearn on a schedule, and budget for it from the start. A rule, a habit or a model that was right at the start will go wrong later without anyone touching it.
 
 ## Correlated with
 

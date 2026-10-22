@@ -27,15 +27,15 @@ A statistical world grades you with noise. A fund manager can beat the market fi
 ## Actions
 
 **Deterministic**: Write the rule down and test it like code.
-- Don't ask a model to guess at a rule you could state. A rule that is right most of the time is a bug.
-- Use the model to draft the rule or the code, then check that against tests. The tests decide if it ships, not the model.
-- Test for exact output. The same input should give the same answer every run, so any variation is a fault to fix.
+- Don't go by feel where you could state the rule. A rule that is right most of the time is a bug. A payroll clerk who works out overtime by eye will get some payslips wrong.
+- Let anyone draft the rule, then check it against cases where you already know the answer. The check decides if it is right, not how sure the drafter is. That goes for a junior's spreadsheet and a model's code alike.
+- Check for the exact answer. The same input should give the same answer every time, so any variation is a fault to fix.
 
 **Stochastic**: Judge the spread, not single cases.
-- Evaluate on a large held-out set. A few good examples tell you nothing when any one case can go either way.
-- Report error rates and calibration. Calibration means that when the model says 70%, it is right about 70% of the time.
+- Test on many fresh cases, not a few you remember. A few good examples tell you nothing when any one case can go either way, so a head teacher can't judge a reading scheme by the three pupils who shone.
+- Keep score of how often you are right, and of your calibration. Calibration means that when you say 70%, you are right about 70% of the time.
 - Decide as a policy over many cases. Ask what rule gives the best results across the whole group, not what suits this one.
-- Don't judge the model on one bad outcome. A right call can still lose, so look at the rate across many calls.
+- Don't judge a call on one bad outcome. A poker player can bet right and still lose the hand, so look at the rate across many calls.
 
 ## Correlated with
 

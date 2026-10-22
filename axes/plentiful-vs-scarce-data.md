@@ -26,15 +26,15 @@ Have there been enough past cases like this one to learn the pattern from, or so
 
 ## Actions
 
-**Plentiful data**: Let the model learn the pattern.
-- Prefer a statistical model to expert judgement. Meehl found that simple formulas fitted to many cases beat clinicians.
-- Hold out a big test set. With data to spare you can measure the model properly.
+**Plentiful data**: Let the cases teach you the pattern.
+- Prefer a simple formula to expert judgement. Meehl found that formulas fitted to many cases beat clinicians.
+- Keep some cases back for testing. With data to spare you can judge your method on cases it never learnt from.
 
 **Scarce data**: Borrow knowledge from elsewhere.
-- Start from a pre-trained model. It brings what it learnt from other data, so you need far fewer cases of your own.
+- Start from what was learnt on related problems. A vet seeing a rare breed draws on every dog they have treated, and a pre-trained model draws on other data. Either way you need far fewer cases of your own.
 - Use base rates from similar cases. This is called the outside view, and it beats reasoning from the details of one case.
-- Add expert priors or simulation where you can. They fill the gaps your data leaves.
-- Report wide error bars, and don't trust a test set of thirty examples. A lucky few can make a weak model look great.
+- Add expert judgement or simulation where you can. They fill the gaps your data leaves.
+- Give a wide range, and don't trust a track record of thirty cases. A lucky few can make a weak method look great, like a fund manager with three good years.
 - Count by kind of case, not in total. A support inbox can hold millions of tickets and still have only a handful of each odd kind. Charles Perrow called work where odd cases keep turning up non-routine ([Routine vs non-routine technology](../frameworks/1967-routine-vs-non-routine-technology.md)).
 
 ## Correlated with

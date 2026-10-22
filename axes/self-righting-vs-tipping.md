@@ -30,19 +30,19 @@ At the far end sit systems with a tipping point. A shallow lake fed more and mor
 ## Actions
 
 **Self-righting**: Let small errors wash out.
-- Automate freely. The system absorbs a bad output and returns to normal, so one mistake costs little.
+- Delegate freely, whether to a junior or a machine. The system absorbs a bad move and returns to normal, so one mistake costs little.
 - Measure your errors directly, not by watching the system. A system that absorbs your mistakes also hides them, so you can be wrong for a long time without seeing it.
 
 **Malleable**: Check the state, not just the action.
-- Nothing will fix a bad change for you, so look at what the system holds after each step. A model that edits files or records leaves every mistake in place until someone finds it.
+- Nothing will fix a bad change for you, so look at what the system holds after each step. A misfiled box in an archive, or a wrong edit a model makes to a file, stays wrong until someone finds it.
 - Keep an undo trail. The system won't recover, so recovery has to come from you.
 
 **Tipping point**: Stay well clear of the edge.
 - Find the thresholds before you push. Ask what level of load, traffic or nudging has flipped this kind of system before.
 - Keep a wide margin. The flip is fast and the way back is long, so the cost of getting close is far bigger than it looks.
 - Watch how fast the system recovers from small pushes. Recovery slows as a system nears its tipping point, and that slowing is one of the few warnings you get ([Critical transitions](../frameworks/2001-critical-transitions.md)).
-- Don't plan on reversing the input. A recommender that has nudged a user base into a new habit won't undo it by switching the nudge off.
-- Test the effect of many small nudges together, not one at a time. Each nudge passes an offline test on its own. The flip comes from the sum.
+- Don't plan on reversing the input. Trust that a manager has lost won't come back the day the bad policy goes, and a habit an app has nudged people into won't end when the nudge stops.
+- Judge many small pushes together, not one at a time. Each extra demand on a stretched team looks small on its own. The flip comes from the sum.
 
 ## Correlated with
 

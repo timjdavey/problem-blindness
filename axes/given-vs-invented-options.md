@@ -21,12 +21,12 @@ Are the options handed to you to pick from, or do you have to invent them first?
 ## Actions
 
 **Given options**: Compare and pick.
-- Score the given list against your goal. This is a job a model does well.
+- Score the given list against your goal. This is routine work, the kind a checklist can do.
 - Spend the effort on the scoring. With the options fixed, the quality of the choice comes down to how well you weigh them.
 
 **Invented options**: Make many options before you choose.
 - Start from what you value, not from the obvious options. Ralph Keeney's point is that the best option is often one nobody listed ([Value-focused thinking](../frameworks/1992-value-focused-thinking.md)).
-- Use a model to widen the set. It can draft dozens of options in the time a team drafts three.
+- Widen the set on purpose. Ask outsiders, borrow from places that faced the same problem, or have a model draft dozens. A council that only weighs the two plans on the table never sees a third.
 - Keep making and choosing apart. Judging too early kills odd ideas before anyone understands them.
 - Only then narrow down. Score the full set against the values you started from.
 

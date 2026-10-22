@@ -27,15 +27,15 @@ Watching is worse still when you only see how your own choices turned out. A hir
 ## Actions
 
 **Interventional**: Run the experiment.
-- Randomise, A/B test or use a bandit. A fair test tells you what works, not just what goes with what. A bandit tests as it goes. In 1933 William Thompson proposed giving each new patient a treatment at random, weighted towards whichever looked better so far ([Multi-armed bandit](../frameworks/1933-multi-armed-bandit.md)).
+- Randomise, A/B test or use a bandit. A fair test tells you what works. Watching only tells you what goes with what. A bandit tests as it goes. In 1933 William Thompson proposed giving each new patient a treatment at random, weighted towards whichever looked better so far ([Multi-armed bandit](../frameworks/1933-multi-armed-bandit.md)).
 - Let the result decide. A fair test should beat anyone's opinion of the outcome.
 
-**Observational**: Treat logged data as biased until shown otherwise.
-- Remember what the logs teach. A model trained on what happened learns who chose what, not what works.
+**Observational**: Treat past records as biased until shown otherwise.
+- Remember what records teach: who chose what, not what works. A head teacher who sees tutored pupils do better has learnt who pays for tutors, not whether tutoring helps.
 - Write down what you assume causes what. Then use methods that adjust for it, so others can see and challenge your guesses.
-- Check against any small test you can run. Even a little random data can show if the logs mislead you.
-- Never read a pattern in the logs as the effect of acting on it. The nurses study did, and got hormone therapy backwards.
-- Let a small random share through that the model would have refused. It's the only way to see how the road not taken turns out.
+- Check against any small test you can run. Even a little random data can show if the records mislead you.
+- Never read a pattern in the records as the effect of acting on it. The nurses study did, and got hormone therapy backwards.
+- Say yes at random to a few cases you would have turned away. A lender or a recruiter has no other way to see how the road not taken turns out.
 
 ## Correlated with
 

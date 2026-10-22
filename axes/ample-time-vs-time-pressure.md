@@ -25,12 +25,12 @@ Do you have time to gather facts and think before things change, or must you act
 ## Actions
 
 **Ample time**: Take your time.
-- Use a bigger model and more reasoning steps. The extra seconds cost nothing here.
-- Get a second opinion or human review. There is time for someone to catch a mistake.
+- Use your most careful method, even if it is slow. An actuary can run the numbers twice and a model can reason for longer. The extra time costs nothing here.
+- Get a second opinion. There is time for someone else to catch a mistake.
 
 **Time pressure**: Decide the playbook in advance.
-- Work out answers and fallbacks ahead of time. In the moment the model should pick from a plan, not write one.
-- Use small fast models with a strict time limit. A slow good answer is useless after the deadline.
+- Work out answers and fallbacks ahead of time. In the moment you should pick from a plan, not write one. That is why a pilot with a failed engine reaches for a checklist.
+- Use quick methods and a hard time limit. A slow good answer is useless after the deadline, so a triage nurse sorts patients by a few signs, not a full exam.
 - Take the first good enough action. Klein found that expert fire commanders do this rather than compare options.
 - Check the deadline is real. A false crisis is a common excuse to skip review.
 

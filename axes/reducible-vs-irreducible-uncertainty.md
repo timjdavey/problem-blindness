@@ -31,16 +31,15 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 ## Actions
 
 **Reducible uncertainty**: Go and get the data.
-- Label more cases. Focus labelling on the cases the model is least sure of, which is called active learning.
-- Ask the user the missing question before acting. One question often settles what no model could guess.
-- Keep track of what you believe about the hidden facts. Update it as each new clue comes in, like a doctor narrowing a diagnosis.
-- Say what you can't see. A model that answers as if it had the full picture hides its biggest weakness.
-- Test the model on cases where the key evidence is missing. That is how it will meet many real ones.
+- Look where you are least sure. A check on what you already know buys little, so a mechanic tests the parts they can't yet rule out.
+- Ask the missing question before acting. A builder who asks where the pipes run settles what no amount of guessing could.
+- Keep track of what you believe about the hidden facts. Update it as each new clue comes in, like a card player working out who holds the ace as the cards fall.
+- Say what you can't see. An adviser who answers as if they had the full picture hides the biggest weakness in their advice.
+- Judge your method on cases with some evidence missing, not only on complete ones. That is how many real cases arrive.
 
 **Irreducible uncertainty**: Stop paying for more data and hedge instead.
-- Report a spread, not a single answer. More training won't shrink the doubt, so hiding it only misleads.
+- Report a spread, not a single answer. More research won't shrink the doubt, so hiding it only misleads.
 - Make the decision cope with either result instead of staking it on one. Where you can, back several options at once, as under [Diversifiable vs single bet](diversifiable-vs-single-bet.md).
-- Use an ensemble to tell the two kinds of doubt apart. Models that disagree point to doubt more data could fix. Models that agree on a wide spread point to doubt it can't.
 - Check where the doubt comes from. If it hangs on a choice nobody has made yet, no data will settle it, so plan for each way the choice could go.
 
 ## Correlated with

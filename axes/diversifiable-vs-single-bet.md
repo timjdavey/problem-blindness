@@ -23,17 +23,17 @@ Can you split your stake across several options at once, or does everything ride
 ## Actions
 
 **Diversifiable**: Back several and let the results pick.
-- Run several prompts, models or agents side by side and keep the one that passes the checker.
-- Split live traffic between versions instead of switching all at once.
+- Run several attempts side by side and keep what works. A publisher signs many books because it can't tell which will sell.
+- Split the real work between versions instead of switching all at once. A chain can trial a new layout in a few shops while the rest keep the old one.
 - Barbell when the tails are fat. Most of the stake goes on the safe option and a small slice on a few wild ones ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
-- Check that the bets aren't secretly one bet. Samples from one model, or loans in one housing market, fail together.
+- Check that the bets aren't secretly one bet. Loans in one housing market fail together. So do advisers who all read the same report, or answers drawn from one model.
 - Split evenly when you can't tell the options apart. With little data, equal shares beat clever weights ([Ecological rationality](../frameworks/1999-ecological-rationality.md)).
 
 **Single bet**: Put the effort into choosing, and make the bet smaller where you can.
 - Spend the effort before you commit. Nothing else in the portfolio will cover a miss.
 - Pick the option that holds up across scenarios, not the one with the best forecast.
 - Turn one big bet into several small ones where you can, such as a pilot in one region first.
-- Spread the drafts and commit to one action. Let the model write ten emails in a sandbox, but only one gets sent.
+- Spread the drafts and commit to one action. An architect can sketch ten designs, but only one gets built.
 
 ## Correlated with
 

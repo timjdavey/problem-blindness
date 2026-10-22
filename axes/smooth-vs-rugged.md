@@ -27,16 +27,16 @@ Two things follow on rugged ground. Rules of thumb stop working, because being c
 ## Actions
 
 **Smooth landscape**: Tweak and climb, and trust rough answers.
-- Keep small changes to prompts, features or settings that help. On smooth ground each gain is a step towards the best answer.
-- Use plain gradient methods or greedy search. They will get you near the top without anything fancier.
-- Accept an answer that is close. Nearly right is nearly as good here, so a loose check will do and weeks of fine tuning buy little.
+- Keep any small change that helps. On smooth ground each gain is a step towards the best answer, so a cyclist can find the right saddle height a few millimetres at a time.
+- Use simple trial and improvement. It will get you near the top without anything fancier.
+- Accept an answer that is close. Nearly right is nearly as good here, so a loose check will do and weeks of polishing buy little.
 
 **Rugged landscape**: Check every detail, and search wide before you search deep.
-- Test for exact correctness, not a close look. Run it, compile it or check it against the source, because an answer that looks almost right can be wholly wrong.
-- Don't trust a rule of thumb, or a model's sense that it is close. Looking like a good answer says little about being one.
-- Start from many different points. Restarts and population methods such as evolutionary search stop one bad start from deciding the result.
+- Test for exact correctness, not a close look. Run the code, try the key in the lock or check the quote against the source, because an answer that looks almost right can be wholly wrong.
+- Don't trust a rule of thumb, or anyone's feeling that they are close. Looking like a good answer says little about being one.
+- Start from many different points. A firm that backs several early designs, rather than polishing one, stops a bad start from deciding the result.
 - Don't read a plateau as the top. When progress stops, try a big jump before you decide you're done, and keep some poor looking candidates alive in case they sit at the foot of a higher peak.
-- Pair a model that proposes many candidates with a separate scorer that picks among them. The model supplies the range and the scorer supplies the judgement.
+- Keep coming up with options apart from judging them. One side supplies the range and a separate judge supplies the judgement, as with a brainstorm and a tough review, or a model that drafts many answers and a test that scores them.
 
 ## Correlated with
 

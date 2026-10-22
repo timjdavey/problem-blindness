@@ -22,11 +22,11 @@ Does whoever makes the call bear the cost if it goes wrong, or does it land on s
 - Trust their judgement. Someone who pays for mistakes learns from them and has the right reasons to care.
 - Keep oversight light. Their own loss is the check.
 
-**No skin in the game**: Tie the model to someone who pays.
-- Put a named person or team on the hook for the model's outputs. A model never bears its own losses.
-- Judge that team on outcomes. Ask what happened to the people the model affected, not how often it ran.
-- Watch the incentives of whoever tunes the model. They are often scored on use, so add harm avoided to how they are judged.
-- Make sure the losses get reported back. A cost that lands on someone else is one the team never hears about.
+**No skin in the game**: Tie the decision to someone who pays.
+- Make the decider share the loss. A broker who keeps part of each loan on their own books cares whether it is repaid.
+- Where the decider can't pay, name someone who can. A committee never bears its own losses, and nor does an AI model, so put a named person on the hook.
+- Judge the decider on outcomes, not volume. Ask what happened to the people affected, not how many loans were signed.
+- Make sure the losses get reported back. A cost that lands on someone else is one the decider never hears about.
 
 ## Correlated with
 

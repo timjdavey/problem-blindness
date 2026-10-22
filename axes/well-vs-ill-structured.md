@@ -31,14 +31,14 @@ Is the problem clearly stated, with a known goal, known moves to get there and a
 ## Actions
 
 **Well-structured**: Solve it.
-- Let the model work towards the test. With a clear goal and a test for done, it doesn't need a person watching.
-- Automate the check. The test for done can run on every output.
+- Let whoever does the work aim straight at the test. With a clear goal and a test for done, a new hire, a contractor or a model needs nobody watching.
+- Make the check mechanical. The test for done needs no judgement, so it can run on every answer, as when a teacher marks a quiz against the key.
 
 **Ill-structured**: Work out the problem before solving it.
-- Draft several framings of the goal. Each one points to a different solution, so compare them before you pick.
-- Write down what done looks like and agree it before building. Otherwise every review turns into an argument about the goal.
-- Expect to revise the goal once the first version ships, and budget for it. Seeing a draft is often what tells people what they wanted.
-- Use the model to explore, not to finish. Ask it for framings and questions rather than an answer.
+- Draft several framings of the goal. Each one points to a different solution, so compare them before you pick. A council can treat homelessness as a housing problem, a jobs problem or a health problem, and each leads somewhere else.
+- Write down what done looks like and agree it before you start. Otherwise every review turns into an argument about the goal.
+- Expect to revise the goal once people see a first version, and budget for it. A client often learns what they want from the architect's first sketch, not from their own brief.
+- Use helpers to explore, not to finish. Ask a consultant, a colleague or a model for framings and questions rather than an answer.
 - Check that the problem came before the solution. If the tool was picked first, the problem gets described in its terms and the fit only holds on paper. MD Anderson spent about $62 million building a cancer adviser on IBM's Watson, and it was not in clinical use ([Garbage can model](../frameworks/1972-garbage-can-model.md)).
 
 ## Correlated with

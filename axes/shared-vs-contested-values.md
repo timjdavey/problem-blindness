@@ -35,14 +35,14 @@ This axis asks who owns the goal, not how many parts it has. [Single objective v
 ## Actions
 
 **Shared values**: Go straight to the technical work.
-- Let experts build it and judge it. Everyone agrees what good looks like.
+- Let experts build it and judge it. Everyone agrees what good looks like, so engineers can set the load a bridge must carry without a public meeting.
 - Keep the review inside the team. There is no outside group whose view you are missing.
 
 **Contested values**: Settle whose values count before you build, and do it in the open.
-- Bring the affected groups in early. Their objections are cheaper to hear before launch than after.
-- Say whose weights the model uses and who chose them. If people can see whose side the weights take, they can argue with them.
+- Bring the affected groups in early. Their objections are cheaper to hear while the plan is on paper than once the diggers arrive.
+- Say whose weights the choice uses and who set them. If people can see whose side the weights take, they can argue with them.
 - Let people outside the team challenge the choices. An outside review catches the side you didn't know you took.
-- Don't ship one side's view as neutral fact. If nobody asks whose side a model is on, that is what it does.
+- Don't pass off one side's view as neutral fact. A report, a map or a model that nobody questions does just that.
 
 ## Correlated with
 

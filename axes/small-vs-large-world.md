@@ -23,16 +23,16 @@ Is there a fixed procedure that generates every way things might turn out, so yo
 ## Actions
 
 **Small world**: List the outcomes and optimise over them.
-- Score each outcome and pick. Every state is known, so a model can weigh them all.
-- Test against the full list. There are only so many cases, so you can check the model handles each one.
+- Score each outcome and pick. Every state is known, so you can weigh them all.
+- Test against the full list. There are only so many cases, so you can check your plan handles each one.
 - Simulate when the list is too long. Run the procedure many times and count how often each outcome comes up.
 
 **Large world**: Leave room for what nobody listed.
-- Build a "don't know" or "out of scope" answer into the model. A model forced to pick from a list will pick wrong with confidence.
-- Don't trust a simulation to cover it. A simulator can only produce the outcomes someone built into it.
-- Flag inputs unlike any in training and route those to a person. That is where the unlisted states show up first.
+- Make "none of these" an answer. Anyone forced to pick from a list will pick wrong with confidence, whether a nurse with a triage chart or a model with fixed labels.
+- Don't trust a simulation to cover it. A war game or a stress test can only produce the outcomes someone built into it.
+- Hand the cases that fit nothing to someone who can think afresh. That is where the unlisted states show up first.
 - Prefer actions that keep options open. The one that scores best on the list you have may do badly on the outcome you didn't list.
-- Revisit the list after launch. Log the cases that fit none of your categories and add them.
+- Revisit the list as you go. Note the cases that fit none of your categories and add them.
 
 ## Correlated with
 

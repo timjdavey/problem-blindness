@@ -25,13 +25,13 @@ Do you hold the levers, or does the fix depend on other people changing what the
 ## Actions
 
 **Yours to fix**: Fix it.
-- Build the tool and ship it. You hold the levers.
-- Measure the model directly. If it works, the problem is solved.
+- Make the fix and put it in place. You hold the levers, as a plumber mending a leak does.
+- Judge the fix directly. If it works, the problem is solved.
 
 **Needs others to change**: Design for take up, not just accuracy.
-- Involve the people who must change early. A tool built for them without them tends to sit unused.
-- Make the change easy. Fit the model into what people already do rather than asking them to learn a new habit.
-- Measure what people do, not model scores. A perfect model nobody uses fixes nothing.
+- Involve the people who must change early. A plan made for them without them tends to sit unused, like a school timetable drawn up without asking the teachers.
+- Make the change easy. Fit it into what people already do rather than asking them to learn a new habit. Put the recycling bin next to the rubbish bin, not at the end of the street.
+- Measure what people do, not how good the fix looks on paper. A perfect diet plan nobody follows fixes nothing, and nor does a perfect model nobody uses.
 - Plan for the people who lose out. If the change costs someone something they value, expect them to push back.
 
 ## Correlated with

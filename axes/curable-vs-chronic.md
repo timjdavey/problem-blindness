@@ -27,15 +27,15 @@ Watch the grain. An ongoing problem is usually a chain of tasks that each end. A
 ## Actions
 
 **Curable**: Define the finish and stop when you reach it.
-- Write the test for done before you start. The model can then work towards it and stop.
+- Write the test for done before you start. Then whoever does the work can aim at it and stop, as a plumber stops once the drip does.
 - Fund it as a project. Once it is done the people can move on.
 
 **Chronic**: Plan for the level you hold, not the finish.
-- Define success as a level held over time, such as uptime or cases a year. Measure the trend, not a single pass.
-- Budget for running costs before you build. Retraining, monitoring and fixing a model cost money every year it runs.
-- Expect the software around the model to need changes forever. Meir Lehman's first law of software evolution, from 1974, says a program used in the real world must keep changing or grow less useful.
-- Give it an owner who stays. A team that ships and leaves hands over a problem nobody holds.
-- Test agents on long runs. A benchmark task ends when the agent says it is done, so it never checks whether the agent can keep something working.
+- Define success as a level held over time, such as cases a year or the share of trains that run on time. Measure the trend, not a single pass.
+- Budget for running costs before you start. Upkeep costs money every year, whether it is a sea wall to mend or a bus fleet to service.
+- Expect the fix itself to need changes forever. Meir Lehman's first law of software evolution, from 1974, says a program used in the real world must keep changing or grow less useful. A tax code or a school timetable is no different.
+- Give it an owner who stays. A team that builds and leaves hands over a problem nobody holds. A park needs a keeper, not just a builder.
+- Test whoever takes it on over a long run. A one-off task ends when the solver says it is done, so it never checks whether they can keep something working. A trial shift has this gap, and so does a benchmark for AI agents.
 - Be wary of anyone declaring victory, person or model. Stopping the work is how malaria came back.
 
 ## Correlated with

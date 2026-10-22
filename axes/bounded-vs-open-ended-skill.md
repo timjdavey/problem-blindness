@@ -22,13 +22,13 @@ The axis matters most when you test a solver. On a bounded skill a test can cove
 
 **Bounded skill**: Test all of it, then check it off.
 - Test the whole set, not a sample. With a closed list, like unit conversions or a house style guide, you can check every case.
-- Once the model passes, use the test as a gate and stop using it to rank models. At the ceiling every good model scores the same, so the score can't tell them apart.
+- Once a solver passes, use the test as a gate and stop using it to rank. At the ceiling everyone competent scores the same, so a driving test says who may drive, not who drives best.
 
 **Open-ended skill**: No test covers it, so keep measuring.
 - Treat any pass as a sample, not proof. A finite test covers a sliver of a skill with no edge.
-- Use measures with no ceiling. Head to head ratings, where judges pick the better of two answers, keep separating solvers long after percent correct has filled up. So does the length of task a solver can finish, as in METR's time horizons.
+- Use measures with no ceiling. Head to head ratings, where judges pick the better of two answers, keep separating solvers long after percent correct has filled up. So does the size of job a solver can finish alone, which is how a firm judges an apprentice and how METR's time horizons judge AI models.
 - Don't read mastery of the bounded part as mastery of the whole. A score on a bounded part only tracks the whole skill while solvers are still learning that part. Once they all have it, the link vanishes, and so do the gains from drilling it.
-- Replace benchmarks as they fill up. MMLU spread models out in 2020 and barely told the best apart by 2024.
+- Raise the bar or replace the test once scores bunch at the top. England added an A* grade at A level to tell apart the many pupils getting an A. MMLU spread AI models out in 2020 and barely told the best apart by 2024.
 - Expect slow gains and wide gaps between solvers. Pay for the best where the task rewards it, since the gap between good and great never closes.
 
 ## Correlated with

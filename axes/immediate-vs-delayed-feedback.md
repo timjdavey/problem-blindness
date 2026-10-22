@@ -29,13 +29,13 @@ Delay comes apart from all of these. A drug trial can be fair, stable and blind 
 ## Actions
 
 **Immediate feedback**: Learn from results.
-- Retrain on outcomes. The labels come in fast, so the model can keep up with what it gets wrong.
+- Adjust after every result. Grades come in fast, so you can keep up with what you get wrong, like a cook tasting as they go.
 - Change things in small steps. Each try is cheap to grade, so many small changes beat one big plan.
 - Trust experience, as long as the grade was honest too. Someone who has seen many quick results has had many chances to learn.
 
 **Delayed feedback**: Find an early signal, and check that it tracks the real one.
 - Use a signal you can measure soon, then test that it moves with the outcome you care about. In the 1980s doctors gave heart attack patients drugs that calmed irregular heartbeats on the ECG. The CAST trial reported in 1989 that the drugs raised deaths.
-- Score the model on the long term result once it arrives, not only the early signal. Clicks today can hide lost customers next year.
+- Judge your method on the long term result once it arrives, not only the early signal. Clicks today can hide lost customers next year.
 - Don't react to the latest reading while earlier moves are still working through. In the beer game a single rise in demand sets orders swinging up the chain, because players keep ordering beer that is already on its way ([Detail vs dynamic complexity](../frameworks/1990-detail-vs-dynamic-complexity.md)).
 - Write down why you chose at the time. When the result arrives years later you need the reasons to learn from, not your memory of them.
 - Lean on other people's results when your own tries are few. Base rates stand in for feedback you won't live to see.

@@ -23,13 +23,13 @@ Could one bad outcome take you out of the game for good, so that good odds over 
 ## Actions
 
 **Survivable**: Maximise the average.
-- Run a model that is right more often than not. Losses can be absorbed, so the average is what counts.
+- Back whatever wins on average. Losses can be absorbed, so the average is what counts. An insurer with thousands of small policies lives by this.
 - Accept some big misses. You will be around to learn from them.
 
 **Ruinous**: Avoid ruin first and optimise second.
-- Put hard limits on what the model can do, whatever its confidence. Limits hold when the model is wrong, and confidence doesn't.
-- Have a fallback ready. When the model fails, something safe should take over.
-- Never let average accuracy justify a small chance of disaster. A model that is 99.9% right and can wipe you out will get there given enough tries.
+- Set hard limits on what you will do, however sure you feel. Limits hold when your judgement is wrong, and confidence doesn't. A climber fixes a time to turn back before setting out for the summit.
+- Have a fallback ready. When the main plan fails, something safe should take over, like a reserve parachute.
+- Never let a good average justify a small chance of disaster. A trading strategy or a pilot's shortcut that is 99.9% right and can wipe you out will get there given enough tries.
 - Count tries, not just odds. A one in ten thousand chance per decision is close to certain across a million decisions.
 
 ## Correlated with

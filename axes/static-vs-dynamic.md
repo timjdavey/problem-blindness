@@ -23,15 +23,15 @@ For an AI agent the question is whether its picture of the world goes stale whil
 ## Actions
 
 **Static world**: Plan it, then run the plan.
-- Let the model write the whole plan up front and carry it out. Nothing will change between steps to make it stale.
-- Test on a saved snapshot. A replay of fixed inputs tells you how the model will do for real.
+- Write the whole plan up front and carry it out. Nothing will change between steps to make it stale, so a joiner can cut every piece of a bookcase before gluing any.
+- Practise on a copy of the task. When the world waits, a dry run tells you how you will do for real, as past papers do for a student.
 
 **Dynamic world**: Look again before every move.
 - Work in short loops of look, act, look. A plan written at the start goes stale before the end.
-- Read the state just before you change it, and only make the change if nothing has moved since. The gap between checking and acting is a known source of bugs, called time of check to time of use.
-- Test in a world that moves during the run, live or simulated. A replay freezes the world, so it hides every failure that comes from acting on old information.
-- Aim at where things will be, not where they are. A slow model acts on a world that has already moved on, so allow for the delay.
-- Train and test on many starting states, not one. A routine tuned to one setup breaks when the world moves a different way.
+- Check again just before you act, and only go ahead if nothing has moved since. The gap between checking and acting is where mistakes creep in, as when two travel agents sell the same last seat.
+- Rehearse in a world that moves while you work, live or simulated. A replay freezes the world, so it hides every failure that comes from acting on old information.
+- Aim at where things will be, not where they are. A slow response lands on a world that has already moved on, so a fielder runs to where the ball will come down.
+- Practise from many different starts, not one. A routine tuned to one setup breaks when the world moves a different way.
 
 ## Correlated with
 

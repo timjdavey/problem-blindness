@@ -23,14 +23,14 @@ Is the thing you measure the thing you want, or only a stand-in for it that leav
 ## Actions
 
 **Direct measure**: Optimise the score.
-- Push the metric up. If the metric is the whole job, pushing it up is doing the job.
-- Use it to gate releases. A better score means a better model.
+- Push the score up. If the score is the whole job, pushing it up is doing the job. A sorting office that reads more postcodes right is simply doing better.
+- Use it to decide what passes. A better score means better work, whoever or whatever did it.
 
 **Proxy measure**: Watch what the score leaves out.
-- List the wants the metric misses. Ask users and affected groups what a high score could still get wrong.
-- Track those wants as guardrail metrics. A guardrail is a measure you don't optimise but won't let fall.
-- Have people read outputs for harms no number catches. Amazon's engineers only found the CV tool marking down women by looking inside it, since no score measured fairness.
-- Expect the model to find the gaps in the score and exploit them. This is called reward hacking.
+- List the wants the score misses. Ask the people it serves and the people it affects what a high score could still get wrong.
+- Track those wants as guardrails. A guardrail is a measure you don't push up but won't let fall. A call centre timed on call length should still check that callers get their problem solved.
+- Look at the work itself for harms no number catches. Amazon's engineers only found the CV tool marking down women by looking inside it, since no score measured fairness.
+- Expect whoever is scored to find the gaps and exploit them. Sales staff paid per signature chase signatures, not good customers. When a model does it, it is called reward hacking.
 
 ## Correlated with
 

@@ -25,16 +25,16 @@ Standalone doesn't mean one-shot. A single choice you can't repeat or take back 
 ## Actions
 
 **Standalone**: Judge each case on its own.
-- Treat each input as a fresh case. The model needs no memory of what it did before, which makes it simpler to build and test.
-- Score the model case by case. Accuracy on a fair sample of single cases is the whole story.
-- Run cases in any order or in parallel. Nothing carries over between them.
+- Treat each case as fresh. A clerk checking invoices needs no memory of the last one, which makes the job simpler to teach and to check.
+- Score your work case by case. How many you get right in a fair sample of single cases is the whole story.
+- Take cases in any order, or split them among several people. Nothing carries over between them.
 
 **Sequential**: Act, watch and adjust.
-- Treat it as a trade off between trying new moves and repeating good ones. Bandits and reinforcement learning are built for this.
+- Balance trying new moves against repeating the ones that worked. A chef who only cooks the best seller never finds the next one, and one who keeps changing the menu never learns which dish works.
 - Credit each move with its share of the final result. Otherwise the last move gets the blame for what an early one caused.
 - Watch for effects that show up late. Judge a move by where it led, not by the next step.
 - Keep room to change course. Each step should leave the next one open.
-- Test whole runs, not single steps. An agent can get every step right on its own and still end up somewhere useless.
+- Judge whole runs, not single steps. A negotiator can win every point and still lose the deal. An AI agent can get every step right and still end up somewhere useless.
 
 ## Correlated with
 

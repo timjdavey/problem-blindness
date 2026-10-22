@@ -23,17 +23,17 @@ This axis asks about the shape of the good answers, not about who wants them. A 
 ## Actions
 
 **Convergent**: Aim for the middle, and score against the key.
-- Use exact match, unit tests or a reference answer where there is one right answer. They tell you if the model is right without anyone reading the output.
-- Turn the model's randomness down, which is called lowering the temperature. You want the same good answer every time, not variety.
-- Averaging is safe. A model that predicts the mean of its examples, or an ensemble that averages several models, lands on a good answer.
+- Where there is one right answer, mark against the key. It tells you who is right without anyone reading the working, as when a teacher checks sums against the answer sheet.
+- Aim for the same good answer every time, not variety. A baker wants each loaf of the house bread to come out alike.
+- Averaging is safe. Pool several good estimates and split the difference, whether they come from forecasters, surveyors or a set of models.
 
 **Divergent**: Commit to one answer, and judge it on quality, not match.
 - Commit to one answer, and don't blend two. Halfway between two good answers that differ in kind is often worse than either.
-- Train the model to sample one good answer, not to predict the average of them. If half the demonstrations steer left round a tree and half steer right, a model that learns the average drives straight into it.
-- Reward variety. Generate several and keep the best, rather than asking for one safe answer. The safe answer is often the blend.
+- When you learn from examples, sample one to copy rather than averaging them. If half your instructors steer left round a tree and half steer right, a learner who copies the average drives straight into it.
+- Reward variety. Draft several and keep the best, rather than asking for one safe answer. The safe answer is often the blend.
 - Never score against one reference answer. Good answers that differ in kind can't share one key, so it punishes every good answer but one.
-- Use human raters or a model grader with a clear rubric. The rubric says what good looks like without fixing one answer.
-- Compare outputs in pairs. People judge which of two is better more reliably than they give a score out of ten.
+- Judge against a clear rubric. It says what good looks like without fixing one answer, whether the judge is a panel, a teacher or a model.
+- Compare answers in pairs. People judge which of two is better more reliably than they give a score out of ten.
 
 ## Correlated with
 

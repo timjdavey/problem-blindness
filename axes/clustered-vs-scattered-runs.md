@@ -25,7 +25,7 @@ When runs disagree, do they fall into a few clear groups, so a few clues can tel
 ## Actions
 
 **Clustered runs**: Name the groups and plan for each.
-- Cluster the runs or outputs and report each group, not the pooled average. Two clear groups averaged together give a result neither produced.
+- Sort the runs or outcomes into groups and report each one, not the pooled average. Two clear groups averaged together give a result neither produced.
 - Pick the early signals that tell the groups apart, and update your belief about which group you are in as they come in. A few readings can rule out a whole group.
 - Keep a playbook for each group, so you can switch as soon as the signals point one way. Learn which method wins in each group from a few features you can measure first, rather than using the one with the best average everywhere ([Algorithm selection problem](../frameworks/1976-algorithm-selection-problem.md)).
 - Don't serve every group with one answer. In 2004 the US Army brought in one camouflage pattern for every setting, and it hid soldiers worse than other patterns in several of them. You need as many kinds of response as there are kinds of case ([Law of requisite variety](../frameworks/1956-law-of-requisite-variety.md)).
@@ -33,7 +33,7 @@ When runs disagree, do they fall into a few clear groups, so a few clues can tel
 **Scattered runs**: Plan for the whole spread.
 - Design to fit the range, since there is no small set of types to plan for. In 1950 not one of 4,063 US Air Force pilots was average on all ten key sizes, so cockpits were made to adjust.
 - Don't trust a few early readings to say where you will end up. With no groups, early evidence narrows things only slowly.
-- Test the model across a wide range of conditions and keep a fallback for the cases you didn't foresee. When you must commit, pick the option that holds up across all the runs, as under [Risk vs Knightian uncertainty](risk-vs-knightian-uncertainty.md) ([Deep uncertainty](../frameworks/2003-deep-uncertainty.md)).
+- Test your plan across a wide range of conditions and keep a fallback for the cases you didn't foresee. When you must commit, pick the option that holds up across all the runs, as under [Risk vs Knightian uncertainty](risk-vs-knightian-uncertainty.md) ([Deep uncertainty](../frameworks/2003-deep-uncertainty.md)).
 
 ## Correlated with
 

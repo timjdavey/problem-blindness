@@ -31,14 +31,14 @@ Two things go wrong at this end. First, people facing a sure loss will gamble to
 ## Actions
 
 **Winnable**: Aim for the win and score it plainly.
-- Score the model against the ideal answer. A clean win is on offer, so falling short of it is a real miss.
+- Score the work against the ideal answer. A clean win is on offer, so falling short of it is a real miss.
 - Judge by the result. When a clean win is possible, the result tells you a lot about the decision.
 
 **No-win**: Set the baseline before you act, and score against it.
-- Write down what doing nothing would cost and what the best realistic outcome is, before you act. Score the model on how much loss it avoided, not against a perfect result.
+- Write down what doing nothing would cost and what the best realistic outcome is, before you act. Score the decision on how much loss it avoided, not against a perfect result.
 - Cap losses in advance, and give the call to stop to someone who isn't carrying the loss. Nick Leeson kept raising his bets to win back what he had lost, and broke Barings Bank in 1995 ([Prospect theory](../frameworks/1979-prospect-theory.md)).
 - Keep a record of what was known and why each choice was made. Judge the decision against that, not against how it turned out ([Outcome bias](../frameworks/1988-outcome-bias.md)).
-- Check the model commits to the least bad option. A model rewarded for good outcomes can hedge, or keep searching for a clean win that isn't there.
+- Check that whoever decides commits to the least bad option. A manager judged on good outcomes can hedge, or keep searching for a clean win that isn't there. So can a model rewarded the same way.
 - Expect blame whatever happens, and support the people who decide. They will hold themselves to the perfect result too.
 
 ## Correlated with

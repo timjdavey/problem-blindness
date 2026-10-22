@@ -33,15 +33,15 @@ This axis asks how many parts the goal has. It doesn't ask who sets the weights,
 ## Actions
 
 **Single objective**: Optimise the one number.
-- Use it as both the training target and the release gate. When there is one goal, the score and the job are the same.
-- Compare models on it directly. Higher is better, so there is nothing to argue about.
+- Use it as both the target and the test. When there is one goal, the score and the job are the same. A sprinter trains for the clock and is judged by it.
+- Compare options on it directly. The faster route wins, so there is nothing to argue about.
 
 **Trade-offs**: Make the trade offs plain.
-- Track each objective as its own metric. A model tuned on one blended score hides which goal it gave up.
-- Show decision makers the best trade offs on offer. Lay out the options where you can't gain on one goal without losing on another, and let them pick.
-- Agree the weights before training, not after. Weights set after you see results tend to favour the model you already like.
-- Set a floor for each objective. No gain on one should push another below what is acceptable.
-- Treat sacred values as rules the model can't break, not weights it can trade. A loss function that puts a price on a life will be found and quoted.
+- Track each goal as its own number. One blended score hides which goal was given up. A single star rating can't tell a restaurant whether it lost marks on the food or on the service.
+- Lay out the trade offs and let the owner set the weights. Show only the options where you can't gain on one goal without losing on another. A car buyer should see the best car at each price, not every car on the forecourt.
+- Agree the weights before you see the results. Weights set afterwards tend to favour the option you already like, such as the candidate a hiring panel warmed to.
+- Set a floor for each goal. No gain on one should push another below what is acceptable. A cheap car still has to pass its crash test.
+- Treat sacred values as rules you can't break, not weights you can trade. A figure that puts a price on a life will be found and quoted, whether it sits in a hospital budget or in the goal a model is trained on.
 
 ## Correlated with
 

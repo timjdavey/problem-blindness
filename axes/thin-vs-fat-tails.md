@@ -23,14 +23,14 @@ When results vary, do they stay close to the average, or can one extreme case ou
 ## Actions
 
 **Thin tails**: Trust the average.
-- Use mean error on a test set as your guide. With thin tails a few odd cases won't change the picture.
-- Size the test set by the usual rules. A few thousand cases pin the average down well, because no single case can drag it far.
+- Go by the average. With thin tails a few odd cases won't change the picture. A clothes shop can stock the usual sizes, because no customer is ten feet tall.
+- Size your sample by the usual rules. A few thousand cases pin the average down well, because no single case can drag it far.
 
 **Fat tails**: Plan around the worst case, not the average.
-- Report tail metrics, like the worst 1% of errors or the largest single loss. A good average on a calm test set tells you nothing about the next crash.
-- Stress test with extreme cases you build on purpose. The real extremes are too rare to turn up in your data by chance.
-- Cap exposure with limits on size or spend. No single prediction should be able to do unbounded harm.
-- Change your exposure when you can't change the world. The tails belong to the world, but how much a surprise costs you is up to you. Prefer the dull model with no rare failures, and test in a sandbox before going live.
+- Track the worst cases, like the worst 1% of results or the largest single loss. A good average over a calm stretch tells you nothing about the next crash.
+- Stress test with extreme cases you build on purpose. The real extremes are too rare to turn up in your records by chance.
+- Cap your exposure with limits on size or spend. No single bet, loan or order should be able to do unbounded harm.
+- Change your exposure when you can't change the world. The tails belong to the world, but how much a surprise costs you is up to you. Prefer the dull option with no rare failures, and try things small before you go big.
 - Don't read a long calm run as proof of safety. Banks in 2007 had years of quiet data, and it said nothing about 2008.
 
 ## Correlated with

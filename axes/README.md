@@ -14,7 +14,7 @@ There is no single "correct" way to collate or break the space of all problems i
   - [Randomness](index.md#randomness): what the spread of outcomes looks like.
   - [Change](index.md#change): how the system moves over time.
   - [Stimulus](index.md#stimulus): what a push does to the system, whether it comes from you or from outside.
-  - [Reactivity](index.md#reactivity): whether the world notices your model and reacts to it.
+  - [Reactivity](index.md#reactivity): whether the world notices your answer and reacts to it.
   - [Structure](index.md#structure): how the parts fit together, and so how hard a good answer is to find.
 - [Information](index.md#information). What can you find out, and how fast?
   - [Uncertainty](index.md#uncertainty): what kind of doubt you face.
@@ -34,7 +34,7 @@ There is no single "correct" way to collate or break the space of all problems i
 Every axis page has the same four parts.
 
 - **The two ends.** We have tried to order these axes so that the "easy end" comes first (as it can be argued that a deterministic system is easier to deal with than a stochastic one), however these are obviously subjective. A few axes also name a middle when it is a case of its own e.g. [Self-righting vs tipping](self-righting-vs-tipping.md).
-- **Actions.** What to do differently at each end. Each opens with a plain rule that holds for anyone.
+- **Actions.** What to do differently at each end. Each opens with a plain rule that holds for anyone, then a list of what that rule means in practice, whoever is solving the problem.
 - **Correlated with.** The other axes this one tends to move with, each with a tag in brackets.
 - **Citations.** The frameworks the axis came from.
 
@@ -60,16 +60,16 @@ Three checks stop the same problem getting tagged two different ways.
 
 ## What changes at the hard end
 
-Near the easy ends you can trust the test you ran before launch. Towards the hard ends that test stops being enough.
+Near the easy ends you can trust a rehearsal to tell you how you'll do for real. Towards the hard ends that rehearsal stops being enough.
 
-1. **Trust the offline test.** A held-out test set predicts how the model will do in production. Automate fully, monitor lightly and plan the project like normal engineering.
-2. **Add a checker.** Pair the model with tests, a rules engine or an expert. Let it act alone only where the checker can confirm the output.
-3. **Experiment live.** Stop using offline tests as the gate. Ship to small groups, run variants side by side and measure what happens downstream rather than how accurate the model is.
-4. **Keep a way out.** Have people who can take over, a kill switch or a freeze on automated decisions when inputs stop looking like the training data.
+1. **Trust the rehearsal.** Practice, past cases or a trial run predict how you'll do for real. Let the solver act alone, check in lightly and plan the work like any routine job.
+2. **Add a checker.** Pair the solver with tests, rules or a second opinion. Let it act alone only where the check can confirm the result.
+3. **Try it small and for real.** Stop treating the rehearsal as the gate. Run small live trials side by side and judge them by what happens downstream, not by how well they did in rehearsal.
+4. **Keep a way out.** Have someone who can take over, a stop button or a rule to freeze when cases stop looking like the ones you learnt on.
 
-A real problem sits near the hard end of several axes at once, and their actions can pull against each other. A drifting world says retrain often and ship fast, while a ruinous one says put a person at the door. **When actions clash, the step furthest down the list wins.**
+A real problem sits near the hard end of several axes at once, and their actions can pull against each other. A drifting world says relearn often and move fast, while a ruinous one says set hard limits and keep a fallback ready. **When actions clash, the step furthest down the list wins.**
 
-Both stories in the [overview](../README.md) show someone running the easy end playbook on a hard end problem. The reverse is a mistake too, just a cheaper one. Building bandits and kill switches for a stable task you can check in seconds wastes months you could have spent shipping it.
+Both stories in the [overview](../README.md) show someone running the easy end playbook on a hard end problem. The reverse is a mistake too, just a cheaper one. Building live trials and stop buttons for a stable task you can check in seconds wastes months you could have spent getting it done.
 
 ## Telling look-alike axes apart
 

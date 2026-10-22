@@ -27,15 +27,15 @@ The other side doesn't have to be an enemy. It only needs goals that differ from
 ## Actions
 
 **Neutral**: Optimise for the typical case.
-- Test on typical data. Errors are accidents, so a random sample of real inputs is a fair test.
-- Publish how the model works if that helps users. Nobody is reading it to find a way round.
+- Test on typical cases. Errors are accidents, so a random sample of real cases is a fair test.
+- Publish your rules if that helps people use them. Nobody is reading them to find a way round.
 
 **Adversarial**: Assume someone is probing for your weak spots.
-- Red team the model. Pay people to attack it before launch, and test on those attacks rather than typical inputs.
-- Retrain fast as attackers adapt. A drop in the attacks you catch may mean they found a way round, not that they gave up.
-- Keep part of the logic hidden or changing. A fixed public rule is one an attacker only has to beat once.
+- Red team your own rule. Pay people to break it before it goes live, as armies do in war games and AI labs do with new models. Then test on those attacks, not on typical cases.
+- Update fast as attackers adapt. A drop in the attacks you catch may mean they found a way round, not that they gave up.
+- Keep part of the rule hidden or changing. A fixed public rule is one an attacker only has to beat once.
 - Judge people on more than one number. Anyone scored on a single measure will learn to move it, so keep some judgement that no number can replace.
-- Layer the model with rules and rate limits. Beating one check should not be enough to get through.
+- Layer your defences. Beating one check should not be enough to get through, which is why a bank asks for a code from your phone as well as a password.
 
 ## Correlated with
 

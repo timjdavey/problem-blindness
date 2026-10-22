@@ -21,13 +21,13 @@ Is the choice yours alone, or must you explain and defend it to others, such as 
 ## Actions
 
 **Private choice**: Use whatever works best.
-- Pick the most accurate model, black box or not. Nobody needs to know why.
-- Keep light records. Logs are for debugging, not defence.
+- Pick the most accurate method, even one nobody can explain. A hunch or a black box is fine when nobody needs to know why.
+- Keep light records. Notes are for fixing your own mistakes, not for defence.
 
 **Accountable choice**: Use a method you can explain and keep the records.
-- Prefer models you can read. If you must use a black box, be able to give a reason for each decision.
-- Log inputs and outputs. You can't defend a decision you can't rebuild.
-- Name a person who owns each decision. "The model decided" is not an answer anyone accepts.
+- Prefer methods you can read, like a scorecard or a checklist. If you must use a hunch or a black box, be able to give a reason for each decision.
+- Record what you knew and what you decided. You can't defend a decision you can't rebuild.
+- Name a person who owns each decision. "The committee decided" and "the computer said no" are not answers anyone accepts.
 - Check the law first. Some decisions, like refusing credit, must come with a reason.
 
 ## Correlated with

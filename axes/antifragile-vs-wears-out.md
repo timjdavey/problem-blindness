@@ -26,14 +26,14 @@ Better for the system is not always better for you. Bacteria are antifragile to 
 ## Actions
 
 **Antifragile**: Let small stresses in and feed them back.
-- Turn every failure into a test. A codebase where each bug adds a test that catches it gets stronger with each bug.
+- Turn every failure into a check that catches it next time. Flying gets safer with each crash because the findings change the rules for every airline, and a codebase gets stronger when each bug adds a test.
 - Don't shield the system from every small shock. Netflix built a tool called Chaos Monkey that switches off its own servers at random during working hours, so engineers find the weak spots while they are at their desks.
 - Watch the dose. A workout builds muscle and too heavy a lift tears it, so the gain only holds up to a point.
 
 **Wears out**: Budget the stress and count the cycles.
 - Count uses, not time. The Comet's life was set by how many flights it made, not by how many years it had flown.
-- Treat a held out test set as something that wears. Each time you check a model against it and tune, the set tells you a little less about new data. Keep a fresh set that nobody has looked at.
-- Count the load on the people in the loop. Every false alarm wears down the person who checks alerts, until they start waving real ones through. Cap the alarms each reviewer sees.
+- Treat a test as something that wears. Each time you check against it and adjust, it tells you a little less about new cases. A chef who keeps tuning a dish to the same three tasters ends up cooking for those three, so keep a fresh taster back.
+- Count the load on the people who check. Each false alarm wears down whoever answers it, until a nurse on a ward full of beeping monitors starts to wave real ones through. Cap the alarms each person sees.
 - Plan the upkeep and retire things before they fail, not after.
 
 ## Correlated with

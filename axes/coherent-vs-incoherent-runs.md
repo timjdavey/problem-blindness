@@ -26,12 +26,12 @@ This is a test of the runs, not of one spread. A trip with a tight train connect
 
 **Coherent runs**: Trust the average.
 - Report the mean and spread. Every run draws from the same spread, so the pooled figures are a fair guide to the next run.
-- A few runs are enough to judge the model. More runs only tighten the error bar.
+- Stop after a few runs. More only tighten the error bar, so a shopkeeper needs only a few ordinary weeks to know what a normal week looks like.
 
 **Incoherent runs**: Compare the runs before you pool them.
-- Rerun the same eval or agent task with different seeds, and compare the runs, not just one score. If they disagree, a single benchmark number hides it.
+- Get more than one run before you trust a result, and compare them. A scheme trialled in one town, a single simulation or a model scored once may be one of several very different outcomes.
 - Plot each run on its own before you take an average. If the runs settle in different places, the pooled average may be a result no run produced.
-- Plan for the outcomes the runs actually reach, not the pooled average.
+- Plan for the outcomes the runs actually reach, not the pooled average. A town that plans for the mild average climate is ready for neither the warm future nor the cold one.
 - When you only get one go, prefer the option whose runs agree over the one with the best average. A factory upgrade whose runs average 94 minutes is a bet, not a plan, if four runs land near 97 and one lands at 84.
 
 ## Correlated with

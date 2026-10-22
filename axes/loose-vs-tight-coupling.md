@@ -22,11 +22,11 @@ When one part fails, is there slack and time to step in, or does the fault sprea
 
 **Loose coupling**: Let things fail and fix them.
 - Rely on review after the fact. There is time to spot an error and step in before it spreads.
-- Automate early. A mistake costs a fix, not a cascade.
+- Hand work over early. A mistake costs a fix, not a cascade.
 
-**Tight coupling**: Build in slack and breaks before you automate.
-- Put circuit breakers, rate limits and kill switches between a model and anything it can trigger. Automated trading learnt this in the 2010 flash crash, when US shares fell about 9% in minutes.
-- Don't let models feed each other without a check in between. One model's error becomes the next one's input and grows at each step.
+**Tight coupling**: Build in slack and breaks before you hand over control.
+- Put a break between each part and whatever it can set off. Fuses, spending limits and off switches stop one fault from running on. Automated trading learnt this in the 2010 flash crash, when US shares fell about 9% in minutes.
+- Don't let one step feed the next without a check in between. A wrong figure in one team's report becomes the next team's input and grows at each step.
 - Add slack where you can. Queues, buffers and delays give people time to see a fault before it spreads.
 - Practise the failure. Run drills where a part breaks, so you know the breaks work before you need them.
 

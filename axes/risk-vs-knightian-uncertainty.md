@@ -34,12 +34,12 @@ Can you put a number you trust on how likely each outcome is, or do you only kno
 
 **Measurable risk**: Compute and optimise.
 - Use expected value as the test. With odds you trust, the best choice is the one that does best on average.
-- Let a calibrated model make the call. Its probabilities mean what they say.
+- Let a calibrated forecast make the call. If a forecaster's seven in ten chance of rain comes true on seven days in ten, the odds mean what they say.
 
-**Knightian uncertainty**: Don't trust a model's probabilities just because they are precise.
-- Test several plausible scenarios rather than one forecast. Ask what you would do in each, not which is most likely.
+**Knightian uncertainty**: Don't trust a forecast's odds just because they are precise.
+- Test several plausible scenarios rather than one forecast. A council planning flood defences asks what it would do if the sea rose a little or a lot, not which is more likely.
 - Favour choices that hold up across all of them. A choice that is fine everywhere beats one that is best in one world and bad in the rest.
-- Keep a margin of safety. Assume your estimate of the odds is wrong and leave room for it.
+- Keep a margin of safety. Assume your estimate of the odds is wrong and leave room for it. A founder keeps more cash than the plan says they need.
 - Don't read past calibration as future calibration. Calibration on past data says nothing about a case with no past.
 
 ## Correlated with

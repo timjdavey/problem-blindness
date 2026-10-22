@@ -20,15 +20,15 @@ If it goes wrong, can you undo it cheaply and try again, or are you stuck with i
 
 ## Actions
 
-**Reversible**: Move fast and let the model act.
-- Ship small changes often and learn from what breaks. You can roll back.
-- Let agents act without sign off. A mistake costs an undo, not a disaster.
+**Reversible**: Move fast and let whoever is doing the work act alone.
+- Make small changes often and learn from what breaks. You can roll back.
+- Skip the sign off, whether a junior chef or an AI agent is doing the work. A mistake costs an undo, not a disaster.
 
-**Irreversible**: Slow down and put a person at the door.
-- Require human sign off for actions that can't be undone. Deleting data, sending money and emailing customers are the usual ones.
-- Give agents a dry run mode. They show what they would do, and a person approves it.
-- Turn one way doors into two way ones where you can. Staging, soft deletes and a delay before a send all buy you an undo.
-- Gate only the actions that are hard to undo. Gating everything trains people to click approve without reading.
+**Irreversible**: Slow down and put a second pair of eyes at the door.
+- Ask for sign off before any move that can't be undone. Sending money, felling a tree and deleting records are the usual ones.
+- Rehearse before you act. A surgeon talks the team through the plan and a builder pegs out the walls. Each shows what they would do, so someone else can stop it before it is real.
+- Turn one way doors into two way ones where you can. A trial period, a cooling off period and a delay before a message sends all buy you an undo.
+- Gate only the moves that are hard to undo. Gating everything trains people to approve without reading.
 
 ## Correlated with
 

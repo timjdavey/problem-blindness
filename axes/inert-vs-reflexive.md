@@ -31,15 +31,15 @@ The worst case is when your own action makes the result you take as proof. Robin
 ## Actions
 
 **Inert**: Measure and act freely.
-- Learn from logged data. Your forecast won't change the thing you forecast, so the logs are a fair record.
+- Learn from the record as it stands. Your forecast won't change the thing you forecast, so the record is a fair one.
 - Publish scores and forecasts openly. A rock doesn't move because you said where it was.
 
-**Reflexive**: Expect your model to change the world it was trained on.
-- Ask what people will do once they see the output. A forecast that sets off a run, or calls one off, needs a different launch from one that nobody acts on.
-- Hold back a small random group the model doesn't act on. It shows you what would have happened without the model.
-- Watch for feedback loops. A recommender that only learns from what it chose to show will narrow until it shows the same few things.
-- Retrain with care. Data collected after launch carries the model's own effect, so it is no longer a clean picture of the world.
-- Get labels from outside the loop. Audits and expert review give a view the model's own record can't.
+**Reflexive**: Expect what you put out to change the world you learnt it from.
+- Ask what people will do once they see your forecast, score or decision. A central bank chooses its words with care, because markets move on them.
+- Leave a small group, picked at random, that your rule doesn't touch. It shows you what would have happened without the rule. A council trialling a parking scheme can keep a few streets, chosen by lot, as they were.
+- Watch for loops that feed on themselves. A bookshop that only puts its best sellers in the window keeps them best sellers, and narrows until it sells the same few books.
+- Update with care. Results gathered after people began acting on your forecast carry its effect, so they are no longer a clean picture of the world.
+- Get a check from outside the loop. Audits and outside review give a view your own record can't.
 
 ## Correlated with
 

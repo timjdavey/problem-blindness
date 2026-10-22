@@ -23,14 +23,14 @@ Has the solver, person or model, met this kind of problem before, or is it new t
 ## Actions
 
 **Familiar to the solver**: Trust recall.
-- Accept a quick answer. A problem like those in training is one the model has seen solved.
-- Spend less on reasoning. Long chains of working add cost and little accuracy on a problem the model knows.
+- Accept a quick answer. A mechanic who has heard a rattle a hundred times knows the fault before opening the bonnet.
+- Spend less on reasoning. Long chains of working add cost and little accuracy on a problem the solver knows.
 
 **Novel to the solver**: Make the solver reason, and check the result.
-- Ask for working. A step by step answer shows where the reasoning went wrong.
+- Ask for working, as a maths teacher does. A step by step answer shows where the reasoning went wrong.
 - Break the task into steps and verify each one. Errors on a new problem stack up, so catch them early.
-- Test the model on problems written after its training cutoff. A benchmark it has seen measures memory, not skill.
-- Watch for a familiar answer to the wrong problem. A model will often match a new problem to an old one it looks like.
+- Test the solver on problems they can't have seen. An exam needs fresh questions and a model needs problems newer than its training data, or you measure memory, not skill.
+- Watch for a familiar answer to the wrong problem. People and models alike will match a new problem to an old one it looks like.
 
 ## Correlated with
 

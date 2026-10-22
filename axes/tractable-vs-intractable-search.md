@@ -22,13 +22,13 @@ Are there few enough options to check them all, or so many that no computer coul
 
 **Tractable search**: Search the lot.
 - Check every option if you can. A full search is exact and needs no tuning.
-- Use a model only to speed things up. The search already gives the right answer, so the model shouldn't change it.
+- Use shortcuts and hunches only to speed things up. The full search already gives the right answer, so a hunch shouldn't change it.
 
-**Intractable search**: Use the model to guide the search, not to finish it.
-- Let the model suggest which branches to try. AlphaGo works this way, with a learned guess steering a search too big to finish.
+**Intractable search**: Use judgement to guide the search, not to finish it.
+- Let an expert's eye pick which branches to try. A chess master looks hard at only a few of the possible moves. AlphaGo works the same way, letting a guess it learnt from past games steer a search too big to finish.
 - Prune hard. Drop weak looking branches early, and accept you will sometimes drop a good one.
 - Accept good enough and cap the time spent. Set a budget up front, since the search will never tell you it is done.
-- Check the answer with a separate checker where you can. Many hard searches have answers that are quick to check.
+- Check the answer separately where you can. Many hard searches have answers that are quick to check. A school timetable is hard to build, yet easy to check for clashes.
 
 ## Correlated with
 

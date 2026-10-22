@@ -18,15 +18,15 @@ Does the answer rest on facts anyone could look up, or on facts about this place
 
 ## Actions
 
-**General knowledge**: Let the model answer from what it knows.
-- Trust its training data. Facts anyone could look up are already in it.
-- Skip the search step. Feeding in documents adds cost, and can add noise when the model already knows the answer.
+**General knowledge**: Answer from what you already know.
+- Trust what you were taught. Facts anyone could look up hold everywhere, so an outsider knows them as well as a local.
+- Skip the research. Digging through files adds cost, and can add noise when you already know the answer.
 
 **Local knowledge**: Feed in the local facts or ask someone who has them.
-- Search your own records. That puts facts in front of the model that no training data holds.
-- Give the model live data. Local facts change daily, so a snapshot goes stale.
-- Treat the person on the ground as the source of truth. When the model and the shop manager disagree about the shop, the manager wins.
-- Make the model say when it is falling back on general knowledge. A model that answers a local question from general knowledge gives a plausible answer about some other shop.
+- Search your own records first. They hold facts no textbook or training data does.
+- Use today's figures, not last month's. Local facts change daily, so a snapshot goes stale.
+- Treat the person on the ground as the source of truth. When head office, a consultant or a model disagrees with the shop manager about the shop, the manager wins.
+- Say when you are falling back on general knowledge. An adviser who answers a local question from general knowledge gives a plausible answer about some other shop.
 
 ## Correlated with
 

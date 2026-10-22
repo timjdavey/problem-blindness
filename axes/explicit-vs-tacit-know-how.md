@@ -25,13 +25,12 @@ Can the know-how be written down as rules, or does it live in experts' hands and
 ## Actions
 
 **Explicit know-how**: Write it down and hand it over.
-- Put the rules in the prompt, the code or a checklist. If an expert can say it, a model can be told it.
-- Test the model against the written rules. Each rule becomes a test case.
+- Put the rules in a manual, a checklist or a prompt. If an expert can say it, a new hire or a model can be told it.
+- Check the work against the written rules. Each rule becomes a test, the way a building inspector ticks off each regulation.
 
 **Tacit know-how**: Learn from examples and judges, not instructions.
-- Collect demonstrations. Showing the model good work teaches what words can't.
-- Gather expert ratings. Experts can tell good from bad even when they can't say why.
-- Keep experts in the loop to grade outputs. Their judgement is the only check you have.
+- Learn by watching good work. An apprentice picks up from a master baker what no recipe says.
+- Have experts grade the work rather than write rules for it. They can tell good from bad even when they can't say why, and their verdict is the only check you have.
 - Expect a long tail of cases that written guidance misses. Plan to review the odd ones rather than add more rules.
 
 ## Correlated with

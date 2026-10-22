@@ -21,15 +21,15 @@ Does the other side of the deal see the same facts you do, or do they know more?
 ## Actions
 
 **Symmetric information**: Take what you're told at face value.
-- Use the inputs as given. When both sides see the same facts, nobody can pick which cases reach you.
-- Train on the cases you have. They are a fair sample of the cases to come.
+- Use what you're given as it stands. When both sides see the same facts, nobody can pick which cases reach you.
+- Learn from the cases you have. They are a fair sample of the cases to come.
 
 **Asymmetric information**: Ask why this is on offer to you, and make the other side prove what they know.
-- Ask who chose to send each case to the model. A pool of loan applicants or insurance claims is filtered by people who know more than you.
-- Check who the model attracts once it is live. A lender that approves more easily than its rivals gets the applicants the rivals turned down, so last year's data no longer describes this year's pool.
-- Weight claims by what they cost to fake. Self-reported fields are cheap. A deposit, a warranty or a track record costs a cheat more than an honest party.
+- Ask who chose to send each case to you. A pool of loan applicants or insurance claims is filtered by people who know more than you.
+- Check who you attract once your terms are known. A lender that approves more easily than its rivals gets the applicants the rivals turned down, so last year's data no longer describes this year's pool.
+- Weight claims by what they cost to fake. What people say about themselves is cheap. A deposit, a warranty or a track record costs a cheat more than an honest party.
 - Offer choices that sort people. A cheap plan with a high excess draws the low risk customers, so their choice tells you what they know.
-- Make the model say when a claim comes from someone with a stake in the answer. A model reading a CV or a sales listing should flag that the writer chose what to put in it.
+- Note when a claim comes from someone with a stake in the answer. The writer of a CV or a sales listing chose what to put in it.
 
 ## Correlated with
 

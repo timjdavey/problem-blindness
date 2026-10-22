@@ -19,14 +19,14 @@ Do a false alarm and a miss cost about the same, or is one mistake far worse tha
 ## Actions
 
 **Even mistakes**: Maximise accuracy.
-- Use the default threshold. A false alarm and a miss cost the same.
-- Report one accuracy figure. It tells you all you need when both errors weigh the same.
+- Set the bar at even odds. A false alarm and a miss cost the same, so take the umbrella when rain is more likely than not.
+- Keep one score: how often you're right. It tells you all you need when both errors weigh the same.
 
 **Lopsided mistakes**: Set the threshold from the costs.
 - Put a price on each kind of error. Ask what a miss costs and what a false alarm costs, in the same units.
 - Tune the threshold to those prices. A cancer screen should flag far more than it misses.
-- Report the two error rates separately, never accuracy alone. A model can score 99% on a rare disease by never flagging anyone.
-- Plan for the false alarms. If the model is set to cry wolf, make sure someone can check each alarm quickly.
+- Count the two kinds of mistake separately, never accuracy alone. A doctor, a lab test or a model can be right 99% of the time on a rare disease by never flagging anyone.
+- Plan for the false alarms. If you choose to cry wolf, make sure someone can check each alarm quickly, as airport staff do with each bag the scanner flags.
 
 ## Correlated with
 

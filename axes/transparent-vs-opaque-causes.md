@@ -31,13 +31,13 @@ Even when you can see every part, can you follow how one thing leads to another 
 ## Actions
 
 **Transparent causes**: Model the mechanism.
-- Write the cause and effect into the system as rules or structure. A model that has to rediscover a known mechanism wastes data.
-- Debug by following the chain. When something goes wrong you can trace it to the step that failed.
+- Write the known cause and effect into your rules. An engineer sizing a beam works from the physics, not from a pile of past beams that held.
+- Fix faults by following the chain. When something goes wrong you can trace it to the step that failed, as an electrician does along a circuit.
 
 **Opaque causes**: Don't trust explanations, trust experiments.
-- Treat the model's story of why as a guess. It will sound right and may be wrong.
+- Treat any story of why as a guess. An expert's account of why sales fell, or a model's account of its own answer, will sound right and may be wrong.
 - Change one thing at a time and measure the effect. That is how you find a cause you can't trace.
-- Use the model to predict, and hold back claims about cause. Test a claim before you build a decision on it.
+- Use patterns to predict, and hold back claims about cause. Test a claim before you build a decision on it.
 - Expect a fix to have side effects. When you can't see the chain, you can't see what else it touches.
 
 ## Correlated with
