@@ -11,32 +11,12 @@ description: A shared vocabulary for the shape of a problem, built from a centur
 can tell what kind of expert a task needs.**
 
 [![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md)
+[![Axes](https://img.shields.io/badge/axes-47-blue?style=flat-square)](axes/index.md)
+[![Frameworks](https://img.shields.io/badge/frameworks-95-blue?style=flat-square)](frameworks/index.md)
 
 </div>
 
 <br>
-
-## Start here
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><a href="MOTIVATION.md">Why this exists</a></h3>
-      <p>We all tend to suffer from what we term "problem blindness", where individually we tend to treat all problems the same.</p>
-      <p>📖 <a href="MOTIVATION.md">Read the motivation</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="axes/README.md">The axes</a></h3>
-      <p>Traits that set one problem apart from another, each with what to do at either end and the sources behind it.</p>
-      <p>🧭 <a href="axes/README.md">Read the guide</a> · <a href="axes/index.md">See the list</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="frameworks/README.md">The frameworks</a></h3>
-      <p>Historical attempts to sort problems by what they are like.</p>
-      <p>📚 <a href="frameworks/README.md">Read the guide</a> · <a href="frameworks/index.md">See the list</a></p>
-    </td>
-  </tr>
-</table>
 
 ## What is this?
 
