@@ -63,7 +63,8 @@ Words are slippy and meaning can easily drift.
 | Term | First meant | Later stretched to | Axes it feeds |
 |---|---|---|---|
 | Wicked | Rittel and Webber, 1973: a [planning problem](frameworks/1973-tame-vs-wicked-problems.md) where people can't agree what the problem is | Hogarth, 2001: a [learning environment](frameworks/2001-kind-vs-wicked-learning-environments.md) where feedback is missing or misleading | [Shared vs contested values](axes/shared-vs-contested-values.md) for the first, [Immediate vs delayed feedback](axes/immediate-vs-delayed-feedback.md) for the second |
-| Non-ergodic | Peters and Gell-Mann, 2016: a [bet](frameworks/2016-ergodicity.md) that pays on average yet leaves the typical player poorer | Popular writing: any risk of ruin | [Additive vs multiplicative returns](axes/additive-vs-multiplicative-returns.md) and [Survivable vs ruinous](axes/survivable-vs-ruinous.md), kept apart |
+| Black swan | Taleb, 2007: an [event](frameworks/2007-mediocristan-vs-extremistan.md) from a fat-tailed world that past data gives no hint of | Popular writing: any nasty surprise, even a widely predicted one. Taleb called Covid a white swan | [Thin vs fat tails](axes/thin-vs-fat-tails.md) and [Risk vs Knightian uncertainty](axes/risk-vs-knightian-uncertainty.md) |
+| Goodhart's law | Goodhart, 1975: a [pattern in the data](frameworks/1975-goodharts-law.md) that collapses once policy leans on it | Strathern, 1997: people game any target you set them | [Inert vs reflexive](axes/inert-vs-reflexive.md) for the first, [Direct vs proxy measure](axes/direct-vs-proxy-measure.md) for the second |
 | Infinite game | Carse, 1986: a [game](frameworks/1986-finite-and-infinite-games.md) played to keep play going, not to win | Sinek, 2019: thinking long term in business | [Curable vs chronic](axes/curable-vs-chronic.md) |
 
 ## The five groups
@@ -132,5 +133,5 @@ In 2025 [METR](https://arxiv.org/abs/2503.14499) scored its tasks for "messiness
 [Verifiable vs unverifiable](axes/verifiable-vs-unverifiable.md) came out strongest, as predicted, but didn't survive correction for testing 25 axes at once.
 
 > [!NOTE]
-> METR keeps most task text private so models aren't trained on it. So the test is far from giving any real confidence. We need to work with organisations like METR and EPOCH to run these analyses at scale to get confident in their predictive power.
+> METR keeps most task text private so models aren't trained on it. So the test is far from giving any real confidence. We need to work with organisations like METR and Epoch AI to run these analyses at scale to get confident in their predictive power.
 
