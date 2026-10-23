@@ -10,9 +10,7 @@ description: A shared vocabulary for the shape of a problem, built from a centur
 **A shared vocabulary for the shape of problems, so people and AI models
 can tell what kind of expert a task needs.**
 
-[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md)
-[![Axes](https://img.shields.io/badge/axes-47-blue?style=flat-square)](axes/index.md)
-[![Frameworks](https://img.shields.io/badge/frameworks-95-blue?style=flat-square)](frameworks/index.md)
+[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md) [![Axes](https://img.shields.io/badge/axes-47-blue?style=flat-square)](axes/index.md) [![Frameworks](https://img.shields.io/badge/frameworks-95-blue?style=flat-square)](frameworks/index.md)
 
 </div>
 
@@ -38,7 +36,7 @@ We've seen cardiologists trained to trust their gut on the procedure brought the
 
 ## Why the vocabulary needs pinning down
 
-Words are slippy and meaning can easily drift.
+Frameworks are slippy it's easy for their meaning to drift. This is particularly true when theres many axes bundled into a single concept. When a problem is defined by a bunch of "OR" things it _could_ be invites people to add to that definition over time. Because those observations and axis need a home, so it's natural people add them to concepts which _feel_ the same.
 
 | Term | First meant | Later stretched to | Axes it feeds |
 |---|---|---|---|
@@ -49,7 +47,7 @@ Words are slippy and meaning can easily drift.
 
 ## The five groups
 
-The groups follow Russell and Norvig's [task environment properties](frameworks/1995-task-environment-properties.md). An agent is anything that senses and acts, whether a person, a firm or a program.
+We've grouped the axis for sanity using Russell and Norvig's [task environment properties](frameworks/1995-task-environment-properties.md). These aren't strict boundaries but their categories is a really great start.
 
 | Group | The question it asks | Sets |
 |---|---|---|
@@ -59,16 +57,12 @@ The groups follow Russell and Norvig's [task environment properties](frameworks/
 | Performance | What counts as good, and what does a miss cost? | [Goal](axes/index.md#goal), [Stakes](axes/index.md#stakes) |
 | Agent | What does the task ask of whoever solves it? | [Know-how](axes/index.md#know-how), [Incentives](axes/index.md#incentives) |
 
-## How to tag a task
-
-[Before you tag a problem](axes/README.md#before-you-tag-a-problem) gives the full checks. The whole repo is plain Markdown in the [Open Knowledge Format](https://okf.md), so an AI agent can load it as a skill or a reference with no special tools.
-
 
 ## What's in the repo
 
 ```text
 README.md                    this page
-MOTIVATION.md                why the project exists, told through the cardiologists, Long-Term Capital Management and Situational Awareness
+MOTIVATION.md                why the project exists, we call it "problem blindness"
 index.md                     the Open Knowledge Format index of the whole project
 log.md                       big changes, newest first
 axes/
@@ -103,15 +97,8 @@ An idea that fails the second or third test goes in as a note on the axis that c
 
 ## Future projects
 
-In 2025 [METR](https://arxiv.org/abs/2503.14499) scored its tasks for "messiness", meaning how far each sits from a clean test. After allowing for task length, each point cut AI agents' mean success by about 8.1%. That is one crude axis, so we tried the full set on METR's public tasks.
+In 2025 [METR](https://arxiv.org/abs/2503.14499) scored its tasks for "messiness". They found each point cut AI agents' mean success by about 8.1%. That is a fantastic start at using these axis to quantify performance.
 
-| Data | What we found |
-|---|---|
-| 23 tasks from 11 families with full text | Our tagger matched METR's messiness result, at 8.5% per point against their 8.1% |
-| The rest, with a one or two sentence summary | Almost nothing, since a sentence is too little to tag from |
+We tried to benchmark out axis on the full set on METR's 23 public tasks. We found an suspiciously similar result of 8.5% per point against their 8.1%. However, this dataset is far too small to draw any meaningful conclusions beyond this feels like a meaningful avenue to continue. The aim is to roll this out on a larger set of benchmarks to conduct a more robust meta study.
 
-[Verifiable vs unverifiable](axes/verifiable-vs-unverifiable.md) came out strongest, as predicted, but didn't survive correction for testing 25 axes at once.
-
-> [!NOTE]
-> METR keeps most task text private so models aren't trained on it. So the test is far from giving any real confidence. We need to work with organisations like METR and Epoch AI to run these analyses at scale to get confident in their predictive power.
 
