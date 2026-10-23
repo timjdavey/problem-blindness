@@ -40,7 +40,7 @@ All their experience in the operating room reinforces the habit of trusting thei
 
 What's happening is that two very distinct types of problem are being treated as the same. First there's the diagnosis, deciding what to do. Second there's the physical act of the procedure.
 
-Viewed through a systems lens, there are two very distinct _types of problems_, requiring very different _sorts of thinking, which were treated as the same.
+Viewed through a systems lens, there are two very distinct _types of problems_, requiring very different _sorts of thinking_, which were treated as the same.
 
 
 ## Fat tails

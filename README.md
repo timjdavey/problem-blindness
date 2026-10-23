@@ -40,7 +40,7 @@ can tell what kind of expert a task needs.**
 
 ## What is this?
 
-[We've seen](MOTIVATION.md) experts and AI models tend to get good at one kind of problem then bring those tools to all problems they encounter. There's no one right method for every problem ([no free lunch](frameworks/1997-no-free-lunch.md)), so the first job is for us to breakdown what ways problems can differ. Then we can start to map what works for what problems. Economists, planners, psychologists and computer scientists have all come up with various frameworks for spotting differences based on their industry. But each in their own words and with no map.
+[We've seen](MOTIVATION.md) experts and AI models tend to get good at one kind of problem then bring those tools to all problems they encounter. There's no one right method for every problem ([no free lunch](frameworks/1997-no-free-lunch.md)), so the first job is for us to break down what ways problems can differ. Then we can start to map what works for what problems. Economists, planners, psychologists and computer scientists have all come up with various frameworks for spotting differences based on their industry. But each in their own words and with no map.
 
 This repo is an attempt to tease out the traits which underpin those frameworks. So we can build a joint consistent vocabulary.
 
@@ -54,11 +54,11 @@ Treating a heart attack is two problems in one task.
 | [Verifiable vs unverifiable](axes/verifiable-vs-unverifiable.md) | **Verifiable.** The scan shows whether blood flows | **Unverifiable.** You can't check whether this patient would have lived without it |
 | [Explicit vs tacit know-how](axes/explicit-vs-tacit-know-how.md) | **Tacit.** The skill lives in trained hands | **Explicit.** Trial data and risk scores can be written down |
 
-We've seen Xardiologists trained to trust their gut on the procedure brought the same gut to the decision, and their patients did worse for it. The [motivation](MOTIVATION.md#problem-blindness) tells the full story.
+We've seen cardiologists trained to trust their gut on the procedure brought the same gut to the decision, and their patients did worse for it. The [motivation](MOTIVATION.md#problem-blindness) tells the full story.
 
-## Why the vocubulary need pinning down
+## Why the vocabulary needs pinning down
 
-Words a slippy and meaning can easily drift.
+Words are slippy and meaning can easily drift.
 
 | Term | First meant | Later stretched to | Axes it feeds |
 |---|---|---|---|
@@ -132,5 +132,5 @@ In 2025 [METR](https://arxiv.org/abs/2503.14499) scored its tasks for "messiness
 [Verifiable vs unverifiable](axes/verifiable-vs-unverifiable.md) came out strongest, as predicted, but didn't survive correction for testing 25 axes at once.
 
 > [!NOTE]
-> METR keeps most task text private so models aren't trained on it. So the test is far from giving any real confidence. We need to do work with organisations like METR and EPOCH run these analysis at scale to get confident in their predictive power.
+> METR keeps most task text private so models aren't trained on it. So the test is far from giving any real confidence. We need to work with organisations like METR and EPOCH to run these analyses at scale to get confident in their predictive power.
 
