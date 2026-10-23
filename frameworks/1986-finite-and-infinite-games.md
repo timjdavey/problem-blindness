@@ -7,21 +7,53 @@ date: 1986
 creators:
   - James P. Carse
 sources:
+  - resource: https://books.google.com/books/about/Finite_and_Infinite_Games.html?id=QOgKAQAAMAAJ
+    title: Finite and infinite games
   - resource: https://en.wikipedia.org/wiki/Finite_and_Infinite_Games
+    title: Finite and Infinite Games (Wikipedia)
+  - resource: https://en.wikipedia.org/wiki/The_Infinite_Game
+    title: The Infinite Game (Wikipedia)
 ---
-
 # Finite and infinite games
+
+**A finite game is played to win. An infinite game is played to keep the play going, so it has no winner and no end.**
+
+1986 · James P. Carse · [Original book](https://books.google.com/books/about/Finite_and_Infinite_Games.html?id=QOgKAQAAMAAJ) · Feeds 1 axis
+
+## The idea
 
 James Carse taught religion at New York University. In 1986 he published a short book that opens: "There are at least two kinds of games. One could be called finite, the other infinite. A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play." A football match is finite. It has a whistle, a score and a winner. Raising a child, keeping a city safe or running a hospital is infinite. There is no whistle, and nobody gets to say it is won.
 
 Carse's finite game bundles two traits. It ends, and it can be won. This project splits them, since a crash landing ends quickly and still can't be won, while a farm can have a good harvest every year and never finish. Simon Sinek's book *The Infinite Game* (2019) borrowed the term for business, where it now mostly means thinking long term. That is a looser idea than Carse's, so check which one someone means.
 
-The trait this sorts on is whether there is a point where the play stops and the result is settled. The mistake is to play an infinite game as if it were finite. You set a target, hit it, declare victory and move the people and money elsewhere. The problem then grows back, often worse than before. The better response is to measure the level you keep up over time, not a single win, and to fund the work as something that never stops.
+The trait this sorts on is whether there is a point where the play stops and the result is settled.
 
-This framework feeds the [Curable vs chronic](../axes/curable-vs-chronic.md) axis.
+## What goes wrong
+
+The mistake is to play an infinite game as if it were finite. You set a target, hit it, declare victory and move the people and money elsewhere. The problem then grows back, often worse than before.
+
+## What to do instead
+
+The better response is to measure the level you keep up over time, not a single win, and to fund the work as something that never stops.
 
 ## Examples
 
-**Painting the Forth Bridge.** The Forth Bridge in Scotland opened in 1890. For decades a team of painters worked their way along it, and "like painting the Forth Bridge" became a British saying for a job that never ends. From 2002 to 2011 Network Rail spent about £130 million stripping it to bare metal and coating it in a paint designed to last about 25 years. That didn't make the problem finite. It made each round of work last longer, which is often the best you can do with an ongoing problem.
+### Painting the Forth Bridge
 
-**Mission Accomplished.** On 1 May 2003 George W. Bush stood on an aircraft carrier under a banner reading "Mission Accomplished" and said major combat in Iraq had ended. The invasion was a finite game, and it had been won. Keeping Iraq stable was an infinite one. About 140 American troops had died by that day. More than 4,000 died after it.
+The Forth Bridge in Scotland opened in 1890. For decades a team of painters worked their way along it, and "like painting the Forth Bridge" became a British saying for a job that never ends. From 2002 to 2011 Network Rail spent about £130 million stripping it to bare metal and coating it in a paint designed to last about 25 years. That didn't make the problem finite. It made each round of work last longer, which is often the best you can do with an ongoing problem.
+
+### Mission Accomplished
+
+On 1 May 2003 George W. Bush stood on an aircraft carrier under a banner reading "Mission Accomplished" and said major combat in Iraq had ended. The invasion was a finite game, and it had been won. Keeping Iraq stable was an infinite one. About 140 American troops had died by that day. More than 4,000 died after it.
+
+## Axes
+
+| Axis | Group | What this framework adds |
+|---|---|---|
+| [Curable vs chronic](../axes/curable-vs-chronic.md) | Performance › Goal | An infinite game has no point where the play stops and the result is settled |
+
+## Further reading
+
+- [Finite and infinite games](https://books.google.com/books/about/Finite_and_Infinite_Games.html?id=QOgKAQAAMAAJ), James P. Carse, Free Press, 1986. The original book.
+- [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games) on Wikipedia.
+- [The Infinite Game](https://en.wikipedia.org/wiki/The_Infinite_Game) on Wikipedia, on Simon Sinek's 2019 book that took Carse's terms into business.

@@ -8,22 +8,59 @@ creators:
   - Jens Rasmussen
 sources:
   - resource: https://doi.org/10.1109/TSMC.1983.6313160
+    title: Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models
+  - resource: https://doi.org/10.1017/CBO9781139062367
+    title: Human error
+  - resource: https://en.wikipedia.org/wiki/Jens_Rasmussen_%28human_factors_expert%29
+    title: Jens Rasmussen (Wikipedia)
+  - resource: https://doi.org/10.1016/S0925-7535%2897%2900052-0
+    title: "Risk management in a dynamic society: a modelling problem"
 ---
-
 # Skill, rule and knowledge-based behaviour
+
+**Familiar tasks run on trained skill. Known situations run on rules. New situations need slow reasoning from first principles.**
+
+1983 · Jens Rasmussen · [Original paper](https://doi.org/10.1109/TSMC.1983.6313160) · Feeds 3 axes
+
+## The idea
 
 People run tasks at three levels of effort. When a task is well practised, like tying your shoes, your body does it without thought. The Danish engineer Jens Rasmussen called this skill-based behaviour. When a situation is familiar but not automatic, you match it to a stored rule of the form "if this, then do that". This is rule-based behaviour. When nothing you know fits, you have to build a picture of how the system works and reason your way to an answer. That is knowledge-based behaviour, and it is slow and tiring.
 
 The trait this sorts on is how familiar the situation is. Rasmussen studied control room operators at the Risø laboratory. The British psychologist James Reason later built on his three levels and showed that each one fails in its own way. Skill fails through slips, like your hand doing the usual thing at an unusual moment. Rules fail when a situation looks like a known one but isn't, so a good rule gets used in the wrong place. Reasoning fails because people working from scratch are slow, miss facts and stop too early.
 
-The worst errors come from a mismatch. A new situation that looks familiar gets handled by rule, and the rule makes it worse. Since the rule worked last time, nobody stops to check whether this really is last time. The better response is to build in moments that force a check, like a pause when a familiar rule isn't working, so people step up to reasoning when a case is new.
+## What goes wrong
 
-This framework feeds the [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md), [Familiar vs novel to the solver](../axes/familiar-vs-novel-to-the-solver.md) and [Ample time vs time pressure](../axes/ample-time-vs-time-pressure.md) axes.
+The worst errors come from a mismatch. A new situation that looks familiar gets handled by rule, and the rule makes it worse. Since the rule worked last time, nobody stops to check whether this really is last time.
+
+## What to do instead
+
+The better response is to build in moments that force a check, like a pause when a familiar rule isn't working, so people step up to reasoning when a case is new.
 
 ## Examples
 
-**Driving to the old office.** You change jobs, and on the first Monday you drive to the old office without thinking. The route was a skill, and nothing in the moment pushed you up a level to notice that things had changed. Many everyday slips are like this.
+### Driving to the old office
 
-**Three Mile Island.** On 28 March 1979 a relief valve at the Pennsylvania nuclear plant stuck open and coolant leaked out. Operators saw the water level in the pressuriser rising. Their training said never to let it fill up, so they cut back the emergency cooling. The rule was sound for the cases it was written for. This case needed someone to reason from the physics, and part of the core melted before anyone did.
+You change jobs, and on the first Monday you drive to the old office without thinking. The route was a skill, and nothing in the moment pushed you up a level to notice that things had changed. Many everyday slips are like this.
 
-**The Hudson landing.** On 15 January 2009 US Airways Flight 1549 hit a flock of geese after leaving LaGuardia and lost both engines. The checklist for losing both engines assumed a jet at cruising height with time to spare. At under 3,000 feet there was none. Jeffrey Skiles ran what he could of the checklist while Chesley Sullenberger reasoned that they couldn't reach a runway. He put the plane down on the Hudson River and all 155 people on board survived.
+### Three Mile Island
+
+On 28 March 1979 a relief valve at the Pennsylvania nuclear plant stuck open and coolant leaked out. Operators saw the water level in the pressuriser rising. Their training said never to let it fill up, so they cut back the emergency cooling. The rule was sound for the cases it was written for. This case needed someone to reason from the physics, and part of the core melted before anyone did.
+
+### The Hudson landing
+
+On 15 January 2009 US Airways Flight 1549 hit a flock of geese after leaving LaGuardia and lost both engines. The checklist for losing both engines assumed a jet at cruising height with time to spare. At under 3,000 feet there was none. Jeffrey Skiles ran what he could of the checklist while Chesley Sullenberger reasoned that they couldn't reach a runway. He put the plane down on the Hudson River and all 155 people on board survived.
+
+## Axes
+
+| Axis | Group | What this framework adds |
+|---|---|---|
+| [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md) | Agent › Know-how | Trained skill runs without thought, while a new case forces slow reasoning from an explicit model |
+| [Familiar vs novel to the solver](../axes/familiar-vs-novel-to-the-solver.md) | Agent › Know-how | How familiar the situation is decides whether skill, rules or reasoning take over |
+| [Ample time vs time pressure](../axes/ample-time-vs-time-pressure.md) | Actions › Control | Reasoning from scratch is slow, so it struggles when there is no time to spare |
+
+## Further reading
+
+- [Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models](https://doi.org/10.1109/TSMC.1983.6313160), Jens Rasmussen, *IEEE Transactions on Systems, Man, and Cybernetics*, 1983. The original paper.
+- [Human error](https://doi.org/10.1017/CBO9781139062367), James Reason, Cambridge University Press, 1990. The book that built Rasmussen's three levels into a map of slips, rule errors and reasoning errors.
+- [Jens Rasmussen](https://en.wikipedia.org/wiki/Jens_Rasmussen_%28human_factors_expert%29) on Wikipedia, which covers the skill, rule and knowledge framework among his other work.
+- [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535%2897%2900052-0), Jens Rasmussen, *Safety Science*, 1997. His later paper on how whole organisations drift towards accidents.

@@ -123,7 +123,7 @@ axes/
 ├── index.md                 every axis by group, with both ends in one line
 └── thin-vs-fat-tails.md     one file per axis, 47 in all
 frameworks/
-├── README.md                what the frameworks share and how they feed the axes
+├── README.md                what the frameworks share and what's on a framework page
 ├── index.md                 every framework by date, oldest first
 └── 1921-risk-vs-uncertainty.md   one file per framework, 95 in all
 ```
@@ -134,7 +134,7 @@ This will never be finished. If you spot a missing framework, a wrong link or a 
 
 | Adding | File | Front matter | Then |
 |---|---|---|---|
-| A framework | `frameworks/1973-tame-vs-wicked-problems.md` | `type: Framework`, `title`, `description`, `date`, `creators`, `sources` | Add it to the [frameworks index](frameworks/index.md) |
+| A framework | `frameworks/1973-tame-vs-wicked-problems.md` | `type: Framework`, `title`, `description`, `date`, `creators`, `sources` (3 or more, each with a `title`) | Follow the [page layout](frameworks/README.md#whats-on-a-framework-page), then add it to the [frameworks index](frameworks/index.md) |
 | An axis | `axes/thin-vs-fat-tails.md` | `type: Axis`, `title`, `description` (each end in one line), `group`, `subgroup`, `easy_end`, `hard_end`, `sources` | Add it to the [axes index](axes/index.md) under its set, and link the axes it moves with |
 
 Each end label must make sense on its own, so write "Fat tails" rather than "Fat" ([Naming rules](axes/README.md#naming-rules)). Each action must cite a source, so an action nothing backs doesn't go in.
