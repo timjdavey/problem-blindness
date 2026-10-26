@@ -43,7 +43,7 @@ Can you split the problem into parts, solve each one on its own and put them bac
 
 ## Correlated with
 
-- [Smooth vs rugged](smooth-vs-rugged.md) (study). Kauffman's NK model ([Rugged fitness landscapes](../frameworks/1987-rugged-fitness-landscapes.md)) makes the land rugged by linking the parts.
+- [Forgiving vs exacting](forgiving-vs-exacting.md) (study). Kauffman's NK model ([Rugged fitness landscapes](../frameworks/1987-rugged-fitness-landscapes.md)) makes the land rugged by linking the parts.
 - [Transparent vs opaque causes](transparent-vs-opaque-causes.md) (bundled). [Organised complexity](../frameworks/1948-simplicity-disorganised-and-organised-complexity.md), [Normal accidents](../frameworks/1984-normal-accidents.md), [Cynefin](../frameworks/1999-cynefin.md) and Glouberman and Zimmerman's [complex problems](../frameworks/2002-simple-complicated-and-complex.md) all say tangled parts hide causes.
 - [Single objective vs trade-offs](single-objective-vs-trade-offs.md) (bundled). In Ackoff's [messes](../frameworks/1974-messes.md) a gain in one part turns up as a loss in another.
 - [Well vs ill-structured](well-vs-ill-structured.md) (bundled). [Rittel and Webber](../frameworks/1973-tame-vs-wicked-problems.md) call each wicked problem a symptom of another, and [Jonassen](../frameworks/2000-problem-typology.md) ranks problems on structure and complexity together.

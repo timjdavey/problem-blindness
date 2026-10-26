@@ -59,9 +59,9 @@
 * [Reductionist vs holistic](reductionist-vs-holistic.md)
   * **Reductionist problem**: you can solve each part on its own and put them back together (e.g. a car engine).
   * **Holistic problem**: each part only makes sense in light of the others (e.g. a company culture).
-* [Smooth vs rugged](smooth-vs-rugged.md)
-  * **Smooth landscape**: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup).
-  * **Rugged landscape**: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code).
+* [Forgiving vs exacting](forgiving-vs-exacting.md)
+  * **Forgiving landscape**: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup).
+  * **Exacting landscape**: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code).
 * [Tractable vs intractable search](tractable-vs-intractable-search.md)
   * **Tractable search**: you know every option and there are few enough to check them all (e.g. noughts and crosses).
   * **Intractable search**: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions).

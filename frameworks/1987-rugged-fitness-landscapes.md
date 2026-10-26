@@ -52,7 +52,7 @@ Michael Porter told this story in his 1996 essay "What is strategy?". In October
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Smooth vs rugged](../axes/smooth-vs-rugged.md) | Environment › Structure | When the parts interact the land fills with small peaks, so small steps stall on the nearest one |
+| [Forgiving vs exacting](../axes/forgiving-vs-exacting.md) | Environment › Structure | When the parts interact the land fills with small peaks, so small steps stall on the nearest one |
 
 ## Further reading
 
