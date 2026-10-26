@@ -44,7 +44,7 @@ Do you have time to gather facts and think before things change, or must you act
 
 ## Correlated with
 
-- [Loose vs tight coupling](loose-vs-tight-coupling.md) (logic). Perrow's slack is a buffer in the process, while this axis is about time to decide, but the two meet. When a tight system fails it hands you a decision with no time ([Normal accidents](../frameworks/1984-normal-accidents.md)).
+- [Buffered vs cascading](buffered-vs-cascading.md) (logic). Perrow's slack is a buffer in the process, while this axis is about time to decide, but the two meet. When a tight system fails it hands you a decision with no time ([Normal accidents](../frameworks/1984-normal-accidents.md)).
 - [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md) (study). Hammond's [cognitive continuum](../frameworks/1987-cognitive-continuum.md) puts tasks with little time at the intuitive end, and Klein's fire lieutenant got out on a gut call ([Conditions for intuitive expertise](../frameworks/2009-conditions-for-intuitive-expertise.md)).
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). With no time to search, you have to settle for good enough. Klein's fire commanders took the first plan that would work rather than compare options ([Satisficing](../frameworks/1956-satisficing.md)).
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (tension). A search too big to finish, done against the clock, is the worst case.

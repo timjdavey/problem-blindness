@@ -50,7 +50,7 @@ On 6 May 2010 US share indices were already down more than 4% for the day. Then 
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Loose vs tight coupling](../axes/loose-vs-tight-coupling.md) | Environment › Stimulus | With no slack, one failure sets off the next within minutes |
+| [Buffered vs cascading](../axes/buffered-vs-cascading.md) | Environment › Stimulus | With no slack, one failure sets off the next within minutes |
 | [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) | Information › Evidence | In a complex system parts affect each other in ways the operators can't see |
 | [Self-righting vs tipping](../axes/self-righting-vs-tipping.md) | Environment › Stimulus | Small faults combine and spread until the whole system fails |
 

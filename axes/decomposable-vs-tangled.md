@@ -47,7 +47,7 @@ Can you split the problem into parts, solve each one on its own and put them bac
 - [Single objective vs trade-offs](single-objective-vs-trade-offs.md) (bundled). In Ackoff's [messes](../frameworks/1974-messes.md) a gain in one part turns up as a loss in another.
 - [Well vs ill-structured](well-vs-ill-structured.md) (bundled). [Rittel and Webber](../frameworks/1973-tame-vs-wicked-problems.md) call each wicked problem a symptom of another, and [Jonassen](../frameworks/2000-problem-typology.md) ranks problems on structure and complexity together.
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (logic). A problem that splits into parts can be solved one small unit at a time, like Simon's [watchmakers](../frameworks/1962-near-decomposability.md).
-- [Loose vs tight coupling](loose-vs-tight-coupling.md) (independent). Perrow keeps tangled parts and lack of slack apart in [Normal accidents](../frameworks/1984-normal-accidents.md). A university is tangled but loose, and a dam is tight but simple.
+- [Buffered vs cascading](buffered-vs-cascading.md) (independent). Perrow keeps tangled parts and lack of slack apart in [Normal accidents](../frameworks/1984-normal-accidents.md). A university is tangled but loose, and a dam is tight but simple.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (bundled). In Ackoff's [messes](../frameworks/1974-messes.md) the fix for one department becomes the next department's problem, so nobody holds the levers for the whole.
 
 ## Citations

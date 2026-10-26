@@ -50,7 +50,7 @@ Toyota runs on just-in-time, so it keeps very little stock. In 1997 about 99% of
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Loose vs tight coupling](../axes/loose-vs-tight-coupling.md) | Environment › Stimulus | Loose links seal a failure off and let parts adapt, but make the whole hard to steer |
+| [Buffered vs cascading](../axes/buffered-vs-cascading.md) | Environment › Stimulus | Loose links seal a failure off and let parts adapt, but make the whole hard to steer |
 
 ## Further reading
 

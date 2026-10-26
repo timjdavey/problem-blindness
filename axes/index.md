@@ -41,9 +41,9 @@
   * **Antifragile**: each stress leaves the system stronger than before, up to a point (e.g. a muscle after a workout).
   * **Robust** (the middle): stress leaves the system the same (e.g. a computer program, which is the same after a billion runs).
   * **Wears out**: each stress uses up some of the system's life, until it fails (e.g. metal fatigue in an aircraft).
-* [Loose vs tight coupling](loose-vs-tight-coupling.md)
-  * **Loose coupling**: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest).
-  * **Tight coupling**: a fault spreads to other parts before anyone can react (e.g. a power grid).
+* [Buffered vs cascading](buffered-vs-cascading.md)
+  * **Buffered system**: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest).
+  * **Cascading system**: a fault spreads to other parts before anyone can react (e.g. a power grid).
 
 ## Reactivity
 

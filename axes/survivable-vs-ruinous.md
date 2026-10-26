@@ -36,7 +36,7 @@ Could one bad outcome take you out of the game for good, so that good odds over 
 
 - [Thin vs fat tails](thin-vs-fat-tails.md) (bundled). The [Fourth quadrant](../frameworks/2008-fourth-quadrant.md) and [Ergodicity](../frameworks/2016-ergodicity.md) both warn that one extreme loss can end the game.
 - [Reversible vs irreversible](reversible-vs-irreversible.md) (by definition). Ruin is the worst kind of choice you can't undo.
-- [Loose vs tight coupling](loose-vs-tight-coupling.md) (study). Tight systems let small faults cascade into a meltdown ([Normal accidents](../frameworks/1984-normal-accidents.md)).
+- [Buffered vs cascading](buffered-vs-cascading.md) (study). Systems with no buffers let small faults cascade into a meltdown ([Normal accidents](../frameworks/1984-normal-accidents.md)).
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). You can't learn from your own ruin, because it only happens once.
 - [Additive vs multiplicative returns](additive-vs-multiplicative-returns.md) (by definition). Ruin is the extreme case, since a ruined player gets nothing over time whatever the crowd's average says. But the gap can open without ruin. Peters' coin game never wipes anyone out. It just makes the typical player a little poorer each round ([Ergodicity](../frameworks/2016-ergodicity.md)).
 - [Even vs lopsided mistakes](even-vs-lopsided-mistakes.md) (logic). When one kind of mistake can ruin you and the other can't, the costs are as lopsided as they get.
