@@ -57,7 +57,7 @@ At the far end sit systems with a tipping point. A shallow lake fed more and mor
 - [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (logic). A system with two stable states sends runs that start close together to different places, so the average of the runs describes neither.
 - [Clustered vs scattered runs](clustered-vs-scattered-runs.md) (logic). A tipping system has a few stable states, so its runs fall into a few clear groups.
 - [Loose vs tight coupling](loose-vs-tight-coupling.md) (logic). A cascade in a tight system is a tip that spreads from one part to the next.
-- [Stationary vs drifting](stationary-vs-drifting.md) (independent). In drift the rules slowly change. In a tip the rules stay fixed and the state jumps. Slang drifts with no tipping point, and the lake tips while the chemistry stays the same.
+- [Durable vs perishable lessons](durable-vs-perishable-lessons.md) (independent). In drift the rules slowly change. In a tip the rules stay fixed and the state jumps. Slang drifts with no tipping point, and the lake tips while the chemistry stays the same.
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (logic). A tip you can't climb back from is ruin for whoever depends on the old state.
 - [Antifragile vs wears out](antifragile-vs-wears-out.md) (independent). This axis asks where the system settles after one push. That one asks how the system itself has changed after many. A bridge rights itself after every lorry and still wears out.
 

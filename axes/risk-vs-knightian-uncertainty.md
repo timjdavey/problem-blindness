@@ -50,7 +50,7 @@ Can you put a number you trust on how likely each outcome is, or do you only kno
 ## Correlated with
 
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). [Knight](../frameworks/1921-risk-vs-uncertainty.md)'s known odds come from a long record of similar cases.
-- [Stationary vs drifting](stationary-vs-drifting.md) (logic). Knight's uncertainty starts where the future may not look like the past.
+- [Durable vs perishable lessons](durable-vs-perishable-lessons.md) (logic). Knight's uncertainty starts where the future may not look like the past.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). Tail odds can't be read off a calm past ([Mediocristan vs Extremistan](../frameworks/2007-mediocristan-vs-extremistan.md)).
 - [Shared vs contested values](shared-vs-contested-values.md) (bundled). [Deep uncertainty](../frameworks/2003-deep-uncertainty.md) and [Post-normal science](../frameworks/1993-post-normal-science.md) put unknown odds and disputed values in one box. [Stirling](../frameworks/2007-incertitude-matrix.md) and [Thompson and Tuden](../frameworks/1959-decision-strategies-matrix.md) keep them apart, so they go together in practice but not by definition.
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (independent). These two get mixed up more than any other pair. Risk vs Knightian uncertainty asks whether you can put a number on your doubt. Reducible asks whether more data would shrink it. A coin toss has known odds and doubt you can't shrink. A new drug has unknown odds and doubt you can shrink, because you can run a trial. Doubt that comes from pure chance is called aleatory, and doubt that comes from missing knowledge is called epistemic.

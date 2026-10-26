@@ -24,9 +24,9 @@
 * [Stable vs chaotic](stable-vs-chaotic.md)
   * **Lyapunov stable**: small errors in what you know today stay small, so you can forecast far ahead (e.g. the tides).
   * **Chaotic**: tiny errors grow fast, so a forecast soon becomes useless (e.g. the weather two weeks out).
-* [Stationary vs drifting](stationary-vs-drifting.md)
-  * **Stationary**: the patterns in past data still hold today (e.g. gravity).
-  * **Drifting**: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang).
+* [Durable vs perishable lessons](durable-vs-perishable-lessons.md)
+  * **Durable lessons**: the patterns in past data still hold today, so what you learnt keeps working (e.g. gravity).
+  * **Perishable lessons**: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang).
 * [Static vs dynamic](static-vs-dynamic.md)
   * **Static world**: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword).
   * **Dynamic world**: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).

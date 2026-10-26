@@ -57,7 +57,7 @@ Philip Tetlock tracked thousands of forecasts by hundreds of experts on politics
 |---|---|---|
 | [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md) | Agent › Know-how | Expert intuition is pattern matching the expert often can't put into words |
 | [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md) | Information › Evidence | Intuition can only be learned through long practice with quick, clear feedback |
-| [Stationary vs drifting](../axes/stationary-vs-drifting.md) | Environment › Change | The setting must be regular enough to learn, with real cues that predict what will happen |
+| [Durable vs perishable lessons](../axes/durable-vs-perishable-lessons.md) | Environment › Change | The setting must be regular enough to learn, with real cues that predict what will happen |
 
 ## Further reading
 

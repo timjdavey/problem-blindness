@@ -37,7 +37,7 @@ Wicked is a bundle, not one trait. In the 2015 paper the three authors split lea
 - The grade is noisy, so luck passes for skill ([Deterministic vs stochastic](../axes/deterministic-vs-stochastic.md)).
 - You only see how your own choices turned out, never the road not taken ([Interventional vs observational](../axes/interventional-vs-observational.md)).
 - Your own action causes the result you take as proof ([Inert vs reflexive](../axes/inert-vs-reflexive.md)).
-- Practice doesn't look like the real task ([Stationary vs drifting](../axes/stationary-vs-drifting.md)).
+- Practice doesn't look like the real task ([Durable vs perishable lessons](../axes/durable-vs-perishable-lessons.md)).
 
 ## What goes wrong
 
@@ -68,7 +68,7 @@ A manager who has hired for years trusts their instinct about candidates. But th
 | [Deterministic vs stochastic](../axes/deterministic-vs-stochastic.md) | Environment › Randomness | A noisy grade lets luck pass for skill |
 | [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md) | Information › Evidence | Quick feedback is the heart of a kind environment, and a grade that comes late or never makes it wicked |
 | [Inert vs reflexive](../axes/inert-vs-reflexive.md) | Environment › Reactivity | Your own action can cause the result you take as proof, like the typhoid doctor's |
-| [Stationary vs drifting](../axes/stationary-vs-drifting.md) | Environment › Change | The setting where you learn doesn't match the one where you use what you learnt |
+| [Durable vs perishable lessons](../axes/durable-vs-perishable-lessons.md) | Environment › Change | The setting where you learn doesn't match the one where you use what you learnt |
 | [Interventional vs observational](../axes/interventional-vs-observational.md) | Information › Evidence | You only see how your own choices turned out, never the road not taken |
 
 ## Further reading
