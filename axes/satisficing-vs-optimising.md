@@ -34,7 +34,7 @@ Will any answer that clears the bar do, or does each extra bit of quality still 
 
 ## Correlated with
 
-- [Forgiving vs exacting](forgiving-vs-exacting.md) and [Tractable vs intractable search](tractable-vs-intractable-search.md) (tension). Needing the best answer when the land is rugged or the search is too big is the hardest case. Small steps stop on the nearest peak, and the [NP problems](../frameworks/1971-np-problems.md) note advises settling for a good answer.
+- [Forgiving vs exacting](forgiving-vs-exacting.md) and [Tractable vs intractable options](tractable-vs-intractable-options.md) (tension). Needing the best answer when the land is rugged or the search is too big is the hardest case. Small steps stop on the nearest peak, and the [NP problems](../frameworks/1971-np-problems.md) note advises settling for a good answer.
 - [Ample time vs time pressure](ample-time-vs-time-pressure.md) (tension). Needing the best answer with no time to look for it is a clash. Simon's point was that limited time and attention push people to good enough, and Klein's fire commanders took the first plan that would work rather than compare options ([Satisficing](../frameworks/1956-satisficing.md)).
 - [Single objective vs trade-offs](single-objective-vs-trade-offs.md) (opposite). Simon's own model of satisficing works this way. In 1955 he proposed that people with several goals set a floor on each and take the first option that clears them all ([A behavioral model of rational choice](https://doi.org/10.2307/1884852)).
 - [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (tension). You can't claim you found the best answer if you can't check it.

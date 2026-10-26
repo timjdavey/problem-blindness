@@ -62,9 +62,9 @@
 * [Forgiving vs exacting](forgiving-vs-exacting.md)
   * **Forgiving landscape**: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup).
   * **Exacting landscape**: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code).
-* [Tractable vs intractable search](tractable-vs-intractable-search.md)
-  * **Tractable search**: you know every option and there are few enough to check them all (e.g. noughts and crosses).
-  * **Intractable search**: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions).
+* [Tractable vs intractable options](tractable-vs-intractable-options.md)
+  * **Tractable options**: you know every option, and there are few enough to try each one and keep the best (e.g. noughts and crosses).
+  * **Intractable options**: you know every option, but there are too many to try, even with every computer on earth (e.g. Go, with about 10¹⁷⁰ legal board positions).
 
 # Information
 
@@ -76,9 +76,9 @@
 * [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md)
   * **Reducible uncertainty**: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test).
   * **Irreducible uncertainty**: no test or research could settle it, because the answer isn't out there yet to find (e.g. whether a rival cuts prices next year).
-* [Closed vs open outcomes](closed-vs-open-outcomes.md)
-  * **Closed outcomes**: a fixed procedure generates every way things might turn out, so you can compute or sample the outcomes before you choose, even when there are too many to list (e.g. a lottery ticket).
-  * **Open outcomes**: you can't list everything that might happen, so the result could be something nobody thought of (e.g. a new product hit by a change in the law).
+* [Known vs unknown unknowns](known-vs-unknown-unknowns.md)
+  * **Known unknowns**: you don't know which outcome will come, but you know every one that could, however many there are (e.g. a lottery ticket).
+  * **Unknown unknowns**: things can turn out in ways nobody could have listed in advance, so the result could be something nobody thought of (e.g. a new product hit by a change in the law).
 
 ## Evidence
 

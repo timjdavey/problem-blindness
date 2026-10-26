@@ -50,7 +50,7 @@ The same gap can open between practice and the real task. Robin Hogarth, Tomás 
 - [Risk vs Knightian uncertainty](risk-vs-knightian-uncertainty.md) (logic). [Knight](../frameworks/1921-risk-vs-uncertainty.md)'s uncertainty starts where the future may not look like the past.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). Drift makes old data stale, so a big record can still leave you short of cases that still apply.
 - [Familiar vs novel to the solver](familiar-vs-novel-to-the-solver.md) (logic). A drifting world keeps serving up cases nobody has seen.
-- [Closed vs open outcomes](closed-vs-open-outcomes.md) (logic). A drifting world keeps adding states nobody listed.
+- [Known vs unknown unknowns](known-vs-unknown-unknowns.md) (logic). A drifting world keeps adding states nobody listed.
 - [General vs local knowledge](general-vs-local-knowledge.md) (logic). Hayek's point was that local circumstances change every day ([Use of knowledge in society](../frameworks/1945-use-of-knowledge-in-society.md)).
 - [Stable vs chaotic](stable-vs-chaotic.md) (independent). Both make forecasts go bad with time, so they get mixed up. Chaos means small errors grow while the rules stay fixed. Drift means the rules themselves change. Weather is chaotic, yet the physics behind it never moves. Slang drifts, but nothing about it is chaotic.
 - [Curable vs chronic](curable-vs-chronic.md) (logic). A drifting world is one reason a problem never ends, since every answer goes stale. But weeds grow back in a garden where nothing has changed.

@@ -55,7 +55,7 @@ A driver with 10 drops can visit them in 3,628,800 different orders. With 20 dro
 | Axis | Group | What this framework adds |
 |---|---|---|
 | [Verifiable vs unverifiable](../axes/verifiable-vs-unverifiable.md) | Information › Evidence | An answer that takes ages to find can still be checked fast, like a finished sudoku |
-| [Tractable vs intractable search](../axes/tractable-vs-intractable-search.md) | Environment › Structure | For NP-complete problems the search blows up as the problem grows, so the best answer is out of reach |
+| [Tractable vs intractable options](../axes/tractable-vs-intractable-options.md) | Environment › Structure | For NP-complete problems the search blows up as the problem grows, so the best answer is out of reach |
 
 ## Further reading
 

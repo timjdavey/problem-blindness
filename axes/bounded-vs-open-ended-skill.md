@@ -46,7 +46,7 @@ The axis matters most when you test a solver. On a bounded skill a test can cove
 - [Direct vs proxy measure](direct-vs-proxy-measure.md) (logic). A test of the bounded part, used to judge the open-ended whole, is a proxy measure. Teachers then drill the part the test covers, and Paris found that drilling letters gives a quick gain that fades ([Constrained vs unconstrained skills](../frameworks/2005-constrained-vs-unconstrained-skills.md)). The two axes still differ. A chess rating is a direct measure of an open-ended skill.
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (independent). This axis asks whether the skill has a ceiling. That one asks whether the payoff does. A thank you note only needs to be warm, though writing well has no ceiling. Setting the dose of a strong drug is worth every extra bit of care, yet the sums behind it are a bounded skill.
 - [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (logic). Bounded skills tend to come with an answer key, since the whole set is known. An open-ended skill often has no key, so checking an answer takes another expert.
-- [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). Knowing how the pieces move in chess is bounded and playing chess well is open-ended, in one and the same game. An open-ended skill needn't involve a search at all. Research taste has no ceiling and no list of options to check.
+- [Tractable vs intractable options](tractable-vs-intractable-options.md) (independent). Knowing how the pieces move in chess is bounded and playing chess well is open-ended, in one and the same game. An open-ended skill needn't involve a search at all. Research taste has no ceiling and no list of options to check.
 
 ## Citations
 
