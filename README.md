@@ -10,7 +10,7 @@ description: A shared vocabulary for the shape of a problem, built from a centur
 **A shared vocabulary for the shape of problems, so people and AI models
 can tell what kind of expert a task needs.**
 
-[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md) [![Axes](https://img.shields.io/badge/axes-47-blue?style=flat-square)](axes/index.md) [![Frameworks](https://img.shields.io/badge/frameworks-95-blue?style=flat-square)](frameworks/index.md)
+[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md) [![Axes](https://img.shields.io/badge/axes-47-blue?style=flat-square)](axes/index.md) [![Frameworks](https://img.shields.io/badge/frameworks-97-blue?style=flat-square)](frameworks/index.md)
 
 </div>
 
@@ -85,7 +85,7 @@ axes/
 frameworks/
 ├── README.md                what the frameworks share and what's on a framework page
 ├── index.md                 every framework by date, oldest first
-└── 1921-risk-vs-uncertainty.md   one file per framework, 95 in all
+└── 1921-risk-vs-uncertainty.md   one file per framework, 97 in all
 ```
 
 ## Contributing

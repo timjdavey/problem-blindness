@@ -158,9 +158,9 @@
 * [Survivable vs ruinous](survivable-vs-ruinous.md)
   * **Survivable**: no single loss can knock you out, so good odds pay off over many tries (e.g. a casino taking many small bets).
   * **Ruinous**: one bad outcome can take you out of the game for good (e.g. Russian roulette).
-* [Additive vs multiplicative returns](additive-vs-multiplicative-returns.md)
-  * **Additive returns**: gains and losses add up, so the average is what you can expect (e.g. betting the same £10 every round).
-  * **Multiplicative returns**: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round).
+* [Flat vs compounding results](flat-vs-compounding-results.md)
+  * **Flat results**: each result is banked and the next round starts from the same place, so the average is what you can expect (e.g. betting the same £10 every round).
+  * **Compounding results**: each result grows or shrinks what you have to work with next time, so one path can end far from the average (e.g. savings, or a scientist's reputation).
 * [Even vs lopsided mistakes](even-vs-lopsided-mistakes.md)
   * **Even mistakes**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
   * **Lopsided mistakes**: one mistake is far worse than the other, whether it lets in a harm or lets a prize slip (e.g. a smoke alarm that stays quiet in a fire, or an investor who passes on the next Google).

@@ -58,7 +58,7 @@ On expected value, insurance is a puzzle. The insurer only signs if it expects t
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Additive vs multiplicative returns](../axes/additive-vs-multiplicative-returns.md) | Performance › Stakes | When gains and losses compound, the crowd average and the typical path split apart |
+| [Flat vs compounding results](../axes/flat-vs-compounding-results.md) | Performance › Stakes | When gains and losses compound, the crowd average and the typical path split apart |
 | [Survivable vs ruinous](../axes/survivable-vs-ruinous.md) | Performance › Stakes | Often confused with ergodicity, though the coin game makes players poorer without ever ruining them |
 
 ## Further reading
