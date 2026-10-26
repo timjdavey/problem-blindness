@@ -1,11 +1,11 @@
 ---
 type: Guide
 title: Contributing
-description: How to add, rename or fix an axis or framework without breaking the links other people rely on.
+description: How to add, rename or fix an axis or framework.
 ---
 # Contributing
 
-**How to add, rename or fix an axis or framework without breaking the links other people rely on.**
+**How to add, rename or fix an axis or framework.**
 
 This will never be finished. If you spot a missing framework, a wrong link or a better example, please open a pull request. A small fix needs nothing more than the fix and a line in [log.md](log.md).
 
@@ -40,24 +40,11 @@ Fixed vs moving goal failed the third test. A couple planning a wedding for 100 
 
 ## Renaming a page
 
-Other repos link to our filenames, so a page's old path has to keep working after a rename.
+1. **Move the file** with `git mv`, so its history follows it. Nothing is left at the old path.
+2. **Add the old name to `aliases`** in the renamed page's front matter.
+3. **Update every link in the repo** to the new path, and record the rename in [log.md](log.md).
 
-1. **Move the file** with `git mv`, so its history follows it.
-2. **Leave a note at the old path.** It is not listed in any index.
-   ```markdown
-   ---
-   type: Redirect
-   title: Still vs moving
-   redirect: /axes/turn-based-vs-real-time.md
-   ---
-   # Still vs moving
-
-   Renamed to [Turn-based vs real-time](turn-based-vs-real-time.md).
-   ```
-3. **Add the old name to `aliases`** in the renamed page's front matter.
-4. **Update every link in the repo** to the new path, and record the rename in [log.md](log.md).
-
-A merge or split works the same way. The note points to the page that took it in, or to both halves.
+A merge or split works the same way. Every link moves to the page that took it in, or to the right half.
 
 ## Recording changes
 

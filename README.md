@@ -59,7 +59,7 @@ We've grouped the axis for sanity using Russell and Norvig's [task environment p
 
 ## How to reference axes
 
-Link to the axis page, like [`axes/thin-vs-fat-tails.md`](axes/thin-vs-fat-tails.md). Names still change as we find better words, but a renamed page leaves a note at its old path that points to the new one. So a link you make today keeps working, at worst one click from the page it meant.
+Link to the axis page, like [`axes/thin-vs-fat-tails.md`](axes/thin-vs-fat-tails.md). Names still change as we find better words, and a renamed page moves to its new path. It lists its old names under `aliases` in its front matter, so a search for an old name still finds it.
 
 To tag a task, write the end labels in lower case with hyphens. No two ends share a label, so `fat-tails` can only mean one end of one axis. Here is the heart attack from the quick taste.
 
@@ -67,8 +67,6 @@ To tag a task, write the end labels in lower case with hyphens. No two ends shar
 Putting in the stent    immediate-feedback, verifiable, tacit-know-how
 Deciding whether to     delayed-feedback, unverifiable, explicit-know-how
 ```
-
-A renamed page lists its old names under `aliases` in its front matter, so a search for an old name still finds it.
 
 ## What's in the repo
 

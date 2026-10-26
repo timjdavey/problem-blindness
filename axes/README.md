@@ -87,4 +87,4 @@ The moves clash, so tagging the wrong one does harm. Blending is right for the c
 
 ## Adding or renaming an axis
 
-A new axis has to pass three tests, and a rename has to leave a note at the old path. [CONTRIBUTING.md](../CONTRIBUTING.md) sets out both, along with the naming rules.
+A new axis has to pass three tests, and a rename has to update every link to the page. [CONTRIBUTING.md](../CONTRIBUTING.md) sets out both, along with the naming rules.
