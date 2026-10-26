@@ -22,13 +22,15 @@ Each action on an axis page must end with a number, like [2], that points at its
 
 ## Is it a new axis?
 
-Most ideas for a new axis turn out to be an old one in new words. A new axis has to pass three tests.
+Most ideas for a new axis turn out to be an old one in new words. Every axis has an easy end, where the usual playbook works, and a hard end, where it breaks. So a new axis earns its place only if it flags problems the others miss and changes what you'd do about them. Test it against the existing axes that sound most like it.
 
-1. **Corner test.** Name a problem at the new axis's hard end that sits at the easy end of the axes closest to it. If you can't, the new axis is a copy of one of them.
-2. **Action test.** The hard end has to call for something the nearby axes don't already say. If it doesn't, the idea may still be real. But it belongs as a note on one of those axes.
-3. **Combination test.** No mix of two or three existing axes can land the same problems at the hard end and call for the same actions. An idea can pass the first two tests against each axis alone and still fail this one.
+1. **It moves on its own.** Find a real problem that is hard on the new axis but easy on every axis that sounds like it. A coin toss is random, the hard end of [Deterministic vs stochastic](axes/deterministic-vs-stochastic.md), yet no toss ever lands wildly far from the rest, the easy end of [Thin vs fat tails](axes/thin-vs-fat-tails.md). So the two are separate axes. If you can't find a problem like that, the new axis measures the same thing as an old one.
+2. **It changes what you'd do.** For that problem, the new axis has to call for a move the nearby axes don't already give. If it doesn't, the idea may still be real, but it belongs as a note on one of those axes.
+3. **No mix of old axes covers it.** Two or three existing axes together can flag the same problems and give the same moves, even when none of them does alone. So check pairs as well as single axes.
 
-Fixed vs moving goal failed the third test. A couple planning a wedding for 100 people on 5 June for under £20k have a clear brief, yet what they want shifts once they see venues. That passes the corner test, since the brief is clear and the world isn't drifting. But the brief left out wants they could only find by looking, the hard end of [Direct vs proxy measure](axes/direct-vs-proxy-measure.md). They found them through a chain of choices where each shaped the next, the hard end of [Standalone vs sequential](axes/standalone-vs-sequential.md). Those two axes already say what to do, so moving goals became a note on them.
+Fixed vs moving goal failed the third test. A couple planning a wedding for 100 people on 5 June for under £20k have a clear brief, yet what they want shifts once they see venues. That passed the first test. The brief is clear, the easy end of [Well vs ill-structured](axes/well-vs-ill-structured.md), and the world around them holds still, the easy end of [Durable vs perishable lessons](axes/durable-vs-perishable-lessons.md).
+
+It failed once two axes were taken together. The brief left out wants they could only find by looking, the hard end of [Direct vs proxy measure](axes/direct-vs-proxy-measure.md). They found them through a chain of choices where each shaped the next, the hard end of [Standalone vs sequential](axes/standalone-vs-sequential.md). Those two axes already say what to do, so moving goals became a note on them.
 
 ## Naming an axis
 
