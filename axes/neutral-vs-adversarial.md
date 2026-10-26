@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Neutral vs adversarial
-description: "Neutral: your mistakes are accidents, because the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella). Adversarial: someone whose goals differ from yours hunts for the cases your rule gets wrong (e.g. fraudsters)."
+description: "Neutral: nobody is looking for the gaps in your rule, so the cases you meet are a fair sample and your errors land where chance puts them (e.g. rain doesn't try to beat your umbrella). Adversarial: someone whose goals differ from yours studies your rule, finds the cases it gets wrong and sends you more of them (e.g. fraudsters probing a bank's fraud checks)."
 group: environment
 subgroup: reactivity
 easy_end: Neutral

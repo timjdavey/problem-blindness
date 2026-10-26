@@ -49,10 +49,10 @@
 
 * [Inert vs reflexive](inert-vs-reflexive.md)
   * **Inert**: the system behaves the same whether or not you model it (e.g. a rock).
-  * **Reflexive**: people believe or follow your forecasts and scores, and that changes the outcome, with nobody aiming at you (e.g. a forecast that a bank will fail sets off a run on it).
+  * **Reflexive**: putting out a forecast or score changes the thing it describes, because people act on it, even though nobody is trying to beat you (e.g. a forecast that a bank will fail sets off the run that sinks it).
 * [Neutral vs adversarial](neutral-vs-adversarial.md)
-  * **Neutral**: your mistakes are accidents, because the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella).
-  * **Adversarial**: someone whose goals differ from yours hunts for the cases your rule gets wrong (e.g. fraudsters).
+  * **Neutral**: nobody is looking for the gaps in your rule, so the cases you meet are a fair sample and your errors land where chance puts them (e.g. rain doesn't try to beat your umbrella).
+  * **Adversarial**: someone whose goals differ from yours studies your rule, finds the cases it gets wrong and sends you more of them (e.g. fraudsters probing a bank's fraud checks).
 
 ## Structure
 
@@ -166,7 +166,7 @@
   * **Lopsided mistakes**: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire).
 * [Winnable vs no-win](winnable-vs-no-win.md)
   * **Winnable**: a clean win is possible, so you can come out ahead (e.g. proving a famous theorem).
-  * **No-win**: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with no engines).
+  * **No-win**: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with engine failure).
 
 # Agent
 

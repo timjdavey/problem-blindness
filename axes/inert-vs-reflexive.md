@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Inert vs reflexive
-description: "Inert: the system behaves the same whether or not you model it (e.g. a rock). Reflexive: people believe or follow your forecasts and scores, and that changes the outcome, with nobody aiming at you (e.g. a forecast that a bank will fail sets off a run on it)."
+description: "Inert: the system behaves the same whether or not you model it (e.g. a rock). Reflexive: putting out a forecast or score changes the thing it describes, because people act on it, even though nobody is trying to beat you (e.g. a forecast that a bank will fail sets off the run that sinks it)."
 group: environment
 subgroup: reactivity
 easy_end: Inert
