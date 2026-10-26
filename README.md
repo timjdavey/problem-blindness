@@ -54,7 +54,7 @@ We've grouped the axis for sanity using Russell and Norvig's [task environment p
 | Environment | How does the system behave, whoever is looking at it? | [Randomness](axes/index.md#randomness), [Change](axes/index.md#change), [Stimulus](axes/index.md#stimulus), [Reactivity](axes/index.md#reactivity), [Structure](axes/index.md#structure) |
 | Information | What can you find out, and how fast? | [Uncertainty](axes/index.md#uncertainty), [Evidence](axes/index.md#evidence) |
 | Actions | What moves do you have? | [Options](axes/index.md#options), [Control](axes/index.md#control) |
-| Performance | What counts as good, and what does a miss cost? | [Goal](axes/index.md#goal), [Stakes](axes/index.md#stakes) |
+| Performance | What counts as good, and what do you stand to win or lose? | [Goal](axes/index.md#goal), [Stakes](axes/index.md#stakes) |
 | Agent | What does the task ask of whoever solves it? | [Know-how](axes/index.md#know-how), [Incentives](axes/index.md#incentives) |
 
 ## How to reference axes

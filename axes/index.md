@@ -163,7 +163,7 @@
   * **Multiplicative returns**: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round).
 * [Even vs lopsided mistakes](even-vs-lopsided-mistakes.md)
   * **Even mistakes**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
-  * **Lopsided mistakes**: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire).
+  * **Lopsided mistakes**: one mistake is far worse than the other, whether it lets in a harm or lets a prize slip (e.g. a smoke alarm that stays quiet in a fire, or an investor who passes on the next Google).
 * [Winnable vs no-win](winnable-vs-no-win.md)
   * **Winnable**: a clean win is possible, so you can come out ahead (e.g. proving a famous theorem).
   * **No-win**: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with engine failure).
