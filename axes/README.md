@@ -87,20 +87,4 @@ The moves clash, so tagging the wrong one does harm. Blending is right for the c
 
 ## Adding or renaming an axis
 
-### Three tests for a new axis
-
-Most ideas for a new axis turn out to be an old one in new words. A new axis has to pass three tests.
-
-1. **Corner test.** Name a problem at the new axis's hard end that sits at the easy end of the axes closest to it. If you can't, the new axis is a copy of one of them.
-2. **Action test.** The hard end has to call for something the nearby axes don't already say. If it doesn't, the idea may still be real. But it belongs as a note on one of those axes.
-3. **Combination test.** No mix of two or three existing axes can land the same problems at the hard end and call for the same actions. An idea can pass the first two tests against each axis alone and still fail this one.
-
-Fixed vs moving goal failed the third test. A couple planning a wedding for 100 people on 5 June for under £20k have a clear brief, yet what they want shifts once they see venues. That passes the corner test, since the brief is clear and the world isn't drifting. But the brief left out wants they could only find by looking, the hard end of [Direct vs proxy measure](direct-vs-proxy-measure.md). They found them through a chain of choices where each shaped the next, the hard end of [Standalone vs sequential](standalone-vs-sequential.md). Those two axes already say what to do, so moving goals became a note on them.
-
-### Naming rules
-
-- **Each end makes sense on its own.** Picture the label written alone at one end of a chart. "None" could mean anything, but "No skin in the game" can only mean one thing. "Easy" is worse, since every axis has an easy end. So labels carry the noun, like "Fat tails" or "Proxy measure", and the title can stay short.
-- **Use the field's own term**, so readers can look it up. "Chaotic" beats "short predictability horizon", and "Knightian uncertainty" beats "unknown odds".
-- **Don't sound like another axis**, in its name or in the words of its description. "Complete vs incomplete score" sounded too much like tractable vs intractable search, so it became [Direct vs proxy measure](direct-vs-proxy-measure.md). "Slack" was Perrow's word for a buffer in [Loose vs tight coupling](loose-vs-tight-coupling.md), so the time to decide became [Ample time vs time pressure](ample-time-vs-time-pressure.md).
-- **Name the problem, not the response.** "Test vs watch" named two things you might do. [Interventional vs observational](interventional-vs-observational.md) names the kind of evidence the world lets you get.
-- **A rename leaves a note behind.** Other repos link to the old filename, so follow the [renaming steps](../README.md#renaming-a-page).
+A new axis has to pass three tests, and a rename has to leave a note at the old path. [CONTRIBUTING.md](../CONTRIBUTING.md) sets out both, along with the naming rules.
