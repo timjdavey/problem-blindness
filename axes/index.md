@@ -76,9 +76,9 @@
 * [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md)
   * **Reducible uncertainty**: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test).
   * **Irreducible uncertainty**: no amount of fact finding would settle it (e.g. whether a rival cuts prices next year).
-* [Small vs large world](small-vs-large-world.md)
-  * **Small world**: a fixed procedure generates every way things might turn out, so you can compute or sample the outcomes before you choose, even when there are too many to list (e.g. a lottery ticket).
-  * **Large world**: no procedure generates the outcomes, so you can't sample them and the result could be something nobody thought to list (e.g. a new product hit by a change in the law).
+* [Closed vs open outcomes](closed-vs-open-outcomes.md)
+  * **Closed outcomes**: a fixed procedure generates every way things might turn out, so you can compute or sample the outcomes before you choose, even when there are too many to list (e.g. a lottery ticket).
+  * **Open outcomes**: no procedure generates the outcomes, so you can't sample them and the result could be something nobody thought to list (e.g. a new product hit by a change in the law).
 
 ## Evidence
 

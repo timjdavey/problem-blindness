@@ -54,7 +54,7 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 - [Transparent vs opaque causes](transparent-vs-opaque-causes.md) (study). Hidden variables are part of why Dörner's players couldn't trace their own effects ([Complex problem solving](../frameworks/1989-complex-problem-solving.md)). The two still differ. You can read every weight of an open model and still not trace the chain. A poker hand is a simple cause that is hidden from view.
 - [Neutral vs adversarial](neutral-vs-adversarial.md) (bundled). Opponents hide what they can, as in poker. The facts exist, but they cost more to find.
 - [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). Go hides nothing and still can't be searched in full.
-- [Small vs large world](small-vs-large-world.md) (independent). Every possible poker hand is known in advance, and you still can't see the one in front of you.
+- [Closed vs open outcomes](closed-vs-open-outcomes.md) (independent). Every possible poker hand is known in advance, and you still can't see the one in front of you.
 - [General vs local knowledge](general-vs-local-knowledge.md) (logic). Local facts are often out of sight for anyone far away. But the shop manager can see the stock levels that head office can't, so the gap is about who holds the facts.
 - [Symmetric vs asymmetric information](symmetric-vs-asymmetric-information.md) (logic). When someone across the deal already holds the facts, the doubt is reducible, but they decide what it costs you to find them.
 
