@@ -50,7 +50,7 @@ In another study people had to keep a cold store at a set temperature using a di
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Decomposable vs tangled](../axes/decomposable-vs-tangled.md) | Environment › Structure | Players fixed each problem on its own and missed the links between them |
+| [Reductionist vs holistic](../axes/reductionist-vs-holistic.md) | Environment › Structure | Players fixed each problem on its own and missed the links between them |
 | [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) | Information › Uncertainty | Some variables are hidden, and the better players asked more questions before acting |
 
 ## Further reading

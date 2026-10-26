@@ -44,7 +44,7 @@ When one part fails, does the fault stay where it started, or does it spread fro
 - [Survivable vs ruinous](survivable-vs-ruinous.md) and [Reversible vs irreversible](reversible-vs-irreversible.md) (study). In [Normal accidents](../frameworks/1984-normal-accidents.md) small faults cascade into a meltdown before anyone can step in.
 - [Self-righting vs tipping](self-righting-vs-tipping.md) (logic). A cascade is a tip that spreads. One part flips and pushes the next one over its own edge.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (study). Cascades turn many small faults into rare huge losses, as in the 2010 flash crash.
-- [Decomposable vs tangled](decomposable-vs-tangled.md) (independent). Perrow treats how tangled the parts are and how tightly they are coupled as separate traits.
+- [Reductionist vs holistic](reductionist-vs-holistic.md) (independent). Perrow treats how tangled the parts are and how tightly they are coupled as separate traits.
 - [Turn-based vs real-time](turn-based-vs-real-time.md) (logic). When a cascading system fails, the fault spreads while you are still working out what happened, so the world moves on under you.
 
 ## Citations

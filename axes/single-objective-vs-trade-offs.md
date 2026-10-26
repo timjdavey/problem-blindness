@@ -53,7 +53,7 @@ This axis asks how many parts the goal has. It doesn't ask who sets the weights,
 
 ## Correlated with
 
-- [Decomposable vs tangled](decomposable-vs-tangled.md) (bundled). In Ackoff's [messes](../frameworks/1974-messes.md) a gain in one part turns up as a loss in another.
+- [Reductionist vs holistic](reductionist-vs-holistic.md) (bundled). In Ackoff's [messes](../frameworks/1974-messes.md) a gain in one part turns up as a loss in another.
 - [Well vs ill-structured](well-vs-ill-structured.md) (bundled). Simon's house design and Jonassen's [dilemmas](../frameworks/2000-problem-typology.md) are hard to pin down because several wants pull against each other. But buying a car has many objectives and is still well structured once you set the weights.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). Once there are several goals, different people weigh them differently. Stirling calls this [ambiguity](../frameworks/2007-incertitude-matrix.md). But one person buying a car has many objectives and nobody to argue with. And it runs the other way. Two towns that each want the bridge have one objective each, yet they rank the sites in opposite orders.
 - [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (logic). With no single score there is no simple check that one answer beats another.

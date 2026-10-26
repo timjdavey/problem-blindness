@@ -39,7 +39,7 @@ Are there few enough options to check them all, or so many that no computer coul
 ## Correlated with
 
 - [Smooth vs rugged](smooth-vs-rugged.md) (study). Stepping downhill on rugged land stops at a false bottom ([Convex vs non-convex optimisation](../frameworks/1970-convex-vs-non-convex-optimisation.md)). Edward Weinberger proved in 1996 that finding the top of a general NK landscape is NP-complete.
-- [Decomposable vs tangled](decomposable-vs-tangled.md) (logic). A problem that splits into parts can be searched one part at a time, like Simon's [watchmakers](../frameworks/1962-near-decomposability.md).
+- [Reductionist vs holistic](reductionist-vs-holistic.md) (logic). A problem that splits into parts can be searched one part at a time, like Simon's [watchmakers](../frameworks/1962-near-decomposability.md).
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). Needing the best answer from a search too big to finish is the hardest case.
 - [Ample time vs time pressure](ample-time-vs-time-pressure.md) (tension). A search too big to finish, done against the clock, is the worst case.
 - [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (independent). [NP problems](../frameworks/1971-np-problems.md) are hard to find and easy to check.

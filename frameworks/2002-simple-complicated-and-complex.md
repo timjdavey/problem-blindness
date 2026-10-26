@@ -56,7 +56,7 @@ In 2002 the English NHS launched a national programme to move patient records on
 | Axis | Group | What this framework adds |
 |---|---|---|
 | [Coherent vs incoherent runs](../axes/coherent-vs-incoherent-runs.md) | Environment › Randomness | Success with one child is no guide to the next, so past runs don't stand for the next one |
-| [Decomposable vs tangled](../axes/decomposable-vs-tangled.md) | Environment › Structure | In a complex problem the parts adapt and react to each other |
+| [Reductionist vs holistic](../axes/reductionist-vs-holistic.md) | Environment › Structure | In a complex problem the parts adapt and react to each other |
 | [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) | Information › Evidence | No blueprint can predict what a change will do once people adapt to it |
 
 ## Further reading

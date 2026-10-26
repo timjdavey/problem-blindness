@@ -54,7 +54,7 @@ A family short of money cuts back on childcare to save cash. One parent now work
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Decomposable vs tangled](../axes/decomposable-vs-tangled.md) | Environment › Structure | In a mess fixing one part shifts the others, so solving each part can make the whole worse |
+| [Reductionist vs holistic](../axes/reductionist-vs-holistic.md) | Environment › Structure | In a mess fixing one part shifts the others, so solving each part can make the whole worse |
 | [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md) | Actions › Control | No one team can fix a mess alone, since one department's fix becomes the next one's problem |
 
 ## Further reading
