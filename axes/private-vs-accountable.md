@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Private vs accountable
-description: "Private choice: the choice is yours alone (e.g. picking a film). Accountable choice: you must explain and defend the choice to others (e.g. a bank refusing a loan)."
+description: "Private choice: nobody will ask you to explain or defend the choice (e.g. picking a film). Accountable choice: you must explain and defend the choice to others (e.g. a bank refusing a loan)."
 group: agent
 subgroup: incentives
 easy_end: Private choice

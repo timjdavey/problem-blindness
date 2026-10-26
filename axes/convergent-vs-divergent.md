@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Convergent vs divergent
-description: "Convergent: the good answers sit together, so a blend of two good ones is also good (e.g. a sum, or a phone trading battery life for size). Divergent: the good answers differ in kind, so halfway between two is worse than either (e.g. a funny wedding speech and a moving one)."
+description: "Convergent: the good answers sit together, so a blend of two good ones is also good (e.g. a sum, or the size of a phone). Divergent: the good answers differ in kind, so halfway between two is worse than either (e.g. a funny wedding speech and a moving one)."
 group: performance
 subgroup: goal
 easy_end: Convergent

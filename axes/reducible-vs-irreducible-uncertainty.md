@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Reducible vs irreducible uncertainty
-description: "Reducible uncertainty: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test). Irreducible uncertainty: no amount of fact finding would settle it (e.g. whether a rival cuts prices next year)."
+description: "Reducible uncertainty: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test). Irreducible uncertainty: no test or research could settle it, because the answer isn't out there yet to find (e.g. whether a rival cuts prices next year)."
 group: information
 subgroup: uncertainty
 easy_end: Reducible uncertainty

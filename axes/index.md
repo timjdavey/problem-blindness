@@ -10,10 +10,10 @@
   * **Deterministic**: the same inputs always give exactly the same output (e.g. a sum).
   * **Stochastic**: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter).
 * [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md)
-  * **Coherent runs**: every run of the system gives the same spread of results, so the pooled average stands for any run (e.g. a die).
+  * **Coherent runs**: run the whole system again and you get the same spread of results, so the pooled average stands for any run (e.g. a thousand dice rolls on Monday look like a thousand on Tuesday).
   * **Incoherent runs**: each run settles somewhere different, so the pooled average describes none of them (e.g. climate model runs that split into warm and cold futures).
 * [Clustered vs scattered runs](clustered-vs-scattered-runs.md)
-  * **Clustered runs**: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars).
+  * **Clustered runs**: when runs disagree they fall into a few clear types, so a few clues tell you which one you are in (e.g. every snowflake is a plate, a column or a star).
   * **Scattered runs**: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks).
 * [Thin vs fat tails](thin-vs-fat-tails.md)
   * **Thin tails**: results stay close to the average, so the average tells you a lot (e.g. people's heights).
@@ -25,11 +25,11 @@
   * **Lyapunov stable**: small errors in what you know today stay small, so you can forecast far ahead (e.g. the tides).
   * **Chaotic**: tiny errors grow fast, so a forecast soon becomes useless (e.g. the weather two weeks out).
 * [Durable vs perishable lessons](durable-vs-perishable-lessons.md)
-  * **Durable lessons**: the patterns in past data still hold today, so what you learnt keeps working (e.g. gravity).
-  * **Perishable lessons**: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang).
+  * **Durable lessons**: the rules behind your past data still hold, so what you learnt keeps working (e.g. gravity).
+  * **Perishable lessons**: the rules behind your past data keep changing, so what you learnt goes stale (e.g. fashion and slang).
 * [Turn-based vs real-time](turn-based-vs-real-time.md)
   * **Turn-based world**: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword).
-  * **Real-time world**: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).
+  * **Real-time world**: the situation keeps moving while you work on it, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).
 
 ## Stimulus
 
@@ -72,13 +72,13 @@
 
 * [Risk vs Knightian uncertainty](risk-vs-knightian-uncertainty.md)
   * **Measurable risk**: you can put a number you trust on each outcome (e.g. a dice roll).
-  * **Knightian uncertainty**: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off).
+  * **Knightian uncertainty**: you can say what might happen but can't put a number you trust on how likely each outcome is (e.g. whether a new technology takes off).
 * [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md)
   * **Reducible uncertainty**: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test).
-  * **Irreducible uncertainty**: no amount of fact finding would settle it (e.g. whether a rival cuts prices next year).
+  * **Irreducible uncertainty**: no test or research could settle it, because the answer isn't out there yet to find (e.g. whether a rival cuts prices next year).
 * [Closed vs open outcomes](closed-vs-open-outcomes.md)
   * **Closed outcomes**: a fixed procedure generates every way things might turn out, so you can compute or sample the outcomes before you choose, even when there are too many to list (e.g. a lottery ticket).
-  * **Open outcomes**: no procedure generates the outcomes, so you can't sample them and the result could be something nobody thought to list (e.g. a new product hit by a change in the law).
+  * **Open outcomes**: you can't list everything that might happen, so the result could be something nobody thought of (e.g. a new product hit by a change in the law).
 
 ## Evidence
 
@@ -107,7 +107,7 @@
 
 * [Given vs invented options](given-vs-invented-options.md)
   * **Given options**: the options are handed to you to pick from (e.g. a mortgage from a bank's list).
-  * **Invented options**: you have to invent the options first (e.g. saving a dying high street).
+  * **Invented options**: nobody hands you a list, so you have to come up with the options before you can choose (e.g. saving a dying high street).
 * [Diversifiable vs single bet](diversifiable-vs-single-bet.md)
   * **Diversifiable**: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares).
   * **Single bet**: you can only take one course of action, so everything rides on it (e.g. which job offer to accept).
@@ -133,9 +133,9 @@
 
 * [Well vs ill-structured](well-vs-ill-structured.md)
   * **Well-structured**: the problem is clearly stated, with a known goal, known moves and a clear end (e.g. a maths exam question).
-  * **Ill-structured**: working out what the problem is, or how to attack it, becomes part of the job (e.g. \"fix homelessness\").
+  * **Ill-structured**: working out what the problem is, or how to attack it, becomes part of the job (e.g. "fix homelessness").
 * [Convergent vs divergent](convergent-vs-divergent.md)
-  * **Convergent**: the good answers sit together, so a blend of two good ones is also good (e.g. a sum, or a phone trading battery life for size).
+  * **Convergent**: the good answers sit together, so a blend of two good ones is also good (e.g. a sum, or the size of a phone).
   * **Divergent**: the good answers differ in kind, so halfway between two is worse than either (e.g. a funny wedding speech and a moving one).
 * [Single objective vs trade-offs](single-objective-vs-trade-offs.md)
   * **Single objective**: there is one thing to get right (e.g. the fastest route home).
@@ -148,7 +148,7 @@
   * **Optimising**: each extra bit of quality still pays off, so you need the best you can find (e.g. the dose of a strong drug).
 * [Direct vs proxy measure](direct-vs-proxy-measure.md)
   * **Direct measure**: the thing you measure is everything you want (e.g. sorting letters by postcode).
-  * **Proxy measure**: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. fairness in hiring).
+  * **Proxy measure**: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. a hiring score learnt from past CVs, which says nothing about fairness).
 * [Curable vs chronic](curable-vs-chronic.md)
   * **Curable**: there is a point where the problem is solved and you can stop (e.g. wiping out smallpox).
   * **Chronic**: there is no solved state, only a level you have to keep up (e.g. keeping malaria down).
@@ -191,5 +191,5 @@
   * **Skin in the game**: whoever makes the call bears the cost if it goes wrong (e.g. a shopkeeper pricing their own stock).
   * **No skin in the game**: the cost lands on someone else (e.g. a broker paid for each loan whether or not it is repaid).
 * [Private vs accountable](private-vs-accountable.md)
-  * **Private choice**: the choice is yours alone (e.g. picking a film).
+  * **Private choice**: nobody will ask you to explain or defend the choice (e.g. picking a film).
   * **Accountable choice**: you must explain and defend the choice to others (e.g. a bank refusing a loan).

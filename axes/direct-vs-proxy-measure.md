@@ -4,7 +4,7 @@ title: Direct vs proxy measure
 aliases:
   - Complete vs incomplete goal
   - Complete vs incomplete score
-description: "Direct measure: the thing you measure is everything you want (e.g. sorting letters by postcode). Proxy measure: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. fairness in hiring)."
+description: "Direct measure: the thing you measure is everything you want (e.g. sorting letters by postcode). Proxy measure: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. a hiring score learnt from past CVs, which says nothing about fairness)."
 group: performance
 subgroup: goal
 easy_end: Direct measure

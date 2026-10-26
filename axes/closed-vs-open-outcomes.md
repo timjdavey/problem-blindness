@@ -3,7 +3,7 @@ type: Axis
 aliases:
   - Small vs large world
 title: Closed vs open outcomes
-description: "Closed outcomes: a fixed procedure generates every way things might turn out, so you can compute or sample the outcomes before you choose, even when there are too many to list (e.g. a lottery ticket). Open outcomes: no procedure generates the outcomes, so you can't sample them and the result could be something nobody thought to list (e.g. a new product hit by a change in the law)."
+description: "Closed outcomes: a fixed procedure generates every way things might turn out, so you can compute or sample the outcomes before you choose, even when there are too many to list (e.g. a lottery ticket). Open outcomes: you can't list everything that might happen, so the result could be something nobody thought of (e.g. a new product hit by a change in the law)."
 group: information
 subgroup: uncertainty
 easy_end: Closed outcomes

@@ -3,7 +3,7 @@ type: Axis
 title: Clustered vs scattered runs
 aliases:
   - Clustered vs scattered
-description: "Clustered runs: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars). Scattered runs: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks)."
+description: "Clustered runs: when runs disagree they fall into a few clear types, so a few clues tell you which one you are in (e.g. every snowflake is a plate, a column or a star). Scattered runs: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks)."
 group: environment
 subgroup: randomness
 easy_end: Clustered runs
