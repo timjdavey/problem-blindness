@@ -9,6 +9,8 @@ description: How to add, rename or fix an axis or framework.
 
 This will never be finished. If you spot a missing framework, a wrong link or a better example, please open a pull request. A small fix needs nothing more than the fix and a line in [log.md](log.md).
 
+By opening a pull request you agree that your work is shared under [CC BY 4.0](LICENCE), the same terms as the rest of the repo.
+
 ## Adding a page
 
 Every file starts with YAML front matter that needs a `type`, as the [Open Knowledge Format](https://okf.md) asks.

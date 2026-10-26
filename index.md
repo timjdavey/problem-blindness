@@ -7,6 +7,7 @@ okf_version: "0.2"
 * [Contributing](CONTRIBUTING.md) - How to add an axis or framework, the tests a new axis must pass, naming rules and how to rename a page without breaking links.
 * [Motivation](MOTIVATION.md) - Why experts bring the same hammer to every problem, and why people and AI agents need a shared way to name the problem in front of them.
 * [Update log](log.md) - Big changes to the project, newest first.
+* [Licence](LICENCE) - CC BY 4.0. Reuse and adapt the pages for any purpose, as long as you credit the project.
 
 # Axes
 

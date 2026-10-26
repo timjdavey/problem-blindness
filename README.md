@@ -10,7 +10,7 @@ description: A shared vocabulary for the shape of a problem, built from a centur
 **A shared vocabulary for the shape of problems, so people and AI models
 can tell what kind of expert a task needs.**
 
-[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md) [![Axes](https://img.shields.io/badge/axes-47-blue?style=flat-square)](axes/index.md) [![Frameworks](https://img.shields.io/badge/frameworks-97-blue?style=flat-square)](frameworks/index.md)
+[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md) [![Axes](https://img.shields.io/badge/axes-47-blue?style=flat-square)](axes/index.md) [![Frameworks](https://img.shields.io/badge/frameworks-97-blue?style=flat-square)](frameworks/index.md) [![Licence](https://img.shields.io/badge/licence-CC%20BY%204.0-lightgrey?style=flat-square)](LICENCE)
 
 </div>
 
@@ -76,6 +76,7 @@ MOTIVATION.md                why the project exists, we call it "problem blindne
 CONTRIBUTING.md              how to add, name and rename pages
 index.md                     the Open Knowledge Format index of the whole project
 log.md                       big changes, newest first
+LICENCE                      CC BY 4.0, the terms for reusing these pages
 axes/
 ├── README.md                how to read an axis page, what the tags mean and how to tag a task
 ├── index.md                 every axis by group, with both ends in one line
@@ -96,4 +97,6 @@ In 2025 [METR](https://arxiv.org/abs/2503.14499) scored its tasks for "messiness
 
 We tried to benchmark out axis on the full set on METR's 23 public tasks. We found an suspiciously similar result of 8.5% per point against their 8.1%. However, this dataset is far too small to draw any meaningful conclusions beyond this feels like a meaningful avenue to continue. The aim is to roll this out on a larger set of benchmarks to conduct a more robust meta study.
 
+## Licence
 
+The writing in this repo is under [CC BY 4.0](LICENCE). You can copy, adapt and build on it for any purpose, including commercial work and training models, as long as you credit [Problem Blindness by Tim Davey](https://github.com/timjdavey/problem-blindness). You don't need to credit anyone just to tag a task with the end labels. Quotes and the works we link to keep their owners' terms.
