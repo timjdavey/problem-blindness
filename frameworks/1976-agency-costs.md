@@ -27,6 +27,8 @@ sources:
 
 Picture a woman who owns her firm outright. If she buys a lavish office with company money, every pound of it is her own. Now say she sells 90% of the firm to outside shareholders. The same office now costs her ten pence in the pound, so she is far more tempted to buy it. Michael Jensen and William Meckling, two economists at the University of Rochester, built a theory of the firm on this point. They published it in October 1976 in the Journal of Financial Economics as "Theory of the firm: managerial behavior, agency costs and ownership structure". It became one of the most cited papers in finance.
 
+The gap cuts the other way too. The same owner now keeps only ten pence of each pound a new venture earns, yet she still does all the work of finding it and running it. Jensen and Meckling said the most important conflict was just this. As a manager's share falls, so does their reason to search out new profitable ventures, and they may avoid them because of the trouble.
+
 The person who decides is called the agent. The person who bears the result is called the principal. Owners can spend money watching the manager, and the manager can spend money to prove they can be trusted. Some value is still lost after both. Jensen and Meckling called the sum of all three agency costs. In 2018 Nassim Nicholas Taleb restated the idea for a wide audience in his book *Skin in the Game*. His rule is that whoever gains when things go well should also lose when they go wrong.
 
 ## What goes wrong
@@ -51,7 +53,7 @@ Before 2008 many American lenders sold the loans they made to banks, which bundl
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Skin in the game vs none](../axes/skin-in-the-game-vs-none.md) | Agent › Incentives | When the decider doesn't bear the cost of being wrong, the gap is a real cost someone pays |
+| [Skin in the game vs none](../axes/skin-in-the-game-vs-none.md) | Agent › Incentives | When the decider doesn't bear the results of the call, they take risks they don't pay for and pass up gains they don't share |
 | [Symmetric vs asymmetric information](../axes/symmetric-vs-asymmetric-information.md) | Information › Evidence | The agent knows where the shortcuts are hidden and the principal can't see them |
 
 ## Further reading

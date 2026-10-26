@@ -20,13 +20,14 @@ sources:
 
 An axis in the [Incentives](index.md#incentives) set of the [agent](index.md#agent) group.
 
-Is the choice yours alone, or must you explain and defend it to others, such as a regulator, a court or the person affected? A hunch is fine for picking a film. A loan refusal, a court ruling or a medical decision may have to be explained, audited or defended in law, which rules out some methods even when they would work better.
+Is the choice yours alone, or must you explain and defend it to others, such as a regulator, a court or the person affected? A hunch is fine for picking a film. A loan refusal, a court ruling or a medical decision may have to be explained, audited or defended in law, which rules out some methods even when they would work better. It can also make you think harder. That only happens if you know you will be judged before you decide, and you don't know what answer the judge wants.
 
 ## Actions
 
 **Private choice**: Use whatever works best.
 - Pick the most accurate method, even one nobody can explain. A hunch or a black box is fine when nobody needs to know why, and asking for reasons can cost accuracy for nothing. [2, 3]
 - Don't explain more than you must. Having to justify a choice often just pushes you to the option that is easiest to defend. [2]
+- Get a check on the choices that matter anyway. Nobody will ask you to explain, so nobody will catch a lazy call. People who expected to explain themselves to an audience whose views they didn't know thought through both sides more. [2]
 
 **Accountable choice**: Use a method you can explain and keep the records.
 - Prefer methods you can read, like a scorecard or a checklist. If you must use a hunch or a black box, be able to give a reason for each decision. [2, 3]

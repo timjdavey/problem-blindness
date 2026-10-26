@@ -13,6 +13,8 @@ sources:
     title: One-way vs two-way doors
   - resource: https://doi.org/10.1056/NEJMsa0810119
     title: A surgical safety checklist to reduce morbidity and mortality in a global population (Haynes, 2009)
+  - resource: /frameworks/2007-super-wicked-problems.md
+    title: Super wicked problems
 ---
 # Reversible vs irreversible
 
@@ -20,17 +22,21 @@ An axis in the [Control](index.md#control) set of the [actions](index.md#actions
 
 If it goes wrong, can you undo it cheaply and try again, or are you stuck with it? Trying a new recipe is a two way door. Selling the family home or cutting off a leg is a one way door.
 
+The same holds for a win. A gain you could undo, someone after you can undo too. And waiting can be a one way door of its own. The house you held off on sells to someone else, and the job offer lapses.
+
 ## Actions
 
 **Reversible**: Move fast and let whoever is doing the work act alone.
 - Make small changes often and learn from what breaks. You can roll back. [2]
 - Skip the sign off, whether a new hire or an AI agent is doing the work. Bezos warns that putting every call through the heavy process makes a large firm slow and timid, so it tries too few new things. [2]
+- Lock in a gain that others could undo. A policy the next government can drop is a two way door for them too. Take steps that are hard to reverse and build their own support. The UK's five year carbon budgets set a path that later governments have found hard to drop. [4]
 
 **Irreversible**: Slow down and put a second pair of eyes at the door.
 - Ask for sign off before any move that can't be undone. Sending money, felling a tree and deleting records are the usual ones. [2]
 - Say the plan out loud just before the step you can't take back, so someone can stop it. Before the first cut, the WHO surgical checklist has the surgeon talk the team through the critical steps. In eight hospitals that took up the checklist, deaths after surgery fell from 1.5% to 0.8%. [3]
 - Turn one way doors into two way ones where you can. Coca-Cola kept its old recipe when it launched New Coke in 1985, so it could bring the old drink back within three months. A trial period or a delay before a message sends buys the same undo. [2]
 - Don't plan a fix you can't undo as if you could test it and roll it back. Boston's elevated Central Artery opened in 1959, and undoing it took the Big Dig, which ran from 1991 to 2007 and cost about $14.6 billion. [1]
+- Count waiting as a choice, since it can be a one way door too. Bezos said most calls should be made with about 70% of the information you wish you had, because waiting for 90% is slow. [2]
 - Gate only the moves that are hard to undo. Sorting the doors first saves time on the small calls and care for the big ones. [2]
 
 ## Correlated with
@@ -51,3 +57,5 @@ If it goes wrong, can you undo it cheaply and try again, or are you stuck with i
 [2] [One-way vs two-way doors](../frameworks/2015-one-way-vs-two-way-doors.md)
 
 [3] [A surgical safety checklist to reduce morbidity and mortality in a global population (Haynes, 2009)](https://doi.org/10.1056/NEJMsa0810119)
+
+[4] [Super wicked problems](../frameworks/2007-super-wicked-problems.md)

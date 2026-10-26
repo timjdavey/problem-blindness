@@ -55,7 +55,7 @@ Lake managers in the Netherlands and Denmark found that cutting nutrients alone 
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Self-righting vs tipping](../axes/self-righting-vs-tipping.md) | Environment › Stimulus | Past a tipping point the system flips to a new stable state, and undoing the push doesn't flip it back |
+| [Self-righting vs tipping](../axes/self-righting-vs-tipping.md) | Environment › Stimulus | Past a tipping point the system flips to a new stable state, and undoing the push doesn't flip it back. The same stickiness holds a good state in place once you reach it |
 
 ## Further reading
 

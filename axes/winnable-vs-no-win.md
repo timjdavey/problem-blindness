@@ -28,13 +28,14 @@ Even then, the inquiry ran simulations to check whether the plane could have mad
 
 This axis asks how good the best case is, not how bad the worst case is. A falling market shows the difference. You can trade out and back in, spread your money and wait, and no single move will ruin you. But every option loses money, and the best you can do is lose less. Work where success is invisible has the same shape. Nobody notices the planes that land safely or the servers that stay up, so the best you can earn is no complaints.
 
-Two things go wrong at this end. First, people facing a sure loss will gamble to escape it, even at worse odds. Kahneman and Tversky found this in 1979 and built it into [Prospect theory](../frameworks/1979-prospect-theory.md). Second, people judge a decision by how it turned out, so whoever made a good call in a bad spot gets blamed for the loss. Baron and Hershey called this [Outcome bias](../frameworks/1988-outcome-bias.md).
+Two things go wrong at this end. First, people facing a sure loss will gamble to escape it, even at worse odds. Kahneman and Tversky found this in 1979 and built it into [Prospect theory](../frameworks/1979-prospect-theory.md). Second, people judge a decision by how it turned out, so whoever made a good call in a bad spot gets blamed for the loss. Baron and Hershey called this [Outcome bias](../frameworks/1988-outcome-bias.md). It works the other way at the winnable end, where a reckless call that got lucky gets the praise.
 
 ## Actions
 
 **Winnable**: Aim for the win and score it plainly.
 - Check any claim that no clean win is possible. People pick the label that suits them, so ask what calling a problem no-win would excuse. [4]
 - Judge by results, over many decisions. Good choices win more often, so where a clean win was on offer the results show who decides well. [2]
+- Score wins against a baseline too. When every option wins, as in a rising market, a reckless call looks as good as a careful one. Ask what doing nothing would have earned, and judge the gain over that. [2]
 
 **No-win**: Set the baseline before you act, and score against it.
 - Write down what doing nothing would cost and what the best realistic outcome is, before you act. Score the decision on how much loss it avoided, not against a perfect result or getting back to even. [1]

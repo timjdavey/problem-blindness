@@ -24,7 +24,7 @@ sources:
 
 An axis in the [Reactivity](index.md#reactivity) set of the [environment](index.md#environment) group.
 
-Does the system behave the same whether or not you model it, or does the way people respond to your forecasts, scores and actions change the outcome? A rock doesn't care if you measure it. Publish a forecast that a bank will fail and people pull their money out, which makes it fail. A forecast can also defeat itself. Warn that a road will jam and drivers take another route, so it flows freely. Both are reflexive, because in each case the forecast changed the outcome. Actions do it too. A recommender changes what people click, then learns from those clicks as if they were the world.
+Does the system behave the same whether or not you model it, or does the way people respond to your forecasts, scores and actions change the outcome? A rock doesn't care if you measure it. Publish a forecast that a bank will fail and people pull their money out, which makes it fail. A forecast can also defeat itself. Warn that a road will jam and drivers take another route, so it flows freely. Both are reflexive, because in each case the forecast changed the outcome. Actions do it too. A recommender changes what people click, then learns from those clicks as if they were the world. Not every loop does harm. A forecast that a firm will thrive can bring in the staff and money that make it thrive.
 
 Nobody in these stories is trying to beat you. Each saver only wants their own money back, and each driver only wants to get home. The outcome moves because a lot of people believe or follow what you put out. When someone studies your rule to find the cases it gets wrong, that is the hard end of [Neutral vs adversarial](neutral-vs-adversarial.md) instead.
 
@@ -43,6 +43,7 @@ The worst case is when your own action makes the result you take as proof. Robin
 - Leave a small group, picked at random, that your rule doesn't touch. It shows you what would have happened without the rule. A lender trying a new credit score can approve a few applicants at random, whatever the score says, and see how they repay. [6]
 - Watch for loops that feed on themselves, and for the point where they turn. A bookshop that only puts its best sellers in the window keeps them best sellers, and narrows until it sells the same few books. [4, 6]
 - Break the loop where you can. Once the government guaranteed all deposits, the 2007 run on Northern Rock stopped, because the rumour had nothing left to feed on. [2]
+- Feed a loop that runs your way. A teacher who expects more of a pupil asks them more and gets more back, though later studies found the effect much smaller than first claimed. Soros made his money riding booms while the beliefs were still feeding them. [2, 4]
 - Don't read the results as proof you were right. Once people act on your forecast the results carry its effect, so get a check from outside the loop. [2, 4, 5]
 
 ## Correlated with

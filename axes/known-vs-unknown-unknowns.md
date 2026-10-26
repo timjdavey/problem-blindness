@@ -25,6 +25,8 @@ An axis in the [Uncertainty](index.md#uncertainty) set of the [information](inde
 
 Do you know everything that could happen, even if you don't know which will? A lottery ticket wins or loses, and nothing else can happen. A new product can fail in ways nobody thought to list, like a rival's launch or a change in the law. The lottery is a known unknown, since you know what might happen but not which. The launch is full of unknown unknowns, the things nobody knew to ask about. Donald Rumsfeld made both names famous in 2002.
 
+The outcome nobody listed can be a windfall as well as a disaster. In 1928 Alexander Fleming came back from holiday to find a mould had killed the bacteria on one of his plates, and it gave the world penicillin. A plan with no room for surprise misses the good ones too.
+
 This axis is about gaps, not size. Go's rules decide every position, so you know every way a game could end, even though there are far too many to check. How many there are is a question for [Tractable vs intractable options](tractable-vs-intractable-options.md). When fixed rules decide the outcomes, you can work them out or sample them before you choose. When nothing does, there is nothing to sample from and the result can be something new.
 
 Leonard Savage called a world of known unknowns a small world and one with unknown unknowns a large one, and said his theory of rational choice only works in the small one. Machine learning meets the same split as open-set recognition, where a model has to notice an input from a class it never trained on.
@@ -39,7 +41,7 @@ Leonard Savage called a world of known unknowns a small world and one with unkno
 **Unknown unknowns**: Leave room for what nobody listed.
 - Make "none of these" an answer. A nurse with a triage chart or a model with fixed labels has to put every case somewhere, so a case off the list gets filed wrong. [1]
 - Don't trust a simulation to cover it. A war game or a stress test can only produce the outcomes someone built into it. [1, 3]
-- Treat a case that fits nothing as news. Ask what is going on, build the best story that explains it and test it against what others think. [3]
+- Treat a case that fits nothing as news, whether it looks like a fault or a gift. Ask what is going on, build the best story that explains it and test it against what others think. [3]
 - Prefer actions that keep options open. The one that scores best on the list you have may do badly on the outcome you didn't list. [1, 2, 3]
 - Leave slack, and people who can improvise. Apollo 13's crew survived in 1970 because engineers on the ground built a filter adapter from bags, cardboard and tape. [1, 2]
 

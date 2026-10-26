@@ -20,18 +20,22 @@ An axis in the [Randomness](index.md#randomness) set of the [environment](index.
 
 When results vary, do they stay close to the average, or can one extreme case outweigh all the rest put together? Heights are thin tailed, so the average tells you a lot. Floods, pandemics and startup returns are fat tailed, so one outlier can outweigh everything else and past averages mislead you.
 
+The outlier can be a disaster or a windfall. A flood or a crash is a bad tail, and the job is to survive it. A bestseller or a breakthrough drug is a good tail, and the job is to be there when it comes. Most of the actions below are about the bad tail, since that is the one that ends the game. But treating every fat tail as a threat makes you cut the bets that pay for all the rest.
+
 ## Actions
 
 **Thin tails**: Trust the average.
 - Go by the average. With thin tails a few odd cases won't change the picture. A clothes shop can stock the usual sizes, because no customer is ten feet tall. [1]
 - Size your sample by the usual rules. A few thousand cases pin the average down well, because no single case can drag it far. [1, 2]
 
-**Fat tails**: Plan around the worst case, not the average.
+**Fat tails**: Plan around the extremes, not the average.
+- Ask which tail you are exposed to. Cap the bad one and stay in the way of the good one. A publisher's year can rest on one book, as Bloomsbury's did on Harry Potter. [1]
 - Track the worst cases, like the worst 1% of results or the largest single loss. A good average over a calm stretch tells you nothing about the next crash. [1]
 - Stress test with extreme cases you build on purpose. The real extremes are too rare to turn up in your records by chance. [1, 3]
 - Cap your exposure. Set limits on size or spend, and carry less debt and more slack. No single bet, loan or order should be able to wipe you out. [2]
 - Change your exposure, not your forecast. The tails belong to the world, but how much a surprise costs you is up to you. [2, 3]
 - Keep most of the stake safe and put a small slice on wild bets. The safe part caps the loss and the slice keeps the upside. Options that look only a little risky tend to hide their risk until a crash. [3]
+- Where the big tail is a prize, take many small, cheap shots and judge them as a set. Most will fail, so a low hit rate or a poor median says little. What counts is whether the rare hit pays for the rest. [1, 3]
 - Don't read a long calm run as proof of safety. The event that matters most may not have happened yet. In 2007 banks measured risk as if losses followed a bell curve, and that August Goldman Sachs saw moves the bell curve says should never happen. [1, 2]
 
 ## Correlated with

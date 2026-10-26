@@ -188,8 +188,8 @@
 ## Incentives
 
 * [Skin in the game vs none](skin-in-the-game-vs-none.md)
-  * **Skin in the game**: whoever makes the call bears the cost if it goes wrong (e.g. a shopkeeper pricing their own stock).
-  * **No skin in the game**: the cost lands on someone else (e.g. a broker paid for each loan whether or not it is repaid).
+  * **Skin in the game**: whoever makes the call bears its results, good or bad (e.g. a shopkeeper pricing their own stock).
+  * **No skin in the game**: the results land on someone else, so the decider takes risks they don't pay for or passes up gains they don't share (e.g. a broker paid for each loan whether or not it is repaid).
 * [Private vs accountable](private-vs-accountable.md)
   * **Private choice**: nobody will ask you to explain or defend the choice (e.g. picking a film).
   * **Accountable choice**: you must explain and defend the choice to others (e.g. a bank refusing a loan).

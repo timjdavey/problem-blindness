@@ -28,7 +28,7 @@ The trait that sorts them is how cheaply you can undo the choice. A one-way door
 
 ## What goes wrong
 
-He warned that large firms tend to use the heavy one-way process for every decision. The result is slowness and fear of risk, and too little trying of new things. The opposite mistake is rarer but worse. Treating a one-way door as if it were two-way means rushing through something you can't take back.
+He warned that large firms tend to use the heavy one-way process for every decision. The result is slowness and fear of risk, and too little trying of new things. In his 2016 letter he added that most decisions should be made with about 70% of the information you wish you had. Wait for 90% and you are probably being slow. The opposite mistake is rarer but worse. Treating a one-way door as if it were two-way means rushing through something you can't take back.
 
 ## What to do instead
 

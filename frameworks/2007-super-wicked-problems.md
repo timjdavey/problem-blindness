@@ -24,7 +24,7 @@ sources:
 
 **Wicked problems with four extra traits. Time is running out, and the people trying to solve it are also causing it.**
 
-2007 (2012) · Kelly Levin, Benjamin Cashore, Graeme Auld and Steven Bernstein · [Key paper](https://doi.org/10.1007/s11077-012-9151-0) · Feeds 3 axes
+2007 (2012) · Kelly Levin, Benjamin Cashore, Graeme Auld and Steven Bernstein · [Key paper](https://doi.org/10.1007/s11077-012-9151-0) · Feeds 4 axes
 
 ## The idea
 
@@ -59,6 +59,7 @@ The doctors and farmers who overuse antibiotics are the same people who need the
 | [Single objective vs trade-offs](../axes/single-objective-vs-trade-offs.md) | Performance › Goal | Policies discount the future, so today's costs always seem to outweigh tomorrow's harms |
 | [Ample time vs time pressure](../axes/ample-time-vs-time-pressure.md) | Actions › Control | Time is running out, so delay makes the problem harder or impossible to fix |
 | [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md) | Actions › Control | No central authority can act, and the people trying to solve it are also causing it |
+| [Reversible vs irreversible](../axes/reversible-vs-irreversible.md) | Actions › Control | A gain that later governments could undo can be locked in with steps that are hard to reverse |
 
 ## Further reading
 

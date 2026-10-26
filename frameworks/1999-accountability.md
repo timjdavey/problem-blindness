@@ -53,7 +53,7 @@ In a 1989 study Tetlock, Linda Skitka and Richard Boettger asked people for thei
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Private vs accountable](../axes/private-vs-accountable.md) | Agent › Incentives | A choice you must defend favours methods you can put into words, even when they do worse |
+| [Private vs accountable](../axes/private-vs-accountable.md) | Agent › Incentives | A choice you must defend favours methods you can put into words, even when they do worse. Knowing you will be judged before you decide can also make you think harder |
 
 ## Further reading
 
