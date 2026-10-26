@@ -68,6 +68,7 @@ Neither end is good or bad in itself. It depends on which state you want. A syst
 - [Durable vs perishable lessons](durable-vs-perishable-lessons.md) (independent). In drift the rules slowly change. In a tip the rules stay fixed and the state jumps. Slang drifts with no tipping point, and the lake tips while the chemistry stays the same.
 - [Survivable vs ruinous](survivable-vs-ruinous.md) (logic). A tip you can't climb back from is ruin for whoever depends on the old state.
 - [Antifragile vs wears out](antifragile-vs-wears-out.md) (independent). This axis asks where the system settles after one push. That one asks how the system itself has changed after many. A bridge rights itself after every lorry and still wears out.
+- [Flat vs compounding results](flat-vs-compounding-results.md) (logic). When each adopter makes a technology more attractive to the next, the market tips to one of them and stays there, as Arthur's model shows ([Increasing returns](../frameworks/1989-increasing-returns.md)). This axis is about the state of the system, and that one is about your own base.
 
 ## Citations
 

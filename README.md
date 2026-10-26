@@ -89,7 +89,7 @@ frameworks/
 
 ## Contributing
 
-This will never be finished. If you spot a missing framework, a wrong link or a better example, please open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) covers adding an axis or framework, the tests a new axis must pass, naming and how to rename a page without breaking links.
+This will never be finished. If you spot a missing framework, a wrong link or a better example, please open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) covers adding an axis or framework, the tests a new axis must pass, naming, how to write and cite actions, which pages to update together and how to rename a page without breaking links.
 
 ## Future projects
 
