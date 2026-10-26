@@ -1,6 +1,8 @@
 ---
 type: Axis
 title: Static vs dynamic
+aliases:
+  - Still vs moving
 description: "Static world: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword). Dynamic world: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve)."
 group: environment
 subgroup: change

@@ -1,6 +1,8 @@
 ---
 type: Axis
 title: Additive vs multiplicative returns
+aliases:
+  - Additive vs multiplicative
 description: "Additive returns: gains and losses add up, so the average is what you can expect (e.g. betting the same £10 every round). Multiplicative returns: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round)."
 group: performance
 subgroup: stakes

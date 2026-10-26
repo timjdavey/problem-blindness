@@ -57,6 +57,18 @@ We've grouped the axis for sanity using Russell and Norvig's [task environment p
 | Performance | What counts as good, and what does a miss cost? | [Goal](axes/index.md#goal), [Stakes](axes/index.md#stakes) |
 | Agent | What does the task ask of whoever solves it? | [Know-how](axes/index.md#know-how), [Incentives](axes/index.md#incentives) |
 
+## How to reference axes
+
+Link to the axis page, like [`axes/thin-vs-fat-tails.md`](axes/thin-vs-fat-tails.md). Names still change as we find better words, but a renamed page leaves a note at its old path that points to the new one. So a link you make today keeps working, at worst one click from the page it meant.
+
+To tag a task, write the end labels in lower case with hyphens. No two ends share a label, so `fat-tails` can only mean one end of one axis. Here is the heart attack from the quick taste.
+
+```text
+Putting in the stent    immediate-feedback, verifiable, tacit-know-how
+Deciding whether to     delayed-feedback, unverifiable, explicit-know-how
+```
+
+A renamed page lists its old names under `aliases` in its front matter, so a search for an old name still finds it.
 
 ## What's in the repo
 
@@ -82,9 +94,9 @@ This will never be finished. If you spot a missing framework, a wrong link or a 
 | Adding | File | Front matter | Then |
 |---|---|---|---|
 | A framework | `frameworks/1973-tame-vs-wicked-problems.md` | `type: Framework`, `title`, `description`, `date`, `creators`, `sources` (3 or more, each with a `title`) | Follow the [page layout](frameworks/README.md#whats-on-a-framework-page), then add it to the [frameworks index](frameworks/index.md) |
-| An axis | `axes/thin-vs-fat-tails.md` | `type: Axis`, `title`, `description` (each end in one line), `group`, `subgroup`, `easy_end`, `hard_end`, `sources` | Add it to the [axes index](axes/index.md) under its set, and link the axes it moves with |
+| An axis | `axes/thin-vs-fat-tails.md` | `type: Axis`, `title`, `description` (each end in one line), `group`, `subgroup`, `easy_end`, `hard_end`, `sources`, and `aliases` once it has been renamed | Add it to the [axes index](axes/index.md) under its set, and link the axes it moves with |
 
-Each end label must make sense on its own, so write "Fat tails" rather than "Fat" ([Naming rules](axes/README.md#naming-rules)). Each action must cite a source, so an action nothing backs doesn't go in.
+Each end label must make sense on its own, so write "Fat tails" rather than "Fat" ([Naming rules](axes/README.md#naming-rules)). No two ends may share a label, since tags are built from them. Each action must cite a source, so an action nothing backs doesn't go in.
 
 Most new axes turn out to be an old one in new words, so a new axis has to pass [three tests](axes/README.md#three-tests-for-a-new-axis).
 
@@ -94,6 +106,26 @@ Most new axes turn out to be an old one in new words, so a new axis has to pass 
 
 An idea that fails the second or third test goes in as a note on the axis that covers it. Record big changes in [log.md](log.md).
 
+### Renaming a page
+
+Other repos link to our filenames, so a page's old path has to keep working after a rename.
+
+1. **Move the file** with `git mv`, so its history follows it.
+2. **Leave a note at the old path.** It is not listed in any index.
+   ```markdown
+   ---
+   type: Redirect
+   title: Still vs moving
+   redirect: /axes/static-vs-dynamic.md
+   ---
+   # Still vs moving
+
+   Renamed to [Static vs dynamic](static-vs-dynamic.md).
+   ```
+3. **Add the old name to `aliases`** in the renamed page's front matter.
+4. **Update every link in the repo** to the new path, and record the rename in [log.md](log.md).
+
+A merge or split works the same way. The note points to the page that took it in, or to both halves.
 
 ## Future projects
 

@@ -1,6 +1,8 @@
 ---
 type: Axis
 title: Verifiable vs unverifiable
+aliases:
+  - Easy vs hard to verify
 description: "Verifiable: you can check an answer quickly and cheaply before you act on it (e.g. a solved sudoku). Unverifiable: checking an answer costs about as much as finding it, or more, so in practice you can't check it before you act (e.g. a business strategy)."
 group: information
 subgroup: evidence

@@ -1,6 +1,8 @@
 ---
 type: Axis
 title: Well vs ill-structured
+aliases:
+  - Well-posed vs ill-posed
 description: "Well-structured: the problem is clearly stated, with a known goal, known moves and a clear end (e.g. a maths exam question). Ill-structured: working out what the problem is, or how to attack it, becomes part of the job (e.g. \"fix homelessness\")."
 group: performance
 subgroup: goal

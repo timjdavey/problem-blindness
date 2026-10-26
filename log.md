@@ -1,5 +1,9 @@
 # Update Log
 
+## 2026-10-26
+
+* **Update**: Added [How to reference axes](/README.md#how-to-reference-axes) to the README. Twenty of the 47 axes have been renamed at least once, and other repos will link to our filenames, so a rename must not break those links. From now on a renamed page leaves a note at its old path that points to the new one, and the [renaming steps](/README.md#renaming-a-page) say how. Permanent codes like `A04` were tried and dropped, since nobody would link with them and `A23-` means nothing without the index open. Tasks are tagged with the end labels instead, like `fat-tails`, and no two ends may share a label. The 20 renamed axes now list their old names under `aliases`.
+
 ## 2026-10-23
 
 * **Update**: Gave every [framework page](/frameworks/README.md#whats-on-a-framework-page) the same skimmable layout. Each opens with a bold tagline and a line giving the date, the creators, the original source and how many axes it feeds. The prose sits under The idea, What goes wrong and What to do instead, and each example has its own heading. The axes a framework feeds used to sit in one sentence at the end of the prose. They are now an Axes table that gives each axis's group and what the framework adds to it. Each page used to link one source, often a paywalled DOI or a Wikipedia article. Now each has three to five under Further reading, such as the original, a free legal copy, the Wikipedia article and a critique or follow up. Every link was opened and checked, and every DOI was matched against Crossref. Where Wikipedia had been the only source, the original work now comes first.

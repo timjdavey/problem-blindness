@@ -1,6 +1,8 @@
 ---
 type: Axis
 title: Single objective vs trade-offs
+aliases:
+  - Single vs multiple objectives
 description: "Single objective: there is one thing to get right (e.g. the fastest route home). Trade-offs: several goals pull against each other, so a gain on one costs you on another (e.g. price against safety in a new car)."
 group: performance
 subgroup: goal

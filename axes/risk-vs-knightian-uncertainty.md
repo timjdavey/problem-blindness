@@ -1,6 +1,8 @@
 ---
 type: Axis
 title: Risk vs Knightian uncertainty
+aliases:
+  - Known vs unknown odds
 description: "Measurable risk: you can put a number you trust on each outcome (e.g. a dice roll). Knightian uncertainty: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off)."
 group: information
 subgroup: uncertainty

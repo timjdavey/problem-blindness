@@ -1,6 +1,8 @@
 ---
 type: Axis
 title: Interventional vs observational
+aliases:
+  - Test vs watch
 description: "Interventional: you can set the cause yourself and let chance decide who gets it (e.g. a drug trial). Observational: people's own choices or nature set the cause, so you can only watch what follows and guess (e.g. a study of nurses who chose hormone therapy)."
 group: information
 subgroup: evidence

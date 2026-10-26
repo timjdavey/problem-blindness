@@ -1,6 +1,8 @@
 ---
 type: Axis
 title: Diversifiable vs single bet
+aliases:
+  - Spread vs single bet
 description: "Diversifiable: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares). Single bet: you can only take one course of action, so everything rides on it (e.g. which job offer to accept)."
 group: actions
 subgroup: options

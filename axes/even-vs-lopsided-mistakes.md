@@ -1,6 +1,8 @@
 ---
 type: Axis
 title: Even vs lopsided mistakes
+aliases:
+  - Even vs lopsided errors
 description: "Even mistakes: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella). Lopsided mistakes: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire)."
 group: performance
 subgroup: stakes

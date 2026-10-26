@@ -1,6 +1,8 @@
 ---
 type: Axis
 title: Given vs invented options
+aliases:
+  - Choose vs design the options
 description: "Given options: the options are handed to you to pick from (e.g. a mortgage from a bank's list). Invented options: you have to invent the options first (e.g. saving a dying high street)."
 group: actions
 subgroup: options
