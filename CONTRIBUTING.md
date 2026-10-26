@@ -48,11 +48,11 @@ Other repos link to our filenames, so a page's old path has to keep working afte
    ---
    type: Redirect
    title: Still vs moving
-   redirect: /axes/static-vs-dynamic.md
+   redirect: /axes/turn-based-vs-real-time.md
    ---
    # Still vs moving
 
-   Renamed to [Static vs dynamic](static-vs-dynamic.md).
+   Renamed to [Turn-based vs real-time](turn-based-vs-real-time.md).
    ```
 3. **Add the old name to `aliases`** in the renamed page's front matter.
 4. **Update every link in the repo** to the new path, and record the rename in [log.md](log.md).

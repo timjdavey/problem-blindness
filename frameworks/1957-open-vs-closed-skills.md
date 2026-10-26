@@ -50,7 +50,7 @@ Gentile's grid shows why closed is not one thing. Hitting the same putt from the
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Static vs dynamic](../axes/static-vs-dynamic.md) | Environment › Change | A closed skill's world waits for you, while an open skill's world moves as you act |
+| [Turn-based vs real-time](../axes/turn-based-vs-real-time.md) | Environment › Change | A closed skill's world waits for you, while an open skill's world moves as you act |
 
 ## Further reading
 

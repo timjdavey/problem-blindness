@@ -53,7 +53,7 @@ On 18 March 2018 a self-driving Uber test car killed Elaine Herzberg as she push
 |---|---|---|
 | [Deterministic vs stochastic](../axes/deterministic-vs-stochastic.md) | Environment › Randomness | Whether an action always has the same result or chance gets a say |
 | [Neutral vs adversarial](../axes/neutral-vs-adversarial.md) | Environment › Reactivity | Whether other agents are acting, and whether they compete or help |
-| [Static vs dynamic](../axes/static-vs-dynamic.md) | Environment › Change | Whether the world changes while the agent thinks |
+| [Turn-based vs real-time](../axes/turn-based-vs-real-time.md) | Environment › Change | Whether the world changes while the agent thinks |
 | [Standalone vs sequential](../axes/standalone-vs-sequential.md) | Actions › Options | Whether each choice stands alone or shapes the ones that follow |
 | [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) | Information › Uncertainty | Whether the agent can see everything that matters, or some of it is hidden |
 | [Transparent vs opaque causes](../axes/transparent-vs-opaque-causes.md) | Information › Evidence | Whether the agent even knows the rules of its world |

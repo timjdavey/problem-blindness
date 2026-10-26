@@ -52,7 +52,7 @@ Have there been enough past cases like this one to learn the pattern from, or so
 - [Interventional vs observational](interventional-vs-observational.md) (independent). The 1991 nurses study had nearly 50,000 women and still got the cause backwards. A pile of data from watching can't tell you what happens when you step in ([Ladder of causation](../frameworks/2000-ladder-of-causation.md)).
 - [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (logic). Pooling runs that disagree gives a lot of data that describes none of them. A big record only helps if its cases draw from the same spread.
 - [Clustered vs scattered runs](clustered-vs-scattered-runs.md) (logic). With clear groups a few readings can rule a whole group out, so a little data goes a long way ([Cohesion](../frameworks/2023-cohesion.md)).
-- [Static vs dynamic](static-vs-dynamic.md) (logic). Ann Gentile split out settings that sit still during each attempt but differ from one attempt to the next, like a billiards table. Like varied cases here, they need practice across many setups, not one.
+- [Turn-based vs real-time](turn-based-vs-real-time.md) (logic). Ann Gentile split out settings that sit still during each attempt but differ from one attempt to the next, like a billiards table. Like varied cases here, they need practice across many setups, not one.
 
 ## Citations
 

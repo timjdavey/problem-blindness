@@ -27,9 +27,9 @@
 * [Durable vs perishable lessons](durable-vs-perishable-lessons.md)
   * **Durable lessons**: the patterns in past data still hold today, so what you learnt keeps working (e.g. gravity).
   * **Perishable lessons**: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang).
-* [Static vs dynamic](static-vs-dynamic.md)
-  * **Static world**: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword).
-  * **Dynamic world**: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).
+* [Turn-based vs real-time](turn-based-vs-real-time.md)
+  * **Turn-based world**: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword).
+  * **Real-time world**: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).
 
 ## Stimulus
 

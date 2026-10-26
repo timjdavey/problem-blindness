@@ -48,7 +48,7 @@ Standalone doesn't mean one-shot. A single choice you can't repeat or take back 
 - [Direct vs proxy measure](direct-vs-proxy-measure.md) (logic). Each step can show you a want the goal left out, so over a chain of choices the goal itself can move ([Single vs double-loop learning](../frameworks/1978-single-vs-double-loop-learning.md)).
 - [Diversifiable vs single bet](diversifiable-vs-single-bet.md) (independent). That axis asks whether you can back several options at once. This one asks whether each choice shapes the next. A [bandit](../frameworks/1933-multi-armed-bandit.md) makes one pull at a time and each pull shapes what it tries next, while a fund can back a hundred shares and treat each as its own call.
 - [Curable vs chronic](curable-vs-chronic.md) (logic). Each round of work on an ongoing problem starts from where the last one left things. But a chain of choices can still end, as treating a long illness does when the patient is well.
-- [Static vs dynamic](static-vs-dynamic.md) (logic). Here your own choices change what comes next. In a dynamic world things change even if you do nothing. Chess by post is a long chain of choices, and the board still waits for you.
+- [Turn-based vs real-time](turn-based-vs-real-time.md) (logic). Here your own choices change what comes next. In a real-time world things change even if you do nothing. Chess by post is a long chain of choices, and the board still waits for you.
 
 ## Citations
 

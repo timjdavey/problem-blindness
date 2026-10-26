@@ -43,7 +43,7 @@ When one part fails, is there slack and time to step in, or does the fault sprea
 - [Self-righting vs tipping](self-righting-vs-tipping.md) (logic). A cascade is a tip that spreads. One part flips and pushes the next one over its own edge.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (study). Cascades turn many small faults into rare huge losses, as in the 2010 flash crash.
 - [Decomposable vs tangled](decomposable-vs-tangled.md) (independent). Perrow treats how tangled the parts are and how tight the links are as separate traits.
-- [Static vs dynamic](static-vs-dynamic.md) (logic). When a tightly coupled system fails, the fault spreads while you are still working out what happened, so the world moves on under you.
+- [Turn-based vs real-time](turn-based-vs-real-time.md) (logic). When a tightly coupled system fails, the fault spreads while you are still working out what happened, so the world moves on under you.
 
 ## Citations
 
