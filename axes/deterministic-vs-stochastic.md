@@ -46,7 +46,7 @@ A number can jump about for two reasons, and they look the same on a chart. The 
 - Give odds, not certainties, and keep a record of how they turn out. Things you call 70% likely should happen about 70% of the time. [3, 6, 7]
 - Decide as a policy over many cases. Ask what rule gives the best results across the whole group, not what suits this one. In repeated, noisy calls, simple formulas matched or beat expert judgement in nearly every study Meehl gathered. [1, 2]
 - Don't judge a call by one outcome. A poker player can bet right and still lose the hand. Judge the call by what was known when it was made, and the caller by the rate across many calls. [5]
-- Don't re-aim after every reading. Deming dropped marbles through a funnel and moved the funnel after each drop to cancel the miss, and the spread roughly doubled. Learn the usual spread first, and act only on a reading that falls outside it or a run that drifts one way. [4]
+- Don't re-aim after every reading. Deming dropped marbles through a funnel and moved the funnel after each drop to cancel the miss, and the variance doubled. Learn the usual spread first, and act only on a reading that falls outside it or a run that drifts one way. [4]
 
 ## Correlated with
 
