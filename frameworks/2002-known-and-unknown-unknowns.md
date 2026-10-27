@@ -55,7 +55,7 @@ The briefing where Rumsfeld spoke was about whether Iraq could give weapons to t
 | Axis | Group | What this framework adds |
 |---|---|---|
 | [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) | Information › Uncertainty | A gap you name can be researched or planned round |
-| [Known vs unknown unknowns](../axes/known-vs-unknown-unknowns.md) | Information › Uncertainty | Unknown unknowns are the outcomes nobody thought to list |
+| [Known vs unknown unknowns](../axes/known-vs-unknown-unknowns.md) | Information › Uncertainty | The names for the two ends, and the worst surprises come from gaps nobody knew to look for |
 
 ## Further reading
 

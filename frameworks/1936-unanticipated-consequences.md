@@ -34,7 +34,7 @@ The mistake is to judge a plan only by whether it hits its target. The plan work
 
 ## What to do instead
 
-The better response is to ask what else your action will touch before you take it, and to keep watching after you do. Merton's five causes work as a checklist. Ask what you don't know, where an old habit might mislead you, what you are too keen to look past, what your values stop you weighing and whether announcing the plan will change how people act.
+The better response is to ask what else your action will touch before you take it, and to keep watching after you do. Merton's five causes work as a checklist. Ask what you don't know and where an old habit might mislead you. Ask what you are too keen to look past and what your values stop you weighing. Then ask whether announcing the plan will change how people act.
 
 ## Examples
 

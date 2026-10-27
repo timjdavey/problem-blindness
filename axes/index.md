@@ -76,6 +76,9 @@
 * [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md)
   * **Reducible uncertainty**: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test).
   * **Irreducible uncertainty**: no test or research could settle it, because the answer isn't out there yet to find (e.g. whether a rival cuts prices next year).
+* [Known vs unknown unknowns](known-vs-unknown-unknowns.md)
+  * **Known unknowns**: you know which facts you're missing, even if you can't get them yet (e.g. waiting on a house survey).
+  * **Unknown unknowns**: some of the facts that matter are ones nobody thought to ask about, so they never make the list (e.g. a neighbour's dog that barks all night).
 * [Foreseeable vs unforeseeable outcomes](foreseeable-vs-unforeseeable-outcomes.md)
   * **Foreseeable outcomes**: you don't know which outcome will come, but you can list every one that could, however many there are (e.g. a lottery ticket).
   * **Unforeseeable outcomes**: things can turn out in ways nobody could have listed in advance, so the result could be something nobody thought of (e.g. a new product hit by a change in the law).

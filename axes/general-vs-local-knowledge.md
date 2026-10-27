@@ -40,6 +40,7 @@ Does the answer rest on facts anyone could look up, or on facts about this place
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (logic). Local facts are often out of sight for anyone far away, so to head office they are reducible doubt. But this axis is about who holds the facts. The shop manager can see the stock levels. Head office can't.
 - [Durable vs perishable lessons](durable-vs-perishable-lessons.md) (logic). Hayek's point was that local circumstances change every day, so local facts go stale fast.
 - [Symmetric vs asymmetric information](symmetric-vs-asymmetric-information.md) (logic). When whoever holds the local facts has a stake in your decision, trusting the person on the ground is the wrong move. A shop manager has no reason to miscount the stock. A used car seller has every reason to keep quiet about the gearbox.
+- [Known vs unknown unknowns](known-vs-unknown-unknowns.md) (logic). The people on the spot often know which questions matter. Anyone living next door could have told you the neighbour's dog barks all night.
 
 ## Citations
 
