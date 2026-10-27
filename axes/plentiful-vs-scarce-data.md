@@ -7,6 +7,8 @@ subgroup: evidence
 easy_end: Plentiful data
 hard_end: Scarce data
 sources:
+  - resource: /frameworks/1943-survivorship-bias.md
+    title: Survivorship bias
   - resource: /frameworks/1954-clinical-vs-statistical-prediction.md
     title: Clinical vs statistical prediction
   - resource: /frameworks/1967-routine-vs-non-routine-technology.md
@@ -29,17 +31,18 @@ Have there been enough past cases like this one to learn the pattern from, or so
 ## Actions
 
 **Plentiful data**: Let the cases teach you the pattern.
-- Prefer a formula to expert judgement on a decision that comes round often. Meehl found formulas matched or beat clinicians in nearly every study he gathered. [1]
-- Fit a full model when cases are many and the world holds still. A rule of thumb there throws away accuracy that a proper model would give. [5]
-- Keep some cases back for testing. In one contest regression came first on data it had already seen. On fresh data it dropped the most, and a simpler rule won. [5]
+- Prefer a formula to expert judgement on a decision that comes round often. Meehl found formulas matched or beat clinicians in nearly every study he gathered. [2]
+- Fit a full model when cases are many and the world holds still. A rule of thumb there throws away accuracy that a proper model would give. [6]
+- Keep some cases back for testing. In one contest regression came first on data it had already seen. On fresh data it dropped the most, and a simpler rule won. [6]
+- Ask how the cases reached you, and what never did. Bombers that came back showed hits on the wings and body and few on the engines, because the ones hit in the engine never came back. A record of survivors tells you what survives. [1]
 
 **Scarce data**: Borrow knowledge from elsewhere.
-- Borrow what was learnt on related problems. A vet seeing a rare breed draws on every dog they have treated, and a pre-trained model draws on other data. Either way you need far fewer cases of your own. [6]
-- Start from the spread of results in similar cases, then adjust for what is really different about yours. This is the outside view, and it is less hopeful than reasoning from one case's details. [4]
-- Prefer a simple rule to a model with many dials. With few cases, luck sets the dials and the forecasts swing about. [5]
-- Let judgement overrule the formula only for a fact the formula can't hold. Meehl's example is a formula that says a professor goes to the cinema every Tuesday. If he broke his leg this morning, overrule it. [1]
-- Don't trust a short track record. With few cases luck and skill look alike, like a fund manager after three good years. [3]
-- Count by kind of case, not in total. A support inbox can hold millions of tickets and still have only a handful of each odd kind. Charles Perrow warned against forcing such cases through a process built for the common ones. [2]
+- Borrow what was learnt on related problems. A vet seeing a rare breed draws on every dog they have treated, and a pre-trained model draws on other data. Either way you need far fewer cases of your own. [7]
+- Start from the spread of results in similar cases, then adjust for what is really different about yours. This is the outside view, and it is less hopeful than reasoning from one case's details. [5]
+- Prefer a simple rule to a model with many dials. With few cases, luck sets the dials and the forecasts swing about. [6]
+- Let judgement overrule the formula only for a fact the formula can't hold. Meehl's example is a formula that says a professor goes to the cinema every Tuesday. If he broke his leg this morning, overrule it. [2]
+- Don't trust a short track record. With few cases luck and skill look alike, like a fund manager after three good years. [4]
+- Count by kind of case, not in total. A support inbox can hold millions of tickets and still have only a handful of each odd kind. Charles Perrow warned against forcing such cases through a process built for the common ones. [3]
 
 ## Correlated with
 
@@ -56,14 +59,16 @@ Have there been enough past cases like this one to learn the pattern from, or so
 
 ## Citations
 
-[1] [Clinical vs statistical prediction](../frameworks/1954-clinical-vs-statistical-prediction.md)
+[1] [Survivorship bias](../frameworks/1943-survivorship-bias.md)
 
-[2] [Routine vs non-routine technology](../frameworks/1967-routine-vs-non-routine-technology.md)
+[2] [Clinical vs statistical prediction](../frameworks/1954-clinical-vs-statistical-prediction.md)
 
-[3] [Task characteristics of expertise](../frameworks/1992-task-characteristics-of-expertise.md)
+[3] [Routine vs non-routine technology](../frameworks/1967-routine-vs-non-routine-technology.md)
 
-[4] [Inside vs outside view](../frameworks/1993-inside-vs-outside-view.md)
+[4] [Task characteristics of expertise](../frameworks/1992-task-characteristics-of-expertise.md)
 
-[5] [Ecological rationality](../frameworks/1999-ecological-rationality.md)
+[5] [Inside vs outside view](../frameworks/1993-inside-vs-outside-view.md)
 
-[6] [A survey on transfer learning (Pan, 2010)](https://doi.org/10.1109/TKDE.2009.191)
+[6] [Ecological rationality](../frameworks/1999-ecological-rationality.md)
+
+[7] [A survey on transfer learning (Pan, 2010)](https://doi.org/10.1109/TKDE.2009.191)
