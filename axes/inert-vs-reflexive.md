@@ -11,6 +11,8 @@ sources:
     title: Keynesian beauty contest
   - resource: /frameworks/1948-self-fulfilling-prophecy.md
     title: Self-fulfilling prophecy
+  - resource: /frameworks/1965-efficient-markets.md
+    title: Efficient markets
   - resource: /frameworks/1976-lucas-critique.md
     title: Lucas critique
   - resource: /frameworks/1987-reflexivity.md
@@ -33,18 +35,19 @@ The worst case is when your own action makes the result you take as proof. Robin
 ## Actions
 
 **Inert**: Measure and act freely.
-- Learn from the record as it stands. Your forecast won't change the thing you forecast, so the record is a fair one. [2, 3]
+- Learn from the record as it stands. Your forecast won't change the thing you forecast, so the record is a fair one. [2, 4]
 - Publish scores and forecasts openly. A rock doesn't move because you said where it was. [2]
 - Judge the thing itself. Treating a plain question of fact as a guess about what others think just has you chasing fashion. [1]
 
 **Reflexive**: Expect what you put out to change the world you learnt it from.
-- Ask what people will do once they see your forecast, score or decision, and build on what that won't change. A shop that holds a sale every week soon finds shoppers wait for it. [3]
+- Ask what people will do once they see your forecast, score or decision, and build on what that won't change. A shop that holds a sale every week soon finds shoppers wait for it. [4]
+- Ask why an easy answer is still on offer. Where many people act on the same facts, the price already carries them, so an edge anyone can see has usually been taken. What is left pays only for facts that cost something to find. [3]
 - When the payoff rests on what others think, study them and how long you can wait. You can be right about the facts and still lose, because the crowd can stay wrong longer than you can hold out. [1]
-- Leave a small group, picked at random, that your rule doesn't touch. It shows you what would have happened without the rule. A lender trying a new credit score can approve a few applicants at random, whatever the score says, and see how they repay. [6]
-- Watch for loops that feed on themselves, and for the point where they turn. A bookshop that only puts its best sellers in the window keeps them best sellers, and narrows until it sells the same few books. [4, 6]
+- Leave a small group, picked at random, that your rule doesn't touch. It shows you what would have happened without the rule. A lender trying a new credit score can approve a few applicants at random, whatever the score says, and see how they repay. [7]
+- Watch for loops that feed on themselves, and for the point where they turn. A bookshop that only puts its best sellers in the window keeps them best sellers, and narrows until it sells the same few books. [5, 7]
 - Break the loop where you can. Once the government guaranteed all deposits, the 2007 run on Northern Rock stopped, because the rumour had nothing left to feed on. [2]
-- Feed a loop that runs your way. A teacher who expects more of a pupil asks them more and gets more back, though later studies found the effect much smaller than first claimed. Soros made his money riding booms while the beliefs were still feeding them. [2, 4]
-- Don't read the results as proof you were right. Once people act on your forecast the results carry its effect, so get a check from outside the loop. [2, 4, 5]
+- Feed a loop that runs your way. A teacher who expects more of a pupil asks them more and gets more back, though later studies found the effect much smaller than first claimed. Soros made his money riding booms while the beliefs were still feeding them. [2, 5]
+- Don't read the results as proof you were right. Once people act on your forecast the results carry its effect, so get a check from outside the loop. [2, 5, 6]
 
 ## Correlated with
 
@@ -61,10 +64,12 @@ The worst case is when your own action makes the result you take as proof. Robin
 
 [2] [Self-fulfilling prophecy](../frameworks/1948-self-fulfilling-prophecy.md)
 
-[3] [Lucas critique](../frameworks/1976-lucas-critique.md)
+[3] [Efficient markets](../frameworks/1965-efficient-markets.md)
 
-[4] [Reflexivity](../frameworks/1987-reflexivity.md)
+[4] [Lucas critique](../frameworks/1976-lucas-critique.md)
 
-[5] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)
+[5] [Reflexivity](../frameworks/1987-reflexivity.md)
 
-[6] [Hidden technical debt in machine learning systems (Sculley, 2015)](https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html)
+[6] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)
+
+[7] [Hidden technical debt in machine learning systems (Sculley, 2015)](https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html)
