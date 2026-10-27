@@ -1,8 +1,6 @@
 ---
 type: Axis
 title: Winnable vs no-win
-aliases:
-  - Winnable vs damage limitation
 description: "Winnable: a clean win is possible, so you can come out ahead (e.g. proving a famous theorem). No-win: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with no engines)."
 group: performance
 subgroup: stakes

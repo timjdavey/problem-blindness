@@ -1,8 +1,5 @@
 ---
 type: Axis
-aliases:
-  - Still vs moving
-  - Static vs dynamic
 title: Turn-based vs real-time
 description: "Turn-based world: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword). Real-time world: the situation keeps moving while you work on it, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve)."
 group: environment

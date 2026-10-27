@@ -1,7 +1,5 @@
 ---
 type: Axis
-aliases:
-  - Loose vs tight coupling
 title: Buffered vs cascading
 description: "Buffered system: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest). Cascading system: a fault spreads to other parts before anyone can react (e.g. a power grid)."
 group: environment

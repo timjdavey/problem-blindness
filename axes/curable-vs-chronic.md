@@ -1,9 +1,6 @@
 ---
 type: Axis
 title: Curable vs chronic
-aliases:
-  - Ends vs never-ending
-  - Finite vs ongoing
 description: "Curable: there is a point where the problem is solved and you can stop (e.g. wiping out smallpox). Chronic: there is no solved state, only a level you have to keep up (e.g. keeping malaria down)."
 group: performance
 subgroup: goal

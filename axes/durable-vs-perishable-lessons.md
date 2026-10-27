@@ -1,7 +1,5 @@
 ---
 type: Axis
-aliases:
-  - Stationary vs drifting
 title: Durable vs perishable lessons
 description: "Durable lessons: the rules behind your past data still hold, so what you learnt keeps working (e.g. gravity). Perishable lessons: the rules behind your past data keep changing, so what you learnt goes stale (e.g. fashion and slang)."
 group: environment

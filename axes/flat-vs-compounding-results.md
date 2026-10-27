@@ -1,9 +1,6 @@
 ---
 type: Axis
 title: Flat vs compounding results
-aliases:
-  - Additive vs multiplicative
-  - Additive vs multiplicative returns
 description: "Flat results: each result is banked and the next round starts from the same place, so the average is what you can expect (e.g. betting the same £10 every round). Compounding results: each result grows or shrinks what you have to work with next time, so one path can end far from the average (e.g. savings, or a scientist's reputation)."
 group: performance
 subgroup: stakes

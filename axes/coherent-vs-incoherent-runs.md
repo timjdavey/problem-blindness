@@ -1,8 +1,6 @@
 ---
 type: Axis
 title: Coherent vs incoherent runs
-aliases:
-  - Coherent vs incoherent
 description: "Coherent runs: run the whole system again and you get the same spread of results, so the pooled average stands for any run (e.g. a thousand dice rolls on Monday look like a thousand on Tuesday). Incoherent runs: each run settles somewhere different, so the pooled average describes none of them (e.g. climate model runs that split into warm and cold futures)."
 group: environment
 subgroup: randomness

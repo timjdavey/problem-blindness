@@ -1,8 +1,6 @@
 ---
 type: Axis
 title: Tractable vs intractable options
-aliases:
-  - Tractable vs intractable search
 description: "Tractable options: you know every option, and there are few enough to try each one and keep the best (e.g. noughts and crosses). Intractable options: you know every option, but there are too many to try, even with every computer on earth (e.g. Go, with about 10¹⁷⁰ legal board positions)."
 group: environment
 subgroup: structure

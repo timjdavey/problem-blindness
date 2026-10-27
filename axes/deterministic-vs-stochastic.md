@@ -1,8 +1,6 @@
 ---
 type: Axis
 title: Deterministic vs stochastic
-aliases:
-  - Deterministic vs statistical
 description: "Deterministic: the same inputs always give exactly the same output (e.g. a sum). Stochastic: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter)."
 group: environment
 subgroup: randomness

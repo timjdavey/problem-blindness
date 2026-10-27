@@ -1,8 +1,6 @@
 ---
 type: Axis
 title: Stable vs chaotic
-aliases:
-  - Long vs short predictability horizon
 description: "Lyapunov stable: small errors in what you know today stay small, so you can forecast far ahead (e.g. the tides). Chaotic: tiny errors grow fast, so a forecast soon becomes useless (e.g. the weather two weeks out)."
 group: environment
 subgroup: change

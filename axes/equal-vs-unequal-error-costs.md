@@ -1,9 +1,6 @@
 ---
 type: Axis
 title: Equal vs unequal error costs
-aliases:
-  - Even vs lopsided errors
-  - Even vs lopsided mistakes
 description: "Equal error costs: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella). Unequal error costs: one mistake costs far more than the other, whether it lets in a harm or lets a prize slip (e.g. a smoke alarm that stays quiet in a fire, or an investor who passes on the next Google)."
 group: performance
 subgroup: stakes

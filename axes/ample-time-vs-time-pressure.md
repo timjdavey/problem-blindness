@@ -1,8 +1,6 @@
 ---
 type: Axis
 title: Ample time vs time pressure
-aliases:
-  - Slack vs time pressure
 description: "Ample time: you have time to gather facts and think before things change (e.g. a pension plan). Time pressure: you must act in seconds or minutes (e.g. a pilot with a failed engine)."
 group: actions
 subgroup: control

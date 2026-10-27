@@ -1,8 +1,6 @@
 ---
 type: Axis
 title: Standalone vs sequential
-aliases:
-  - One-shot vs sequential
 description: "Standalone: each choice stands alone, so one doesn't change the next (e.g. checking invoices for fraud). Sequential: each choice shapes the next, so it is hard to tell which one caused the result (e.g. treating a long illness)."
 group: actions
 subgroup: options

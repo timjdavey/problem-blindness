@@ -59,7 +59,7 @@ We've grouped the axis for sanity using Russell and Norvig's [task environment p
 
 ## How to reference axes
 
-Link to the axis page, like [`axes/thin-vs-fat-tails.md`](axes/thin-vs-fat-tails.md). Names still change as we find better words, and a renamed page moves to its new path. It lists its old names under `aliases` in its front matter, so a search for an old name still finds it.
+Link to the axis page, like [`axes/thin-vs-fat-tails.md`](axes/thin-vs-fat-tails.md). Names still change as we find better words, and a renamed page moves to its new path.
 
 To tag a task, write the end labels in lower case with hyphens. No two ends share a label, so `fat-tails` can only mean one end of one axis. Here is the heart attack from the quick taste.
 

@@ -18,7 +18,7 @@ Every file starts with YAML front matter that needs a `type`, as the [Open Knowl
 | Adding | File | Front matter | Then |
 |---|---|---|---|
 | A framework | `frameworks/1973-tame-vs-wicked-problems.md` | `type: Framework`, `title`, `description`, `date`, `creators`, `sources` (3 or more, each with a `title`), plus `cited_date` if most people cite a later version | Follow the [page layout](frameworks/README.md#whats-on-a-framework-page), then add it to the [frameworks index](frameworks/index.md) |
-| An axis | `axes/thin-vs-fat-tails.md` | `type: Axis`, `title`, `description` (each end in one line), `group`, `subgroup`, `easy_end`, `hard_end`, `sources`, plus `middle` if it names one and `aliases` once it has been renamed | Follow the [page layout](axes/README.md#whats-on-an-axis-page), then add it to the [axes index](axes/index.md) under its set and link the axes it moves with |
+| An axis | `axes/thin-vs-fat-tails.md` | `type: Axis`, `title`, `description` (each end in one line), `group`, `subgroup`, `easy_end`, `hard_end`, `sources`, plus `middle` if it names one | Follow the [page layout](axes/README.md#whats-on-an-axis-page), then add it to the [axes index](axes/index.md) under its set and link the axes it moves with |
 
 A few fields have a fixed form.
 
@@ -78,8 +78,7 @@ A framework can feed no axes, like [No free lunch](frameworks/1997-no-free-lunch
 ## Renaming a page
 
 1. **Move the file** with `git mv`, so its history follows it. Nothing is left at the old path.
-2. **Add the old name to `aliases`** in the renamed page's front matter.
-3. **Update every link in the repo** to the new path, and record the rename in [log.md](log.md).
+2. **Update every link in the repo** to the new path, and record the rename in [log.md](log.md).
 
 A merge or split works the same way. Every link moves to the page that took it in, or to the right half.
 

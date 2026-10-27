@@ -1,8 +1,5 @@
 ---
 type: Axis
-aliases:
-  - Decomposable vs holistic
-  - Decomposable vs tangled
 title: Reductionist vs holistic
 description: "Reductionist problem: you can solve each part on its own and put them back together (e.g. a car engine). Holistic problem: each part only makes sense in light of the others (e.g. a company culture)."
 group: environment

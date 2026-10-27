@@ -1,7 +1,5 @@
 ---
 type: Axis
-aliases:
-  - Smooth vs rugged
 title: Forgiving vs exacting
 description: "Forgiving landscape: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup). Exacting landscape: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code)."
 group: environment

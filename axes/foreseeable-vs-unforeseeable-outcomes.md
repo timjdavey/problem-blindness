@@ -1,8 +1,5 @@
 ---
 type: Axis
-aliases:
-  - Small vs large world
-  - Closed vs open outcomes
 title: Foreseeable vs unforeseeable outcomes
 description: "Foreseeable outcomes: you don't know which outcome will come, but you can list every one that could, however many there are (e.g. a lottery ticket). Unforeseeable outcomes: things can turn out in ways nobody could have listed in advance, so the result could be something nobody thought of (e.g. a new product hit by a change in the law)."
 group: information
