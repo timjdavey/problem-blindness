@@ -46,6 +46,7 @@ When one part fails, does the fault stay where it started, or does it spread fro
 - [Thin vs fat tails](thin-vs-fat-tails.md) (study). Cascades turn many small faults into rare huge losses, as in the 2010 flash crash.
 - [Reductionist vs holistic](reductionist-vs-holistic.md) (independent). Perrow treats how tangled the parts are and how tightly they are coupled as separate traits.
 - [Turn-based vs real-time](turn-based-vs-real-time.md) (logic). When a cascading system fails, the fault spreads while you are still working out what happened, so the world moves on under you.
+- [Foreseeable vs unforeseeable outcomes](foreseeable-vs-unforeseeable-outcomes.md) (logic). A cascade carries a fault to parts nobody thought it could reach, so the outcomes are ones nobody listed.
 
 ## Citations
 

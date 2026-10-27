@@ -56,7 +56,7 @@ At eighteen you can't list the jobs that will exist when you are forty. Nobody c
 | Axis | Group | What this framework adds |
 |---|---|---|
 | [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) | Information › Uncertainty | Most big decisions can't be given probabilities, so precise odds give false comfort |
-| [Known vs unknown unknowns](../axes/known-vs-unknown-unknowns.md) | Information › Uncertainty | Economists apply small world models to large world problems, where new things keep happening |
+| [Foreseeable vs unforeseeable outcomes](../axes/foreseeable-vs-unforeseeable-outcomes.md) | Information › Uncertainty | Economists apply small world models to large world problems, where new things keep happening |
 
 ## Further reading
 

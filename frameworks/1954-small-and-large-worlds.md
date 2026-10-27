@@ -50,7 +50,7 @@ On 13 April 1970 an oxygen tank on Apollo 13 burst. The craft was nearly 56 hour
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Known vs unknown unknowns](../axes/known-vs-unknown-unknowns.md) | Information › Uncertainty | Savage's own warning that his theory of choice only works where every state can be listed in advance |
+| [Foreseeable vs unforeseeable outcomes](../axes/foreseeable-vs-unforeseeable-outcomes.md) | Information › Uncertainty | Savage's own warning that his theory of choice only works where every state can be listed in advance |
 
 ## Further reading
 

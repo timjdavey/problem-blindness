@@ -50,6 +50,7 @@ Can you split the problem into parts, solve each one on its own and put them bac
 - [Tractable vs intractable options](tractable-vs-intractable-options.md) (logic). A problem that splits into parts can be solved one small unit at a time, like Simon's [watchmakers](../frameworks/1962-near-decomposability.md).
 - [Buffered vs cascading](buffered-vs-cascading.md) (independent). Perrow keeps tangled parts and lack of slack apart in [Normal accidents](../frameworks/1984-normal-accidents.md). A university is tangled but loose, and a dam is tight but simple.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (bundled). In Ackoff's [messes](../frameworks/1974-messes.md) the fix for one department becomes the next department's problem, so nobody holds the levers for the whole.
+- [Foreseeable vs unforeseeable outcomes](foreseeable-vs-unforeseeable-outcomes.md) (logic). In a holistic problem a change to one part reaches the others, so an action can have outcomes nobody meant.
 
 ## Citations
 

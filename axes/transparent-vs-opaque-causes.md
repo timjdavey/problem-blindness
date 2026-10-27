@@ -51,6 +51,7 @@ Even when you can see every part, can you follow how one thing leads to another 
 - [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md) and [Standalone vs sequential](standalone-vs-sequential.md) (study). In Senge's [beer game](../frameworks/1990-detail-vs-dynamic-complexity.md) delays put weeks between an order and its effect, so players blame the wrong thing.
 - [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md) (bundled). Perrow's [unanalysable work](../frameworks/1967-routine-vs-non-routine-technology.md) has no logical way to search for answers, so people fall back on hunch. But the two come apart. Riding a bike has clear physics and needs tacit skill. A tax code has explicit rules and knock-on effects nobody can trace.
 - [Interventional vs observational](interventional-vs-observational.md) (logic). A fair test is how you find a cause you can't trace. If you can only watch, you have to write down what you think causes what and hope the model is right ([Ladder of causation](../frameworks/2000-ladder-of-causation.md)).
+- [Foreseeable vs unforeseeable outcomes](foreseeable-vs-unforeseeable-outcomes.md) (logic). When you can't follow the chain from cause to effect, you can't list where a change will end up, so a fix brings side effects nobody foresaw ([Unanticipated consequences](../frameworks/1936-unanticipated-consequences.md)).
 
 ## Citations
 

@@ -20,7 +20,7 @@ sources:
 
 **Not knowing comes in four kinds, set by two questions. Do you know what could happen, and do you know how likely each outcome is?**
 
-2007 · Andy Stirling · [Original paper](https://doi.org/10.1038/sj.embor.7400953) · Feeds 1 axis
+2007 · Andy Stirling · [Original paper](https://doi.org/10.1038/sj.embor.7400953) · Feeds 2 axes
 
 ## The idea
 
@@ -55,6 +55,7 @@ In October 2003 the UK published the results of large farm trials of three GM cr
 | Axis | Group | What this framework adds |
 |---|---|---|
 | [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) | Information › Uncertainty | Risk is only the corner where you know both the outcomes and their odds |
+| [Foreseeable vs unforeseeable outcomes](../axes/foreseeable-vs-unforeseeable-outcomes.md) | Information › Uncertainty | Not knowing what could happen is ignorance, and the ozone hole shows no risk sum could have caught it |
 
 ## Further reading
 
