@@ -11,6 +11,8 @@ hard_end: Lopsided mistakes
 sources:
   - resource: /frameworks/1954-signal-detection-theory.md
     title: Signal detection theory
+  - resource: /frameworks/1955-base-rates.md
+    title: Base rates
 ---
 # Even vs lopsided mistakes
 
@@ -27,7 +29,10 @@ Do a false alarm and a miss cost about the same, or is one mistake far worse tha
 **Lopsided mistakes**: Set the threshold from the costs and the gains.
 - Put a price on each kind of error, in the same units, and count what a hit wins as well as what a miss loses. Blackstone judged it better that ten guilty people go free than that one innocent suffers. [1]
 - When a hit pays far more than a false alarm costs, set the bar low and take many shots. Haselton and Buss argued that men overrate a woman's interest because, over evolution, a missed chance cost more than a rebuff. [1]
-- Set the bar from those prices and from how common the real thing is. A cancer screen should accept many false alarms to avoid missing a cancer. [1]
+- Set the bar from those prices and from how common the real thing is. A cancer screen should accept many false alarms to avoid missing a cancer. [1, 2]
+- Start from how common the real thing is before you read a yes. When it is rare, most yeses are wrong even from a good test. Asked about a disease that hits one person in a thousand and a test with a 5% false alarm rate, 27 of 60 Harvard doctors and students said a positive meant a 95% chance of disease. The answer is about 2%. [2]
+- Count it out in people, not percentages. One in a thousand has it, and fifty of the rest get a false alarm, so a positive is one real case in about fifty-one. People get the answer right far more often this way. [2]
+- Check the test beats betting on the base rate at all. Meehl and Rosen showed a sign built on a sample where half the cases were real can flag more healthy people than ill ones once the real thing is rare, and then saying no to everyone makes fewer mistakes. Use such a test to choose who gets a better one. [2]
 - Check that a lower bar still catches more. A 2003 study found American breast screening called back far more women than British screening, yet found about the same number of cancers. [1]
 - Count the two kinds of mistake separately, never accuracy alone. A doctor, a lab test or a model can be right 99% of the time on a rare disease by never flagging anyone. [1]
 - Plan for the false alarms. Crying wolf pays only while each alarm is cheap to check, as with each bag the airport scanner flags. [1]
@@ -42,3 +47,5 @@ Do a false alarm and a miss cost about the same, or is one mistake far worse tha
 ## Citations
 
 [1] [Signal detection theory](../frameworks/1954-signal-detection-theory.md)
+
+[2] [Base rates](../frameworks/1955-base-rates.md)
