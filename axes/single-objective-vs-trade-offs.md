@@ -9,6 +9,8 @@ subgroup: goal
 easy_end: Single objective
 hard_end: Trade-offs
 sources:
+  - resource: /frameworks/1955-time-inconsistency.md
+    title: Time inconsistency
   - resource: /frameworks/1976-decisions-with-multiple-objectives.md
     title: Decisions with multiple objectives
   - resource: /frameworks/1997-taboo-trade-offs.md
@@ -39,17 +41,18 @@ This axis asks how many parts the goal has. It doesn't ask who sets the weights,
 ## Actions
 
 **Single objective**: Optimise the one number.
-- Use it as both the target and the test. When there is one goal, the score and the job are the same. A sprinter trains for the clock and is judged by it. [1, 5]
-- Compare options on it directly. The faster route wins, so there is nothing to argue about. [1]
+- Use it as both the target and the test. When there is one goal, the score and the job are the same. A sprinter trains for the clock and is judged by it. [2, 6]
+- Compare options on it directly. The faster route wins, so there is nothing to argue about. [2]
 
 **Trade-offs**: Make the trade offs plain.
-- Track each goal as its own number. One blended score hides which goal was given up. A single star rating can't tell a restaurant whether it lost marks on the food or on the service. [1, 5]
-- Let the owner set the weights, and show how the ranking moves as they change. Keeney and Nair did this for nuclear plant sites in Washington, and advised studying three sites rather than crowning one. [1]
-- Agree the weights before you see the options. In a 2005 study, people choosing a police chief changed what counted as merit to suit the male candidate. Agreeing the criteria first removed the bias. [7]
-- Set a floor for each goal, and take only the options that clear them all. Herbert Simon proposed this for goals with no common measure, such as salary, climate and prestige when comparing two jobs. [6]
-- Admit a trade-off that touches a sacred value rather than refuse it. Refusing only moves the cost out of sight. England's Cancer Drugs Fund paid for many drugs NICE had turned down, and its overspend left less money for other services. [2]
-- Frame it in terms that respect the sacred value, never as a price. Mock jurors were no easier on a carmaker that had weighed a safety fix against a value for a human life. The higher the value it used, the bigger the penalty. [2]
-- Bind your future self when the trade is between now and later. Today's costs always seem to matter more than tomorrow's harms. The UK's 2008 Climate Change Act set five year carbon budgets that later governments find hard to drop. [4]
+- Track each goal as its own number. One blended score hides which goal was given up. A single star rating can't tell a restaurant whether it lost marks on the food or on the service. [2, 6]
+- Let the owner set the weights, and show how the ranking moves as they change. Keeney and Nair did this for nuclear plant sites in Washington, and advised studying three sites rather than crowning one. [2]
+- Agree the weights before you see the options. In a 2005 study, people choosing a police chief changed what counted as merit to suit the male candidate. Agreeing the criteria first removed the bias. [8]
+- Set a floor for each goal, and take only the options that clear them all. Herbert Simon proposed this for goals with no common measure, such as salary, climate and prestige when comparing two jobs. [7]
+- Admit a trade-off that touches a sacred value rather than refuse it. Refusing only moves the cost out of sight. England's Cancer Drugs Fund paid for many drugs NICE had turned down, and its overspend left less money for other services. [3]
+- Frame it in terms that respect the sacred value, never as a price. Mock jurors were no easier on a carmaker that had weighed a safety fix against a value for a human life. The higher the value it used, the bigger the penalty. [3]
+- Bind your future self when the trade is between now and later. Today's costs always seem to matter more than tomorrow's harms, so the trade gets decided again each time later becomes now. Strotz showed in 1955 that anyone who weighs the near future more heavily than the far will want to break tomorrow the plan they make today, and named Ulysses tied to the mast as the way out. The UK's 2008 Climate Change Act set five year carbon budgets that later governments find hard to drop. [1, 5]
+- Settle the trade while later is still far off, then make it an effort to undo. Save More Tomorrow asked workers months ahead to commit to saving more out of each future pay rise. Those who joined went from saving 3.5% of pay to 13.6% over 40 months. [1]
 
 ## Correlated with
 
@@ -65,16 +68,18 @@ This axis asks how many parts the goal has. It doesn't ask who sets the weights,
 
 ## Citations
 
-[1] [Decisions with multiple objectives](../frameworks/1976-decisions-with-multiple-objectives.md)
+[1] [Time inconsistency](../frameworks/1955-time-inconsistency.md)
 
-[2] [Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)
+[2] [Decisions with multiple objectives](../frameworks/1976-decisions-with-multiple-objectives.md)
 
-[3] [Problem typology](../frameworks/2000-problem-typology.md)
+[3] [Taboo trade-offs](../frameworks/1997-taboo-trade-offs.md)
 
-[4] [Super wicked problems](../frameworks/2007-super-wicked-problems.md)
+[4] [Problem typology](../frameworks/2000-problem-typology.md)
 
-[5] [Need for interpretability](../frameworks/2017-need-for-interpretability.md)
+[5] [Super wicked problems](../frameworks/2007-super-wicked-problems.md)
 
-[6] [A behavioral model of rational choice (Simon, 1955)](https://doi.org/10.2307/1884852)
+[6] [Need for interpretability](../frameworks/2017-need-for-interpretability.md)
 
-[7] [Constructed criteria: redefining merit to justify discrimination (Uhlmann, 2005)](https://doi.org/10.1111/j.0956-7976.2005.01559.x)
+[7] [A behavioral model of rational choice (Simon, 1955)](https://doi.org/10.2307/1884852)
+
+[8] [Constructed criteria: redefining merit to justify discrimination (Uhlmann, 2005)](https://doi.org/10.1111/j.0956-7976.2005.01559.x)

@@ -16,5 +16,5 @@ okf_version: "0.2"
 
 # Frameworks
 
-* [Frameworks](frameworks/) - Nearly a hundred frameworks, from 1921 to 2024, that sort problems by what they are like rather than by subject.
+* [Frameworks](frameworks/) - More than a hundred frameworks, from 1921 to 2024, that sort problems by what they are like rather than by subject.
 * [Reading the frameworks](frameworks/README.md) - What the frameworks have in common, how they are ordered and how each one feeds the axes.
