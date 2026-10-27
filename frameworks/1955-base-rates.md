@@ -59,7 +59,7 @@ Kahneman and Tversky gave people short sketches of men drawn from a pool and ask
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Even vs lopsided mistakes](../axes/even-vs-lopsided-mistakes.md) | Performance › Stakes | When the real thing is rare, most yeses are false even from an accurate test, so start from how common it is before you read a positive |
+| [High vs low base rate](../axes/high-vs-low-base-rate.md) | Information › Evidence | When the real thing is rare, most yeses are false even from an accurate test, so start from how common it is before you read a positive |
 
 ## Further reading
 

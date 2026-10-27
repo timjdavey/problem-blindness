@@ -51,7 +51,7 @@ The outlier can be a disaster or a windfall. A flood or a crash is a bad tail, a
 - [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (logic). With fat tails one extreme case can dominate a run, so two runs of the same system can look very different. But thin tails don't make a system coherent. Each climate model run has thin tails, yet the runs still split into a warm group and a cold one.
 - [Diversifiable vs single bet](diversifiable-vs-single-bet.md) (logic). When a few wild bets carry most of the upside, you need to be able to back several. A barbell keeps most of the stake safe and puts a small slice on them ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
 - [Antifragile vs wears out](antifragile-vs-wears-out.md) (logic). When the tails are fat, an exposure that gains from wild swings is worth more than one that only survives them. That is the idea behind the barbell ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
-- [Even vs lopsided mistakes](even-vs-lopsided-mistakes.md) (logic). When one rare hit can pay more than all the duds put together, passing on it is the costly mistake, so the bar for backing a long shot drops. The two are different. This axis is about how outcomes spread. That one is about where to set the bar on one yes or no call.
+- [Equal vs unequal error costs](equal-vs-unequal-error-costs.md) (logic). When one rare hit can pay more than all the duds put together, passing on it is the costly mistake, so the bar for backing a long shot drops. The two are different. This axis is about how outcomes spread. That one is about where to set the bar on one yes or no call.
 
 ## Citations
 

@@ -23,7 +23,7 @@ sources:
 
 **Any yes or no call can go wrong in two ways. You can raise a false alarm or you can miss the real thing.**
 
-1954 · Wilson Tanner and John Swets · [Original paper](https://doi.org/10.1037/h0058700) · Feeds 1 axis
+1954 · Wilson Tanner and John Swets · [Original paper](https://doi.org/10.1037/h0058700) · Feeds 2 axes
 
 ## The idea
 
@@ -55,7 +55,8 @@ In 2003 Rebecca Smith-Bindman and her colleagues compared about 5.5 million mamm
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Even vs lopsided mistakes](../axes/even-vs-lopsided-mistakes.md) | Performance › Stakes | Set the bar for saying yes from what each error costs and how common the real thing is |
+| [Equal vs unequal error costs](../axes/equal-vs-unequal-error-costs.md) | Performance › Stakes | Set the bar for saying yes from what each error costs and what each right call wins |
+| [High vs low base rate](../axes/high-vs-low-base-rate.md) | Information › Evidence | Count the two kinds of mistake separately, since plain accuracy rewards never flagging a rare thing |
 
 ## Further reading
 

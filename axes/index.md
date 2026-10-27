@@ -97,6 +97,9 @@
 * [Plentiful vs scarce data](plentiful-vs-scarce-data.md)
   * **Plentiful data**: there are many past cases like this one to learn from (e.g. card fraud).
   * **Scarce data**: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident).
+* [High vs low base rate](high-vs-low-base-rate.md)
+  * **High base rate**: the thing you're looking for is common among the cases you check, so most yeses are real (e.g. a flu test on patients with flu symptoms in winter).
+  * **Low base rate**: the thing is so rare among the cases you check that even a good test is wrong most times it says yes (e.g. screening everyone for a disease 1 in 10,000 people have).
 * [Verifiable vs unverifiable](verifiable-vs-unverifiable.md)
   * **Verifiable**: you can check an answer quickly and cheaply before you act on it (e.g. a solved sudoku).
   * **Unverifiable**: checking an answer costs about as much as finding it, or more, so in practice you can't check it before you act (e.g. a business strategy).
@@ -167,9 +170,9 @@
 * [Flat vs compounding results](flat-vs-compounding-results.md)
   * **Flat results**: each result is banked and the next round starts from the same place, so the average is what you can expect (e.g. betting the same £10 every round).
   * **Compounding results**: each result grows or shrinks what you have to work with next time, so one path can end far from the average (e.g. savings, or a scientist's reputation).
-* [Even vs lopsided mistakes](even-vs-lopsided-mistakes.md)
-  * **Even mistakes**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
-  * **Lopsided mistakes**: one mistake is far worse than the other, whether it lets in a harm or lets a prize slip (e.g. a smoke alarm that stays quiet in a fire, or an investor who passes on the next Google).
+* [Equal vs unequal error costs](equal-vs-unequal-error-costs.md)
+  * **Equal error costs**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
+  * **Unequal error costs**: one mistake costs far more than the other, whether it lets in a harm or lets a prize slip (e.g. a smoke alarm that stays quiet in a fire, or an investor who passes on the next Google).
 * [Winnable vs no-win](winnable-vs-no-win.md)
   * **Winnable**: a clean win is possible, so you can come out ahead (e.g. proving a famous theorem).
   * **No-win**: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with no engines).
