@@ -33,7 +33,7 @@ Is there a point where the problem is solved and you can stop, or only a level y
 
 Problems never end for three reasons. The target can move, because the world drifts or reacts to what you do. The problem can grow back, as weeds, rust and bugs do even in a world that stays the same. Or there can always be more to gain, as in science or a business that wants to grow. Rittel and Webber listed having no stopping rule as one trait of a wicked problem, and said the traits should be dealt with one at a time ([Tame vs wicked problems](../frameworks/1973-tame-vs-wicked-problems.md)). This axis is that trait on its own. James Carse called a game played to keep playing, rather than to win, an infinite game ([Finite and infinite games](../frameworks/1986-finite-and-infinite-games.md)).
 
-Watch the grain. An ongoing problem is usually a chain of tasks that each end. A sprint ends but the product doesn't, and a harvest ends but the farm doesn't. Tag the problem at the level where the owner and the budget sit, as [Grain and horizon](README.md#grain-and-horizon) says.
+Watch the grain. An ongoing problem is usually a chain of tasks that each end. A sprint ends but the product doesn't, and a harvest ends but the farm doesn't. Tag the problem at the level where the owner and the budget sit, as [Before you tag a problem](README.md#before-you-tag-a-problem) says.
 
 ## Actions
 
