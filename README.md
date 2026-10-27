@@ -80,11 +80,16 @@ LICENCE                      CC BY 4.0, the terms for reusing these pages
 axes/
 ├── README.md                how to read an axis page, what the tags mean and how to tag a task
 ├── index.md                 every axis by group, with both ends in one line
-└── thin-vs-fat-tails.md     one file per axis, 49 in all
+└── thin-vs-fat-tails.md     one file per axis, 50 in all
 frameworks/
 ├── README.md                what the frameworks share and what's on a framework page
 ├── index.md                 every framework by date, oldest first
 └── 1921-risk-vs-uncertainty.md   one file per framework, 103 in all
+grid/
+├── README.md                six grids that test the axis groups, how they scored and which to keep
+├── index.md                 the six grids, kept and ditched
+├── placements.csv           the cell each grid gave each axis
+└── second-party.md          one file per grid, 6 in all
 ```
 
 ## Contributing

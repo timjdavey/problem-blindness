@@ -19,6 +19,7 @@ Every file starts with YAML front matter that needs a `type`, as the [Open Knowl
 |---|---|---|---|
 | A framework | `frameworks/1973-tame-vs-wicked-problems.md` | `type: Framework`, `title`, `description`, `date`, `creators`, `sources` (3 or more, each with a `title`), plus `cited_date` if most people cite a later version | Follow the [page layout](frameworks/README.md#whats-on-a-framework-page), then add it to the [frameworks index](frameworks/index.md) |
 | An axis | `axes/thin-vs-fat-tails.md` | `type: Axis`, `title`, `description` (each end in one line), `group`, `subgroup`, `easy_end`, `hard_end`, `sources`, plus `middle` if it names one | Follow the [page layout](axes/README.md#whats-on-an-axis-page), then add it to the [axes index](axes/index.md) under its set and link the axes it moves with |
+| A grid | `grid/second-party.md` | `type: Grid`, `title`, `description`, `columns_from` (each with a `title`, and a `resource` where a framework page exists) | Follow the [grid layout](grid/README.md#adding-a-grid), add its column to [placements.csv](grid/placements.csv) and add it to the [grid index](grid/index.md) |
 
 A few fields have a fixed form.
 

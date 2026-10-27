@@ -18,3 +18,8 @@ okf_version: "0.2"
 
 * [Frameworks](frameworks/) - More than a hundred frameworks, from 1921 to 2024, that sort problems by what they are like rather than by subject.
 * [Reading the frameworks](frameworks/README.md) - What the frameworks have in common, how they are ordered and how each one feeds the axes.
+
+# Grids
+
+* [Grids](grid/) - Six ways to cross the five axis groups with a second set of questions, so a missing axis shows up as an empty cell.
+* [Testing the groups with grids](grid/README.md) - How the six grids scored, which gaps more than one of them found and which grids to keep.
