@@ -49,7 +49,7 @@ The blood thinner warfarin has the opposite shape. Doctors adjust the dose to hi
 | Axis | Group | What this framework adds |
 |---|---|---|
 | [Satisficing vs optimising](../axes/satisficing-vs-optimising.md) | Performance › Goal | Makes good enough a trait of the problem: fine on a flat top, a real loss on a sharp peak |
-| [Smooth vs rugged](../axes/smooth-vs-rugged.md) | Environment › Structure | Near a flat top a small change in the weights barely moves the result |
+| [Forgiving vs exacting](../axes/forgiving-vs-exacting.md) | Environment › Structure | Near a flat top a small change in the weights barely moves the result |
 
 ## Further reading
 

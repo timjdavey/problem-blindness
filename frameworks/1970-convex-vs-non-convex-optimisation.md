@@ -59,7 +59,7 @@ Training a large neural network is a hugely non-convex problem. Engineers start 
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Smooth vs rugged](../axes/smooth-vs-rugged.md) | Environment › Structure | Many valleys mean step by step search stops at the low point nearest where it started |
+| [Forgiving vs exacting](../axes/forgiving-vs-exacting.md) | Environment › Structure | Many valleys mean step by step search stops at the low point nearest where it started |
 
 ## Further reading
 

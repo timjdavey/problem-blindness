@@ -18,7 +18,7 @@ sources:
 
 **A one-way door decision can't be undone, so it deserves slow and careful thought. A two-way door can be reversed cheaply, so decide fast.**
 
-2015 · Jeff Bezos · [Original letter](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm) · Feeds 2 axes
+2015 · Jeff Bezos · [Original letter](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm) · Feeds 3 axes
 
 ## The idea
 
@@ -28,7 +28,7 @@ The trait that sorts them is how cheaply you can undo the choice. A one-way door
 
 ## What goes wrong
 
-He warned that large firms tend to use the heavy one-way process for every decision. The result is slowness and fear of risk, and too little trying of new things. The opposite mistake is rarer but worse. Treating a one-way door as if it were two-way means rushing through something you can't take back.
+He warned that large firms tend to use the heavy one-way process for every decision. The result is slowness and fear of risk, and too little trying of new things. In his 2016 letter he added that most decisions should be made with about 70% of the information you wish you had. Wait for 90% and you are probably being slow. The opposite mistake is rarer but worse. Treating a one-way door as if it were two-way means rushing through something you can't take back.
 
 ## What to do instead
 
@@ -54,6 +54,7 @@ Painting a room a colour you end up hating costs a weekend and a few tins of pai
 |---|---|---|
 | [Reversible vs irreversible](../axes/reversible-vs-irreversible.md) | Actions › Control | One-way doors can't be undone and deserve slow care, while two-way doors deserve speed |
 | [Self-righting vs tipping](../axes/self-righting-vs-tipping.md) | Environment › Stimulus | Keeping an undo trail, like Coca-Cola's old recipe, can turn a one-way door into a two-way one |
+| [Rehearsable vs live only](../axes/rehearsable-vs-live-only.md) | Information › Evidence | Keeping a way back, as Coca-Cola kept its old formula, lets a first real go be undone when no rehearsal could stand in for it |
 
 ## Further reading
 

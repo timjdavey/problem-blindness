@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Clustered vs scattered runs
-description: "Clustered runs: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars). Scattered runs: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks)."
+description: "Clustered runs: when runs disagree they fall into a few clear types, so a few clues tell you which one you are in (e.g. every snowflake is a plate, a column or a star). Scattered runs: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks)."
 group: environment
 subgroup: randomness
 easy_end: Clustered runs
@@ -43,10 +43,10 @@ When runs disagree, do they fall into a few clear groups, so a few clues can tel
 ## Correlated with
 
 - [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (by definition). This axis only applies once runs disagree. In a coherent system every run draws from the same spread, so there are no groups to sort.
-- [Small vs large world](small-vs-large-world.md) (logic). Clear groups let you list the ways things might turn out. Scattered runs leave outcomes nobody thought to list.
+- [Foreseeable vs unforeseeable outcomes](foreseeable-vs-unforeseeable-outcomes.md) (logic). Clear groups let you list the ways things might turn out. Scattered runs leave outcomes nobody thought to list.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). With clear groups a few readings can rule a whole group out, so a little data goes a long way ([Cohesion](../frameworks/2023-cohesion.md)).
 - [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md) (logic). Clear groups give early signs of which path you are on. Scattered runs give signs that point nowhere in particular.
-- [Smooth vs rugged](smooth-vs-rugged.md) (logic). A rugged landscape with a few big peaks gives one cluster per peak, as runs stall on whichever is nearest.
+- [Forgiving vs exacting](forgiving-vs-exacting.md) (logic). A rugged landscape with a few big peaks gives one cluster per peak, as runs stall on whichever is nearest.
 - [Self-righting vs tipping](self-righting-vs-tipping.md) (logic). A tipping system has a few stable states, so its runs fall into a few clear groups.
 
 ## Citations

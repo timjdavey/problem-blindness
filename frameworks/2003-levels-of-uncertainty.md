@@ -23,7 +23,7 @@ sources:
 
 **Grades uncertainty from a clear future, through known odds and plausible scenarios, up to total ignorance.**
 
-2003 (2013) · Warren Walker, Robert Lempert and Jan Kwakkel · [Original paper](https://doi.org/10.1076/iaij.4.1.5.16466) · Feeds 2 axes
+2003 (2013) · Warren Walker, Robert Lempert and Jan Kwakkel · [Original paper](https://doi.org/10.1076/iaij.4.1.5.16466) · Feeds 3 axes
 
 ## The idea
 
@@ -55,6 +55,7 @@ An actuary can work out how long members are likely to live from life tables. Th
 |---|---|---|
 | [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) | Information › Uncertainty | A ladder from known odds, through scenarios nobody can rank, to total ignorance |
 | [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) | Information › Uncertainty | Asks whether doubt comes from gaps in what we know or from real randomness |
+| [Known vs unknown unknowns](../axes/known-vs-unknown-unknowns.md) | Information › Uncertainty | Asks where a doubt sits, in the inputs to a model or in its outcomes, which keeps this axis apart from Foreseeable vs unforeseeable outcomes |
 
 ## Further reading
 

@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Reducible vs irreducible uncertainty
-description: "Reducible uncertainty: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test). Irreducible uncertainty: no amount of fact finding would settle it (e.g. whether a rival cuts prices next year)."
+description: "Reducible uncertainty: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test). Irreducible uncertainty: no test or research could settle it, because the answer isn't out there yet to find (e.g. whether a rival cuts prices next year)."
 group: information
 subgroup: uncertainty
 easy_end: Reducible uncertainty
@@ -9,6 +9,8 @@ hard_end: Irreducible uncertainty
 sources:
   - resource: /frameworks/1955-johari-window.md
     title: Johari window
+  - resource: /frameworks/1986-funnel-experiment.md
+    title: Funnel experiment
   - resource: /frameworks/1986-uncertainty-vs-equivocality.md
     title: Uncertainty vs equivocality
   - resource: /frameworks/1989-complex-problem-solving.md
@@ -33,17 +35,18 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 ## Actions
 
 **Reducible uncertainty**: Go and get the data.
-- Ask the questions that narrow things down. A check on what you already know buys little, so a mechanic tests the parts they can't yet rule out. [2]
-- Ask the people who might know before acting. A builder who asks where the pipes run settles what no amount of guessing could. [1, 3]
-- Keep track of what you believe about the hidden facts. Update it as each new clue comes in, like a card player working out who holds the ace as the cards fall. [4]
-- Say what you can't see. A gap you name can be researched or planned round, and one you hide can't. [6]
-- Judge your method on cases with some evidence missing, not only on complete ones. A method tested where everything is in view can look brilliant, then fail on real cases. [4]
+- Ask the questions that narrow things down. A check on what you already know buys little, so a mechanic tests the parts they can't yet rule out. [3]
+- Ask the people who might know before acting. A builder who asks where the pipes run settles what no amount of guessing could. [1, 4]
+- Take several readings before you act on one. A fact that holds still can still reach you through a noisy instrument, and any one reading may sit some way off. Deming's funnel shows that correcting after every reading widens the spread, while pooled readings close in on the fact. [2]
+- Keep track of what you believe about the hidden facts. Update it as each new clue comes in, like a card player working out who holds the ace as the cards fall. [5]
+- Say what you can't see. A gap you name can be researched or planned round, and one you hide can't. [7]
+- Judge your method on cases with some evidence missing, not only on complete ones. A method tested where everything is in view can look brilliant, then fail on real cases. [5]
 
 **Irreducible uncertainty**: Stop paying for more data and hedge instead.
-- Give odds or a range, not a single answer. Where chance plays a part, one answer claims a certainty nobody has. [4]
-- Make the decision cope with either result instead of staking it on one. Where you can, back several options at once, as under [Diversifiable vs single bet](diversifiable-vs-single-bet.md). [6]
-- Check where the doubt comes from. If it hangs on a choice nobody has made yet, no data will settle it, so think about what the people choosing want. [5, 7]
-- Where people read the same facts in different ways, get them in a room to argue it out. Another study only hands each side more proof of its own view. [2]
+- Give odds or a range, not a single answer. Where chance plays a part, one answer claims a certainty nobody has. [5]
+- Make the decision cope with either result instead of staking it on one. Where you can, back several options at once, as under [Diversifiable vs single bet](diversifiable-vs-single-bet.md). [7]
+- Check where the doubt comes from. If it hangs on a choice nobody has made yet, no data will settle it, so think about what the people choosing want. [6, 8]
+- Where people read the same facts in different ways, get them in a room to argue it out. Another study only hands each side more proof of its own view. [3]
 
 ## Correlated with
 
@@ -53,8 +56,9 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 - [Risk vs Knightian uncertainty](risk-vs-knightian-uncertainty.md) (independent). Reducible asks whether more data would shrink your doubt, while Knightian uncertainty is about whether you can put a number on it. A coin toss has known odds and irreducible doubt. A new drug has unknown odds and reducible doubt, because you can run a trial.
 - [Transparent vs opaque causes](transparent-vs-opaque-causes.md) (study). Hidden variables are part of why Dörner's players couldn't trace their own effects ([Complex problem solving](../frameworks/1989-complex-problem-solving.md)). The two still differ. You can read every weight of an open model and still not trace the chain. A poker hand is a simple cause that is hidden from view.
 - [Neutral vs adversarial](neutral-vs-adversarial.md) (bundled). Opponents hide what they can, as in poker. The facts exist, but they cost more to find.
-- [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). Go hides nothing and still can't be searched in full.
-- [Small vs large world](small-vs-large-world.md) (independent). Every possible poker hand is known in advance, and you still can't see the one in front of you.
+- [Tractable vs intractable options](tractable-vs-intractable-options.md) (independent). Go hides nothing and still can't be searched in full.
+- [Foreseeable vs unforeseeable outcomes](foreseeable-vs-unforeseeable-outcomes.md) (independent). This axis asks whether a missing fact can be found, and Foreseeable vs unforeseeable outcomes asks whether you can list what might happen. A foreseeable outcome can be irreducible. You know a rival might cut prices next year, and no research can tell you whether they will. An unforeseeable outcome can be reducible. Nobody listed the hole in the ozone over Antarctica, yet it was there to be measured ([Incertitude matrix](../frameworks/2007-incertitude-matrix.md)).
+- [Known vs unknown unknowns](known-vs-unknown-unknowns.md) (independent). This axis asks whether you would find the answer once you went looking, and Known vs unknown unknowns asks whether you know to go looking at all. A known unknown can be irreducible. You know a rival might cut prices next year, and no research can tell you whether they will. An unknown unknown can be reducible. Thalidomide's harm to unborn babies was there to be found by a test nobody thought to run ([Known and unknown unknowns](../frameworks/2002-known-and-unknown-unknowns.md)).
 - [General vs local knowledge](general-vs-local-knowledge.md) (logic). Local facts are often out of sight for anyone far away. But the shop manager can see the stock levels that head office can't, so the gap is about who holds the facts.
 - [Symmetric vs asymmetric information](symmetric-vs-asymmetric-information.md) (logic). When someone across the deal already holds the facts, the doubt is reducible, but they decide what it costs you to find them.
 
@@ -62,14 +66,16 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 
 [1] [Johari window](../frameworks/1955-johari-window.md)
 
-[2] [Uncertainty vs equivocality](../frameworks/1986-uncertainty-vs-equivocality.md)
+[2] [Funnel experiment](../frameworks/1986-funnel-experiment.md)
 
-[3] [Complex problem solving](../frameworks/1989-complex-problem-solving.md)
+[3] [Uncertainty vs equivocality](../frameworks/1986-uncertainty-vs-equivocality.md)
 
-[4] [Task environment properties](../frameworks/1995-task-environment-properties.md)
+[4] [Complex problem solving](../frameworks/1989-complex-problem-solving.md)
 
-[5] [Puzzles vs mysteries](../frameworks/2001-puzzles-vs-mysteries.md)
+[5] [Task environment properties](../frameworks/1995-task-environment-properties.md)
 
-[6] [Known and unknown unknowns](../frameworks/2002-known-and-unknown-unknowns.md)
+[6] [Puzzles vs mysteries](../frameworks/2001-puzzles-vs-mysteries.md)
 
-[7] [Levels of uncertainty](../frameworks/2003-levels-of-uncertainty.md)
+[7] [Known and unknown unknowns](../frameworks/2002-known-and-unknown-unknowns.md)
+
+[8] [Levels of uncertainty](../frameworks/2003-levels-of-uncertainty.md)

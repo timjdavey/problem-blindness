@@ -38,6 +38,8 @@ The tools that work in Mediocristan are averages, spreads and the past as a guid
 
 The better response is to ask whether one case could outweigh all the rest. If it could, plan for the extreme rather than the average, and avoid bets that one bad day could ruin.
 
+The extreme can be good as well as bad. Where it is a windfall, as in publishing or research, Taleb gives the opposite advice. Put yourself in the way of as many long shots as you can, each at small cost, since one of them may pay for all the others.
+
 ## Examples
 
 ### Black Monday
@@ -56,7 +58,7 @@ Your journey to work takes about the same time each day, give or take a few minu
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Thin vs fat tails](../axes/thin-vs-fat-tails.md) | Environment › Randomness | Names the two worlds by whether one case can outweigh all the rest |
+| [Thin vs fat tails](../axes/thin-vs-fat-tails.md) | Environment › Randomness | Names the two worlds by whether one case can outweigh all the rest, whether that case is a crash or a bestseller |
 
 ## Further reading
 

@@ -56,7 +56,7 @@ A central bank that treats the economy as a few dials, such as rates and prices,
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Decomposable vs tangled](../axes/decomposable-vs-tangled.md) | Environment › Structure | In organised complexity the parts shape each other, so you can't study them one at a time |
+| [Reductionist vs holistic](../axes/reductionist-vs-holistic.md) | Environment › Structure | In organised complexity the parts shape each other, so you can't study them one at a time |
 | [Deterministic vs stochastic](../axes/deterministic-vs-stochastic.md) | Environment › Randomness | Few parts with exact rules can be worked out, while millions of random parts only give a steady average |
 
 ## Further reading

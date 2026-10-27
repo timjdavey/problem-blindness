@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Neutral vs adversarial
-description: "Neutral: your mistakes are accidents, because the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella). Adversarial: someone whose goals differ from yours hunts for the cases your rule gets wrong (e.g. fraudsters)."
+description: "Neutral: nobody is looking for the gaps in your rule, so the cases you meet are a fair sample and your errors land where chance puts them (e.g. rain doesn't try to beat your umbrella). Adversarial: someone whose goals differ from yours studies your rule, finds the cases it gets wrong and sends you more of them (e.g. fraudsters probing a bank's fraud checks)."
 group: environment
 subgroup: reactivity
 easy_end: Neutral
@@ -47,14 +47,14 @@ The other side doesn't have to be an enemy. It only needs goals that differ from
 ## Correlated with
 
 - [Inert vs reflexive](inert-vs-reflexive.md) (logic). Both are about people reacting to you, so they often turn up together, as in a market. What splits them is whether anyone is aiming at your rule. A bank run is reflexive with no adversary in it. A chess opponent hunts for your weakest line, but the board doesn't change because someone forecast the result. If someone studies your rule to find its gaps, it is adversarial. If the outcome moves with nobody aiming at anything, it is reflexive.
-- [Stationary vs drifting](stationary-vs-drifting.md) (logic). Fraudsters and rivals change their play once they learn yours.
+- [Durable vs perishable lessons](durable-vs-perishable-lessons.md) (logic). Fraudsters and rivals change their play once they learn yours.
 - [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md) (bundled). Opponents hide what they can, as in poker ([Task environment properties](../frameworks/1995-task-environment-properties.md)). The facts exist, but they cost more to find, and some choices an opponent hasn't made yet can't be found at all.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). Rivals often want different things, so the two tend to come together. But two players in a [zero-sum game](../frameworks/1944-zero-sum-vs-non-zero-sum-games.md) agree on what winning means. They each just want to be the winner. Contested values is a fight over what a good result even is.
 - [Verifiable vs unverifiable](verifiable-vs-unverifiable.md) (logic). By [Goodhart's law](../frameworks/1975-goodharts-law.md) a cheap check stops working once people are judged on it, because they learn to pass the check instead of doing the work.
 - [Direct vs proxy measure](direct-vs-proxy-measure.md) (study). By [Goodhart's law](../frameworks/1975-goodharts-law.md) people work on whatever the score leaves out. In 1902 Hanoi paid a bounty for each rat tail, so people cut off the tails and let the rats go to breed.
 - [Private vs accountable](private-vs-accountable.md) (study). [Campbell's law](../frameworks/1976-campbells-law.md) says the more a number decides people's fate, the more they bend it.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (independent). A chess opponent works against you, but every move you need is yours to make. Two firms in a [non-zero-sum game](../frameworks/1944-zero-sum-vs-non-zero-sum-games.md) want the same deal and still need each other to close it.
-- [Static vs dynamic](static-vs-dynamic.md) (bundled). Russell and Norvig's harder worlds have other agents in them, and an opponent is the most common reason the world won't wait. But a surfer's wave moves and isn't trying to beat anyone.
+- [Turn-based vs real-time](turn-based-vs-real-time.md) (bundled). Russell and Norvig's harder worlds have other agents in them, and an opponent is the most common reason the world won't wait. But a surfer's wave moves and isn't trying to beat anyone.
 - [Antifragile vs wears out](antifragile-vs-wears-out.md) (logic). Bacteria have no aim, yet each course of antibiotics leaves them harder to kill. An adversary is a system that gains from your rule on purpose.
 - [Symmetric vs asymmetric information](symmetric-vs-asymmetric-information.md) (logic). Opponents hide what they know, as in poker. But chess is adversarial with nothing hidden, and the worst cases can pile up with nobody aiming at your rule. When an insurer can't see who is sick, the healthy leave and the sick stay, each just picking the plan that suits them.
 

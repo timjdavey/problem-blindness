@@ -56,7 +56,7 @@ A surgeon who takes on the hardest cases will lose more patients than one who tu
 | Axis | Group | What this framework adds |
 |---|---|---|
 | [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md) | Information › Evidence | When the result finally arrives, people grade the choice by it instead of by what was known |
-| [Winnable vs no-win](../axes/winnable-vs-no-win.md) | Performance › Stakes | When even the best outcome is a loss, whoever chose well is blamed as if they chose badly |
+| [Winnable vs no-win](../axes/winnable-vs-no-win.md) | Performance › Stakes | When even the best outcome is a loss, whoever chose well is blamed as if they chose badly. When every option wins, a reckless call gets the praise |
 | [Deterministic vs stochastic](../axes/deterministic-vs-stochastic.md) | Environment › Randomness | On a single decision luck can swamp skill, so one outcome says little about the call |
 | [Private vs accountable](../axes/private-vs-accountable.md) | Agent › Incentives | People judged on outcomes in public dodge the hard cases, as New York's heart surgeons did |
 

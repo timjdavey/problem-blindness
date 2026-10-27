@@ -30,7 +30,7 @@ Is there a point where the problem is solved and you can stop, or only a level y
 
 Problems never end for three reasons. The target can move, because the world drifts or reacts to what you do. The problem can grow back, as weeds, rust and bugs do even in a world that stays the same. Or there can always be more to gain, as in science or a business that wants to grow. Rittel and Webber listed having no stopping rule as one trait of a wicked problem, and said the traits should be dealt with one at a time ([Tame vs wicked problems](../frameworks/1973-tame-vs-wicked-problems.md)). This axis is that trait on its own. James Carse called a game played to keep playing, rather than to win, an infinite game ([Finite and infinite games](../frameworks/1986-finite-and-infinite-games.md)).
 
-Watch the grain. An ongoing problem is usually a chain of tasks that each end. A sprint ends but the product doesn't, and a harvest ends but the farm doesn't. Tag the problem at the level where the owner and the budget sit, as [Grain and horizon](README.md#grain-and-horizon) says.
+Watch the grain. An ongoing problem is usually a chain of tasks that each end. A sprint ends but the product doesn't, and a harvest ends but the farm doesn't. Tag the problem at the level where the owner and the budget sit, as [Before you tag a problem](README.md#before-you-tag-a-problem) says.
 
 ## Actions
 
@@ -50,7 +50,7 @@ Watch the grain. An ongoing problem is usually a chain of tasks that each end. A
 ## Correlated with
 
 - [Well vs ill-structured](well-vs-ill-structured.md) (bundled). Simon's well-structured problems have a clear end, and [Rittel and Webber](../frameworks/1973-tame-vs-wicked-problems.md) and [Grint](../frameworks/2005-tame-wicked-and-critical.md) both say a wicked problem has none. But the two come apart. Keeping a diabetic's blood sugar in range is well structured and never ends. "Cure this cancer" is ill-structured and would end.
-- [Stationary vs drifting](stationary-vs-drifting.md) (logic). A drifting world is one reason a problem never ends, since every answer goes stale. But weeds grow back in a garden where nothing about the world has changed.
+- [Durable vs perishable lessons](durable-vs-perishable-lessons.md) (logic). A drifting world is one reason a problem never ends, since every answer goes stale. But weeds grow back in a garden where nothing about the world has changed.
 - [Inert vs reflexive](inert-vs-reflexive.md) (logic). When people react to your fix, the fix becomes part of the next problem, so there is no point where you are done.
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (independent). Optimising can feel endless, since each extra bit of quality pays. Yet a drug dose gets tuned once and stays tuned. A lawn only needs to look fine, but it needs mowing every week.
 - [Standalone vs sequential](standalone-vs-sequential.md) (logic). Each round of work on an ongoing problem starts from where the last one left things. But a chain of choices can still end. Treating a long illness is sequential and stops when the patient is well.

@@ -10,7 +10,7 @@ description: A shared vocabulary for the shape of a problem, built from a centur
 **A shared vocabulary for the shape of problems, so people and AI models
 can tell what kind of expert a task needs.**
 
-[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md) [![Axes](https://img.shields.io/badge/axes-47-blue?style=flat-square)](axes/index.md) [![Frameworks](https://img.shields.io/badge/frameworks-95-blue?style=flat-square)](frameworks/index.md)
+[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md) [![Axes](https://img.shields.io/badge/axes-50-blue?style=flat-square)](axes/index.md) [![Frameworks](https://img.shields.io/badge/frameworks-103-blue?style=flat-square)](frameworks/index.md) [![Licence](https://img.shields.io/badge/licence-CC%20BY%204.0-lightgrey?style=flat-square)](LICENCE)
 
 </div>
 
@@ -54,46 +54,42 @@ We've grouped the axis for sanity using Russell and Norvig's [task environment p
 | Environment | How does the system behave, whoever is looking at it? | [Randomness](axes/index.md#randomness), [Change](axes/index.md#change), [Stimulus](axes/index.md#stimulus), [Reactivity](axes/index.md#reactivity), [Structure](axes/index.md#structure) |
 | Information | What can you find out, and how fast? | [Uncertainty](axes/index.md#uncertainty), [Evidence](axes/index.md#evidence) |
 | Actions | What moves do you have? | [Options](axes/index.md#options), [Control](axes/index.md#control) |
-| Performance | What counts as good, and what does a miss cost? | [Goal](axes/index.md#goal), [Stakes](axes/index.md#stakes) |
+| Performance | What counts as good, and what do you stand to win or lose? | [Goal](axes/index.md#goal), [Stakes](axes/index.md#stakes) |
 | Agent | What does the task ask of whoever solves it? | [Know-how](axes/index.md#know-how), [Incentives](axes/index.md#incentives) |
 
+## How to reference axes
+
+Link to the axis page, like [`axes/thin-vs-fat-tails.md`](axes/thin-vs-fat-tails.md). Names still change as we find better words, and a renamed page moves to its new path.
+
+To tag a task, write the end labels in lower case with hyphens. No two ends share a label, so `fat-tails` can only mean one end of one axis. Here is the heart attack from the quick taste.
+
+```text
+Putting in the stent    immediate-feedback, verifiable, tacit-know-how
+Deciding whether to     delayed-feedback, unverifiable, explicit-know-how
+```
 
 ## What's in the repo
 
 ```text
 README.md                    this page
 MOTIVATION.md                why the project exists, we call it "problem blindness"
+CONTRIBUTING.md              how to add, name and rename pages
 index.md                     the Open Knowledge Format index of the whole project
 log.md                       big changes, newest first
+LICENCE                      CC BY 4.0, the terms for reusing these pages
 axes/
 ├── README.md                how to read an axis page, what the tags mean and how to tag a task
 ├── index.md                 every axis by group, with both ends in one line
-└── thin-vs-fat-tails.md     one file per axis, 47 in all
+└── thin-vs-fat-tails.md     one file per axis, 49 in all
 frameworks/
 ├── README.md                what the frameworks share and what's on a framework page
 ├── index.md                 every framework by date, oldest first
-└── 1921-risk-vs-uncertainty.md   one file per framework, 95 in all
+└── 1921-risk-vs-uncertainty.md   one file per framework, 103 in all
 ```
 
 ## Contributing
 
-This will never be finished. If you spot a missing framework, a wrong link or a better example, please open a pull request. Every file starts with YAML front matter that needs a `type`.
-
-| Adding | File | Front matter | Then |
-|---|---|---|---|
-| A framework | `frameworks/1973-tame-vs-wicked-problems.md` | `type: Framework`, `title`, `description`, `date`, `creators`, `sources` (3 or more, each with a `title`) | Follow the [page layout](frameworks/README.md#whats-on-a-framework-page), then add it to the [frameworks index](frameworks/index.md) |
-| An axis | `axes/thin-vs-fat-tails.md` | `type: Axis`, `title`, `description` (each end in one line), `group`, `subgroup`, `easy_end`, `hard_end`, `sources` | Add it to the [axes index](axes/index.md) under its set, and link the axes it moves with |
-
-Each end label must make sense on its own, so write "Fat tails" rather than "Fat" ([Naming rules](axes/README.md#naming-rules)). Each action must cite a source, so an action nothing backs doesn't go in.
-
-Most new axes turn out to be an old one in new words, so a new axis has to pass [three tests](axes/README.md#three-tests-for-a-new-axis).
-
-1. **Corner test.** Name a problem at its hard end that sits at the easy end of the axes closest to it.
-2. **Action test.** Its hard end calls for actions those axes don't already list.
-3. **Combination test.** No mix of two or three existing axes lands the same problems at the hard end and calls for the same actions.
-
-An idea that fails the second or third test goes in as a note on the axis that covers it. Record big changes in [log.md](log.md).
-
+This will never be finished. If you spot a missing framework, a wrong link or a better example, please open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) covers adding an axis or framework, the tests a new axis must pass, naming, how to write and cite actions, which pages to update together and how to rename a page without breaking links.
 
 ## Future projects
 
@@ -101,4 +97,6 @@ In 2025 [METR](https://arxiv.org/abs/2503.14499) scored its tasks for "messiness
 
 We tried to benchmark out axis on the full set on METR's 23 public tasks. We found an suspiciously similar result of 8.5% per point against their 8.1%. However, this dataset is far too small to draw any meaningful conclusions beyond this feels like a meaningful avenue to continue. The aim is to roll this out on a larger set of benchmarks to conduct a more robust meta study.
 
+## Licence
 
+The writing in this repo is under [CC BY 4.0](LICENCE). You can copy, adapt and build on it for any purpose, including commercial work and training models, as long as you credit [Problem Blindness by Tim Davey](https://github.com/timjdavey/problem-blindness). You don't need to credit anyone just to tag a task with the end labels. Quotes and the works we link to keep their owners' terms.

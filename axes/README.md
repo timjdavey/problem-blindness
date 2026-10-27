@@ -22,9 +22,9 @@ There is no single "correct" way to collate or break the space of all problems i
 - [Actions](index.md#actions). What moves do you have?
   - [Options](index.md#options): what choices are on the table and how they link.
   - [Control](index.md#control): whether you hold the levers, whether you can undo a move and how long you have.
-- [Performance](index.md#performance). What counts as good, and what does a miss cost?
+- [Performance](index.md#performance). What counts as good, and what do you stand to win or lose?
   - [Goal](index.md#goal): what a good answer looks like and who decides.
-  - [Stakes](index.md#stakes): what it costs to be wrong.
+  - [Stakes](index.md#stakes): what you stand to win or lose, and how the gains and losses add up.
 - [Agent](index.md#agent). What does the task ask of whoever solves it? The same problem sits at different points for different solvers, so this is where you check a solver fits the task.
   - [Know-how](index.md#know-how): where the skill and the facts live.
   - [Incentives](index.md#incentives): who has to answer for the call and who pays for a mistake.
@@ -60,7 +60,7 @@ Three checks stop the same problem getting tagged two different ways.
 
 ## What changes at the hard end
 
-Near the easy ends a rehearsal tells you how you'll do for real. Robin Hogarth and his co-authors call a setting kind when the place you practise matches the place you play, and wicked when it doesn't ([Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)). Towards the hard ends the two drift apart, so each step below trusts the rehearsal less.
+Near the easy ends a rehearsal tells you how you'll do for real. Robin Hogarth and his co-authors call a setting kind when the place you practise matches the place you play, and wicked when it doesn't ([Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)). Towards the hard ends the two drift apart, so each step below trusts the rehearsal less. Whether a faithful rehearsal can be built at all is an axis of its own, [Rehearsable vs live only](rehearsable-vs-live-only.md). Step 1 is its easy end and step 3 its hard end.
 
 The steps don't cover every axis. Some ask other things, like whose goal counts, which options exist or who pays for a miss. Their pages carry their own moves.
 
@@ -87,19 +87,4 @@ The moves clash, so tagging the wrong one does harm. Blending is right for the c
 
 ## Adding or renaming an axis
 
-### Three tests for a new axis
-
-Most ideas for a new axis turn out to be an old one in new words. A new axis has to pass three tests.
-
-1. **Corner test.** Name a problem at the new axis's hard end that sits at the easy end of the axes closest to it. If you can't, the new axis is a copy of one of them.
-2. **Action test.** The hard end has to call for something the nearby axes don't already say. If it doesn't, the idea may still be real. But it belongs as a note on one of those axes.
-3. **Combination test.** No mix of two or three existing axes can land the same problems at the hard end and call for the same actions. An idea can pass the first two tests against each axis alone and still fail this one.
-
-Fixed vs moving goal failed the third test. A couple planning a wedding for 100 people on 5 June for under £20k have a clear brief, yet what they want shifts once they see venues. That passes the corner test, since the brief is clear and the world isn't drifting. But the brief left out wants they could only find by looking, the hard end of [Direct vs proxy measure](direct-vs-proxy-measure.md). They found them through a chain of choices where each shaped the next, the hard end of [Standalone vs sequential](standalone-vs-sequential.md). Those two axes already say what to do, so moving goals became a note on them.
-
-### Naming rules
-
-- **Each end makes sense on its own.** Picture the label written alone at one end of a chart. "None" could mean anything, but "No skin in the game" can only mean one thing. "Easy" is worse, since every axis has an easy end. So labels carry the noun, like "Fat tails" or "Proxy measure", and the title can stay short.
-- **Use the field's own term**, so readers can look it up. "Chaotic" beats "short predictability horizon", and "Knightian uncertainty" beats "unknown odds".
-- **Don't sound like another axis**, in its name or in the words of its description. "Complete vs incomplete score" sounded too much like tractable vs intractable search, so it became [Direct vs proxy measure](direct-vs-proxy-measure.md). "Slack" was Perrow's word for a buffer in [Loose vs tight coupling](loose-vs-tight-coupling.md), so the time to decide became [Ample time vs time pressure](ample-time-vs-time-pressure.md).
-- **Name the problem, not the response.** "Test vs watch" named two things you might do. [Interventional vs observational](interventional-vs-observational.md) names the kind of evidence the world lets you get.
+A new axis has to pass three tests, and a rename has to update every link to the page. [CONTRIBUTING.md](../CONTRIBUTING.md) sets out both, along with the naming rules.

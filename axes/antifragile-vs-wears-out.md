@@ -53,9 +53,10 @@ Better for the system is not always better for you. Bacteria are antifragile to 
 ## Correlated with
 
 - [Self-righting vs tipping](self-righting-vs-tipping.md) (independent). A muscle rights itself after one workout and grows stronger over months. A bridge rights itself after every lorry and still wears out.
-- [Stationary vs drifting](stationary-vs-drifting.md) (independent). Drift happens on its own, while this change is caused by the stress. A muscle you stop using shrinks, which looks like drift, but the cause is the missing load.
+- [Durable vs perishable lessons](durable-vs-perishable-lessons.md) (independent). Drift happens on its own, while this change is caused by the stress. A muscle you stop using shrinks, which looks like drift, but the cause is the missing load.
 - [Neutral vs adversarial](neutral-vs-adversarial.md) (logic). Bacteria have no aim, yet each course of antibiotics leaves them harder to kill. An adversary is a system that gains from your rule on purpose.
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). When the tails are fat, an exposure that gains from wild swings is worth more than one that only survives them. That is the idea behind the barbell ([Fragile, robust and antifragile](../frameworks/2012-fragile-robust-and-antifragile.md)).
+- [Flat vs compounding results](flat-vs-compounding-results.md) (independent). This axis asks what stress does to the system, and that one asks what your own results do to what you have next time. Savings compound with no stress at all, and a tyre wears out with no result to carry forward.
 
 ## Citations
 

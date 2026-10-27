@@ -56,7 +56,7 @@ If your car's radio breaks you can replace it without touching the brakes. A car
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Decomposable vs tangled](../axes/decomposable-vs-tangled.md) | Environment › Structure | Strong links inside parts and weak links between them let you solve one part at a time |
+| [Reductionist vs holistic](../axes/reductionist-vs-holistic.md) | Environment › Structure | Strong links inside parts and weak links between them let you solve one part at a time |
 
 ## Further reading
 

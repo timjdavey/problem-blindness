@@ -18,7 +18,7 @@ sources:
 
 **A closed skill is done in a world that holds still. An open skill is done in a world that keeps moving.**
 
-1957 · E. C. Poulton · [Original paper](https://doi.org/10.1037/h0045515) · Feeds 1 axis
+1957 · E. C. Poulton · [Original paper](https://doi.org/10.1037/h0045515) · Feeds 2 axes
 
 ## The idea
 
@@ -50,7 +50,8 @@ Gentile's grid shows why closed is not one thing. Hitting the same putt from the
 
 | Axis | Group | What this framework adds |
 |---|---|---|
-| [Static vs dynamic](../axes/static-vs-dynamic.md) | Environment › Change | A closed skill's world waits for you, while an open skill's world moves as you act |
+| [Turn-based vs real-time](../axes/turn-based-vs-real-time.md) | Environment › Change | A closed skill's world waits for you, while an open skill's world moves as you act |
+| [Rehearsable vs live only](../axes/rehearsable-vs-live-only.md) | Information › Evidence | Each kind of skill needs its own kind of practice, still or moving, from one start or many |
 
 ## Further reading
 

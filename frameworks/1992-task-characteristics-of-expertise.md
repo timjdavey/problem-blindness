@@ -58,7 +58,7 @@ Fund managers study firms all day, yet most active funds trail a simple index fu
 |---|---|---|
 | [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md) | Information › Evidence | Experts got good where feedback was quick and clear, like forecasters graded the next day |
 | [Plentiful vs scarce data](../axes/plentiful-vs-scarce-data.md) | Information › Evidence | Skill grew where the same decision came round often in a similar form |
-| [Stationary vs drifting](../axes/stationary-vs-drifting.md) | Environment › Change | Skill grew where the thing judged was stable, not people who keep changing |
+| [Durable vs perishable lessons](../axes/durable-vs-perishable-lessons.md) | Environment › Change | Skill grew where the thing judged was stable, not people who keep changing |
 
 ## Further reading
 

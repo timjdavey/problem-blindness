@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Convergent vs divergent
-description: "Convergent: the good answers sit together, so a blend of two good ones is also good (e.g. a sum, or a phone trading battery life for size). Divergent: the good answers differ in kind, so halfway between two is worse than either (e.g. a funny wedding speech and a moving one)."
+description: "Convergent: the good answers sit together, so a blend of two good ones is also good (e.g. a sum, or the size of a phone). Divergent: the good answers differ in kind, so halfway between two is worse than either (e.g. a funny wedding speech and a moving one)."
 group: performance
 subgroup: goal
 easy_end: Convergent
@@ -47,7 +47,7 @@ This axis asks about the shape of the good answers, not about who wants them. A 
 - [Given vs invented options](given-vs-invented-options.md) (logic). Options you invent rarely line up to one right answer.
 - [Single objective vs trade-offs](single-objective-vs-trade-offs.md) (independent). Both give many good answers, but a trade off between goals gives answers that differ only in degree, and there a blend of two good ones is also good. A car buyer has trade-offs and convergent answers. A best man has one goal and divergent answers. Choosing between two job offers is both, since salary pulls against location and the two jobs differ in kind.
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). When the options differ in kind there is no middle ground to settle on. Two towns that each want the bridge can't have half of it each, so someone has to lose. But a fork with one owner is still a fork. The best man has nobody to argue with and still can't blend the two drafts.
-- [Smooth vs rugged](smooth-vs-rugged.md) (logic). Good answers that differ in kind are separate peaks, and the ground between them is a valley.
+- [Forgiving vs exacting](forgiving-vs-exacting.md) (logic). Good answers that differ in kind are separate peaks, and the ground between them is a valley.
 - [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (logic). It is the same trap on the answer side. Runs that split into groups average to a result none of them produced, and good answers that differ in kind blend into one nobody would choose.
 - [Diversifiable vs single bet](diversifiable-vs-single-bet.md) (logic). Spreading is not blending. You can't blend a funny speech and a moving one, but you can draft both and keep one. A barbell beats the middling option because it spreads across a fork instead of blending it.
 

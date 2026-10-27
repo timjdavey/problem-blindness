@@ -51,7 +51,7 @@ In 2006 Sheena Iyengar, Rachael Wells and Barry Schwartz followed students from 
 | Axis | Group | What this framework adds |
 |---|---|---|
 | [Satisficing vs optimising](../axes/satisficing-vs-optimising.md) | Performance › Goal | Whether good enough is fine or the last bit of quality matters |
-| [Tractable vs intractable search](../axes/tractable-vs-intractable-search.md) | Environment › Structure | Limited attention and computing power make searching for the very best cost more than it is worth |
+| [Tractable vs intractable options](../axes/tractable-vs-intractable-options.md) | Environment › Structure | Limited attention and computing power make searching for the very best cost more than it is worth |
 | [Ample time vs time pressure](../axes/ample-time-vs-time-pressure.md) | Actions › Control | Under time pressure, taking the first plan that works beats comparing options, as fire commanders show |
 
 ## Further reading

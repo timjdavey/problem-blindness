@@ -39,12 +39,14 @@ Has the solver, person or model, met this kind of problem before, or is it new t
 
 ## Correlated with
 
-- [Stationary vs drifting](stationary-vs-drifting.md) (logic). A drifting world keeps serving up cases nobody has seen.
+- [Durable vs perishable lessons](durable-vs-perishable-lessons.md) (logic). A drifting world keeps serving up cases nobody has seen.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). A rare kind of case is one the solver has seldom seen. But the world can hold millions of cases the solver has never met. For an AI model, anything after its training cutoff sits in that gap.
+- [High vs low base rate](high-vs-low-base-rate.md) (logic). A thing that is rare among the cases you check is one the solver seldom meets. A doctor sees a common cold every day but a rare disease once in a career.
 - [Explicit vs tacit know-how](explicit-vs-tacit-know-how.md) (opposite). With no trained pattern to call on, the solver has to reason slowly from an explicit model ([Skill, rule and knowledge-based behaviour](../frameworks/1983-skill-rule-and-knowledge-based-behaviour.md)).
 - [Well vs ill-structured](well-vs-ill-structured.md) and [Reversible vs irreversible](reversible-vs-irreversible.md) (bundled). Simon's [non-programmed decisions](../frameworks/1960-programmed-vs-non-programmed-decisions.md) are new, messy and high stakes all at once.
 - [General vs local knowledge](general-vs-local-knowledge.md) (logic). Local facts are never in the training data, however common the type of problem. An AI model may know everything about stock control and nothing about this shop.
 - [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md) (logic). A bounded skill runs out of new cases, while an open-ended one keeps serving up cases the solver hasn't met. But a famous poem is familiar ground, and reading it well still has no ceiling.
+- [Known vs unknown unknowns](known-vs-unknown-unknowns.md) (logic). Someone who has met a problem many times knows which questions to ask, so a novel problem leaves more gaps unnamed. Experience doesn't close them all, since the experts who tested thalidomide never thought to check for harm to unborn babies.
 
 ## Citations
 

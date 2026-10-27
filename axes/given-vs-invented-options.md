@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Given vs invented options
-description: "Given options: the options are handed to you to pick from (e.g. a mortgage from a bank's list). Invented options: you have to invent the options first (e.g. saving a dying high street)."
+description: "Given options: the options are handed to you to pick from (e.g. a mortgage from a bank's list). Invented options: nobody hands you a list, so you have to come up with the options before you can choose (e.g. saving a dying high street)."
 group: actions
 subgroup: options
 easy_end: Given options
@@ -32,10 +32,10 @@ Are the options handed to you to pick from, or do you have to invent them first?
 
 ## Correlated with
 
-- [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). Search size assumes the options already exist. A design problem can have only three options once someone has thought of them.
+- [Tractable vs intractable options](tractable-vs-intractable-options.md) (independent). Both are about your options. This axis asks whether the list is complete, and Tractable vs intractable options asks whether it is too long to check. A design problem can have only three options once someone has thought of them.
 - [Well vs ill-structured](well-vs-ill-structured.md) (independent). A design brief can be crisp. "Build a bridge across this river for under £10m" is well structured, and every option still has to be drawn.
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). Options you invent tend to differ in kind, since each design starts from a different idea, so you can't blend two good ones.
-- [Small vs large world](small-vs-large-world.md) (bundled). Savage's small world fixes the list of actions along with the list of states ([Small and large worlds](../frameworks/1954-small-and-large-worlds.md)).
+- [Foreseeable vs unforeseeable outcomes](foreseeable-vs-unforeseeable-outcomes.md) (bundled). Savage's small world fixes the list of actions along with the list of states ([Small and large worlds](../frameworks/1954-small-and-large-worlds.md)).
 
 ## Citations
 

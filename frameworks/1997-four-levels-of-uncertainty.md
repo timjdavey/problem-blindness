@@ -20,7 +20,7 @@ sources:
 
 **A strategy faces one of four levels. There may be a clear enough future, a few distinct futures, a range of futures, or true ambiguity.**
 
-1997 · Hugh Courtney, Jane Kirkland and Patrick Viguerie · [Original paper](https://hbr.org/1997/11/strategy-under-uncertainty) · Feeds 1 axis
+1997 · Hugh Courtney, Jane Kirkland and Patrick Viguerie · [Original paper](https://hbr.org/1997/11/strategy-under-uncertainty) · Feeds 2 axes
 
 ## The idea
 
@@ -55,6 +55,7 @@ In the early 1990s nobody could say who would make money from the internet or ho
 | Axis | Group | What this framework adds |
 |---|---|---|
 | [Risk vs Knightian uncertainty](../axes/risk-vs-knightian-uncertainty.md) | Information › Uncertainty | Four grades of how much of the future you can pin down, from one forecast to true ambiguity |
+| [Known vs unknown unknowns](../axes/known-vs-unknown-unknowns.md) | Information › Uncertainty | At level four nobody knows which forces will matter, so the strategy has to hold up whichever ones do |
 
 ## Further reading
 

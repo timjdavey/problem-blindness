@@ -10,10 +10,10 @@
   * **Deterministic**: the same inputs always give exactly the same output (e.g. a sum).
   * **Stochastic**: the same inputs give different results each time, but the rate across many cases is steady (e.g. which boilers break down this winter).
 * [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md)
-  * **Coherent runs**: every run of the system gives the same spread of results, so the pooled average stands for any run (e.g. a die).
+  * **Coherent runs**: run the whole system again and you get the same spread of results, so the pooled average stands for any run (e.g. a thousand dice rolls on Monday look like a thousand on Tuesday).
   * **Incoherent runs**: each run settles somewhere different, so the pooled average describes none of them (e.g. climate model runs that split into warm and cold futures).
 * [Clustered vs scattered runs](clustered-vs-scattered-runs.md)
-  * **Clustered runs**: runs that disagree fall into a few clear groups, so a few clues tell you which one you are in (e.g. snowflakes are plates, columns or stars).
+  * **Clustered runs**: when runs disagree they fall into a few clear types, so a few clues tell you which one you are in (e.g. every snowflake is a plate, a column or a star).
   * **Scattered runs**: runs that disagree spread out with no pattern to latch onto (e.g. where the shards land when a glass breaks).
 * [Thin vs fat tails](thin-vs-fat-tails.md)
   * **Thin tails**: results stay close to the average, so the average tells you a lot (e.g. people's heights).
@@ -24,12 +24,12 @@
 * [Stable vs chaotic](stable-vs-chaotic.md)
   * **Lyapunov stable**: small errors in what you know today stay small, so you can forecast far ahead (e.g. the tides).
   * **Chaotic**: tiny errors grow fast, so a forecast soon becomes useless (e.g. the weather two weeks out).
-* [Stationary vs drifting](stationary-vs-drifting.md)
-  * **Stationary**: the patterns in past data still hold today (e.g. gravity).
-  * **Drifting**: the world keeps shifting, so what you learnt goes stale (e.g. fashion and slang).
-* [Static vs dynamic](static-vs-dynamic.md)
-  * **Static world**: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword).
-  * **Dynamic world**: the world changes while you act, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).
+* [Durable vs perishable lessons](durable-vs-perishable-lessons.md)
+  * **Durable lessons**: the rules behind your past data still hold, so what you learnt keeps working (e.g. gravity).
+  * **Perishable lessons**: the rules behind your past data keep changing, so what you learnt goes stale (e.g. fashion and slang).
+* [Turn-based vs real-time](turn-based-vs-real-time.md)
+  * **Turn-based world**: the world waits while you act, so a plan made at the start holds to the end (e.g. a crossword).
+  * **Real-time world**: the situation keeps moving while you work on it, even if you do nothing, so you have to watch and adjust as you go (e.g. returning a tennis serve).
 
 ## Stimulus
 
@@ -41,30 +41,30 @@
   * **Antifragile**: each stress leaves the system stronger than before, up to a point (e.g. a muscle after a workout).
   * **Robust** (the middle): stress leaves the system the same (e.g. a computer program, which is the same after a billion runs).
   * **Wears out**: each stress uses up some of the system's life, until it fails (e.g. metal fatigue in an aircraft).
-* [Loose vs tight coupling](loose-vs-tight-coupling.md)
-  * **Loose coupling**: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest).
-  * **Tight coupling**: a fault spreads to other parts before anyone can react (e.g. a power grid).
+* [Buffered vs cascading](buffered-vs-cascading.md)
+  * **Buffered system**: when one part fails there is slack and time to step in (e.g. the post, where one late parcel doesn't stop the rest).
+  * **Cascading system**: a fault spreads to other parts before anyone can react (e.g. a power grid).
 
 ## Reactivity
 
 * [Inert vs reflexive](inert-vs-reflexive.md)
   * **Inert**: the system behaves the same whether or not you model it (e.g. a rock).
-  * **Reflexive**: people believe or follow your forecasts and scores, and that changes the outcome, with nobody aiming at you (e.g. a forecast that a bank will fail sets off a run on it).
+  * **Reflexive**: putting out a forecast or score changes the thing it describes, because people act on it, even though nobody is trying to beat you (e.g. a forecast that a bank will fail sets off the run that sinks it).
 * [Neutral vs adversarial](neutral-vs-adversarial.md)
-  * **Neutral**: your mistakes are accidents, because the world doesn't care what you do (e.g. rain doesn't try to beat your umbrella).
-  * **Adversarial**: someone whose goals differ from yours hunts for the cases your rule gets wrong (e.g. fraudsters).
+  * **Neutral**: nobody is looking for the gaps in your rule, so the cases you meet are a fair sample and your errors land where chance puts them (e.g. rain doesn't try to beat your umbrella).
+  * **Adversarial**: someone whose goals differ from yours studies your rule, finds the cases it gets wrong and sends you more of them (e.g. fraudsters probing a bank's fraud checks).
 
 ## Structure
 
-* [Decomposable vs tangled](decomposable-vs-tangled.md)
-  * **Decomposable**: you can solve each part on its own and put them back together (e.g. a car engine).
-  * **Tangled**: each part only makes sense in light of the others (e.g. a company culture).
-* [Smooth vs rugged](smooth-vs-rugged.md)
-  * **Smooth landscape**: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup).
-  * **Rugged landscape**: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code).
-* [Tractable vs intractable search](tractable-vs-intractable-search.md)
-  * **Tractable search**: you know every option and there are few enough to check them all (e.g. noughts and crosses).
-  * **Intractable search**: you know every option, but there are too many for any computer to check (e.g. Go, with about 10¹⁷⁰ legal board positions).
+* [Reductionist vs holistic](reductionist-vs-holistic.md)
+  * **Reductionist problem**: you can solve each part on its own and put them back together (e.g. a car engine).
+  * **Holistic problem**: each part only makes sense in light of the others (e.g. a company culture).
+* [Forgiving vs exacting](forgiving-vs-exacting.md)
+  * **Forgiving landscape**: a small change to the inputs makes a small change to the result, so roughly right is good enough (e.g. seasoning a soup).
+  * **Exacting landscape**: a small change can make a big difference, so an answer that looks almost right can be worth nothing (e.g. one wrong character in code).
+* [Tractable vs intractable options](tractable-vs-intractable-options.md)
+  * **Tractable options**: you know every option, and there are few enough to try each one and keep the best (e.g. noughts and crosses).
+  * **Intractable options**: you know every option, but there are too many to try, even with every computer on earth (e.g. Go, with about 10¹⁷⁰ legal board positions).
 
 # Information
 
@@ -72,13 +72,16 @@
 
 * [Risk vs Knightian uncertainty](risk-vs-knightian-uncertainty.md)
   * **Measurable risk**: you can put a number you trust on each outcome (e.g. a dice roll).
-  * **Knightian uncertainty**: you know things are uncertain but can't say how likely each outcome is (e.g. whether a new technology takes off).
+  * **Knightian uncertainty**: you can say what might happen but can't put a number you trust on how likely each outcome is (e.g. whether a new technology takes off).
 * [Reducible vs irreducible uncertainty](reducible-vs-irreducible-uncertainty.md)
   * **Reducible uncertainty**: the facts that would settle your doubt exist and can be found (e.g. waiting on a blood test).
-  * **Irreducible uncertainty**: no amount of fact finding would settle it (e.g. whether a rival cuts prices next year).
-* [Small vs large world](small-vs-large-world.md)
-  * **Small world**: a fixed procedure generates every way things might turn out, so you can compute or sample the outcomes before you choose, even when there are too many to list (e.g. a lottery ticket).
-  * **Large world**: no procedure generates the outcomes, so you can't sample them and the result could be something nobody thought to list (e.g. a new product hit by a change in the law).
+  * **Irreducible uncertainty**: no test or research could settle it, because the answer isn't out there yet to find (e.g. whether a rival cuts prices next year).
+* [Known vs unknown unknowns](known-vs-unknown-unknowns.md)
+  * **Known unknowns**: you know which facts you're missing, even if you can't get them yet (e.g. waiting on a house survey).
+  * **Unknown unknowns**: some of the facts that matter are ones nobody thought to ask about, so they never make the list (e.g. a neighbour's dog that barks all night).
+* [Foreseeable vs unforeseeable outcomes](foreseeable-vs-unforeseeable-outcomes.md)
+  * **Foreseeable outcomes**: you don't know which outcome will come, but you can list every one that could, however many there are (e.g. a lottery ticket).
+  * **Unforeseeable outcomes**: things can turn out in ways nobody could have listed in advance, so the result could be something nobody thought of (e.g. a new product hit by a change in the law).
 
 ## Evidence
 
@@ -94,9 +97,15 @@
 * [Plentiful vs scarce data](plentiful-vs-scarce-data.md)
   * **Plentiful data**: there are many past cases like this one to learn from (e.g. card fraud).
   * **Scarce data**: there are so few past cases that you have almost nothing to go on (e.g. a nuclear accident).
+* [High vs low base rate](high-vs-low-base-rate.md)
+  * **High base rate**: the thing you're looking for is common among the cases you check, so most yeses are real (e.g. a flu test on patients with flu symptoms in winter).
+  * **Low base rate**: the thing is so rare among the cases you check that even a good test is wrong most times it says yes (e.g. screening everyone for a disease 1 in 10,000 people have).
 * [Verifiable vs unverifiable](verifiable-vs-unverifiable.md)
   * **Verifiable**: you can check an answer quickly and cheaply before you act on it (e.g. a solved sudoku).
   * **Unverifiable**: checking an answer costs about as much as finding it, or more, so in practice you can't check it before you act (e.g. a business strategy).
+* [Rehearsable vs live only](rehearsable-vs-live-only.md)
+  * **Rehearsable**: you can try the task on a copy faithful enough that a dry run tells you how you'll do for real (e.g. a pilot in a flight simulator).
+  * **Live only**: no copy behaves like the real thing, so the first real go is the first go (e.g. a new dish on a restaurant menu).
 * [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md)
   * **Immediate feedback**: you find out soon whether you were right (e.g. throwing darts).
   * **Delayed feedback**: the result arrives years later or never, so you get few chances to learn (e.g. planting an orchard).
@@ -107,7 +116,7 @@
 
 * [Given vs invented options](given-vs-invented-options.md)
   * **Given options**: the options are handed to you to pick from (e.g. a mortgage from a bank's list).
-  * **Invented options**: you have to invent the options first (e.g. saving a dying high street).
+  * **Invented options**: nobody hands you a list, so you have to come up with the options before you can choose (e.g. saving a dying high street).
 * [Diversifiable vs single bet](diversifiable-vs-single-bet.md)
   * **Diversifiable**: you can split your stake across several options at once, so no one choice has to be right (e.g. a pension fund holding many shares).
   * **Single bet**: you can only take one course of action, so everything rides on it (e.g. which job offer to accept).
@@ -133,9 +142,9 @@
 
 * [Well vs ill-structured](well-vs-ill-structured.md)
   * **Well-structured**: the problem is clearly stated, with a known goal, known moves and a clear end (e.g. a maths exam question).
-  * **Ill-structured**: working out what the problem is, or how to attack it, becomes part of the job (e.g. \"fix homelessness\").
+  * **Ill-structured**: working out what the problem is, or how to attack it, becomes part of the job (e.g. "fix homelessness").
 * [Convergent vs divergent](convergent-vs-divergent.md)
-  * **Convergent**: the good answers sit together, so a blend of two good ones is also good (e.g. a sum, or a phone trading battery life for size).
+  * **Convergent**: the good answers sit together, so a blend of two good ones is also good (e.g. a sum, or the size of a phone).
   * **Divergent**: the good answers differ in kind, so halfway between two is worse than either (e.g. a funny wedding speech and a moving one).
 * [Single objective vs trade-offs](single-objective-vs-trade-offs.md)
   * **Single objective**: there is one thing to get right (e.g. the fastest route home).
@@ -148,7 +157,7 @@
   * **Optimising**: each extra bit of quality still pays off, so you need the best you can find (e.g. the dose of a strong drug).
 * [Direct vs proxy measure](direct-vs-proxy-measure.md)
   * **Direct measure**: the thing you measure is everything you want (e.g. sorting letters by postcode).
-  * **Proxy measure**: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. fairness in hiring).
+  * **Proxy measure**: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. a hiring score learnt from past CVs, which says nothing about fairness).
 * [Curable vs chronic](curable-vs-chronic.md)
   * **Curable**: there is a point where the problem is solved and you can stop (e.g. wiping out smallpox).
   * **Chronic**: there is no solved state, only a level you have to keep up (e.g. keeping malaria down).
@@ -158,12 +167,12 @@
 * [Survivable vs ruinous](survivable-vs-ruinous.md)
   * **Survivable**: no single loss can knock you out, so good odds pay off over many tries (e.g. a casino taking many small bets).
   * **Ruinous**: one bad outcome can take you out of the game for good (e.g. Russian roulette).
-* [Additive vs multiplicative returns](additive-vs-multiplicative-returns.md)
-  * **Additive returns**: gains and losses add up, so the average is what you can expect (e.g. betting the same £10 every round).
-  * **Multiplicative returns**: gains and losses compound, so one player over time can do far worse than the average (e.g. betting half your savings every round).
-* [Even vs lopsided mistakes](even-vs-lopsided-mistakes.md)
-  * **Even mistakes**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
-  * **Lopsided mistakes**: one mistake is far worse than the other (e.g. a smoke alarm that stays quiet in a fire).
+* [Flat vs compounding results](flat-vs-compounding-results.md)
+  * **Flat results**: each result is banked and the next round starts from the same place, so the average is what you can expect (e.g. betting the same £10 every round).
+  * **Compounding results**: each result grows or shrinks what you have to work with next time, so one path can end far from the average (e.g. savings, or a scientist's reputation).
+* [Equal vs unequal error costs](equal-vs-unequal-error-costs.md)
+  * **Equal error costs**: a false alarm and a miss cost about the same (e.g. deciding whether to take an umbrella).
+  * **Unequal error costs**: one mistake costs far more than the other, whether it lets in a harm or lets a prize slip (e.g. a smoke alarm that stays quiet in a fire, or an investor who passes on the next Google).
 * [Winnable vs no-win](winnable-vs-no-win.md)
   * **Winnable**: a clean win is possible, so you can come out ahead (e.g. proving a famous theorem).
   * **No-win**: even the best outcome is a loss, so the job is to lose less (e.g. landing a plane with no engines).
@@ -188,8 +197,8 @@
 ## Incentives
 
 * [Skin in the game vs none](skin-in-the-game-vs-none.md)
-  * **Skin in the game**: whoever makes the call bears the cost if it goes wrong (e.g. a shopkeeper pricing their own stock).
-  * **No skin in the game**: the cost lands on someone else (e.g. a broker paid for each loan whether or not it is repaid).
+  * **Skin in the game**: whoever makes the call bears its results, good or bad (e.g. a shopkeeper pricing their own stock).
+  * **No skin in the game**: the results land on someone else, so the decider takes risks they don't pay for or passes up gains they don't share (e.g. a broker paid for each loan whether or not it is repaid).
 * [Private vs accountable](private-vs-accountable.md)
-  * **Private choice**: the choice is yours alone (e.g. picking a film).
+  * **Private choice**: nobody will ask you to explain or defend the choice (e.g. picking a film).
   * **Accountable choice**: you must explain and defend the choice to others (e.g. a bank refusing a loan).

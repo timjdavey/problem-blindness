@@ -23,7 +23,7 @@ sources:
 
 **A two by two grid of what you know about yourself against what others know about you.**
 
-1955 · Joseph Luft and Harrington Ingham · [Key paper](https://archive.org/details/sim_human-relations-training-news_spring-1961_5_1/page/n5/mode/2up) · Feeds 1 axis
+1955 · Joseph Luft and Harrington Ingham · [Key paper](https://archive.org/details/sim_human-relations-training-news_spring-1961_5_1/page/n5/mode/2up) · Feeds 2 axes
 
 ## The idea
 
@@ -58,6 +58,7 @@ Someone promoted to lead a team has no idea how they will cope with their first 
 | Axis | Group | What this framework adds |
 |---|---|---|
 | [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) | Information › Uncertainty | Blind spots and hidden facts are reducible gaps, closed by asking others or making it safe to share |
+| [Known vs unknown unknowns](../axes/known-vs-unknown-unknowns.md) | Information › Uncertainty | A blind spot can only be found by asking others, and the unknown only by trying new things |
 
 ## Further reading
 

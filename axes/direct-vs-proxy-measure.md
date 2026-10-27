@@ -1,7 +1,7 @@
 ---
 type: Axis
 title: Direct vs proxy measure
-description: "Direct measure: the thing you measure is everything you want (e.g. sorting letters by postcode). Proxy measure: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. fairness in hiring)."
+description: "Direct measure: the thing you measure is everything you want (e.g. sorting letters by postcode). Proxy measure: the thing you measure stands in for what you want and leaves out goals that are hard to write down (e.g. a hiring score learnt from past CVs, which says nothing about fairness)."
 group: performance
 subgroup: goal
 easy_end: Direct measure
@@ -43,7 +43,8 @@ Is the thing you measure the thing you want, or only a stand-in for it that leav
 - [Shared vs contested values](shared-vs-contested-values.md) (logic). When people disagree on what a good result is, any one score takes a side and leaves the other wants out.
 - [Private vs accountable](private-vs-accountable.md) (bundled). Doshi-Velez and Kim say people need explanations when part of the goal, like fairness, safety or the law, never made it into the score.
 - [Neutral vs adversarial](neutral-vs-adversarial.md) (study). By [Goodhart's law](../frameworks/1975-goodharts-law.md) people work on whatever the score leaves out. In 1902 Hanoi paid a bounty for each rat tail, so people cut off the tails and let the rats go to breed. [Campbell's law](../frameworks/1976-campbells-law.md) adds that teachers drill the test and drop the parts of the subject it doesn't cover.
-- [Even vs lopsided mistakes](even-vs-lopsided-mistakes.md) (logic). Plain accuracy counts a missed cancer and a false scare as the same mistake.
+- [Equal vs unequal error costs](equal-vs-unequal-error-costs.md) (logic). Plain accuracy counts a missed cancer and a false scare as the same mistake.
+- [High vs low base rate](high-vs-low-base-rate.md) (logic). When the real thing is rare, plain accuracy is a proxy that hides the misses. Saying no to everyone scores well and catches nothing.
 - [Standalone vs sequential](standalone-vs-sequential.md) (logic). Some wants only show up once people see a draft, so a measure that looked direct turns out to be a proxy as you go. Chris Argyris and Donald Schön called it double-loop learning when you question the goal itself as well as how you reach it ([Single vs double-loop learning](../frameworks/1978-single-vs-double-loop-learning.md)).
 - [Skin in the game vs none](skin-in-the-game-vs-none.md) (logic). An agent scored on fees or loans signed has a score that leaves out the owner's loss.
 - [Winnable vs no-win](winnable-vs-no-win.md) (logic). A score measured from zero makes every no-win outcome look like failure. What would have happened anyway has to be part of the score.

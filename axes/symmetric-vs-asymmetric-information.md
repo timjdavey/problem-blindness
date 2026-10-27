@@ -16,7 +16,7 @@ sources:
 
 An axis in the [Evidence](index.md#evidence) set of the [information](index.md#information) group.
 
-Does the other side of the deal see the same facts you do, or do they know more? In chess both players see the whole board. A used car seller knows whether the car is a lemon and the buyer doesn't. George Akerlof showed what follows. Owners of good cars won't sell at an average price, so the cars on offer are worse than average ([Market for lemons](../frameworks/1970-market-for-lemons.md)). The fact that something reaches you is itself evidence about it. This is called adverse selection. Where a problem sits depends on who you are. The same deal is symmetric for the seller and asymmetric for the buyer.
+Does the other side of the deal see the same facts you do, or do they know more? In chess both players see the whole board. A used car seller knows whether the car is a lemon and the buyer doesn't. George Akerlof showed what follows. Owners of good cars won't sell at an average price, so the cars on offer are worse than average ([Market for lemons](../frameworks/1970-market-for-lemons.md)). The fact that something reaches you is itself evidence about it. This is called adverse selection. Where a problem sits depends on who you are. The same deal is symmetric for the seller and asymmetric for the buyer. But the gap still costs the seller of a good car, since the buyer will only pay for an average one. So the last action below is for the side that knows more.
 
 ## Actions
 
@@ -31,6 +31,7 @@ Does the other side of the deal see the same facts you do, or do they know more?
 - Offer choices that sort people. A cheap plan with a high excess draws the low risk customers, so their choice tells you what they know. [1]
 - Make the side that knows more carry the cost of being wrong. Hammurabi's law made a builder pay if a house he built fell, since only he knew where the shortcuts were hidden. [2]
 - Note when a claim comes from someone with a stake in the answer. The writer of a CV or a sales listing chose what to put in it. [1, 2]
+- If you are the side that knows more and your offer is good, pay for proof that is costly to fake. Only a seller who trusts the car can afford a long warranty, and an able job seeker earns a degree with less effort than anyone else. [1]
 
 ## Correlated with
 

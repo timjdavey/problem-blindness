@@ -47,13 +47,14 @@ Once you have an answer, can you check it quickly and cheaply before you act on 
 - [Single objective vs trade-offs](single-objective-vs-trade-offs.md) (logic). With no single score there is no simple check.
 - [Satisficing vs optimising](satisficing-vs-optimising.md) (tension). You can't claim the best answer if you can't check it.
 - [Private vs accountable](private-vs-accountable.md) (tension). You can only defend a choice if someone can check it, so a choice that is hard to verify is hard to account for.
-- [Tractable vs intractable search](tractable-vs-intractable-search.md) (independent). [NP problems](../frameworks/1971-np-problems.md) are the textbook case of hard to find and easy to check.
+- [Tractable vs intractable options](tractable-vs-intractable-options.md) (independent). [NP problems](../frameworks/1971-np-problems.md) are the textbook case of hard to find and easy to check.
 - [Direct vs proxy measure](direct-vs-proxy-measure.md) (independent). A score can be quick to check and still miss what you want. Amazon could test its star ratings for job applicants against past hires, but fairness was never in the score ([Need for interpretability](../frameworks/2017-need-for-interpretability.md)).
 - [Convergent vs divergent](convergent-vs-divergent.md) (logic). One right answer can be checked against a key. Good answers that differ in kind can't share one key, so someone has to judge them.
-- [Smooth vs rugged](smooth-vs-rugged.md) (logic). On smooth ground a quick look tells you if an answer is close to good. On rugged ground looking close proves nothing, so you need a check that tests every detail.
+- [Forgiving vs exacting](forgiving-vs-exacting.md) (logic). On forgiving ground a quick look tells you if an answer is close to good. On exacting ground looking close proves nothing, so you need a check that tests every detail.
 - [Curable vs chronic](curable-vs-chronic.md) (logic). With no end there is no final answer to check, only the level so far.
 - [Bounded vs open-ended skill](bounded-vs-open-ended-skill.md) (logic). Bounded skills tend to come with an answer key, since the whole set is known. An open-ended skill often has no key, so checking an answer takes another expert.
 - [Symmetric vs asymmetric information](symmetric-vs-asymmetric-information.md) (logic). A cheap check closes the gap between what the seller knows and what you know. A mechanic's inspection turns a market for lemons back into a market for cars.
+- [Rehearsable vs live only](rehearsable-vs-live-only.md) (independent). Verifying checks an answer by looking at it, and rehearsing runs it on a copy. A deploy passes every test and still breaks under real load. A chess move can't be checked by inspection, but you can play it out against an engine.
 
 ## Citations
 
