@@ -46,6 +46,7 @@ The question is whether your picture of the world goes stale while you work. A t
 - [Stable vs chaotic](stable-vs-chaotic.md) (independent). A ball in flight follows simple physics and is easy to predict, yet you still have to act before it lands. Poulton's paper was about exactly this, the prediction a skilled movement needs ([Open vs closed skills](../frameworks/1957-open-vs-closed-skills.md)).
 - [Buffered vs cascading](buffered-vs-cascading.md) (logic). In a cascading system a fault spreads faster than you can react, so the world moves on while you are still working out what happened.
 - [Plentiful vs scarce data](plentiful-vs-scarce-data.md) (logic). Gentile split out settings that are still during each attempt but differ from one attempt to the next, like a billiards table. That variety is the "count by kind of case" problem, and it needs varied practice even when the world waits ([Open vs closed skills](../frameworks/1957-open-vs-closed-skills.md)).
+- [Rehearsable vs live only](rehearsable-vs-live-only.md) (independent). Poulton's open and closed skills each need their own kind of practice, which assumes a place to practise ([Open vs closed skills](../frameworks/1957-open-vs-closed-skills.md)). This axis asks whether the world moves while you act, and that one whether a copy of it can be built. A tennis serve moves and can be practised for years. A house price sits still and can't be rehearsed.
 
 ## Citations
 

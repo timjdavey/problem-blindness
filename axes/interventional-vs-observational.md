@@ -55,6 +55,7 @@ Watching is worse still when you only see how your own choices turned out. A hir
 - [Reversible vs irreversible](reversible-vs-irreversible.md) (logic). You can't run a fair test of a one way door, because there is no going back to try the other side.
 - [Inert vs reflexive](inert-vs-reflexive.md) (study). The [Lucas critique](../frameworks/1976-lucas-critique.md) is a warning about answering a question on stepping in with data from watching. The Phillips curve held while nobody leaned on it and broke once policy did.
 - [Diversifiable vs single bet](diversifiable-vs-single-bet.md) (logic). A fair test needs you to do more than one thing at once. With only one economy there is no control group. But a portfolio spreads without testing anything.
+- [Rehearsable vs live only](rehearsable-vs-live-only.md) (independent). A fair test sets the cause for real, and a rehearsal tries it on a copy. A canary deploy is a fair test with no faithful copy, and a weather forecaster can rehearse against past weather without ever setting the cause.
 
 ## Citations
 

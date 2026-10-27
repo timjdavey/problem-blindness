@@ -56,6 +56,7 @@ Have there been enough past cases like this one to learn the pattern from, or so
 - [Coherent vs incoherent runs](coherent-vs-incoherent-runs.md) (logic). Pooling runs that disagree gives a lot of data that describes none of them. A big record only helps if its cases draw from the same spread.
 - [Clustered vs scattered runs](clustered-vs-scattered-runs.md) (logic). With clear groups a few readings can rule a whole group out, so a little data goes a long way ([Cohesion](../frameworks/2023-cohesion.md)).
 - [Turn-based vs real-time](turn-based-vs-real-time.md) (logic). Ann Gentile split out settings that sit still during each attempt but differ from one attempt to the next, like a billiards table. Like varied cases here, they need practice across many setups, not one.
+- [Rehearsable vs live only](rehearsable-vs-live-only.md) (independent). Scarce data is why people build simulators, since a nuclear operator can't wait for accidents. And a team with thousands of past deploys still has no copy of the next one.
 
 ## Citations
 

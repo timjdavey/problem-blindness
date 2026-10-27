@@ -21,7 +21,7 @@ sources:
 
 **Intuition can be trusted only when the setting is regular enough to learn and the expert has had long practice with quick, clear feedback.**
 
-2009 · Daniel Kahneman and Gary Klein · [Original paper](https://doi.org/10.1037/a0016755) · Feeds 3 axes
+2009 · Daniel Kahneman and Gary Klein · [Original paper](https://doi.org/10.1037/a0016755) · Feeds 4 axes
 
 ## The idea
 
@@ -58,6 +58,7 @@ Philip Tetlock tracked thousands of forecasts by hundreds of experts on politics
 | [Explicit vs tacit know-how](../axes/explicit-vs-tacit-know-how.md) | Agent › Know-how | Expert intuition is pattern matching the expert often can't put into words |
 | [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md) | Information › Evidence | Intuition can only be learned through long practice with quick, clear feedback |
 | [Durable vs perishable lessons](../axes/durable-vs-perishable-lessons.md) | Environment › Change | The setting must be regular enough to learn, with real cues that predict what will happen |
+| [Rehearsable vs live only](../axes/rehearsable-vs-live-only.md) | Information › Evidence | A rehearsal can be trusted only where it is regular and gives quick, clear feedback |
 
 ## Further reading
 

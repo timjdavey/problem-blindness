@@ -53,6 +53,7 @@ Even when you can see every part, can you follow how one thing leads to another 
 - [Interventional vs observational](interventional-vs-observational.md) (logic). A fair test is how you find a cause you can't trace. If you can only watch, you have to write down what you think causes what and hope the model is right ([Ladder of causation](../frameworks/2000-ladder-of-causation.md)).
 - [Foreseeable vs unforeseeable outcomes](foreseeable-vs-unforeseeable-outcomes.md) (logic). When you can't follow the chain from cause to effect, you can't list where a change will end up, so a fix brings side effects nobody foresaw ([Unanticipated consequences](../frameworks/1936-unanticipated-consequences.md)).
 - [Known vs unknown unknowns](known-vs-unknown-unknowns.md) (independent). Opaque causes means you can see every part but can't follow the chain. Unknown unknowns means some parts aren't on your list at all. A neural network is opaque with nothing hidden, while a neighbour's barking dog is a simple cause you never thought to look for.
+- [Rehearsable vs live only](rehearsable-vs-live-only.md) (independent). A transparent system is easier to copy, but a traceable codebase still fails in ways only real traffic shows. A trained network, which nobody can trace, can be tried on held-out data before it goes live.
 
 ## Citations
 

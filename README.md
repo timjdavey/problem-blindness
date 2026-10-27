@@ -10,7 +10,7 @@ description: A shared vocabulary for the shape of a problem, built from a centur
 **A shared vocabulary for the shape of problems, so people and AI models
 can tell what kind of expert a task needs.**
 
-[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md) [![Axes](https://img.shields.io/badge/axes-48-blue?style=flat-square)](axes/index.md) [![Frameworks](https://img.shields.io/badge/frameworks-103-blue?style=flat-square)](frameworks/index.md) [![Licence](https://img.shields.io/badge/licence-CC%20BY%204.0-lightgrey?style=flat-square)](LICENCE)
+[![Open Knowledge Format](https://img.shields.io/badge/format-OKF-lightgrey?style=flat-square)](https://okf.md) [![Axes](https://img.shields.io/badge/axes-49-blue?style=flat-square)](axes/index.md) [![Frameworks](https://img.shields.io/badge/frameworks-103-blue?style=flat-square)](frameworks/index.md) [![Licence](https://img.shields.io/badge/licence-CC%20BY%204.0-lightgrey?style=flat-square)](LICENCE)
 
 </div>
 
@@ -80,7 +80,7 @@ LICENCE                      CC BY 4.0, the terms for reusing these pages
 axes/
 ├── README.md                how to read an axis page, what the tags mean and how to tag a task
 ├── index.md                 every axis by group, with both ends in one line
-└── thin-vs-fat-tails.md     one file per axis, 48 in all
+└── thin-vs-fat-tails.md     one file per axis, 49 in all
 frameworks/
 ├── README.md                what the frameworks share and what's on a framework page
 ├── index.md                 every framework by date, oldest first

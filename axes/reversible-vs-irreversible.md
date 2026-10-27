@@ -49,6 +49,7 @@ The same holds for a win. A gain you could undo, someone after you can undo too.
 - [Interventional vs observational](interventional-vs-observational.md) (logic). You can't run a fair test of a one way door, because there is no going back to try the other side.
 - [Diversifiable vs single bet](diversifiable-vs-single-bet.md) (independent). Both are ways to avoid staking everything on one guess. This axis spreads your tries across time, and that one spreads them across options. A venture fund is spread but each cheque is gone once written, and a lunch spot is a single bet you can undo.
 - [Self-righting vs tipping](self-righting-vs-tipping.md) (independent). This axis is about your undo button and that one is about what the system does by itself. Deleting a paragraph in Word is reversible, but the document never puts it back on its own. A felled forest can't be un-felled, yet it grows back.
+- [Rehearsable vs live only](rehearsable-vs-live-only.md) (independent). Rehearsing is trying before you act, and reversing is undoing after. Surgery can't be undone, yet a simulator lets you practise it. A new dish can be dropped from the menu, yet nothing but real diners tells you if it sells.
 
 ## Citations
 

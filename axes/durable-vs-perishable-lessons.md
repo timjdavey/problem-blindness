@@ -26,7 +26,7 @@ An axis in the [Change](index.md#change) set of the [environment](index.md#envir
 
 Do the patterns in your past data still hold, or does the world keep shifting so that what you learnt goes stale? Gravity stays put, so what you learnt about it keeps working. Music tastes, fashion and slang keep moving, so old data goes stale. The cause is in the world, not in you. The rules that produce the data change, and what you learnt from them perishes as a result. Statisticians call such a world non-stationary, and machine learning calls the change concept drift.
 
-The same gap can open between practice and the real task. Robin Hogarth, Tomás Lejarraga and Emre Soyer split learning into the setting where you learn and the setting where you use it. When the two don't match, experience teaches the wrong lesson, and they call that a [wicked learning environment](../frameworks/2001-kind-vs-wicked-learning-environments.md). A pilot trained only in calm weather has learnt in a different world from the one they fly in. Drift opens the same gap over time, so a model trained on last year's data is used in a world that no longer matches it.
+Robin Hogarth, Tomás Lejarraga and Emre Soyer split learning into the setting where you learn and the setting where you use it. When the two don't match, experience teaches the wrong lesson, and they call that a [wicked learning environment](../frameworks/2001-kind-vs-wicked-learning-environments.md). Drift opens that gap over time, so a model trained on last year's data is used in a world that no longer matches it. Whether a practice setting that matches can be built at all is [Rehearsable vs live only](rehearsable-vs-live-only.md).
 
 ## Actions
 
@@ -57,6 +57,7 @@ The same gap can open between practice and the real task. Robin Hogarth, Tomás 
 - [Turn-based vs real-time](turn-based-vs-real-time.md) (independent). Drift makes what you learnt go stale over months. A real-time world makes what you saw go stale within one task. The rules of tennis haven't drifted in decades, yet every rally moves.
 - [Self-righting vs tipping](self-righting-vs-tipping.md) (independent). In drift the rules slowly change. In a tip the rules stay fixed and the state jumps. Slang drifts with no tipping point, and a shallow lake tips while its chemistry stays the same.
 - [Antifragile vs wears out](antifragile-vs-wears-out.md) (independent). Drift happens on its own, while wear and growth are caused by stress. A muscle you stop using shrinks, which looks like drift, but the cause is the missing load.
+- [Rehearsable vs live only](rehearsable-vs-live-only.md) (logic). Both open a gap between where you learn and where you act. Drift opens it over time, as the world moves on from your data. That axis opens it at once, when the copy never matched. A pilot trained only in calm weather learnt in a different world from the one they fly in, however little the weather has drifted.
 
 ## Citations
 

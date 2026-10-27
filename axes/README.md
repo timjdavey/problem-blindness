@@ -60,7 +60,7 @@ Three checks stop the same problem getting tagged two different ways.
 
 ## What changes at the hard end
 
-Near the easy ends a rehearsal tells you how you'll do for real. Robin Hogarth and his co-authors call a setting kind when the place you practise matches the place you play, and wicked when it doesn't ([Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)). Towards the hard ends the two drift apart, so each step below trusts the rehearsal less.
+Near the easy ends a rehearsal tells you how you'll do for real. Robin Hogarth and his co-authors call a setting kind when the place you practise matches the place you play, and wicked when it doesn't ([Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)). Towards the hard ends the two drift apart, so each step below trusts the rehearsal less. Whether a faithful rehearsal can be built at all is an axis of its own, [Rehearsable vs live only](rehearsable-vs-live-only.md). Step 1 is its easy end and step 3 its hard end.
 
 The steps don't cover every axis. Some ask other things, like whose goal counts, which options exist or who pays for a miss. Their pages carry their own moves.
 

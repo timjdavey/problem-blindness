@@ -57,6 +57,7 @@ The worst case is when your own action makes the result you take as proof. Robin
 - [Interventional vs observational](interventional-vs-observational.md) (study). The [Lucas critique](../frameworks/1976-lucas-critique.md) is a warning about answering a question on stepping in with data from watching. The Phillips curve held while nobody leaned on it and broke once policy did.
 - [Yours to fix vs needs others to change](yours-to-fix-vs-needs-others-to-change.md) (logic). Both put other people inside the problem. Once a fix depends on others changing, how they react to it becomes part of the problem.
 - [Curable vs chronic](curable-vs-chronic.md) (logic). When people react to your fix, the fix becomes part of the next problem, so there is no point where you are done.
+- [Rehearsable vs live only](rehearsable-vs-live-only.md) (logic). A crowd that reacts to what you put out can't be copied cheaply, so reflexive problems are mostly live only. A stress test of a bank run is a rehearsal, just an unfaithful one.
 
 ## Citations
 

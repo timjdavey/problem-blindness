@@ -100,6 +100,9 @@
 * [Verifiable vs unverifiable](verifiable-vs-unverifiable.md)
   * **Verifiable**: you can check an answer quickly and cheaply before you act on it (e.g. a solved sudoku).
   * **Unverifiable**: checking an answer costs about as much as finding it, or more, so in practice you can't check it before you act (e.g. a business strategy).
+* [Rehearsable vs live only](rehearsable-vs-live-only.md)
+  * **Rehearsable**: you can try the task on a copy faithful enough that a dry run tells you how you'll do for real (e.g. a pilot in a flight simulator).
+  * **Live only**: no copy behaves like the real thing, so the first real go is the first go (e.g. a new dish on a restaurant menu).
 * [Immediate vs delayed feedback](immediate-vs-delayed-feedback.md)
   * **Immediate feedback**: you find out soon whether you were right (e.g. throwing darts).
   * **Delayed feedback**: the result arrives years later or never, so you get few chances to learn (e.g. planting an orchard).

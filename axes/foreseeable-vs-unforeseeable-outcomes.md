@@ -63,6 +63,7 @@ Leonard Savage called a world where you can list every outcome a small world, an
 - [Thin vs fat tails](thin-vs-fat-tails.md) (logic). The worst outcomes are often the ones nobody listed, which is what Taleb means by a black swan ([Mediocristan vs Extremistan](../frameworks/2007-mediocristan-vs-extremistan.md)).
 - [Given vs invented options](given-vs-invented-options.md) (bundled). Savage's small world fixes the list of actions as well as the list of states. When outcomes are unforeseeable you often have to invent the options too.
 - [Clustered vs scattered runs](clustered-vs-scattered-runs.md) (logic). Clear groups let you list the ways things might turn out. Scattered runs leave outcomes nobody thought to list.
+- [Rehearsable vs live only](rehearsable-vs-live-only.md) (logic). A war game can only hold the outcomes someone built into it, so unforeseeable outcomes are one reason no copy is faithful. But a deploy holds few surprises in what can happen and still has no faithful copy.
 
 ## Citations
 

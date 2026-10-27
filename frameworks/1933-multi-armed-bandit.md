@@ -22,7 +22,7 @@ sources:
 
 **You choose again and again between options with noisy, unknown payoffs. Each choice pays out and also teaches you something.**
 
-1933 (1952) · William R. Thompson and Herbert Robbins · [Original paper](https://doi.org/10.1093/biomet/25.3-4.285) · Feeds 2 axes
+1933 (1952) · William R. Thompson and Herbert Robbins · [Original paper](https://doi.org/10.1093/biomet/25.3-4.285) · Feeds 3 axes
 
 ## The idea
 
@@ -58,6 +58,7 @@ A shop testing two versions of a checkout page can split traffic fifty fifty for
 |---|---|---|
 | [Standalone vs sequential](../axes/standalone-vs-sequential.md) | Actions › Options | You learn and earn from the same choices over and over, so each pull shapes the next |
 | [Interventional vs observational](../axes/interventional-vs-observational.md) | Information › Evidence | You set the cause yourself, and can shift towards the winner while the test still runs |
+| [Rehearsable vs live only](../axes/rehearsable-vs-live-only.md) | Information › Evidence | With no faithful rehearsal, try each option on a small share of real cases and shift towards what works |
 
 ## Further reading
 
