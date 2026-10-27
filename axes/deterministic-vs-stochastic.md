@@ -15,6 +15,8 @@ sources:
     title: Clinical vs statistical prediction
   - resource: /frameworks/1966-clocks-and-clouds.md
     title: Clocks and clouds
+  - resource: /frameworks/1986-funnel-experiment.md
+    title: Funnel experiment
   - resource: /frameworks/1988-outcome-bias.md
     title: Outcome bias
   - resource: /frameworks/1995-task-environment-properties.md
@@ -30,18 +32,21 @@ Do the same inputs always give the same result, or only the same spread of resul
 
 A statistical world grades you with noise. A fund manager can beat the market five years running on luck alone, and each good year feels like proof of skill. Robin Hogarth counts this as one way a [learning environment turns wicked](../frameworks/2001-kind-vs-wicked-learning-environments.md). It gets worse when you only get a few graded tries, since a handful of results can't separate luck from skill.
 
+A number can jump about for two reasons, and they look the same on a chart. The thing itself may vary, like which boiler breaks. Or the thing holds still and your way of reading it adds the jitter, like a blood pressure cuff that gives the same patient two different readings a minute apart. Deming's [funnel experiment](../frameworks/1986-funnel-experiment.md) shows why it matters. Correct for a reading that was only noise and you add your correction to the next reading's noise, so the spread grows.
+
 ## Actions
 
 **Deterministic**: Write the rule down and test it like code.
 - Don't go by feel where you could state the rule. A rule that is right most of the time is a bug. A payroll clerk who works out overtime by eye will get some payslips wrong. [1, 2]
-- Check the rule against cases where you already know the answer, whoever wrote it. The same input should give the same answer every time, so any miss or any variation is a fault to fix. [1, 5]
+- Check the rule against cases where you already know the answer, whoever wrote it. The same input should give the same answer every time, so any miss or any variation is a fault to fix. [1, 6]
 - Predict and plan far ahead. A system that runs like a clock can be forecast precisely, as Halley timed the 1715 eclipse to within about four minutes. [3]
 
 **Stochastic**: Judge the spread, not single cases.
-- Test on many fresh cases, not a few you remember. A few good examples tell you nothing when any one case can go either way, so a head teacher can't judge a reading scheme by the three pupils who shone. [1, 6]
-- Give odds, not certainties, and keep a record of how they turn out. Things you call 70% likely should happen about 70% of the time. [3, 5, 6]
+- Test on many fresh cases, not a few you remember. A few good examples tell you nothing when any one case can go either way, so a head teacher can't judge a reading scheme by the three pupils who shone. [1, 7]
+- Give odds, not certainties, and keep a record of how they turn out. Things you call 70% likely should happen about 70% of the time. [3, 6, 7]
 - Decide as a policy over many cases. Ask what rule gives the best results across the whole group, not what suits this one. In repeated, noisy calls, simple formulas matched or beat expert judgement in nearly every study Meehl gathered. [1, 2]
-- Don't judge a call by one outcome. A poker player can bet right and still lose the hand. Judge the call by what was known when it was made, and the caller by the rate across many calls. [4]
+- Don't judge a call by one outcome. A poker player can bet right and still lose the hand. Judge the call by what was known when it was made, and the caller by the rate across many calls. [5]
+- Don't re-aim after every reading. Deming dropped marbles through a funnel and moved the funnel after each drop to cancel the miss, and the spread roughly doubled. Learn the usual spread first, and act only on a reading that falls outside it or a run that drifts one way. [4]
 
 ## Correlated with
 
@@ -58,8 +63,10 @@ A statistical world grades you with noise. A fund manager can beat the market fi
 
 [3] [Clocks and clouds](../frameworks/1966-clocks-and-clouds.md)
 
-[4] [Outcome bias](../frameworks/1988-outcome-bias.md)
+[4] [Funnel experiment](../frameworks/1986-funnel-experiment.md)
 
-[5] [Task environment properties](../frameworks/1995-task-environment-properties.md)
+[5] [Outcome bias](../frameworks/1988-outcome-bias.md)
 
-[6] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)
+[6] [Task environment properties](../frameworks/1995-task-environment-properties.md)
+
+[7] [Kind vs wicked learning environments](../frameworks/2001-kind-vs-wicked-learning-environments.md)

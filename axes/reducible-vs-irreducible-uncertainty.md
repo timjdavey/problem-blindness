@@ -9,6 +9,8 @@ hard_end: Irreducible uncertainty
 sources:
   - resource: /frameworks/1955-johari-window.md
     title: Johari window
+  - resource: /frameworks/1986-funnel-experiment.md
+    title: Funnel experiment
   - resource: /frameworks/1986-uncertainty-vs-equivocality.md
     title: Uncertainty vs equivocality
   - resource: /frameworks/1989-complex-problem-solving.md
@@ -33,17 +35,18 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 ## Actions
 
 **Reducible uncertainty**: Go and get the data.
-- Ask the questions that narrow things down. A check on what you already know buys little, so a mechanic tests the parts they can't yet rule out. [2]
-- Ask the people who might know before acting. A builder who asks where the pipes run settles what no amount of guessing could. [1, 3]
-- Keep track of what you believe about the hidden facts. Update it as each new clue comes in, like a card player working out who holds the ace as the cards fall. [4]
-- Say what you can't see. A gap you name can be researched or planned round, and one you hide can't. [6]
-- Judge your method on cases with some evidence missing, not only on complete ones. A method tested where everything is in view can look brilliant, then fail on real cases. [4]
+- Ask the questions that narrow things down. A check on what you already know buys little, so a mechanic tests the parts they can't yet rule out. [3]
+- Ask the people who might know before acting. A builder who asks where the pipes run settles what no amount of guessing could. [1, 4]
+- Take several readings before you act on one. A fact that holds still can still reach you through a noisy instrument, and any one reading may sit some way off. Deming's funnel shows that correcting after every reading widens the spread, while pooled readings close in on the fact. [2]
+- Keep track of what you believe about the hidden facts. Update it as each new clue comes in, like a card player working out who holds the ace as the cards fall. [5]
+- Say what you can't see. A gap you name can be researched or planned round, and one you hide can't. [7]
+- Judge your method on cases with some evidence missing, not only on complete ones. A method tested where everything is in view can look brilliant, then fail on real cases. [5]
 
 **Irreducible uncertainty**: Stop paying for more data and hedge instead.
-- Give odds or a range, not a single answer. Where chance plays a part, one answer claims a certainty nobody has. [4]
-- Make the decision cope with either result instead of staking it on one. Where you can, back several options at once, as under [Diversifiable vs single bet](diversifiable-vs-single-bet.md). [6]
-- Check where the doubt comes from. If it hangs on a choice nobody has made yet, no data will settle it, so think about what the people choosing want. [5, 7]
-- Where people read the same facts in different ways, get them in a room to argue it out. Another study only hands each side more proof of its own view. [2]
+- Give odds or a range, not a single answer. Where chance plays a part, one answer claims a certainty nobody has. [5]
+- Make the decision cope with either result instead of staking it on one. Where you can, back several options at once, as under [Diversifiable vs single bet](diversifiable-vs-single-bet.md). [7]
+- Check where the doubt comes from. If it hangs on a choice nobody has made yet, no data will settle it, so think about what the people choosing want. [6, 8]
+- Where people read the same facts in different ways, get them in a room to argue it out. Another study only hands each side more proof of its own view. [3]
 
 ## Correlated with
 
@@ -63,14 +66,16 @@ Three kinds of doubt are irreducible. Some is pure chance, like the next roll of
 
 [1] [Johari window](../frameworks/1955-johari-window.md)
 
-[2] [Uncertainty vs equivocality](../frameworks/1986-uncertainty-vs-equivocality.md)
+[2] [Funnel experiment](../frameworks/1986-funnel-experiment.md)
 
-[3] [Complex problem solving](../frameworks/1989-complex-problem-solving.md)
+[3] [Uncertainty vs equivocality](../frameworks/1986-uncertainty-vs-equivocality.md)
 
-[4] [Task environment properties](../frameworks/1995-task-environment-properties.md)
+[4] [Complex problem solving](../frameworks/1989-complex-problem-solving.md)
 
-[5] [Puzzles vs mysteries](../frameworks/2001-puzzles-vs-mysteries.md)
+[5] [Task environment properties](../frameworks/1995-task-environment-properties.md)
 
-[6] [Known and unknown unknowns](../frameworks/2002-known-and-unknown-unknowns.md)
+[6] [Puzzles vs mysteries](../frameworks/2001-puzzles-vs-mysteries.md)
 
-[7] [Levels of uncertainty](../frameworks/2003-levels-of-uncertainty.md)
+[7] [Known and unknown unknowns](../frameworks/2002-known-and-unknown-unknowns.md)
+
+[8] [Levels of uncertainty](../frameworks/2003-levels-of-uncertainty.md)
