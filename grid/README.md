@@ -30,7 +30,7 @@ Counted from [placements.csv](placements.csv). A cell is filled if any axis sits
 | Grid | Columns | Filled | Empty | Overfull | No home | Straddles | Outside group | Untested leads |
 |---|---|---|---|---|---|---|---|---|
 | Sources of difficulty | 7 | 21 | 14 | 3 | 14 | 2 | 1 | 4 |
-| Which assumption breaks | 7 | 16 | 19 | 2 | 24 | 2 | 0 | 7 |
+| Which assumption breaks | 7 | 16 | 19 | 2 | 24 | 2 | 0 | 6 |
 | Kind vs wicked loop (ditched) | 5 | 16 | 9 | 4 | 20 | 3 | 0 | 2 |
 | Task environment properties (ditched) | 7 | 18 | 17 | 2 | 22 | 1 | 0 | 3 |
 | Second party | 5 | 17 | 8 | 8 | 1 | 2 | 0 | 3 |

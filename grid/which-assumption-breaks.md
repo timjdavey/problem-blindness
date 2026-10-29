@@ -132,7 +132,7 @@ Nineteen of the 35 cells are empty. Most of them name a question an axis already
 | Agent, Same tomorrow? | Steady vs shifting solver | Does the solver stay the same, or change through fatigue, turnover or an update? | Untested |
 | Agent, Does the average mean anything? | Average vs own track record | Does the average solver's career tell you how this one's will go? | Already an axis: [Flat vs compounding results](../axes/flat-vs-compounding-results.md), whose example is a scientist's reputation |
 | Agent, Small cause, small effect? | Graded vs winner-takes-all | Does a small edge in skill bring a small edge in result, or does the best solver take everything? | Untested |
-| Agent, Do the parts add up? | Additive vs weakest-link teamwork | Can solvers each do a piece and add their work, or does the team move at its weakest member's pace? | Untested |
+| Agent, Do the parts add up? | Additive vs weakest-link teamwork | Can solvers each do a piece and add their work, or does the team move at its weakest member's pace? | [Already tested](../log.md#2026-10-29), and folded into [Diversifiable vs single bet](../axes/diversifiable-vs-single-bet.md), since a team that hangs on its weakest member is one bet |
 | Agent, Is halfway good? | Blendable vs pick-one methods | Does a blend of two good solvers' methods also work? | Already an axis: [Convergent vs divergent](../axes/convergent-vs-divergent.md) |
 
 ### Overfull cells
@@ -164,6 +164,6 @@ None. Every axis that found a cell landed in its own row. The columns ask about 
 
 ## Verdict
 
-The grid fails. Only 26 of the 50 axes find a cell, and 24 have no home. The two straddles are fair and only two cells are overfull. But of the 19 empty cells, 11 are questions an axis already asks from another cell, one was already tested and only seven are new leads. The seven assumptions are about the data and the process. So they sort the Environment group and the evidence half of Information well, and say almost nothing about options, goals or the solver.
+The grid fails. Only 26 of the 50 axes find a cell, and 24 have no home. The two straddles are fair and only two cells are overfull. But of the 19 empty cells, 11 are questions an axis already asks from another cell, two were already tested and only six are new leads. The seven assumptions are about the data and the process. So they sort the Environment group and the evidence half of Information well, and say almost nothing about options, goals or the solver.
 
 What it sees that the groups don't is one assumption breaking in several places. Six axes in three groups break ergodicity: Incoherent runs, Fat tails, Single bet, Irreversible, Ruinous and Compounding results. The groups file them under Randomness, Options, Control and Stakes, yet one move serves all six, which is to judge by the one path you live and not by the crowd's average. In the same way, six axes in three groups break i.i.d., from Scattered runs through four kinds of evidence to Novel to the solver. The 24 axes with no home are useful too. They list what the playbook assumes beyond the textbook seven: a fixed menu, a single score with one owner, time to think and a solver who pays for their own mistakes.
