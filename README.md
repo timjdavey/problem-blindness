@@ -86,10 +86,10 @@ frameworks/
 ├── index.md                 every framework by date, oldest first
 └── 1921-risk-vs-uncertainty.md   one file per framework, 103 in all
 grid/
-├── README.md                six grids that test the axis groups, how they scored and which to keep
-├── index.md                 the six grids, kept and ditched
+├── README.md                three grids that test the axis groups, and why three more were ditched
+├── index.md                 the three kept grids
 ├── placements.csv           the cell each grid gave each axis
-└── second-party.md          one file per grid, 6 in all
+└── second-party.md          one file per grid, 3 in all
 ```
 
 ## Contributing

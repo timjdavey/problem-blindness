@@ -1,30 +1,27 @@
 ---
 type: Guide
 title: Testing the groups with grids
-description: Six ways to cross the five axis groups with a second set of questions, so a missing axis shows up as an empty cell, and a scorecard of which ways are worth keeping.
+description: Three grids that cross the five axis groups with a second set of questions, so a missing axis shows up as an empty cell, and how they beat the three we ditched.
 ---
 # Testing the groups with grids
 
-**Six grids that cross the five axis groups with a second set of questions, so a missing axis shows up as an empty cell.**
+**Three grids that cross the five axis groups with a second set of questions, so a missing axis shows up as an empty cell.**
 
 ## Start here
 
 | Grid | The columns ask | Verdict |
 |---|---|---|
-| [Sources of difficulty](sources-of-difficulty.md) | What makes it hard: does it vary, move, interact, hold others, hide, sprawl or resist undoing? | **Keep.** It finds what Task environment properties finds with fewer axes left over |
+| [Sources of difficulty](sources-of-difficulty.md) | What makes it hard: does it vary, move, interact, hold others, hide, sprawl or resist undoing? | **Keep.** It finds what the ditched Task environment properties grid found, with fewer axes left over |
 | [Which assumption breaks](which-assumption-breaks.md) | Which textbook assumption fails: i.i.d., stationarity, ergodicity, linearity, separability, observer independence or convexity? | **Keep** as a gap finder. Most leads and the least overlap, but half the axes have no home |
 | [Second party](second-party.md) | Who is on the other side: nobody, nature, allies, rivals or your future self? | **Keep.** Places 49 of 50 and is the only grid that sorts by who causes the trouble |
-| [Kind vs wicked loop](kind-vs-wicked-loop.md) | Which link in learning from experience breaks? | **Ditch.** Blind to goals and stakes, and its leads turn up elsewhere |
-| [Task environment properties](task-environment-properties.md) | Which of Russell and Norvig's seven properties breaks? | **Ditch.** Circular with the rows and repeats Sources of difficulty |
-| [Solving loop stage](solving-loop-stage.md) | At which stage of sense, model, decide, act and learn does it bite? | **Ditch.** Two columns take two thirds of the axes |
 
-The shared row axis means every grid can be read against [placements.csv](placements.csv), which holds the cell each grid gave each axis.
+The shared row axis means every grid can be read against [placements.csv](placements.csv), which holds the cell each grid gave each axis. It keeps the columns of the three [ditched grids](#ditched-grids) too, since the tables below are counted from all six.
 
 ## What is this?
 
 The axes sit in five groups, and each group splits into sets named after the axes already in it. So a missing axis has no empty slot to show up in. A grid fixes that by crossing the five groups with a second list of questions, written down before any axis is placed. An empty cell is then a question nobody has asked yet.
 
-We built six grids, each with its columns taken from a different idea. Two grids that leave the same cells empty are measuring the same thing, so one can go. A grid that leaves an axis with no home, or crams many axes into one cell, fails as a test.
+We built six grids, each with its columns taken from a different idea, and kept three. Two grids that leave the same cells empty are measuring the same thing, so one can go. A grid that leaves an axis with no home, or crams many axes into one cell, fails as a test.
 
 ## How the grids scored
 
@@ -34,10 +31,10 @@ Counted from [placements.csv](placements.csv). A cell is filled if any axis sits
 |---|---|---|---|---|---|---|---|---|
 | Sources of difficulty | 7 | 21 | 14 | 3 | 14 | 2 | 1 | 4 |
 | Which assumption breaks | 7 | 16 | 19 | 2 | 24 | 2 | 0 | 7 |
-| Kind vs wicked loop | 5 | 16 | 9 | 4 | 20 | 3 | 0 | 2 |
-| Task environment properties | 7 | 18 | 17 | 2 | 22 | 1 | 0 | 3 |
+| Kind vs wicked loop (ditched) | 5 | 16 | 9 | 4 | 20 | 3 | 0 | 2 |
+| Task environment properties (ditched) | 7 | 18 | 17 | 2 | 22 | 1 | 0 | 3 |
 | Second party | 5 | 17 | 8 | 8 | 1 | 2 | 0 | 3 |
-| Solving loop stage | 5 | 18 | 7 | 7 | 2 | 3 | 0 | 2 |
+| Solving loop stage (ditched) | 5 | 18 | 7 | 7 | 2 | 3 | 0 | 2 |
 
 No grid passes. Each fails one of two ways, and the two trade against each other.
 
@@ -52,18 +49,18 @@ Each empty cell was turned into a candidate axis. These are the candidates that 
 
 | Candidate | Grids that flag it | Status |
 |---|---|---|
-| Consistent vs noisy judgement. Does the same solver give the same answer to the same case? | Sources of difficulty, Task environment properties, Second party | Untested |
-| Clean vs shaky execution. Does the move you pick come off as you meant it? | Sources of difficulty, Task environment properties, Solving loop stage | Untested, close to [Deterministic vs stochastic](../axes/deterministic-vs-stochastic.md) and [Forgiving vs exacting](../axes/forgiving-vs-exacting.md) |
-| Steady vs drifting solver. Does the solver change over the task, through fatigue, turnover, forgetting or an update? | Sources of difficulty, Which assumption breaks, Solving loop stage | Untested |
-| Solo vs coordinated. Does the result hang on several people's moves fitting together? | Second party, Which assumption breaks, Task environment properties, Sources of difficulty | Split. Two grids call it untested and two say [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md) or [Reductionist vs holistic](../axes/reductionist-vs-holistic.md) already asks it |
+| Consistent vs noisy judgement. Does the same solver give the same answer to the same case? | Sources of difficulty, Task environment properties (ditched), Second party | Untested |
+| Clean vs shaky execution. Does the move you pick come off as you meant it? | Sources of difficulty, Task environment properties (ditched), Solving loop stage (ditched) | Untested, close to [Deterministic vs stochastic](../axes/deterministic-vs-stochastic.md) and [Forgiving vs exacting](../axes/forgiving-vs-exacting.md) |
+| Steady vs drifting solver. Does the solver change over the task, through fatigue, turnover, forgetting or an update? | Sources of difficulty, Which assumption breaks, Solving loop stage (ditched) | Untested |
+| Solo vs coordinated. Does the result hang on several people's moves fitting together? | Second party, Which assumption breaks, Task environment properties (ditched), Sources of difficulty | Split. Two grids call it untested and two say [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md) or [Reductionist vs holistic](../axes/reductionist-vs-holistic.md) already asks it |
 | Absolute vs relative standard. Is good a fixed bar, or beating what rivals manage? | Second party, Which assumption breaks | Untested, close to [Flat vs compounding results](../axes/flat-vs-compounding-results.md) |
-| Divisible vs all-or-nothing moves. Can you do part of a move for part of the gain? | Which assumption breaks, Task environment properties | Split. One grid calls it untested and one says [Diversifiable vs single bet](../axes/diversifiable-vs-single-bet.md) already asks it |
-| Fixed vs moving goal | Which assumption breaks, Kind vs wicked loop, Task environment properties, Solving loop stage | [Already tested](../CONTRIBUTING.md#is-it-a-new-axis) |
-| Clean vs noisy readings, including noisy grading and lucky results | Sources of difficulty, Task environment properties | [Already tested](../log.md#2026-10-27) |
-| Can you see what your move did? | Sources of difficulty, Kind vs wicked loop, Task environment properties, Solving loop stage | Already an axis, [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md) |
-| Fresh vs stale facts | Sources of difficulty, Which assumption breaks, Task environment properties | Already an axis, [Turn-based vs real-time](../axes/turn-based-vs-real-time.md) or [Durable vs perishable lessons](../axes/durable-vs-perishable-lessons.md) |
-| Can you see the state? | Sources of difficulty, Task environment properties | Already an axis, [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) |
-| Does the score still mean the same once people aim at it? | Which assumption breaks, Kind vs wicked loop | Already an axis, [Direct vs proxy measure](../axes/direct-vs-proxy-measure.md) |
+| Divisible vs all-or-nothing moves. Can you do part of a move for part of the gain? | Which assumption breaks, Task environment properties (ditched) | Split. One grid calls it untested and one says [Diversifiable vs single bet](../axes/diversifiable-vs-single-bet.md) already asks it |
+| Fixed vs moving goal | Which assumption breaks, Kind vs wicked loop (ditched), Task environment properties (ditched), Solving loop stage (ditched) | [Already tested](../CONTRIBUTING.md#is-it-a-new-axis) |
+| Clean vs noisy readings, including noisy grading and lucky results | Sources of difficulty, Task environment properties (ditched) | [Already tested](../log.md#2026-10-27) |
+| Can you see what your move did? | Sources of difficulty, Kind vs wicked loop (ditched), Task environment properties (ditched), Solving loop stage (ditched) | Already an axis, [Immediate vs delayed feedback](../axes/immediate-vs-delayed-feedback.md) |
+| Fresh vs stale facts | Sources of difficulty, Which assumption breaks, Task environment properties (ditched) | Already an axis, [Turn-based vs real-time](../axes/turn-based-vs-real-time.md) or [Durable vs perishable lessons](../axes/durable-vs-perishable-lessons.md) |
+| Can you see the state? | Sources of difficulty, Task environment properties (ditched) | Already an axis, [Reducible vs irreducible uncertainty](../axes/reducible-vs-irreducible-uncertainty.md) |
+| Does the score still mean the same once people aim at it? | Which assumption breaks, Kind vs wicked loop (ditched) | Already an axis, [Direct vs proxy measure](../axes/direct-vs-proxy-measure.md) |
 
 Many empty cells point at ideas the log has already tested, and Fixed vs moving goal came up four times. So a cell can ask a real question and still not need a new axis.
 
@@ -79,10 +76,10 @@ For each pair of grids, this is the share of axis pairs that sit in one cell tog
 |---|---|---|---|---|---|---|
 | Sources of difficulty | | 0.10 | 0.20 | 0.20 | 0.16 | 0.10 |
 | Which assumption breaks | 0.10 | | 0.16 | 0.10 | 0.06 | 0.05 |
-| Kind vs wicked loop | 0.20 | 0.16 | | 0.15 | 0.19 | 0.14 |
-| Task environment properties | 0.20 | 0.10 | 0.15 | | 0.10 | 0.12 |
+| Kind vs wicked loop (ditched) | 0.20 | 0.16 | | 0.15 | 0.19 | 0.14 |
+| Task environment properties (ditched) | 0.20 | 0.10 | 0.15 | | 0.10 | 0.12 |
 | Second party | 0.16 | 0.06 | 0.19 | 0.10 | | 0.28 |
-| Solving loop stage | 0.10 | 0.05 | 0.14 | 0.12 | 0.28 | |
+| Solving loop stage (ditched) | 0.10 | 0.05 | 0.14 | 0.12 | 0.28 | |
 
 Every pair is low, so the six column sets cut the axes in different ways. The highest pair, Second party and Solving loop stage, is high because both put many axes in a few big cells, not because they ask the same thing. Which assumption breaks overlaps least with every other grid.
 
@@ -98,7 +95,17 @@ No grid is fit to replace the sets. The kept grids are tools for finding gaps, a
 4. **Solo vs coordinated.** Four grids touched it, but they split on whether an axis already asks it. Test it against [Yours to fix vs needs others to change](../axes/yours-to-fix-vs-needs-others-to-change.md).
 5. **Absolute vs relative standard.** Two grids found it. Test it against [Flat vs compounding results](../axes/flat-vs-compounding-results.md).
 
-Leads only one grid found are on each grid's page, under What it shows.
+Leads only one kept grid found are on its page, under What it shows. The ditched grids' best finds are below.
+
+## Ditched grids
+
+| Grid | The columns asked | Why it went | Worth keeping |
+|---|---|---|---|
+| Kind vs wicked loop | Which link in learning from experience breaks? | Blind to goals and stakes. Twenty axes had no home, eight of them Performance axes, since the loop takes the goal as given | Two untested leads. Calibrated vs uncalibrated solver asks whether the solver can tell when its own judgement is right, from Kahneman and Klein. Portable vs context-bound moves asks whether a move that worked elsewhere works here, as California's copy of Tennessee's small classes did not |
+| Task environment properties | Which of Russell and Norvig's seven properties breaks? | Circular with the rows, since the Environment row was partly built from the same book. It also repeats Sources of difficulty, sharing seven candidates, with 22 axes left over | The book rates chaos as deterministic, so it would call the weather two weeks out an easy world. One untested lead, Smooth vs stepped states, which asks whether the world can change by small amounts or only jump, and may fold into [Forgiving vs exacting](../axes/forgiving-vs-exacting.md) |
+| Solving loop stage | At which stage of sense, model, decide, act and learn does it bite? | Two columns take two thirds of the axes. Modelling and Deciding held 33 of the 48 it placed | One untested lead, Steady vs slip-prone execution, which asks whether the task needs long runs of exact steps, so a slip is likely somewhere. And Performance collapses into Deciding, with 9 of its 11 axes there, so that column repeats the row |
+
+The full pages are in commit b5d866d.
 
 ## How an axis is placed
 

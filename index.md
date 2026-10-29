@@ -21,5 +21,5 @@ okf_version: "0.2"
 
 # Grids
 
-* [Grids](grid/) - Six ways to cross the five axis groups with a second set of questions, so a missing axis shows up as an empty cell.
-* [Testing the groups with grids](grid/README.md) - How the six grids scored, which gaps more than one of them found and which grids to keep.
+* [Grids](grid/) - The three kept grids that cross the five axis groups with a second set of questions, so a missing axis shows up as an empty cell.
+* [Testing the groups with grids](grid/README.md) - How the six grids scored, which gaps more than one of them found and why three were ditched.

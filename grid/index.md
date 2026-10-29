@@ -1,6 +1,6 @@
 # Grids for testing the axis groups
 
-* [Testing the groups with grids](README.md): why the grids exist, the placing rules, how the six scored, which gaps more than one found and which grids to keep.
+* [Testing the groups with grids](README.md): why the grids exist, the placing rules, how all six scored, which gaps more than one found and why three were ditched.
 * [placements.csv](placements.csv): the cell each grid gave each of the 50 axes.
 
 # Kept
@@ -11,6 +11,4 @@
 
 # Ditched
 
-* [Kind vs wicked loop](kind-vs-wicked-loop.md): which link in learning from experience breaks? Blind to goals and stakes.
-* [Task environment properties](task-environment-properties.md): which of Russell and Norvig's seven properties breaks? Repeats Sources of difficulty.
-* [Solving loop stage](solving-loop-stage.md): at which stage of sense, model, decide, act and learn does it bite? Two columns take two thirds of the axes.
+* [Ditched grids](README.md#ditched-grids): Kind vs wicked loop, Task environment properties and Solving loop stage, why each went and what each found worth keeping.
