@@ -1,5 +1,9 @@
 # Update Log
 
+## 2026-11-03
+
+* **Update**: Renamed the project from Problem Blindness to The Shape of a Problem, and the repo to `problem-shape`. "Blindness" read as a slight on the experts it describes, who are doing their best with the tools they have. The term stays in the [motivation](/MOTIVATION.md#problem-blindness), where it names what happened to the cardiologists. The [README](/README.md) now says the axes might also help map the spiky frontier of AI performance, and the licence credit points at the new repo.
+
 ## 2026-10-29
 
 * **Creation**: Added the [Weakest link and best shot](/frameworks/1983-weakest-link-and-best-shot.md) framework, from Hirshleifer's 1983 paper on the island of Anarchia, whose sea wall floods at its lowest stretch, with Harrison and Hirshleifer's 1989 lab test, Kremer's O-ring theory and Amdahl's law as later sources. We tested Additive vs weakest-link as a new axis, from the empty Agent, Do the parts add up? cell in [Which assumption breaks](/grid/which-assumption-breaks.md). It failed the first [new axis test](/CONTRIBUTING.md#is-it-a-new-axis). Once a whole rides on its weakest part, every other part hangs on that one, so however many parts it has, it is one bet in disguise, the hard end of [Diversifiable vs single bet](/axes/diversifiable-vs-single-bet.md). That is the point Markowitz makes about bets that fail together. The axis now says so and gains two actions: find the part the whole hangs on and spend there, and when one success is enough, back the attempts on purpose, since left alone most people wait for someone else to try. The grid page and its scorecard now count six untested leads, not seven. The [README](/README.md) now counts 104 frameworks.
