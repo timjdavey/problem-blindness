@@ -1,7 +1,7 @@
 ---
 okf_version: "0.2"
 ---
-# Problem Blindness
+# The Shape of a Problem
 
 * [Overview](README.md) - What the project is and how to reference and tag the axes.
 * [Contributing](CONTRIBUTING.md) - How to add an axis or framework, the tests a new axis must pass, naming rules, how to write and cite actions, which pages to update together and how to rename a page without breaking links.

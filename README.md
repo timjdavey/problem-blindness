@@ -1,11 +1,11 @@
 ---
 type: Overview
-title: Problem Blindness
+title: The Shape of a Problem
 description: A shared vocabulary for the shape of a problem, built from a century of frameworks, so people and AI models can tell what kind of expert a task needs.
 ---
 <div align="center">
 
-# Problem Blindness
+# The Shape of a Problem
 
 **A shared vocabulary for the shape of problems, so people and AI models
 can tell what kind of expert a task needs.**
@@ -21,6 +21,8 @@ can tell what kind of expert a task needs.**
 [We've seen](MOTIVATION.md) experts and AI models tend to get good at one kind of problem then bring those tools to all problems they encounter. There's no one right method for every problem ([no free lunch](frameworks/1997-no-free-lunch.md)), so the first job is for us to break down what ways problems can differ. Then we can start to map what works for what problems. Economists, planners, psychologists and computer scientists have all come up with various frameworks for spotting differences based on their industry. But each in their own words and with no map.
 
 This repo is an attempt to tease out the traits which underpin those frameworks. So we can build a joint consistent vocabulary.
+
+The hope is that it might also help map the spiky frontier of AI performance. We know agents are exceptionally good at some tasks and poor at others, but predicting which still seems like a dark art. If we can describe the shape of a problem, we can start to see which spikes it lines up with.
 
 ## A quick taste
 
@@ -72,7 +74,7 @@ Deciding whether to     delayed-feedback, unverifiable, explicit-know-how
 
 ```text
 README.md                    this page
-MOTIVATION.md                why the project exists, we call it "problem blindness"
+MOTIVATION.md                why the project exists, and what we mean by "problem blindness"
 CONTRIBUTING.md              how to add, name and rename pages
 index.md                     the Open Knowledge Format index of the whole project
 log.md                       big changes, newest first
@@ -104,4 +106,4 @@ We tried to benchmark out axis on the full set on METR's 23 public tasks. We fou
 
 ## Licence
 
-The writing in this repo is under [CC BY 4.0](LICENCE). You can copy, adapt and build on it for any purpose, including commercial work and training models, as long as you credit [Problem Blindness by Tim Davey](https://github.com/timjdavey/problem-blindness). You don't need to credit anyone just to tag a task with the end labels. Quotes and the works we link to keep their owners' terms.
+The writing in this repo is under [CC BY 4.0](LICENCE). You can copy, adapt and build on it for any purpose, including commercial work and training models, as long as you credit [The Shape of a Problem by Tim Davey](https://github.com/timjdavey/problem-shape). You don't need to credit anyone just to tag a task with the end labels. Quotes and the works we link to keep their owners' terms.
